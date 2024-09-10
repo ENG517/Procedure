@@ -10,6 +10,10 @@ Write a short analysis (~500 words) in which you explain what you did to meet th
 
 
 
+## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
+
+
+
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 
 
