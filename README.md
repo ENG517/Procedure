@@ -38,7 +38,7 @@ In the example above, you will need to revise the **values** for the element's *
 
 - `src=""`: Synonomous with parantheses `[](assets/path/to/image.jpg)`
 - `alt=""`: Synonomous with square brackets `[Alt text here]()`
-- `style=""`: Write CSS styles for this attribute. Here, we only need to change the width value, and your browser will keep the aspect ratio of the image.
+- `style="width: 300px"`: Write CSS styles for this attribute. Here, we only need to change the width value, and your browser will keep the aspect ratio of the image.
 
 
 <!-- IGNORE: CUSTOM CSS STYLES -->
