@@ -11,7 +11,7 @@ A H-1B is a type of visa that aims to enable foreign nationals who have speciali
 
 By the end of this guide you should possess the knowledge to produce an exceptional first draft for a H-1B petition. By following the core concepts of these steps, your reviewing attorney should have a quick turn around between revising your draft and filing the petition on their own. 
 
-**NOTE**: The H-1B visa is a temporary visa, the client will only be allowed to stay on this visa status for a maximum of **six** years.
+**NOTE**: The H-1B visa is a temporary, non-immigrant visa, the client will only be allowed to stay on this visa status for a maximum of **six** years.
 
 **Assumed Knowledge:** 
 * Brief knowledge of the [USCIS](https://www.uscis.gov/) website
@@ -65,10 +65,18 @@ This cover letter should act as an outline for your petition.
 
 ![USCIS Cover Letter Example](assets/images/screenshots/uscis-cov-let.jpg)
 
-**NOTE**: This is a initial template to use, your needs may require editing to this template accordingly
+**NOTE**: This is a initial template to use, your needs may require editing this template accordingly
 
 #### **Organizing the Petition**
+The final step in this procedure is organizing the petition for your reviewing attorney.
+1. Organize your compiled documents and exhibits into the order that your USCIS cover letter mandates
+   * (i.e.  **A Exhibit**: Passport and Prior I-94, EAD's, H-1B Approval Notices)
+   2. Place your Support Letter on top of the compiled exhibits
+   3. Place your USCIS Cover Letter on top of the Support Letter
+   4. Review for any spelling, grammatical, or regulatory errors
+   5. Deliver draft to reviewing attorney 
 
+**NOTE**: This guide hopefully has provided you with a foundational basis for your future H-1B petitions. Please know that your petition work as a legal assistant should always be reviewed by a practitioner of law who has passed the BAR exam in your state.  
 
 
 
