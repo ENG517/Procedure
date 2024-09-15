@@ -2,9 +2,11 @@
 
 A pavlova is a meringue presented as a cake, and comprised of just five common ingredients. It looks a lot fancier than it is. Feel free to get creative!
 
-![alt text]("C:\Users\malyou\Downloads\Pavlova first.jpg")
+![alt text](image.png)
 
 A meringue may seem intimidating but it is just a combination of egg whites and sugar that has a lot of air whipped into it, making it expand in size.
+
+![alt text](https://th.bing.com/th/id/OIP.N2XzgccmPUrv_pCl7kMnsAHaHa?rs=1&pid=ImgDetMain)
 
 ## Ingredients
 - 1 cup of white sugar
@@ -19,7 +21,13 @@ A meringue may seem intimidating but it is just a combination of egg whites and 
 2. Line a baking sheet with parchment paper, set aside.
 3. In a bowl separate the whites and yolks of 4 eggs, set the yolks aside for a different recipe. 
 4. Whip the egg whites with a handheld mixture or in a standing mixer. After about five minutes the egg whites should reach a soft peak stage. [^3]
+
+![alt text](https://th.bing.com/th/id/OIP.EdkvWzf-_2iPSOtPbjmHJAHaJQ?rs=1&pid=ImgDetMain)
+
 5. Slowly pour in the sugar as the whipping continues. Once the sugar is added, turn the mixer speed up to high and keep whipping until stiff peaks form, this can take between 2-5 minutes.
+
+![alt text](https://www.bhg.com/thmb/vddLxjch1TnTpSjbB3QioHfrRtE=/3000x0/filters:no_upscale():strip_icc()/recipes-how-to-bake-how-to-beat-egg-whites-to-stiff-peaks-10-b8b325057fef4f85aa98e3c1b33c249b.jpg)
+
 6. Add in the vanilla extract. Whip for one more minute. 
 7. Finally, add in the cream of tartar and cornstarch. [^4]
 8. Spread the Pavlova out onto the pan, you can get creative with the shaping and sizing. But the one consistent detail is a dip in the center and relatively tall edges.
