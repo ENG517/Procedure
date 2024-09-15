@@ -2,6 +2,8 @@
 
 A pavlova is a meringue presented as a cake, and comprised of just five common ingredients. It looks a lot fancier than it is. Feel free to get creative!
 
+![alt text]("C:\Users\malyou\Downloads\Pavlova first.jpg")
+
 A meringue may seem intimidating but it is just a combination of egg whites and sugar that has a lot of air whipped into it, making it expand in size.
 
 ## Ingredients
@@ -25,6 +27,8 @@ A meringue may seem intimidating but it is just a combination of egg whites and 
 10. The pavlova will stay in the oven as it cools down to 200°F (93°C). Bake until the pavlova is firm and dry, about 90 minutes total. Turn the oven off and let the pavlova cool inside the oven. 
 
 Keep an eye on it from time to time, and rotate the pan if there is any excessive cracking or toasted spots. This is for aesthetic purposes only, a little crisp or cracking won’t affect the taste.
+
+![alt text]("C:\Users\malyou\Downloads\Pavlova-Recipe-2-of-2.jpg")
 
 A pavlova is traditionally topped with fresh fruit, but you can top it with whatever you like, including but not limited to:
 - Fruit Jam
