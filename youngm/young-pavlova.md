@@ -36,8 +36,6 @@ A meringue may seem intimidating but it is just a combination of egg whites and 
 
 Keep an eye on it from time to time, and rotate the pan if there is any excessive cracking or toasted spots. This is for aesthetic purposes only, a little crisp or cracking won’t affect the taste.
 
-![alt text]("C:\Users\malyou\Downloads\Pavlova-Recipe-2-of-2.jpg")
-
 A pavlova is traditionally topped with fresh fruit, but you can top it with whatever you like, including but not limited to:
 - Fruit Jam
 - Whipped Cream
