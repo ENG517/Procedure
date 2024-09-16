@@ -2,4 +2,4 @@
 
 **Scenario**: Paste the scenario text here.
 
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+Refer also to my [Task Analysis](zitos/assests/docs/zito-task-analysis.pdf)
