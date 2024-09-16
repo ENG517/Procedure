@@ -4,7 +4,7 @@ Use the content and structure to write the content for your branch's pull reques
 
 ## Enter PR Title Here
 
-Completed Work
+**Completed Work**
 
 - Created new procedure: `p-filename-here.md`
 - Procedure's Goal: State goal of the procedure here.
