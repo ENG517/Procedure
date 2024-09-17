@@ -4,6 +4,7 @@ Microsoft Teams a workspace for real-time collaboration and communication, meeti
 
 **Prerequisites**
 Microsoft Teams login (account)
+
 **Note:** You may do this in the online version, the app version on your desktop or on a mobile device. For this process it is recommended that you use your desktop. 
 
 ## Process Steps
@@ -12,7 +13,7 @@ Microsoft Teams login (account)
 2. Open an existing meeting link or create a Teams meeting 
 
 **Note:** To create a Teams meeting to test this process:
-a. Open your Microsoft Outlook Calendar and select New meeting.
+Open your Microsoft Outlook Calendar and select New meeting.
 
 3. Once the meeting is active, find the button located at the right hand side of the screen that shows a square with an upward facing arrow. 
    
