@@ -8,15 +8,20 @@ Microsoft Teams login (account)
 
 ## Process Steps
 1. Log into Microsoft Teams 
+   
 2. Open an existing meeting link or create a Teams meeting 
 
 **Note:** To create a Teams meeting to test this process:
 a. Open your Microsoft Outlook Calendar and select New meeting.
 
 3. Once the meeting is active, find the button located at the right hand side of the screen that shows a square with an upward facing arrow. 
-4. Click the button
-5. Click on share whole screen option
+   
+4. Click the button.
+   
+5. Click on share whole screen option.
+   
 6. You should see a red outline around your screen indicating you are sharing with those on the Teams meeting. 
+   
 7. Use the Stop Sharing red button in the tools to stop sharing your screen.
 
 **Note:** You can also share sound from your computer while sharing your screen. To share sound:
