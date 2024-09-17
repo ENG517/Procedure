@@ -15,7 +15,6 @@ Microsoft Teams login (account)
 
 **Note:** To create a Teams meeting to test this process:
 Open your Microsoft Outlook Calendar and select New meeting.
-![alt text](morrisb/assets/images/TeamsOutlookcalendar.png)
 
 3. Once the meeting is active, find the button located at the right hand side of the screen that shows a square with an upward facing arrow. 
    
