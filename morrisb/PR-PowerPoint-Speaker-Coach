@@ -2,21 +2,30 @@
 
 Use the content and structure to write the content for your branch's pull request.
 
-## Enter PR Title Here
+## Using PowerPoint Speaker Coach 
 
 **Completed Work**
+- Created a new procedure: Using the PowerPoint Speaker Coach tool 
+- Morris-PowerPoint-Speaker-Coach.md
+- Procedure's Goal: Successfully use Rehearsal Coach tool in Microsoft PowerPoint. 
 
-- Created new procedure: `p-filename-here.md`
-- Procedure's Goal: State goal of the procedure here.
+IT Trainers conduct training classes during the year. It is a goal of the department to offer quality content and classes that aid employees in their job tasks. 
 
-## User Scenario
+With presentation skills, there is always room for continuous improvement. 
 
-Provide user scenario here.
+IT Trainers want employees to continue to sign up for future courses and be looked at as a leader and supporter of technology. Reputation is important for the IT department.
+
+
+### User Scenario
+
+This is a tool that can help support presentation skills growth. 
+
+IT Training employees conduct classes and those trainers need to practice to better their presentation skills and be more audience oriented. They have to make sure they are time efficient and speak to an audience who are at different levels of technology skills. 
+
+The Rehearsal Coach is an online tool that can offer feedback when used during a practice session. This tool can help the speaker adjust their vocabulary and improve their delivery. 
 
 ## Notable Review Requests
+Is the audience clear? This is important on the level this procedure is written. 
 
-Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
-
-- List out some particular questions and concerns that you would like your peers to review.
-- After you publish this PR, you can also use links within the Github web interface to direct reviewers' attention to specific areas. (See the video for guidance there.)
+Are the Notes helpful? 
 
