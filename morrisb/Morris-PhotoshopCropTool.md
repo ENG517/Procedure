@@ -2,7 +2,7 @@
 
 Digital images may need editing for various reasons including enhancement, removing distractions or even restoring the image. One common digital editing tool is using the crop tool in a digital image editing software. Our focus in this procedure is using the crop tool in Adobe Photoshop. 
 
-**Note:** Adobe Photoshop is one of many digital image editing software that allows the user photo editing capabilities, a canvas to create art or design graphics, digital draw and paint.
+**Note** Adobe Photoshop is one of many digital image editing software that allows the user photo editing capabilities, a canvas to create art or design graphics, digital draw and paint.
 
 Adobe Photoshop works with the following file formats:
 - RAW
@@ -14,6 +14,7 @@ Adobe Photoshop works with the following file formats:
 - PSD
 
 **Prerequisites**
+
 
 To utilize Adobe Photoshop you will need an account that you can log in to access the tools. 
 
