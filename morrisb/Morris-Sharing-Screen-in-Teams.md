@@ -3,6 +3,7 @@
 Microsoft Teams a workspace for real-time collaboration and communication, meetings, file and app sharing, all in one place. In a Microsoft Teams meeting you can present content by sharing your screen (tab), your entire desktop or PowerPoint slides.
 
 **Prerequisites**
+
 Microsoft Teams login (account)
 
 **Note:** You may do this in the online version, the app version on your desktop or on a mobile device. For this process it is recommended that you use your desktop. 
@@ -14,6 +15,7 @@ Microsoft Teams login (account)
 
 **Note:** To create a Teams meeting to test this process:
 Open your Microsoft Outlook Calendar and select New meeting.
+![alt text](morrisb/assets/images/TeamsOutlookcalendar.png)
 
 3. Once the meeting is active, find the button located at the right hand side of the screen that shows a square with an upward facing arrow. 
    
