@@ -6,6 +6,6 @@ A student has been invited last minute to a friendsgiving with other students. T
 
 
 
-**Scenario**: Paste the scenario text here.
+
 
 Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
