@@ -37,7 +37,7 @@ Your laundry is now going through the wash cycle. The control panel will display
    
 3. Select the desired mode with the correct control panel.
    * ex. If you are using the bottom dryer, use the right control panel.
-   ![Stackable dryers from the front, the control panel is highlighted](assets/images/dryer-front.png)
+   ![Stackable dryers from the front, the control panel is highlighted](assets/images/stackdryer-front.png)
 
 4. Press start
 
@@ -45,4 +45,4 @@ Your clothes are now drying. The time remaining on the dry cycle will be display
 
 **Tip**: Set a time on your phone to remember to remove your clothes from the machine.
 
-**Alert**: Clean the lint trap when your clothes are finished drying to avoid the risk of fire.
+> **Alert**: Clean the lint trap when your clothes are finished drying to avoid the risk of fire.
