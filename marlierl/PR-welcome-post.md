@@ -7,11 +7,10 @@
 
 ## User Scenario
 
-Provide user scenario here.
+With the help of Lauren, Jane has successfully become a page administrator for NC State Chemical and Biomolecular Engineering's company LinkedIn account. Jane's boss has asked that her first act as administrator is to create a "welcome post" that introduces her to the company's LinkedIn followers.
 
 ## Notable Review Requests
-
-Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
-
-- List out some particular questions and concerns that you would like your peers to review.
-- After you publish this PR, you can also use links within the Github web interface to direct reviewers' attention to specific areas. (See the video for guidance there.)
+- Should I include images for every step or are the steps that have images enough?
+- Do the red boxes/arrows add usefulness or should they be removed?
+- Should I have included sample text for the welcome post or is how it is currently described and illustrated clear enough?
+- Keep in mind, the screenshots are of my personal and company LinkedIn account so there was only so much I could do in regards to examples.
