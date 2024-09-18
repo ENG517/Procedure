@@ -32,16 +32,24 @@ Your laundry is now in the wash cycle. The control panel will display the remain
 
 ## Drying your Clothes
 
-1. Remove clothes from the washer and move them into the dryer
+1. Remove the wet clothes from the washer and move them into the dryer.
    
-2. Ensure the lint trap is empty
+   Check the lint trap to ensure it is empty. 
    
-3. **Optional**: add a dryer sheet or dryer balls
+2. **Alert**: Ensure the lint trap is empty
+   
+3. **Optional**: Add a dryer sheet or dryer balls.
 
-4. Close dryer door
+    * This will help reduce dry time, and static clothes.
 
-5. Press start
-   
-    * **Note**: Settings will be in their default states
+4. Close dryer door.
+
+5. Press "WARM TEMP".
+
+6. Press start on the dryer's control panel.
+
+Your clothes are now drying! The time remaining on the dry cycle will be displayed on the control panel.
   
-6. Clean the lint trap when the machine is finished
+**Alert**: Clean the lint trap when the machine is finished to avoid the risk of fire.
+
+Congratualations on washing your laundry, now enjoy your clean and fresh clothes!
