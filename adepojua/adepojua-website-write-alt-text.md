@@ -15,6 +15,8 @@ Alt texts enable everyone, including people with visual impairments who use scre
 3. If the image doesn’t add to the understanding of the content, leave the alt attribute blank.  
    - Use `alt=""` in the HTML or leave the alt text field empty in your CMS. This tells screen readers to skip over the image without confusing users with unnecessary information.
 
+![Empty alt text fields for decorative images](/adepojua/assets/images/screenshots/decorative-alt-texts.png)
+
 4. Run a quick test with a screen reader to make sure the alt text sounds natural and informative. You can use free tools like [NVDA](https://www.nvaccess.org/) or VoiceOver on Mac.
 
 5. Save your work and double-check to ensure you didn’t miss any images.
