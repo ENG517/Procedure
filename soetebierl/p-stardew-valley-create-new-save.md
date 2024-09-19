@@ -1,6 +1,9 @@
 # Creating a New Save in Stardew Valley
+> **Warning:** This tutorial contains mild spoilers for later in the game.
 
 Part of the charm of Stardew Valley is the ability to customize your farm to your liking, however with little to no direction the character creation and farm selection process can be a bit intimidating. This set of instructions aims to demystify this process so that you can have the character and farm set from the get go!
+
+There is no set order that these steps need to be completed in, the following order is just a suggestion. Alterations can be made at anytime.
 
 > **Note:** This tutorial is intended only for Stardew Valley Version 1.6 on PC.
 
@@ -10,7 +13,8 @@ Part of the charm of Stardew Valley is the ability to customize your farm to you
 
 ## Naming and Initial Set-Up
 1. Type the name you want for your character into the "Name" field. This is the name that your character will have for the entire game, and will be how the NPCs refer to you.
-2. Type the name you want for your farm into the "Farm Name" field. Once you select this name you cannot change it. It may be useful to select the farm type before, selecting the name.
+2. Type the name you want for your farm into the "Farm Name" field. 
+    > If you are struggling to come up with a farm name may be useful to select the farm type before selecting the name
 3. Add in something to serve as your favorite thing. Do not stress too much about this choice, it will not impact gameplay, but rather allows you to add a personal touch to your character!
 4. Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.
 
@@ -27,7 +31,9 @@ There are eight different farm settings availble to choose from in Stardew Valle
    * Beach Farm
    * Meadowlands Farm
 
-You will not be able to alter the farm type once you have started this game. To select your farm type:
+> **Warning**: You will not be able to alter the farm type once you have started this game. 
+ 
+**To select your farm type:**
 1. Hover over the icons of each farm type for a general description of each farm type.
 If you want to learn the specific associated stats of each farm see the [Farm Maps Page](https://stardewvalleywiki.com/Farm_Maps) on the [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
 
@@ -38,6 +44,8 @@ Designing your character is the portion of the set-up process with the most cust
 
 ### Pre-Set Selection
 1. Choose the character’s sex. It is best to select this first as the clothing and hair styles will change if you decide to switch the sex of your character later.
+   > While selecting a character's sex will change the starting point for the character's hair and outfit, all preset options are available regardless of the character's sex.
+
 2. Select all set appearance options
    * Skin color
    * Hair style
@@ -51,7 +59,7 @@ The eye, shirt, and pants colors are determined using hue, shade, and saturation
 2. Slide the cursor of the middle bar to adjust how light or dark the color is.
 3. Slide the cursor of the bottom bar to adjust the vibrancy of the color.
    
-
+> > The[Shrine of Illusions](https://stardewvalleywiki.com/The_Shrine_of_Illusions) can be used to change your character's name, appearance, favorite thing, and gender. **All other features selected during this stage are permanent.**
 ## Optional: Altering Game Options
 On this screen there is also an option for you to view the "Advanced Game Options". This will allow you to change certain settings to make the game more or less difficult to suit your level of experience. Items you can alter include:
 * What is used for the community center bundles
