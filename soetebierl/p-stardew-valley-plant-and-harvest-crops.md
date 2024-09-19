@@ -20,6 +20,7 @@ In the early stages of the game, farming and selling crops is the best way to bu
 * Optional Items:
   * Sprinklers
   * Fertilizer
+  * Scythe
 
 ## Acquiring Seeds
 Before you can plant any crops, you must first have the seeds for the desired crop. There are three different ways to aquire seeds:
@@ -29,15 +30,18 @@ Pierre's General Store has the best prices for seeds from the start of the game,
 1. Walk to Pierre's General Store and right-click the door to enter. 
 2. Approach Pierre. From across the counter, right click on Pierre to bring up his shop catalogue.
 3. Scroll through until you find the seeds you want to plant. Tip: If you hover over the seed you can see the growing details.
-4. Right-click to purchase one packet of seeds. Each packet will grow one plant of that type. You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.
+4. Right-click to purchase one packet of seeds. Each packet will grow one plant of that type. 
+   > You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.
    
 ### Method 2: Joja Mart
-Joja Mart, while more expensive than Pierre's, has longer open hours in the game. They are a good alternative in a pinch. If you buy a membership, the prices will decrease, but this will have an impact on later game play.
+Joja Mart, while more expensive than Pierre's, has longer open hours in the game. They are a good alternative in a pinch. 
+> **Warning:** If you buy a membership, the prices will decrease, but this will have an impact on later game play.
 
 1. Walk to Joja Mart and right-click the door to enter.
 2. Approach the cashier. From across the check out counter right click on the cashier to bring up the shop catalogue.
 3. Scroll through until you find the seeds you want to plant. Tip: If you hover over the seed you can see the growing details.
-4. Right-click to purchase one packet of seeds. Each packet will grow one plant of that type. You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.
+4. Right-click to purchase one packet of seeds. Each packet will grow one plant of that type. 
+   > You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.
 
 ### Method 3: Seed Maker
 Later in the game you will gain access to a seed maker. This will allow you to use crops that you have to create seeds at no extra cost.
@@ -74,9 +78,12 @@ In order for your crops to grow, they must be watered on a daily basis until the
 Once the growing period has passed, you will be able to harvest your crops. To check if they are ready, hover your cursor over the crops. If a hand icon pops up, the crops are ready to harvest.
 
 1. Hover over the crop you wish to harvest. Right-click to pick the crop. Repeat until you have harvested all the ready crops.
+    > **Note:** Some crops will require a scythe to harvest. You will recieve an error message in the bottom left corner if this is the case.
    * If the crop did not immediately enter your inventory, you may have been too far away. You should see a crop sitting on the ground.
    *  If you are unable to harvest the crop, your inventory may be full. Remove some items and try again.
-2. Walk over to the shipping bin you were provided at the start of the game. Right-click the bin to open it.
-3. Right click on the crops in your inventory. They should populate in the square of the bin's selling window, and you should hear a thudding sound. Repeat until all crops have been sold.
+  > **Note:** Some crops will continue to produce for the whole season once they reach maturity. These crops will give you a drop when you harvest, but the plant will stay in the square.
+1. Walk over to the shipping bin you were provided at the start of the game. Right-click the bin to open it.
+2. Right click on the crops in your inventory. They should populate in the square of the bin's selling window, and you should hear a thudding sound. Repeat until all crops have been sold.
    
 You will recieve the money for the crops that you sold at the begining of the next day.
+> **Tip:** Don't sell all of your crops, especially high quality ones. You may need them for future quests and events.
