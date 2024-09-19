@@ -18,3 +18,24 @@ Before accepting a covering offer, your mare must:
 - Be at least 2 years and 6 months of age
 - Have aged at least 10 months since the last time she gave birth
 - Not be part of a breeding team's lineage
+
+## How to cover a mare with a public covering offer
+1. Navigate to a mare's private page in your breeding farm.
+
+2. Find the **Breeding** tile on the mare's page, and select **Cover my mare**.
+
+3. Optional: Use the available filter feature to apply specific criteria to your search. Once you've created the filter, select **Display coverings**.
+
+![Screenshot displaying the filter feature for the public coverings search page](assets/images/screenshots/ss-search-public-coverings.png)
+
+4. Pick the public covering offer you'd like to accept, and select **Choose**.
+
+![Screenshot displaying the public coverings search page and a player's mouse hovering over the covering offer they intend to accept for their mare](assets/images/screenshots/ss-choose-covering.png)
+
+5. Confirm that the genetic details for both the sire and dam you are attempting to breed are correct before proceeding.
+
+![Screenshot displaying the confirmation page of a covering](assets/images/screenshots/ss-confirm-covering.png)
+
+1. Optional: Add items from the Black Market to enhance the gestation period for your mare or the foals she gives birth to. Items display on the right-hand side of the window. Select **Use** for whichever item(s) you would like to apply to the covering.
+
+2. Select **Cover my mare**.
