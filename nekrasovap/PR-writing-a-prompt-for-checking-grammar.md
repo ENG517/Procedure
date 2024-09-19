@@ -2,21 +2,20 @@
 
 Use the content and structure to write the content for your branch's pull request.
 
-## Enter PR Title Here
+## Writing a GPT prompt for checking grammar
 
 **Completed Work**
 
-- Created new procedure: `p-filename-here.md`
-- Procedure's Goal: State goal of the procedure here.
+- Created new procedure: `gpt-writing-a-prompt-for-checking-grammar.md`
+- Procedure's Goal: teaching a user how to write effective ChatGPT prompts for checking grammar
 
 ## User Scenario
 
-Provide user scenario here.
+Who: Liza, an international student, unfamiliar with ChatGPT.
+Motivation: Liza wants to see if ChatGPT can help correct her grammar mistakes and assist in writing long, formal emails with the correct structure.
+
+Goal: She wants to avoid grammar mistakes in her English writing, particularly when emailing professors or communicating in a professional academic setting.
+
+Important Characteristics: Liza is looking for straightforward guidance on how to write clear and effective prompts in English.
 
 ## Notable Review Requests
-
-Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
-
-- List out some particular questions and concerns that you would like your peers to review.
-- After you publish this PR, you can also use links within the Github web interface to direct reviewers' attention to specific areas. (See the video for guidance there.)
-- 
