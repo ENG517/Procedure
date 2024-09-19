@@ -22,7 +22,7 @@ Horses that you choose to give an affix to must:
 
 2. Ensure that you are on the **My affixes** tab.
 
-3. At the bottom of the page, select **Reserve an affix**.
+3. At the bottom of the page, select **Reserve an affix**. The affix reservation window displays.
 
 4. Give your affix a name and description.
 
