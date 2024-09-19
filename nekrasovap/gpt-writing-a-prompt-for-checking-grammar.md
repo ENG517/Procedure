@@ -34,39 +34,26 @@ Example:
 If you need help improving specific aspects of the text (e.g., shortening sentences, dividing paragraphs), let ChatGPT know.
 
 Example:
-> "Can you also help shorten the sentences and make ?"
+> "Can you also help shorten the sentences and divide paragraphs?"
 
-## Step 5: Request Feedback or Explanations
+## Step 5: Request explanations (if needed)
 
 If you'd like feedback on the changes or explanations for any corrections, you can ask for them.
 
 Example:
 > "Please explain any major grammar changes or sentence improvements you make."
 
-## Sample ChatGPT Prompt for Grammar Checking and Improvement
+## Sample ChatGPT Prompt for grammar checking and improvement
 
 Here’s how you can put everything together:
 
-> "I need help improving this paragraph. Please check for grammar, punctuation, and sentence structure issues. Also, ensure the tone is formal and professional. Can you shorten any sentences that feel too long? Provide an explanation for any significant changes. Here's the text: 'I was going to the park yesterday, and I have saw a dog that is looks very friendly.'"
+> "I need help improving this paragraph. Please check for grammar, punctuation, and sentence structure issues. Also, ensure the tone is formal and professional. Can you shorten any sentences that feel too long? Provide an explanation for any significant changes. Here's the text: '...'".
 
-## Text Improvement Techniques
+## Text improvement techniques
 
 ChatGPT can improve your text in various ways. Here are some techniques you can ask for:
-- **Simplification**: Make the language more concise and easier to understand.
+- **Simplification**: Make the language easier to understand for non-native speakers.
 - **Tone adjustment**: Adapt the text to fit a specific audience or context.
-- **Word choice**: Replace repetitive or awkward words with more appropriate synonyms.
-- **Active voice**: Convert passive voice sentences into active voice for clarity.
-
-Example:
-> "Please rewrite this paragraph in simpler terms using active voice."
-
-## Formatting and Styling in Your ChatGPT Prompt
-
-When asking ChatGPT to improve your text, you can request **bullets**, **numbered lists**, or emphasize certain sections with *italics* or **bold** text to improve readability.
-
-Example:
-> "Can you format the improved version into bullet points and bold key points for emphasis?"
-
----
-
-By following these steps, you can ensure that ChatGPT checks your grammar and improves your text effectively, making your writing clearer and more polished.
+- **Word choice**: Replace repetitive or unusual words with synonyms.
+> 
+>By following these steps, you can ensure that ChatGPT checks your grammar and improves your text effectively.
