@@ -32,6 +32,8 @@ Horses that you choose to give an affix to must:
 
 ## Applying an affix
 
+> Note: A horse can only receive up to **one** affix. If a horse was born in your breeding farm, you may change its affix at any time. If a horse was not born in your breeding farm, you cannot change or remove any affix that has already been assigned to it.
+
 1. Navigate to a horse's page in your breeding farm. Make sure this horse was born in your breeding farm.
 
 2. Next to the horse's name, select the **Plus** button and then **Edit profile**.
