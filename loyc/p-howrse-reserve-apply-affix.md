@@ -14,7 +14,7 @@ Horses that you choose to give an affix to must:
 - Be born in your breeding farm
 - Not be part of a breeding team's lineage
 
-## Reserving an affix
+## How to reserve an affix
 
 1. In the main menu bar, navigate to **Breeding farm > Office**.
 
@@ -30,7 +30,7 @@ Horses that you choose to give an affix to must:
 
 5. Select **Create this affix**.
 
-## Applying an affix
+## How to apply an affix
 
 > Note: A horse can only receive up to **one** affix. If a horse was born in your breeding farm, you may change its affix at any time. If a horse was not born in your breeding farm, you cannot change or remove any affix that has already been assigned to it.
 
