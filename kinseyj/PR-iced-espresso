@@ -6,17 +6,18 @@ Use the content and structure to write the content for your branch's pull reques
 
 **Completed Work**
 
-- Created new procedure: `p-filename-here.md`
-- Procedure's Goal: State goal of the procedure here.
+- Created new procedure: `p-make-iced-espresso-honey-lavender.md`
+- Procedure's Goal: To teach those familiar with making espresso drinks a new recipe for an iced honey lavender shaken espresso.
 
 ## User Scenario
 
-Provide user scenario here.
+ A graduate student who is spending too much money going to a chain cafe for coffee in the morning. They want to still be able to have caffeine in their day, and want to enjoy it. They have a nespresso machine/ nespresso machine dupe/ espresso machine. They want to make a delicious morning coffee that’ll get them their caffeine fix while still being fun, enjoyable and cheap. 
 
 ## Notable Review Requests
 
 Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
 
-- List out some particular questions and concerns that you would like your peers to review.
-- After you publish this PR, you can also use links within the Github web interface to direct reviewers' attention to specific areas. (See the video for guidance there.)
+* I plan to add images I just find that process confusing and needed some time to figure it out
+* Should I format my alerts differently?
+* Does the order I have my sections in make sense?
 
