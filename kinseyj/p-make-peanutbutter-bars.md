@@ -2,6 +2,7 @@
 
 Need to make a quick-to-prep dessert with stuff you (probably) already have? Not great at baking, but still want to impress? Here is a recipe for Peanut Butter Bars, an easy-to-make dessert using things you may already have. To start you'll need the following:
 
+## Ingredients
 **For the Base**
 
 * 50g of dark brown sugar (or muscovado sugar if you can find it)
@@ -15,7 +16,7 @@ Need to make a quick-to-prep dessert with stuff you (probably) already have? Not
 * 100g dark chocoalate chips
 * 1 tablespoon unsalted butter
 
-**Tools and Utensils**
+## Tools and Utensils
 * A fridge
 * A square brownie pan 
 * Some mixing spoons
@@ -25,7 +26,7 @@ Need to make a quick-to-prep dessert with stuff you (probably) already have? Not
 * A microwave safe bowl
 * Aluminum foil
 
-**Steps**
+## Steps
 
 1. Gather all of your ingredients and measure them out using the scale and measuring spoons
 2. Stir all of the base  ingredients together

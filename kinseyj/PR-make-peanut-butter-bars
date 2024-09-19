@@ -2,21 +2,21 @@
 
 Use the content and structure to write the content for your branch's pull request.
 
-## Enter PR Title Here
+## Created "p-make-peanut-butter-bars"
 
 **Completed Work**
 
-- Created new procedure: `p-filename-here.md`
-- Procedure's Goal: State goal of the procedure here.
+- Created new procedure: `p-make-peanut-butter-bars.md`
+- Procedure's Goal: To teach people how to make an easy and simple dessert that tastes amazing.
 
 ## User Scenario
 
-Provide user scenario here.
+ A student has been invited last minute to a friendsgiving with other students. They have limited supplies, time, and money. They want to find a recipe that will be easy, cheap, and not need too many supplies they don’t already have, but still delicious.
 
 ## Notable Review Requests
 
 Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
 
-- List out some particular questions and concerns that you would like your peers to review.
-- After you publish this PR, you can also use links within the Github web interface to direct reviewers' attention to specific areas. (See the video for guidance there.)
-
+* I have some alerts here, so I want to make sure they look good, do you thiunk they need bolded to be more eye catching?
+* I plan to add pictures later.
+* Do I need more detail in my instructions? aree they clear to a reader that hasn't made them before?
