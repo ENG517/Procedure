@@ -2,21 +2,22 @@
 
 Use the content and structure to write the content for your branch's pull request.
 
-## Enter PR Title Here
+## Created p-ncsu-libraries-reserve-room
 
 **Completed Work**
 
-- Created new procedure: `p-filename-here.md`
-- Procedure's Goal: State goal of the procedure here.
+- Created new procedure: `p-ncsu-libraries-reserve-room.md`
+- Procedure's Goal: To teach new students how to reserve rooms in the NCSU libraries so they can make use of resources available to NCSU students.
 
 ## User Scenario
 
-Provide user scenario here.
+A graduate student is starting at NCSU, after having completed their undergraduate degree at another institution. They are unsure what sort of benefits they have while being a student and what resources are available to them. They also want to spend more time on campus, but do not have the cubicle that comes with being a TA. They want places to study and get work done. Maybe even a way to meet new people. 
 
 ## Notable Review Requests
 
 Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
 
-- List out some particular questions and concerns that you would like your peers to review.
-- After you publish this PR, you can also use links within the Github web interface to direct reviewers' attention to specific areas. (See the video for guidance there.)
+1. I wonder if I should add any alerts, to be honest the wesbite I'm guiding students on is prettuy straightforward but I think I could find something. How should alerts be formatted?
+2. I plan to add images, I just haven't gotten there yet.I find that process confusing.
+3. Other than images, do you feel I should break up the text somehow? It feels a little dense to me...
 
