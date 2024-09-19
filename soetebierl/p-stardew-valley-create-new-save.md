@@ -38,7 +38,7 @@ Designing your character is the portion of the set-up process with the most cust
 
 ### Pre-Set Selection
 1. Choose the character’s sex. It is best to select this first as the clothing and hair styles will change if you decide to switch the sex of your character later.
-Select all set appearance options
+2. Select all set appearance options
    * Skin color
    * Hair style
    * Shirt
@@ -46,10 +46,26 @@ Select all set appearance options
    * Accents
 
 ### Select the color of each feature
-Choose the hue
-Choose the shade
-Choose the saturation
+The eye, shirt, and pants colors are determined using hue, shade, and saturation sliders. 
+1. Slide the cursor of the top, rainbow colored bar to select the color family you want for this feature (i.e. red, orange, yellow, green, blue, etc.
+2. Slide the cursor of the middle bar to adjust how light or dark the color is.
+3. Slide the cursor of the bottom bar to adjust the vibrancy of the color.
+   
 
 ## Optional: Altering Game Options
-Alter the game options 
->**Note:** This is not reccomended for new players.
+On this screen there is also an option for you to view the "Advanced Game Options". This will allow you to change certain settings to make the game more or less difficult to suit your level of experience. Items you can alter include:
+* What is used for the community center bundles
+* Guarenteeing year 1 completion
+* Altering mining rewards
+* Spawning monsters on the farm plot
+>**Note:** This is not reccomended for new players. When you select your farm, the game settings will be set to the ideal default for that particular type of farm, so no further action is needed.
+
+When you are satisfied with your choices for:
+* Character Name
+* Farm Name
+* Favorite Thing
+* Animal Preference
+* Farm Type
+* Appearance
+
+Click "OK" to procede to the game!
