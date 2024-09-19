@@ -14,4 +14,32 @@ Horses that you choose to give an affix to must:
 - Be born in your breeding farm
 - Not be part of a breeding team's lineage
 
-> Note: A horse can only receive up to **one** affix. If a horse was born in your breeding farm, you may change its affix at any time. If a horse was not born in your breeding farm, you cannot change or remove any affix that has already been assigned to it.
+## Reserving an affix
+
+1. In the main menu bar, navigate to **Breeding farm > Office**.
+
+![Screenshot of a player's homepage with a computer mouse hovering over the Breeding farm drop-down menu](assets/images/screenshots/ss-affix-bread-crumbs.png)
+
+2. Ensure that you are on the **My affixes** tab.
+
+3. At the bottom of the page, select **Reserve an affix**.
+
+4. Give your affix a name and description.
+
+![Screenshot of the window where players can create an affix](assets/images/screenshots/ss-create-this-affix.png)
+
+5. Select **Create this affix**.
+
+## Applying an affix
+
+1. Navigate to a horse's page in your breeding farm. Make sure this horse was born in your breeding farm.
+
+2. Next to the horse's name, select the **Plus** button and then **Edit profile**.
+
+![Screenshot displaying how to edit the profile of a horse](assets/images/screenshots/ss-edit-horse-profile.png)
+
+3. In the affix drop-down menu, select the affix you would like to apply to that horse.
+
+![Screenshot displaying the drop-down menu of all the affixes a breeder owns and can apply to a horse](assets/images/screenshots/ss-select-affix.png)
+
+4. Select **Confirm**.
