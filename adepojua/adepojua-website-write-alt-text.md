@@ -12,6 +12,8 @@ Alt texts enable everyone, including people with visual impairments who use scre
 
 2. For informational images, write descriptive alt text that explains what someone would need to know if they couldn’t see the image.
 
+![Example of an informational alt text](/adepojua/assets/images/screenshots/Informational-alt-texts.png)
+
 3. If the image doesn’t add to the understanding of the content, leave the alt attribute blank.  
    - Use `alt=""` in the HTML or leave the alt text field empty in your CMS. This tells screen readers to skip over the image without confusing users with unnecessary information.
 
