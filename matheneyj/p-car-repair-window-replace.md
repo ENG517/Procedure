@@ -25,5 +25,23 @@ Before getting started:
 
 
 ## Steps
+### Window removal
+1. If the affected window pane is damaged or shattered, use a shop vacuum to remove the shards of glass.
+2. Unscrew and remove the screws that secure the door panel.
+   * **Note:** Do not discard the screws as you will need them to install the new window.
+3. Release the door pins and separate the panel from the frame.
+   * If necessary to access other bolts, rivets, and screws, disconnect the wiring harness.
+4. Remove and set aside the switch panel which holds the door handle and window buttons.
+5. Remove the four bolts around the speaker.
+   * If disconnecting the wiring harness, be sure to detach the wiring connected to the speaker.
+6. Use the boxcutter to carefully remove the plastic window trim from the top of the door frame. Set trim aside for installation.
+7. Drill out the retention rivets around the door frame to access the glass bracket and window track.
+8. Use a screwdriver to gently flatten the small metal tabs securing the glass panel.
+   * These tabs are located on the bottom of the door frame on either side of the glass bracket.
+   * **Note:** If window is shattered, carefully remove the broken glass from the window track.
+9.  Lift up and remove the glass panel from the window track.
+10. Discard the faulty window panel.
+
+### Window installation
 
 ## Troubleshooting
