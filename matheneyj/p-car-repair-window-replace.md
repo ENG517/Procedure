@@ -29,6 +29,7 @@ Before getting started:
 1. If the affected window pane is damaged or shattered, use a shop vacuum to remove the shards of glass.
 2. Unscrew and remove the screws that secure the door panel.
    * **Note:** Do not discard the screws as you will need them to install the new window.
+[Image showing a diagram of the door panel](assets/images/screenshots/windowremoval1.png)
 3. Release the door pins and separate the panel from the frame.
    * If necessary to access other bolts, rivets, and screws, disconnect the wiring harness.
 4. Remove and set aside the switch panel which holds the door handle and window buttons.
