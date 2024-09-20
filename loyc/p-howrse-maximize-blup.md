@@ -1,6 +1,6 @@
 # Maximizing the Best Linear Unbiased Prediction (BLUP) value of a horse
 
-[ss-show-blup-bar]
+![Screenshot of a horse's profile page displaying a BLUP value of 94.08.](assets/images/screenshots/ss-show-blup-bar.png)
 
 ## About BLUP
 The Best Linear Unbiased Prediction value, commonly referred to as BLUP, is a genetic index for horses. BLUP plays an important role in breeding horses because the BLUP values of the parent horses impact a foal's genetic potential and innate skills.
@@ -13,7 +13,7 @@ The following factors influence a horse's BLUP: training level in the best three
 
 ### Maximizing BLUP
 
-[ss-blup-requirements]
+![Screenshot of a horse's BLUP bar with the mouse hovering over it, displaying the BLUP requirements: Age, Training, and Victories.](assets/images/screenshots/ss-blup-requirements.png)
 
 To achieve a BLUP value of 100 for a single horse, your horse must:
 - Obtain the maximium possible skill points in the best three skills for its breed
@@ -28,15 +28,15 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
 ## How to BLUP a horse to 100
 1. Access the private page of the horse you intend to BLUP and register it in an equestrian center.
 
-[ss-register-ec]
+![Screenshot of a foal's profile page highlighting the Equestrian Center tile, with a focus on the option to register the foal in an equestrian center.](assets/images/screenshots/ss-register-ec.png)
 
 2. Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water.
 
-[ss-forest-rides]
+![Screenshot of a horse's profile page highlighting the Rides tile and option to take your horse on forest rides.](assets/images/screenshots/ss-forest-rides.png)
 
 3. After your horse can no longer gain skill points from forest rides, as displayed in the **Rides** tile on your horse's page, begin **mountain rides**. Maximize the horse goes on forest rides each time it wakes up. Make sure to balance mountain rides with daily care, food, and water.
 
-[ss-mountain-rides]
+![Screenshot of a horse's profile page highlighting the Rides tile and option to choose the amount of hours to take your horse on mountain rides.](assets/images/screenshots/ss-mountain-rides.png)
 
 4. After your horse can no longer gain skill points from mountain rides, as displayed in the **Rides** tile on your horse's page, identify your horse's best three skills for training:
 
@@ -44,7 +44,7 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
     - Select your horse's breed to access the directory page for that breed.
     - On this page, look for the three skills marked with the highest score. These are the best three skills for your horse's breed.
 
-[ss-best-three-skills]
+![Screenshot of the KWPN breed page highlighting the best three skills for the KWPN: Speed, Dressage, and Jumping.](assets/images/screenshots/ss-best-three-skills.png)
 
 [ss-top-three-arrows]
 
@@ -52,16 +52,16 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
 
 6. Once your horse is at least 5 years of age, select its competition specialty and give it the necessary tack to enter competitions.
 
-[ss-choose-specialty]
+![Screenshot of a horse's profile page highlighting the option to choose a specialty of Classical or Western competitions for your horse.](assets/images/screenshots/ss-choose-specialty.png)
 
 7. Identify the type(s) of competition that target your horse's best three skills. Enter your horse into those competitions until its best three skills have gained the maximum skill points possible.
 
-[ss-competition-page]
+![Set of screenshots displaying competition pages for Cross Country and Gallop. Both screenshots highlight the skills that each competition targets. Cross Country targets Stamina, Dressage, and Jumping. Gallop targets Gallop, Speed, and Dressage. The screenshot also includes a small window of a horse's profile page with a mouse hovering over the Cross Country option in the Competitions tile, displaying the skill points that horse would gain from entering that competition.](assets/images/screenshots/ss-competition%20page.png)
 
 8. After your horse can no longer gain skill points in its best three skills from entering competitions, continue to enter competitions until your horse has secured 20 first-place wins.
 
-[ss-20-wins]
+![Screenshot of a horse's profile page displaying the Victories in the Characteristics tab. It displays 7 wins in Gallop competitions and 13 wins in Cross Country competitions.](assets/images/screenshots/ss-20-wins.png)
 
 9. After your horse has won first place in 20 different competitions, age your horse or wait until it turns 10 years of age.
 
-10. Navigate to the **Genetic** tab at the bottom of your horse's page to check your horse's BLUP. The value should display as 100.
+10.  Navigate to the **Genetic** tab at the bottom of your horse's page to check your horse's BLUP. The value should display as 100.
