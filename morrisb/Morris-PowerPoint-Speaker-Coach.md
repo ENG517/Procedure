@@ -25,11 +25,15 @@ Speaker Coach can only work with English at this time.
 5. Make sure you are sharing your microphone. 
    
 6. Click on Rehearse with Coach button.
+
+![Rehersal button](procedure/morrisb/assets/images/screenshots/PPStartRehearse.png)
    
-7. Complete your presentation by speaking out loud and going through your slides.
+1. Complete your presentation by speaking out loud and going through your slides.
    
-8. Click the ESC button on your keyboard to exit Speaker Coach.
+2. Click the ESC button on your keyboard to exit Speaker Coach.
    
-9.  Your Rehersal Report will be generated.
+3.  Your Rehersal Report will be generated.
     
 **NOTE:** If you want to keep your rehersal report, you will need to take a sceenshot. PowerPoint does not save your report.
+
+[def]: procedure/morrisb/assets/images/screenshots/PPStartRehearse.png
