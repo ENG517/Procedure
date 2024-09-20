@@ -2,7 +2,7 @@
 
 Use the content and structure to write the content for your branch's pull request.
 
-## Enter PR Title Here
+## How to write a ChatGPT prompt for creating an Instagram post
 
 **Completed Work**
 
