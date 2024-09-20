@@ -28,9 +28,13 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
 ## How to BLUP a horse to 100
 1. Access the private page of the horse you intend to BLUP and register it in an equestrian center.
 
+> Tip: Select an equestrian center with a **shower** and **water trough** in the box where your horse will stay. These features help your horse conserve energy during care, allowing you to take more daily actions and speed up the BLUP process.
+
 ![Screenshot of a foal's profile page highlighting the Equestrian Center tile, with a focus on the option to register the foal in an equestrian center.](assets/images/screenshots/ss-register-ec.png)
 
 2. Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water.
+
+> Note: Do not let your horse's daily energy fall below 20% or it could penalize the amount of energy your horse begins with the next time it wakes up.
 
 ![Screenshot of a horse's profile page highlighting the Rides tile and option to take your horse on forest rides.](assets/images/screenshots/ss-forest-rides.png)
 
@@ -45,8 +49,6 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
     - On this page, look for the three skills marked with the highest score. These are the best three skills for your horse's breed.
 
 ![Screenshot of the KWPN breed page highlighting the best three skills for the KWPN: Speed, Dressage, and Jumping.](assets/images/screenshots/ss-best-three-skills.png)
-
-[ss-top-three-arrows]
 
 5. Once your horse is at least 2 years of age, train it in its best three skills until you have gained the maximum skill points allowed for those skills. Completion of training is indicated by the meters in the **Training** tile on your horse's private page.
 
