@@ -27,17 +27,19 @@ You will need a digital image to work with that can be opened from your account 
 1. Open Adobe Photoshop software on a computer.
    
 2. Open image in the software by clicking File > Open> find your digital image and click Open.
+
+![Open screen](assets/images/screenshots/PhotoshopOpenfile.png)
    
-3. Click the crop tool icon.
+4. Click the crop tool icon.
    
-4. Use the guide that appears on your photo to crop the photo.
+5. Use the guide that appears on your photo to crop the photo.
 This is a movable square that can be moved or resized to fit your crop needs. 
 
-5.  When satisfied with what you have in the highlighted crop section of your digital image, go to Edit > Crop.
+6.  When satisfied with what you have in the highlighted crop section of your digital image, go to Edit > Crop.
 
-6. Save your results. Go to File> Save As.
+7. Save your results. Go to File> Save As.
 
-7. Update the file name in the Save As name box.
+8. Update the file name in the Save As name box.
    
 **Note:** Check the file format you are saving- example JPEG or PNG.
 
