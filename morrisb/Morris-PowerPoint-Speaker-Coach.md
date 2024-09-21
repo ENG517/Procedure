@@ -33,7 +33,9 @@ Speaker Coach can only work with English at this time.
 2. Click the ESC button on your keyboard to exit Speaker Coach.
    
 3.  Your Rehersal Report will be generated.
+
+![Rehersal Report](assets/images/screenshots/PPRehearseReport.png)
     
 **NOTE:** If you want to keep your rehersal report, you will need to take a sceenshot. PowerPoint does not save your report.
 
-[def]: procedure/morrisb/assets/images/screenshots/PPStartRehearse.png
+
