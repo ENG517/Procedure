@@ -20,15 +20,19 @@ Open your Microsoft Outlook Calendar and select New meeting.
 
 ![tools bar in a Teams meeting](assets/images/TeamstoolsShare.png) 
    
-5. Click the button.
+4. Click the button.
    
-6. Click on share whole screen option.
+5. Click on share screen, window or tab option.
 
 ![Share screen button](assets/images/Teamssharecontent.png)
+
+6. Click on the Window option to share your entire screen.
+
+![Window option tool](assets/images/Teamssharescreenwindowsoptions.png)
    
-8. You should see a red outline around your screen indicating you are sharing with those on the Teams meeting. 
+7. You should see a red outline around your screen indicating you are sharing with those on the Teams meeting. 
    
-9. Use the Stop Sharing red button in the tools to stop sharing your screen.
+8. Use the Stop Sharing red button in the tools to stop sharing your screen.
 
 ![Stop sharing button](assets/images/Teamsstopsharing.png)
 
