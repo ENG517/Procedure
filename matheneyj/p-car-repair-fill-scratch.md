@@ -20,6 +20,8 @@ Before beginning your repairs, determine the depth of the damage. If the scratch
 3. Apply a small amount of scratch remover to the buffing pad.
 4. Polish the damaged area with the scratch remover in small circular motions until most of the remover has disappeared. The scratch remover will smooth the rough areas of the scratch and minimize the appearance of damage.
    * **Caution:** Don't polish the scratch too roughly or for too long, which can damage the car's paint job.
+  ![A hand polishing scratch remover into a car's exterior.](assets/images/buff.jpg)
+
 5. Wipe away excess polish with a microfiber cloth.
 6. Observe the polished scratch.
    * If the scratch is still visible, the damage may be too deep for a simple at-home repair. Repeat the above steps or contact an auto shop about touching up the paint.
