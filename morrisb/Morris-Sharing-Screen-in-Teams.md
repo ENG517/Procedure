@@ -16,15 +16,21 @@ Microsoft Teams login (account)
 **Note:** To create a Teams meeting to test this process:
 Open your Microsoft Outlook Calendar and select New meeting.
 
-3. Once the meeting is active, find the button located at the right hand side of the screen that shows a square with an upward facing arrow. 
+3. Once the meeting is active, find the button located at the right hand side of the screen that shows a square with an upward facing arrow.
+
+![tools bar in a Teams meeting](assets/images/TeamstoolsShare.png) 
    
-4. Click the button.
+5. Click the button.
    
-5. Click on share whole screen option.
+6. Click on share whole screen option.
+
+![Share screen button](assets/images/Teamssharecontent.png)
    
-6. You should see a red outline around your screen indicating you are sharing with those on the Teams meeting. 
+8. You should see a red outline around your screen indicating you are sharing with those on the Teams meeting. 
    
-7. Use the Stop Sharing red button in the tools to stop sharing your screen.
+9. Use the Stop Sharing red button in the tools to stop sharing your screen.
+
+![Stop sharing button](assets/images/Teamsstopsharing.png)
 
 **Note:** You can also share sound from your computer while sharing your screen. To share sound:
 
@@ -32,7 +38,7 @@ Select the Audio sharing button from the presenter toolbar.
 
 The presenter toolbar is where the user controls are housed. The presenter toolbar is only visible to the person presenting.
 
-Before you start sharing, select Share  Share screen button in your meeting controls and turn on the Include sound toggle.
+Before you start sharing, select Share Share screen button in your meeting controls and turn on the Include sound toggle.
 
 
 
