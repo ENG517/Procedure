@@ -26,7 +26,7 @@ Speaker Coach can only work with English at this time.
    
 6. Click on Rehearse with Coach button.
 
-![Rehersal button](procedure/morrisb/assets/images/screenshots/PPStartRehearse.png)
+![Rehersal button](morrisb/assets/images/screenshots/PPStartRehearse.png)
    
 1. Complete your presentation by speaking out loud and going through your slides.
    
