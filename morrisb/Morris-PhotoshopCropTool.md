@@ -30,16 +30,24 @@ You will need a digital image to work with that can be opened from your account 
 
 ![Open screen](assets/images/screenshots/PhotoshopOpenfile.png)
    
-4. Click the crop tool icon.
+3. Click the crop tool icon.
+
+![Tools](assets/images/screenshots/Photoshop tools.png)
+
+![crop tool focus](assets/images/screenshots/Photoshipcroptoolicon.png)
    
-5. Use the guide that appears on your photo to crop the photo.
-This is a movable square that can be moved or resized to fit your crop needs. 
+4. Use the guide that appears on your photo to crop the photo.
+This is a movable square that can be moved or resized to fit your crop needs.
 
-6.  When satisfied with what you have in the highlighted crop section of your digital image, go to Edit > Crop.
+![Crop tool guide](assets/images/screenshots/Photoshopcropoutline.png)
 
-7. Save your results. Go to File> Save As.
+5.  When satisfied with what you have in the highlighted crop section of your digital image, go to Edit > Crop.
 
-8. Update the file name in the Save As name box.
+![Cropped part of photo highlighted](assets/images/screenshots/PhotoshopCroptoolhighlight.png)
+
+6. Save your results. Go to File> Save As.
+
+7. Update the file name in the Save As name box.
    
 **Note:** Check the file format you are saving- example JPEG or PNG.
 
