@@ -7,7 +7,7 @@ Use the content and structure to write the content for your branch's pull reques
 **Completed Work**
 
 - Created new procedure: `Morris-Sharing-Screen-in-Teams.md`
-- Procedure's Goal:
+- Procedure's Goal: Successfuly share your computer screen during a Teams meeting. 
 
 ### Share your screen during a Teams meeting
 This is a tool for students who are taking an online class. This tool allows for virtual meetings where students deliver presentations. The presentation requirement also includes a slideshow. Students must know how to share their screen to share their slideshows during the Teams meeting. 
