@@ -18,13 +18,21 @@ I have tried to orientate the SCA moves in accordance to the expectations someon
 
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
-Unfortunately at the time of submission for this assignment, I have not been able to review anything for the review step in the editorial workflow process. My group members have not submitted their pull request to Github and I am unsure about what to do. I have emailed you accordingly with this concern as well on 9/21/2024. I have submitted my pull requests for review as well as mentioning specific points I wanted review on but did not receive. I will be using my submitted pull request to satisfy this question. I used Github tools to specifically link parts in my code my questions were relating to as seen here: 
+Unfortunately at the time of submission for this assignment, I have not been able to add any review advice to my procedures because I did not receive any. One of my group members have approved my first draft for my procedures but did not provide specific feedback. I have emailed you accordingly with this concern as well on 9/21/2024. I have submitted my pull requests for review as well as mentioning specific points I wanted review on but did not receive. I will be submitting a screenshot of my group members approval for my procedures as well as my own feedback given to them on their projects to satisfy this question. I used Github tools to specifically link parts in my code and my questions for others as seen here: 
 
-[Pull Request 1](https://github.com/ENG517/Procedure/pull/2)
+![Pull Request 1](assets/images/screenshots/pullrequestapproval.png)
+*Fig 1. Approval for my first procedure* 
 
-[Pull Request 2](https://github.com/ENG517/Procedure/pull/3)
+![Pull Request 2](assets/images/screenshots/nekrapullrequesthelp.png)
+*Fig 2. Feedback for one of my group members procedures*
 
-Please see the usage of specific links within the edit request for both PR's
+![Pull Request 3](assets/images/screenshots/myoungpullrequesthelp.png)
+*Fig 3. Feedback for another group members procedure*
+
+![Pull Request 4](assets/images/screenshots/pullrequest1.png)
+*Fig 4. My request for feedback using specific links to parts of my code*
+
+
 
 
 
