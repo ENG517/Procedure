@@ -22,10 +22,13 @@ Finding the correct wage range enables you to have the necessary information to 
    ![OFLC Wage Calculator](assets/images/screenshots/oflc.jpg)
    *Fig. 1: An example of a filled out OFLC Wage Calculator*
     **NOTE**: Select **All Industries** as your collection unless the sponsoring company is in the field of higher education (ACWIA).
+
     **NOTE**: If unsure about the O-Net occupation code, search within the O-Net occupation code search bar to find a job title/code matching the proposed job title of client.
     ![O-Net Occupation Code Search Bar](assets/images/screenshots/Onet-occupationsearchbar.jpg)
     *Fig. 2: The O-Net Occupation Code Search Bar*
+
 5. Once you have a range of wage levels, prepare to determine the exact correct wage level in the next step below
+
 
 ### **Finding the Correct Wage Level**
 This step can vary by law firm on methodology to find the wage level according to USCIS standards. Here we have provided a excel spreadsheet example that aims to streamline the process to finding the correct wage level for your client in case your firm does not have a preexisting methodology for finding it. Please follow the steps below the table. 
@@ -41,34 +44,40 @@ This step can vary by law firm on methodology to find the wage level according t
 2. Determine the Experience Requirements 
    * (a): Input the years of experience required by both the employer and the O-Net job description. 
    * (b): If the numbers are equal then input a 0. 
-   * (c): If the number of years required by the employer are higher than the years required by O-Net, you will input a number according to the numerical difference between the two. 
+   * (c): If the number of years required by the employer are higher than the years required by O-Net, you will input a number according to the numerical difference between the two.
+   
      **Example**: If the employer requires 3 years and O-Net requires 1, then you would add 2 to the Wage Level Result Column.
   
        **NOTE**: You would input a 0 if the number of years O-Net required was higher than the years required by the employer.
 
 
 3.  Determine the Educational Requirements 
-       * (a): Input the degree required by both the employer and the O-Net job description. 
-       * (b): If the degrees are equal then in put a 0 (I.e. a Bachelors degree required for both employer and O-Net standards).
-       * (c): If the degree required by the employer is higher than the degree required by O-Net, you will input a number according to the difference between the two. 
-     **Example**: If the employer requires a Masters degree and O-Net requires a Bachelors degree, then you would add 1 to the Wage Level Result Column.
+    * (a): Input the degree required by both the employer and the O-Net job description. 
+    * (b): If the degrees are equal then input a 0 (I.e. a Bachelors degree required for both employer and O-Net standards).
+    * (c): If the degree required by the employer is higher than the degree required by O-Net, you will input a number according to the difference between the two. 
+  
+        **Example**: If the employer requires a Masters degree and O-Net requires a Bachelors degree, then you would add 1 to the Wage Level Result Column.
 
-         **NOTE**: You would input a 0 if the degree required by O-Net was higher than the years required by the employer.
+
+       **NOTE**: You would input a 0 if the degree required by O-Net was higher than the years required by the employer.
 
 4. Determine the Special Skills Requirements 
    * (a):  Carefully review the employers job description and the O-Net job description for the client.
    * (b): If there are any technical or specialized soft skills required by the employers job description that is not on the O-Net job description then add a 1 in the Wage Level Result column.
   
-      **NOTE**: The number you to the Wage Result Column add should never be above 1 for this section.
+      **NOTE**: The number you input into the Wage Result Column should never be above 1 for this section.
 
 5. Determine the Supervisory Duties Requirements 
    * (a):  Carefully review the employers job description and the O-Net job description for the client.
    * (b): If the number of employees that are overseen by the proposed client detailed on the employers job description is above the number of employees defined in the O-Net job description then add a 1 in the Wage Level Result column.
-      **NOTE: If the position already mentions the title pertaining to a manager then do not add a number and simply input a 0. This is due to the expectation that managers will be inherently overseeing employees.
+  
+      **NOTE**: The number you input into the Wage Result Column should never be above 1 for this section.
+  
+      **NOTE**: If the positions title already includes the word "manager" then do not add a number and simply input a 0. This is due to the expectation that managers will be inherently overseeing employees.
 
 6. Calculating Sum of the Wage Level Result Column
    * (a): Add the numbers in the Wage Level Result Column together. 
-   * (b): Refer back to your wage level range obtained in the previous step to determine correct prevailing wage.
+   * (b): Refer back to your wage level range obtained in the previous step and select the corresponding wage level to determine correct prevailing wage.
    * (b): Prepare to use this wage level information in the formal Labor Condition Application steps below.  
   
    
@@ -84,7 +93,7 @@ This step can vary by law firm on methodology to find the wage level according t
 3. Enter your credentials and select Form ETA-9035
 4. Select what type of visa application you are completing 
 5. Complete the steps in order until completion
-6.  **WARNING**: Upon filling out the form entirely, do not submit the form, simply click **save & quit** then click **save as 
+6.  **WARNING**: Upon filling out the form entirely, do not submit the form, simply click **save & quit** then click **save as** 
 ![9035 Form](assets/images/screenshots/9035form.jpg)
 *Fig. 6: Example of a ETA-9035 form before completion*
  
