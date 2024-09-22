@@ -2,7 +2,7 @@
 
 Use the content and structure to write the content for your branch's pull request.
 
-## How to write a ChatGPT prompt for brainstormings
+## How to write a ChatGPT prompt for brainstorming
 
 **Completed Work**
 
