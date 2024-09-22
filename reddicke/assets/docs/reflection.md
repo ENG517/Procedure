@@ -33,10 +33,12 @@ Please see the usage of specific links within the edit request for both PR's
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
 I believe the most obvious example of consistent use of markdown in my first procedure can be seen here: 
-![Code Example 1](assets/images/screenshots/codeexample1.png)
+[Code Example 1](assets/images/screenshots/codeexample1.png)
 
 I tried to use standardized heading levels with clear, repeated use of numerical list where the steps must be in order. I liked creating alerting moves in between distinct steps to clarify details or alternative ways to do the step. 
 
 My second procedure example is seen here: 
-![Code Example 2]()
+[Code Example 2](assets/images/screenshots/codeexample2.jpg)
+
+This second example shows a consistent use of subsections within coaching steps. The reason why many of these are in the (a),(b), and (c) style is because the substeps are meant to provide more context within the main step. The main step makes the goal clear, such as "Determine the Educational Requirements" , while the substeps provide more clarity to the actual step as well as explaining the complex process within it. I also provided notes and examples to help understand the complex process. 
 
