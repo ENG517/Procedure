@@ -9,7 +9,10 @@ Small chip/crack - can be fixed at home:
 ![A small chip in a windshield next to a person's hand for size reference.](assets/images/chip.jpg)
 
 Large crack-- **cannot be fixed at home**:
-![A wide crack in a windshield that is unsuitable to be filled at home.](assets/images/bigcrackinwindshield.jpg)
+
+<img src="assets/images/bigcrackinwindshield.jpg" alt="A wide crack in a windshield that is unsuitable to be filled at home." style="width: 470px">
+
+
 
 ## Tools Needed
 * [Windshield repair kit](https://www.autoguide.com/10-best-windshield-repair-kits), available online or at an automotive repair store.
