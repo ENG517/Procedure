@@ -17,8 +17,8 @@ Large crack-- **cannot be fixed at home**:
 ## Tools Needed
 * [Windshield repair kit](https://www.autoguide.com/10-best-windshield-repair-kits), available online or at an automotive repair store.
   * **Note:** There are two main types of crack repair kits available, suction-adhesive and syringe-adhesive. Both kits fill the crack with different methods.
-    * Suction-adhesive kits use an applicator that suctions to the windshield to inject a crack with an epoxy formula. Durable and can be reused.
-    * Syringe-adhesive kits only use a syringe to inject the epoxy formula. Good for hard-to-reach places.
+    * [Suction-adhesive kits](https://www.oreillyauto.com/detail/c/rain-x/oil--chemicals---fluids/adhesives---sealants/windshield-window-repair/130050ea5127/rain-x-0-35-ounce-windshield-repair/rnx0/600001?pos=0) use an applicator that suctions to the windshield to inject a crack with an epoxy formula. Durable and can be reused.
+    * [Syringe-adhesive kits](https://www.amazon.com/Permatex-09103-Windshield-Repair-Kit/dp/B000ALJ4MY) only use a syringe to inject the epoxy formula. Good for hard-to-reach places.
 * Window cleaner
 * Microfiber cloth
 * Needle or thumbtack
