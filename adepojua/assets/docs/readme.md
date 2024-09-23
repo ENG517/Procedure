@@ -3,5 +3,3 @@
 Any documents that you include should be organized in this folder.
 
 Feel free to add any subfolders, as desired.
-
-[Adepoju-Task-Analysis](/adepojua/assets/docs/Adepoju-Task-Analysis.pdf)
