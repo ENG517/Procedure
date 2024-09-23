@@ -29,7 +29,13 @@ Large crack-- **cannot be fixed at home**:
    * **Caution:** Do not spray window cleaner into the crack/chip, which can prevent the epoxy formula from drying and interfere with the repair.
 2. Gently scrape out any debris from the crack with the needle or thumbtack.
 3. Allow the affected area to dry completely.
-5. Insert the adhesive formula into the syringe and apply to the crack. Let dry.
+5. Insert the adhesive formula into the syringe and apply to the crack. Let dry for at least 30-45 minutes.
    * Optional: If using a suction-adhesive kit, place the included patch or suction over the damaged area before injecting the adhesive. The suction provides a tight seal and removes air from the crack.
    * Optional: If using a kit that requires the adhesive formula to be mixed before application, carefully mix the epoxy and hardener to create the adhesive formula before injection.
+    
+<img src="assets/images/fillcrack.png" alt="Filling a crack with a syringe" style="width:470px">
+
 6. Scrape away excess adhesive with a razor blade.
+
+<img src="assets/images/razorcrack.jpg" alt="Alt text" style="width: 470px">
+
