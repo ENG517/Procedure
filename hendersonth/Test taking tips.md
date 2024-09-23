@@ -1,5 +1,5 @@
 # Hi Set exam tips
-![pencil and paper still](\assets\images\OIP.jpeg)
+![pencil and paper still](/assets/images/OIP.jpeg)
 <ul>
 <li> Take 30 minuets to study your study guide for two weeks leading up to the exam, however you must also come to class </li>
 <li> 70% of the questions are skills based questions meaning the answers can be found within reading passages, pictures and diagrams </li>
