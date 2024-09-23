@@ -27,8 +27,7 @@ For the procedure on how to write a cover letter, the framing elements are the b
 
 The “coaching” elements are short but clear and concise.
 
-![alt text]
-(youngm/assets/images/screenshots/cover letter procedure coaching .png)
+![alt text](C:\Users\malyou\OneDrive - SAS\Desktop\Procedure\youngm\assets\images\screenshots\cover letter procedure coaching .png)
 
 Quite frankly, I am not sure this was the best topic to choose for this particular project because writing a cover letter ended up being a more fluid process than I was initially expecting.
 The tips section of this procedure function as the “alerting” element by reminding the reader of logistical parameters.
