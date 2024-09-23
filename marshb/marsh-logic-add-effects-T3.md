@@ -1,18 +1,21 @@
 # How to Explore Vocal Effects in Logic Pro
 #### Logic Pro contains many vocal effects such as delay, reverb, chorus, phasers, and many more. Learn how to use vocal effects in Logic Pro through this tutorial.
 
+If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-presets-t2.md) for a tutorial.
+
 ## Vocal Effects in Logic Pro
 
 ### 1. Create an Audio Track
 - Create an Audio Track within Logic Pro. For more help click [here.](marsh-logic-create-audio-track.md)
 ![alt text](assets/images/screenshots/create_audio.jpg)
 
-### 2. Find the Effects Chain
-- The effects chain is a grey box that is included within your track window
-Include Graphic Here
+### 2. Find the Audio FX Chain
+- The Audio FX Chain is a grey box that is included within your track window
+![Audio FX Location](assets/images/screenshots/P3-t2.jpeg)
 
 ### 3. Select the Vocal Effects You Want to Use
-Insert Graphic Here (will do at a later point)
+- When selected, the audio FX chain will open a drop down menu that includes all audio effects that Logic Pro offers. 
+![List of Audio Effects](assets/images/screenshots/P3-t3.jpeg)
 
 
 
