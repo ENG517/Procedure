@@ -6,7 +6,7 @@ In the early stages of the game, farming and selling crops is the best way to bu
 
 ## Pre-Requisites
 ### Pre-Game Requirements
-Must have [Steam](https://store.steampowered.com/) installed, and be signed in to your account
+* Must have [Steam](https://store.steampowered.com/) installed, and be signed in to your account
 * Must have Stardew Valley in your Steam Library
   * This means that you have purchased, or were gifted the game
 * Have Stardew Valley 1.6 installed
