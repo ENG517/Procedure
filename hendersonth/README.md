@@ -15,3 +15,5 @@ Tom creates a two-week study plan, dedicating 30 minutes daily to his study guid
 Lisa focuses on visual learning, practicing with diagrams and passages to prepare for the 70% skills-based questions on the exam.<br>
 Mark prioritizes vocabulary study but also practices using context clues to understand unfamiliar words during practice tests.<br>
 Jenny adopts a strategy to answer every question on the test, choosing 'C' for complete guesses to avoid leaving any blanks.
+
+Changed file
