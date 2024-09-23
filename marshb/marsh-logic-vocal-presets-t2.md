@@ -2,6 +2,11 @@
 
  Logic Pro is home to a wide variety of vocal presets for new users to utilise and experiment with while using the Digital Audio Workstation (DAW). By the end of this tutorial, you will be able to locate and utilise all vocal presets Logic Pro has to offer. 
 
+## Conditions
+#### Before you begin, here is what you need.
+1. Own a Apple Macbook Pro, Macbook Air, or iMac.
+2. Purchase Logic Pro from the application store.
+
 ## How to Locate Vocal Presets in Logic Pro
 
 ### 1. Create an Audio Track
