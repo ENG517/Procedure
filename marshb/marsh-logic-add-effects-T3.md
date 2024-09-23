@@ -3,8 +3,9 @@
 
 ## Vocal Effects in Logic Pro
 
-### 1. Create a Vocal Track
+### 1. Create an Audio Track
 - Create an Audio Track within Logic Pro. For more help click [here.](marsh-logic-create-audio-track.md)
+![alt text](assets/images/screenshots/create_audio.jpg)
 
 ### 2. Find the Effects Chain
 - The effects chain is a grey box that is included within your track window
