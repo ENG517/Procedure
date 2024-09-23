@@ -2,8 +2,6 @@ Ensuring keyboard accessibility is essential for users who cannot use a mouse. F
 
 1. Start by using the **Tab** key to move through links, buttons, and form fields. Ensure all elements can be accessed via the **Tab** key. 
 
-    ![a view of ]
-
     **Note**: If elements are not accessible, users relying on keyboards won't be able to interact with them. Also, make sure the focus indicator (the outline around selected elements) is visible. Without it, users may lose track of which element is active.
 
     ![An example of css code to make focus state visible](/adepojua/assets/images/screenshots/Screenshot%202024-09-20%20at%2023.54.25.png)
