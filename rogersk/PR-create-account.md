@@ -20,3 +20,4 @@ Who: Gina is a 50 year old woman who is inspired to make an instagram account to
 - One concern I have is that Instsgram bascially already prompts the user very clearly for each of the steps that I included. 
 - How can I more clearly tailor my tutorial to this individual without overcomplicating the instructions?
 - Images would greatly improve the instructions. I am in the process of adding them.
+- [My work so far](rogersk-p-instagram-create-account.md)
