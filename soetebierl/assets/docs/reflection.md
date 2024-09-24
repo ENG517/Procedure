@@ -3,8 +3,7 @@
 Write a short analysis (~500 words) in which you explain what you did to meet the assignment's criteria. Use the criteria as headings to structure your reflection.
 
 ## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.
-
-
+In both of my procedures, I have presented the information to complete each task in smaller chunks as Reddish suggests "
 
 ## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.
 
