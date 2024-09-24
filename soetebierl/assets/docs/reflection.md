@@ -27,7 +27,9 @@ Because my target user is a prospective player, my pre-requisites detail both th
 
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
+I began my use of docs-as-code by using different branches to complete the procedures for each task. Additionally, I made commits after each WTGA stage so that my work could be better legible for future reviwes.
 
+<img src="assets\images\screenshots\use-of-commits-task-1.png" alt="Screenshot from github showing commits for task 1" style="width: 350px">  <img src="assets\images\screenshots\use-of-commits-task-2.png" alt="Screenshot from github showing commits for task 2" style="width: 350px">
 
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
