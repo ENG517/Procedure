@@ -32,12 +32,21 @@ Throughout all procedures I utilize "Notes" to alert the user to important infor
 
 ## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
 
+[Procedure One](../../marsh-logic-create-audio-track.md) is for the most novice audience. Creating an audio track is an essential task for using Logic Pro, so I used the most plain language when creating this procedure. I used more detailed graphics within the procedure because novice user will not be familiar with Logic Pro's user interface. For alerting moves, I made sure that the user understood to select the correct input for their track. More experienced users will understand that this is an essential part of using Logic Pro.
 
+[Procedure Two](../../marsh-logic-vocal-presets-t2.md) is meant for an mid-level experienced user. I add a brief link to my first procedure to ensure that the user understands what they need to know before beginning the tutorial. The steps within the task are less rudimentary and rely upon insignificant prior information (i.e. how to create a Logic Pro file, etc.). My alerting boxes are more for extra information that the user might find useful but is not necessary to the task at hand. 
+
+[Procedure Three](../../marsh-logic-add-effects-T3.md) is for an experienced user of Logic Pro who is interested in learning how to experiment with the tools offered within the program. The tutorial is very basic and only describes how to access the panel where effects can be found. After the tutorial, there is a significant section that provides the user with information about effects within Logic Pro. This information is meant to provide the user a better understanding of how they migth want to incorporate effects to their vocal tracks. 
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 
-
+Lauren gave me feedback and I gave lauren feedback. She suggested that I create the **conditions** section of my document. I believe that this section is incredibly important to my work. Without it, the user would not know what materials are needed for the procedure. She made a suggestion through Github and I employed her suggestion. 
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
+- All of my titles are heading One
+
+- All of my step-by-step instructions are heading three and numbered (unless as a conclusion or during teaching steps)
+
+- All of my alerting steps have a bolded **Note:** and are italicized for increased awareness from the user. 
 
