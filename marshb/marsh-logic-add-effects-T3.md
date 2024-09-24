@@ -5,7 +5,7 @@ If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-prese
 
 ## Conditions
 #### Before you begin, here is what you need.
-1. Own a Apple Macbook Pro, Macbook Air, or iMac.
+1. Own a Apple Macbook Pro, Macbook Air, Mini Mac, or iMac.
 2. Purchase Logic Pro from the application store.
 
 ## Vocal Effects in Logic Pro
