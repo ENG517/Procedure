@@ -1,0 +1,23 @@
+# Pull Request Template
+
+Use the content and structure to write the content for your branch's pull request.
+
+## Task 1 - Create Vocal Track
+
+**Completed Work**
+
+- Created new procedure: `marshb/marsh-logic-create-audio-track.md`
+- Procedure's Goal: Create initial introduction and provide a tutorial on how to create a vocal track in Logic Pro.
+
+## User Scenario
+
+John is new to logic and wants to create a vocal track. He is completely novice to the interface and needs instructions on how to create a vocal track.
+
+## Notable Review Requests
+
+Is my information clearly presented to the novice user?
+
+Is my introductory information relevent to the task? If not, what could I add to make it more useful or interesting? 
+
+Are the graphics a useful tool for the user to benefit from?
+
