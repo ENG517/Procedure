@@ -1,4 +1,4 @@
-# Welcome to Instragram: A Beginners Guide
+# Welcome to Instragram: A Beginner's Guide
 
 This proceedure assignment will guide those interested in using instagram through the early stages of creating and account and using the mobile application.
 
