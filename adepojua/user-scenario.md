@@ -2,4 +2,7 @@
 
 **Scenario**: Paste the scenario text here.
 
-Refer also to my [Task Analysis](assets/docs//Adepoju-Task-Analysis.pdf)
+Who: A web developer
+Motivation: To ensure the website is fully navigable via keyboard alone.
+Goal: Test and fix any keyboard accessibility issues.
+Important Characteristics: Experienced professional, technically proficient in coding but may not know all the specifics of accessibility testing.
