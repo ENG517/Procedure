@@ -110,9 +110,9 @@ On this screen there is also an option for you to view the "Advanced Game Option
 <img src="assets\images\screenshots\game-op-icon.png" alt="Wrench icon for advanced game options " style="width: 200px">
 
 This will allow you to change certain settings to make the game more or less difficult to suit your level of experience. Items you can are shown in the images below:
-<img src="assets\images\screenshots\game-op-page-1.png" alt="Advanced game options: Alter community center bundle; guarentee year 1 completable, alter mine rewards, spawn monsters on the farm" style="width: 500px"> <img src="assets\images\screenshots\game-op-page-2.png" alt="Advanced game options: profit margins, Multiplayer options (starting cabins, cabin layout) random seed" style="width: 500px">
+<img src="assets\images\screenshots\game-op-page-1.png" alt="Advanced game options: Alter community center bundle; guarantee year 1 completable, alter mine rewards, spawn monsters on the farm" style="width: 500px"> <img src="assets\images\screenshots\game-op-page-2.png" alt="Advanced game options: profit margins, Multiplayer options (starting cabins, cabin layout) random seed" style="width: 500px">
   
->**Note:** This is not reccomended for new players. When you select your farm, the game settings will be set to the ideal default for that particular type of farm, so no further action is needed.
+>**Note:** This is not recommended for new players. When you select your farm, the game settings will be set to the ideal default for that particular type of farm, so no further action is needed.
 
 ## Starting Game Play
 When you are satisfied with your choices for:
@@ -124,4 +124,4 @@ When you are satisfied with your choices for:
 * Appearance
 * Game Options (optional)
 
-Click "OK" to procede to the game!
+Click "OK" to proceed to the game!
