@@ -10,8 +10,8 @@ If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-prese
 
 ## Vocal Effects in Logic Pro
 
-### 1. Create an Audio Track
-- Create an Audio Track within Logic Pro. 
+### 1. Create an Audio Track within Logic Pro
+ 
 - Click [here](marsh-logic-create-audio-track.md) for a tutorial on how to create an audio track.
 
 ![Create Audio Track](assets/images/screenshots/create_audio.jpg)
@@ -21,13 +21,15 @@ If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-prese
 - The Audio FX is a grey box that is included within your track information window. Click on the Audio FX box.
 
 ![Audio FX Location](assets/images/screenshots/P3-t2.jpeg)
+> **Note:** *The audio track control panel contains many tools for processing a vocal track. Be sure to be precise when selecting from the control panel.*
 
 ### 3. Select the Vocal Effects You Want to Use
-- When selected, the audio FX chain will open a drop down menu that includes all audio effects that Logic Pro offers. 
+- Click anywhere within the audio FX box.
+- When selected, the audio FX box will open a drop down menu that includes all audio effects that Logic Pro offers. 
+- Select an effect from the drop down menu.
 
 ![List of Audio Effects](assets/images/screenshots/P3-t3.jpeg)
-
-- Select an effect from the drop down menu.
+>**Note:** *When other effects are already initiated, click below or above prior effects to insert new effects within the order you want them to be.*
 
 > **Note:** *If you wish to remove an effect from your track, select the effect and click "No Plug-in" to remove the effect.* 
 # An Overview of Vocal Effects/Chains in Logic Pro

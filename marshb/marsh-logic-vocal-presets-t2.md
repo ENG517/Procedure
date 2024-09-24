@@ -9,9 +9,9 @@
 
 ## How to Locate Vocal Presets in Logic Pro
 
-### 1. Create an Audio Track
+### 1. Create an Audio Track within Logic Pro
 
-- Learn how to create an [audio track](marsh-logic-create-audio-track.md)
+- Click [here](marsh-logic-create-audio-track.md) for a tutorial on how to create an audio track.
 
 ![Audio Track Starting Point](assets/images/screenshots/T2-step1.jpg)
 
@@ -21,19 +21,19 @@
 
 ![Open Library](assets/images/screenshots/T2-step2.jpg)
 
-> **Note:** Logic Pro's library is home to MIDI keyboards, guitar presets, and AI drummers as well.
+> **Note:** *Logic Pro's library is home to MIDI keyboards, guitar presets, and AI drummers as well.*
 
 ### 3. Locate the *voice* option within the menu
-
+- Select **Voice** from the menu.
 - Directly below the library icon in Logic Pro's sound library, voice will be the third option from the top. 
 
 ![Locate Voice Option](assets/images/screenshots/T22-step3.jpg)
 
 ### 4. Explore Logic Pro's vocal presets
-
-- Logic has a variety of vocal presets that range from mimicking the 1960s to expiremental delay
 - Once you select a vocal preset, the settings will be applied to your vocal track
+- Logic has a variety of vocal presets that range from mimicking the 1960s to expiremental delay
+
 
 ![Vocal Preset Options](assets/images/screenshots/T2-step4.jpg)
 
-> Logic comes with stock vocal presets, but more vocal presets can be downloaded from third party websites
+>**Note:** *Logic comes with stock vocal presets, but more vocal presets can be downloaded from third party websites.*

@@ -25,6 +25,8 @@ Logic Pro is a **digital audio workstation (DAW)** owned by Apple inc. Apple acq
 
  ![Selecting Empty Project Photo](assets/images/screenshots/create_project.jpg)
 
+ > **Note:** *If you wish to add an audio to an existing project, select **Open an existing Project** in the bottom left corner.*
+
 3. ### Press the + button to **_create a new track_**
 - The **+ button** in the middle of the Logic Pro workspace allows you to create a variety of different track options: Software Instrument, Audio, Drummer, External MIDI, and Guitar or Bass.
 
