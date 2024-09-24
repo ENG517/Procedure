@@ -4,7 +4,7 @@
 
 ## Conditions
 #### Before you begin, here is what you need.
-1. Own a Apple Macbook Pro, Macbook Air, Mini Mac, or iMac.
+1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac.
 2. Purchase Logic Pro from the application store.
 
 ## How to Locate Vocal Presets in Logic Pro
