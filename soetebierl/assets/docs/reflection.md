@@ -29,9 +29,46 @@ Because my target user is a prospective player, my pre-requisites detail both th
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 I began my use of docs-as-code by using different branches to complete the procedures for each task. Additionally, I made commits after each WTGA stage so that my work could be better legible for future reviews.
 
-<img src="images\screenshots\use-of-commits-task-1.png" alt="Screenshot from github showing commits for task 1" style="width: 350px">  <img src="\images\screenshots\use-of-commits-task-2.png" alt="Screenshot from github showing commits for task 2" style="width: 350px">
+<img src="reflection screenshots\use-of-commits-task-1.png" alt="Screenshot from github showing commits for task 1" style="width: 700px">  <img src="reflection screenshots\use-of-commits-task-2.png" alt="Screenshot from github showing commits for task 2" style="width: 700px">
 
+Once my procedures were at a stage where they were reviewable I submitted a pull request for each procedure.
+
+<img src="reflection screenshots\pull-request-task-1.png" alt="Screenshot from github showing pull request for task 1" style="width: 700px">  <img src="reflection screenshots\pull-request-task-2.png" alt="Screenshot from github showing commits for task 2" style="width: 700px">
+
+Once I had received feedback from my reviewers, I implemented those changes and summarized them in my commits.
+<img src="reflection screenshots\summary-of-pr-changes-task-1.png" alt="Screenshot from github showing commit summary with pr changes for task 1" style="width: 700px"> 
+
+<img src="reflection screenshots\summary-of-pr-changes-task-2.png" alt="Screenshot from github showing commit summary with pr changes for task 2" style="width: 700px">
+
+One specific edit taken directly from the PR Feedback I made was to how I presented Steam in my pre-requisites.
+<img src="reflection screenshots\steam-comment.png" alt="Screenshot from github comment on the confusion regarding steam" style="width: 700px"> 
+<img src="reflection screenshots\steam-change-code.png" alt="Screenshot from github comment on the confusion regarding steam" style="width: 700px"> 
+
+While I considered all the comments carefully, I did not blindly make the changes proposed by my teammates. For example, rather than delete the section on sprinklers and fertilizer that Camille suggested was taking away from the task orientation, I reorganized my information to include this blurb at the end of the procedure. I agreed that it took away from the user's task orientation, but I felt that this information was still vital for fulfilling the user's read to learn to do goal. 
+
+<img src="reflection screenshots\optional-change-comment.png" alt="Screenshot from github of the comment on removing the sprinkler section." style="width: 700px"> 
+<img src="reflection screenshots\optional-change-code.png" alt="Screenshot from github of the code moving the sprinkler section." style="width: 700px"> 
+
+Once this reflection is complete, I will end my docs-as-code workflow by merging the pull requests with the main branch.
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
+I utilized Markdown to create a hierarchy of information. I did this first through my use of different heading levels to separate the WTGA moves, and nest tasks within each other where needed. For sections that were the same across both procedures, such as Pre-Requisites, I used the same level of headings.
+
+<img src="reflection screenshots\use-of-subheadings.png" alt="Screenshot from code showing my use of headings and subheadings" style="width: 700px"> 
+
+I also used both ordered and unordered lists to organize information. Unordered lists were use for non-sequential information such as pre-requisites, or the different farm types, while ordered lists were use to show the steps to complete each task.
+
+<img src="reflection screenshots\lists.png" alt="Screenshot from code showing the different uses of unordered and ordered lists in my procedures." style="width: 700px"> 
+
+All of my alerts were consistently formatted using the block quote style available through Markdown.
+
+<img src="reflection screenshots\alerts.png" alt="Screenshot from code showing the consistent use of block quotes to format alerts." style="width: 700px"> 
+
+I also made use of links to direct users to other pages where necessary.
+
+<img src="reflection screenshots\links.png" alt="Screenshot from code showing use of links." style="width: 700px"> 
+
+Finally, I utilized HTML in Markdown to reformat all of my pictures to ensure relatively consistent, and appropriate sizing for all my embeded images.
+<img src="reflection screenshots\consistent-image-resizing-1.png" alt="Screenshot from code showing the different uses of unordered and ordered lists in my procedures." style="width: 1000px"> 
 
 

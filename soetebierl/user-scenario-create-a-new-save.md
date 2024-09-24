@@ -8,4 +8,4 @@ They aren’t sure where to start, or what all the questions they are being aske
 
 They also want to be sure that they pick a farm type that fits with their aesthetics, but doesn't make the game more or less difficult to play.
 
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+Refer also to my [Task Analysis](assets/docs/Soetebier-Task-Analysis.pdf)
