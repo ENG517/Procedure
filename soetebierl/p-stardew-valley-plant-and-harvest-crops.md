@@ -38,7 +38,7 @@ Pierre's General Store has the best prices for seeds from the start of the game,
    <img src="assets\images\screenshots\pierre-store-and-counter.png" alt="A side-by side view of Pierre's general store from the outside, and inside" style="width: 700px">
 
 2. Approach Pierre. 
-3. From across the counter, right click on Pierre to bring up his shop catalogue.
+3. From across the counter, right click on Pierre to bring up his shop catalogue. If you approach Pierre from the same side of the counter, you will start a dialogue, or give him a gift rather than accessing the shop catalogue.
   
 4. Scroll to find and select the plants you wish to grow.
    
