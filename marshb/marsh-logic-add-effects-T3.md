@@ -29,9 +29,9 @@ If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-prese
 - Select an effect from the drop down menu.
 
 ![List of Audio Effects](assets/images/screenshots/P3-t3.jpeg)
->**Note:** *When other effects are already initiated, click below or above prior effects to insert new effects within the order you want them to be.*
+>1. **Note:** *When other effects are already initiated, click below or above prior effects to insert new effects within the order you want them to be.*
 
-> **Note:** *If you wish to remove an effect from your track, select the effect and click "No Plug-in" to remove the effect.* 
+> 2. **Note:** *If you wish to remove an effect from your track, select the effect and click "No Plug-in" to remove the effect.* 
 # An Overview of Vocal Effects/Chains in Logic Pro
 #### Logic Pro is home to many vocal effects. Here is what you should know about vocal effects before expirementing.
 
