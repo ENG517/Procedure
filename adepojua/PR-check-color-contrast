@@ -1,0 +1,25 @@
+# Pull Request Template
+
+Use the content and structure to write the content for your branch's pull request.
+
+## Pull Request for Check Color Contrast
+
+**Completed Work**
+
+- Created new procedure: `p-website-check-color-contrast.md`
+- Procedure's Goal: To ensure content is easily readable by all users by confirming the contrast meets accessibility standards.
+
+
+## User Scenario
+
+- Who: A UX designer
+- Motivation: To ensure his company's website meets accessibility standards.
+- Goal: Ensure the color contrast between text and background is compliant with WCAG guidelines.
+- Important Characteristics: Intermediate-level user familiar with web design but needing clear, actionable steps for specific compliance requirements.
+
+## Notable Review Requests
+
+1. In my procedure, I sort of subtitled each step. The reason is because this is a technical document, and I wanted to be as clear as possible to the reader. So, if the steps were clustered, it would probably be easier to navigate. Do you think this is something that could work?
+2. Another area of interest would be to know if this proedure showcases all SCA moves.
+
+

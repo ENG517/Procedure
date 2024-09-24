@@ -1,5 +1,3 @@
-# User Scenario - Title Here
+# User Scenario - Morris
 
-**Scenario**: Paste the scenario text here.
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+**Scenario**: Scenario is in a pdf file- assets/docs/MorrisProcedure Ideation.pdf

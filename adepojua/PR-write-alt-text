@@ -1,0 +1,23 @@
+# Pull Request Template
+
+Use the content and structure to write the content for your branch's pull request.
+
+## Write Alt Text
+
+**Completed Work**
+
+- Created new procedure: `p-adepojua-website-write-alt-text.md`
+- Procedure's Goal: Ensure all images have appropriate alt text to improve accessibility for visually impaired users.
+
+
+## User Scenario
+
+Who: A junior content developer
+Motivation: To make sure images on the company blog are accessible.
+Goal: Write meaningful alt text for all images.
+Important Characteristics: New contributor with limited technical knowledge.
+
+
+## Notable Review Requests
+
+Is the guide clear enough for a content developer with limited technical expertise?
