@@ -4,4 +4,4 @@
 
 Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
 
-## !(Morris User Scenario and Procedure Ideation)[assets/docs/MorrisProcedure Ideation.pdf]
+## Morris [User Scenario and Procedure Ideation][assets/docs/MorrisProcedureIdeation.pdf]
