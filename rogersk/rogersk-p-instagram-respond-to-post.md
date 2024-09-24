@@ -31,6 +31,6 @@ If you want to share a post with someone else:
 
 After sending the post, this post should show up in the message thread between you and the user you shared it with.
 
-s
+
 
 
