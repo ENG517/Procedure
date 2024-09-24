@@ -37,15 +37,15 @@ Pierre's General Store has the best prices for seeds from the start of the game,
 
    <img src="assets\images\screenshots\pierre-store-and-counter.png" alt="A side-by side view of Pierre's general store from the outside, and inside" style="width: 700px">
 
-2. Approach Pierre. 
-3. From across the counter, right click on Pierre to bring up his shop catalogue. If you approach Pierre from the same side of the counter, you will start a dialogue, or give him a gift rather than accessing the shop catalogue.
+2. Approach Pierre, but stay behind the counter. If you approach Pierre from the same side of the counter, you will start a dialogue, or give him a gift rather than accessing the shop catalogue.
+3.Right click on Pierre to bring up his shop catalogue. 
   
-4. Scroll to find and select the plants you wish to grow.
+1. Scroll to find and select the plants you wish to grow.
    
    *Tip: If you hover over the seed you can see the growing details, such as what season you can plant the crop in, and how long it will take to grow.*
    
    <img src="assets\images\screenshots\pierre-purchase-menu.png" alt="The purchase menu from pierre's showing starter spring crops." style="width: 700px">
-5. Right-click to purchase one packet of seeds. Each packet will grow one plant of that type. 
+2. Right-click to purchase one packet of seeds. Each packet will grow one plant of that type. 
    > You can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, or a full stack of 999 by holding Control + Shift + 1 + left-click. Once you click, the money will automatically leave your inventory.
    
 ### Method 2: Joja Mart
