@@ -15,7 +15,7 @@ There is no set order that these steps need to be completed in, the following or
 
 ## Naming and Required Set-Up
 1. Launch Stardew Valley, and select the left-most button labeled "New" from the start menu. You will be brought to the character and farm creation page shown below.  <img src="assets\images\screenshots\full-starting-screen-capture.png" alt="Default Stardew Valley character and farm creation page" style="width: 700px">
-> **Note:** If you are not interested in customization, you can begin play after filling in the name, farm name, and favorite thing. Once comepleted the "OK" button in the bottom right corner will become available, and you can click this button to start game play.
+> **Note:** If you are not interested in customization, you can begin play after filling in the name, farm name, and favorite thing. Once completed the "OK" button in the bottom right corner will become available, and you can click this button to start game play.
 > 
 > **Warning:** Once you start game play you will be unable to make alterations to your farm and character, except with the Shrine of Illusions. *See "Altering Options in Game" later in this the tutorial for more information.*
 1. Type the name you want for your character into the "Name" field. This is the name that your character will have for the entire game, and will be how the NPCs refer to you.
@@ -49,12 +49,12 @@ There are eight different farm settings available to choose from in Stardew Vall
 1. Hover over the icons of each farm type for a general description of each farm type.
 If you want to learn the specific associated stats of each farm see the [Farm Maps Page](https://stardewvalleywiki.com/Farm_Maps) on the [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki)
 
-      <img src="assets\images\screenshots\standard-farm-hover.png" alt="The mouse is hovering over the icon for the standard farm and a short description has opened. The description says A simple plot of land with a large amount of open space to design your farm." style="width: 300px">  <img src="assets\images\screenshots\hilltop-farm-hover.png" alt="The mouse is hovering over the icon for the hilltop farm and a short description has opened. The description says Rocky terrain and a winding river make it difficult to design your farm. However, a mineral deposit proivides mining opportunities." style="width: 300px"> 
+      <img src="assets\images\screenshots\standard-farm-hover.png" alt="The mouse is hovering over the icon for the standard farm and a short description has opened. The description says A simple plot of land with a large amount of open space to design your farm." style="width: 300px">  <img src="assets\images\screenshots\hilltop-farm-hover.png" alt="The mouse is hovering over the icon for the hilltop farm and a short description has opened. The description says Rocky terrain and a winding river make it difficult to design your farm. However, a mineral deposit provides mining opportunities." style="width: 300px"> 
 
 1. Click to select that type of farm. A red box will appear to indicate that your selection has gone through.
 
 ## Character Design
-Designing your character is the portion of the set-up process with the most customizability. While the physical features of the characters have ridgid presets, you are able to select the exact colors of certain features. 
+Designing your character is the portion of the set-up process with the most customization. While the physical features of the characters have rigid presets, you are able to select the exact colors of certain features. 
 
 ### Pre-Set Selection
 1. Choose the character’s sex. It is best to select this first as the clothing and hair styles will change if you decide to switch the sex of your character later.
