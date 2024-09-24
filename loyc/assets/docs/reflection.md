@@ -4,20 +4,34 @@ Write a short analysis (~500 words) in which you explain what you did to meet th
 
 ## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.
 
+In my procedures, I attempt to focus on three strategies that address the needs of a “reading to learn to do” audience according to Redish:
 
+1. **Provide motivation before action:** I incorporated an “About section” at the beginning of each procedure that lets the user know why the procedures exist and how the tasks within them fit into that user’s “workflow.” For an audience that seeks to read to learn to do, they not only want to know the “how” but the “why.” In my “Reserving and applying an affix” procedure, I noted that “Breeders apply affixes to horses as a way to identify and market different bloodlines in the game.” This indicates why reserving/applying affixes is relevant to a player.
+
+2. **Provide specific examples to give the user better context:** Through the use of screenshots, I was able to give examples to reference the tasks I wrote about. This allows the reader to gain a fuller understanding of the procedure because they can see it play out with actual horses on the game. In my “Maximizing the BLUP value of a horse” procedure, I used the KWPN breed as the example for blupping so that users can compare it with their own breed of choice for blupping.
+
+3. **Orient the user in a way that helps them build a strong concept network of the game at large:** I included context information that helps build the knowledge the user has of the game at large. I wrote information that adjacently relates to the task without being too distracting. For example, in my “Covering a mare with a public covering offer” procedure, I included context information about both public and private covering offers to distinguish them as having separate processes, even though I only included the tasks for one of those types.
 
 ## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.
 
+**Staging:** I included background information for each topic in my procedures that “sets the stage” for the user. This includes the “About” and “Prerequisites” sections that I wrote that house crucial context-setting and items/tasks users must have/do prior to carrying out the procedure. For example, in my “Reserving and applying an affix” procedure, I wrote: “Horses that you choose to give an affix to must: (1) Be born in your breeding farm, (2) Not be part of a breeding team’s lineage.” This sets prerequisites for the procedure that prepares the user before they complete the tasks.
 
+**Coaching:** I broke each task down into concrete steps and made sure they included commands so that the user knows exactly what they need to do in each step. For example, I wrote one of the steps in the “Covering a mare” procedure as: “Find the **Breeding** tile on the mare’s page, and select **Cover my mare**.”
+
+**Alerting:** I included alerts and tips in block quotes throughout each of my procedures to inform users of important information they’ll need to know for different steps, particularly when it comes to warnings and indication of negative consequences. For example, I included in the “Covering a mare” procedure: “Note: Once you accept the public covering offer, you cannot undo it. Be sure to double check the genetic details of the horses you’re breeding, and apply all desired Black Market Items to your mare *before* the covering is accepted.”
 
 ## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
 
-
+Each of my procedures addresses audiences at three different familiarity levels with the game, ranging from complete beginner (reserving/applying an affix) to advanced (maximizing the BLUP of a horse). The way that my procedures bend to these levels has to do with the amount of information I assume the user knows, which informs how I write my steps. In general, I aimed to keep a standard set of SCA moves for each procedure, but the largest difference between them based on audience/goals is within the coaching stage for each one. For example, my procedure about affixes breaks down every step in the process, including what to click and where. However, for the procedure about maximizing BLUP, the steps are not necessarily broken down entirely for the user. It crunches a bunch of repetitive actions down into one step by saying “Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water. Do this until your horse can no longer gain skills from forest rides.” In this instance, I am assuming that the user has basic-level knowledge and is familiar with how to care for a horse. This is so I don’t have to say “Step 1: Groom the horse. Step 2: Go on forest rides for 2 hours. Step 3: Give the horse a carrot. Step 4: Give the horse mash. Step 5: Go on forest rides for 2 more hours, etc.” as this would get really, really tedious.
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 
-
+When I wrote my procedures, I cloned the repository to my local device and created three individual branches to work on—one for each procedure file I had. I worked on these individually, pushed my commits, and created a pull request that I got peer feedback on. I also gave feedback on  my peers’ pull requests via comments on pieces of their procedures—I left longer comments like this on the pull requests and smaller, line-by-line comments like this.
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
+I used consistent headings throughout all of my procedures—I particularly stuck to using H2 (## Heading) for all of them except for the title, which was H1 (# Heading). I also remained consistent with my use of block quotes to signal figures/captions for images, alerts, and tips. Anytime I mentioned a particular page, tab, or button, I made sure to bold it so that it stood out to the user. In some cases, I also bolded important terminology as it was introduced to users in the procedure.
 
+In the following screenshot, you can see how I kept bolding specific to certain buttons and tab/window names.
+
+![Screenshot of my markdown file with circles around the text that is bolded, including: **Breading Farm > Office**, **My affixes**, **Reserve an affix**, and **Create this affix**.](assets/images/screenshots/ss-reflection-reference.png)
