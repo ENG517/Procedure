@@ -6,7 +6,7 @@ Use the content and structure to write the content for your branch's pull reques
 
 **Completed Work**
 
-- Created new procedure: `p-filename-here.md`
+- Created new procedure: `rogersk-p-instagram-respond-to-post.md`
 - Procedure's Goal: Respond to posts on Instagram
 
 ## User Scenario
