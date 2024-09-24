@@ -4,7 +4,7 @@ University Housing provides all residents living in Wolf Village with free and p
 
 Washing your laundry is simple and will only take you a few minutes to learn (the machines will take care of the rest!)
 
-Residents must use their own detergents, dryer sheets, etc.
+**Note**: Residents must use their own detergents, dryer sheets, and other cleaning supplies.
 
 ## Washing your Clothes
 
@@ -34,13 +34,14 @@ Your laundry is now in the wash cycle. The control panel will display the remain
 
 1. Remove the wet clothes from the washer and move them into the dryer.
    
-   Check the lint trap to ensure it is empty. 
+2. **Alert**: Ensure the lint trap is empty.
    
-2. **Alert**: Ensure the lint trap is empty
+   * The lint trap is located below the dryer door openning.
    
 3. **Optional**: Add a dryer sheet or dryer balls.
 
     * This will help reduce dry time, and static clothes.
+    * **Note**: never put scent beads in the dryer.
 
 4. Close dryer door.
 
