@@ -14,13 +14,13 @@ You can check if pip is installed by running the following command in your termi
 
 ![Python2](assets/images/screenshots/Python2.png)
 
-## Step 1: Install Matplotlib
+1. **Install Matplotlib**
 
 You can install Matplotlib by opeing your computer's terminal and running the following command:
 "pip install matplotlib
 ![Python3](assets/images/screenshots/Python3.png) 
 
-## Step 2: Verifying Matplotlib is installed
+2. **Verifying Matplotlib is installed**
 
 To verify Matplotlib is installed, navigate to your IDE and type the following.
 "import matplotlib
