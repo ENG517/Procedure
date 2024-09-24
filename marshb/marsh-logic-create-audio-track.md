@@ -43,6 +43,6 @@ Logic Pro is a **digital audio workstation (DAW)** owned by Apple inc. Apple acq
 
 ### Check Your Progression
 
-- After you have completed these steps you should have an audio track as seen below
+- After you have completed these steps you should have an audio track as seen below.
 
 ![Progress Photo](assets/images/screenshots/end_task1.jpg)
