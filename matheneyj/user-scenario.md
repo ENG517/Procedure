@@ -1,5 +1,11 @@
-# User Scenario - Car Repair: Fixing a Windshield Crack
+# User Scenario - Title Here
 
-**Scenario**: Maurice just bought a new car. He’s upgraded to a newer model in the same brand, which has new features and tools. After a few days, he discovered a chip in his windshield, which is upsetting. As an older man, Maurice has trouble learning new things and has limited mobility in his arms. He’s also somewhat confused and annoyed by the new technology of car window repair companies; Maurice feels that he can do the same thing at home for less. He has a basic-intermediate knowledge of automotive repair but has never had to fill a windshield crack before.
+**Scenario**:  
+[Procedure 1](p-car-repair-fill-scratch) Lauren has a hobby of repairing cars in her free time, but isn't an expert in autobody or cosmetic repairs. She's familiar with repair tools and processes regarding the interior of the car, but after finding a deep scratch in her vehicle, she's at a loss for what to do. This frustrates her somewhat. Lauren wants a solution that isn't too expensive or time-consuming and accomodates her beginner-level autobody knowledge.
 
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+[Procedure 2](p-car-repair-fix-crack) Maurice just bought a new car. He’s upgraded to a newer model in the same brand, which has new features and tools. After a few days, he discovered a chip in his windshield, which is upsetting. As an older man, Maurice has trouble learning new things and has limited mobility in his arms. He’s also somewhat confused and annoyed by the new technology of car window repair companies; Maurice feels that he can do the same thing at home for less. He has a basic-intermediate knowledge of automotive repair but has never had to fill a windshield crack before.
+
+[Procedure 3](p-car-repair-window-replace) Julie has a broken window in the car she’s owned for several years. She’s fairly well-versed in automotive repair and maintenance, but has never had to deal with this issue before. Since she prefers to do her own basic-intermediate repairs, Julie owns an extensive set of tools and has already ordered a replacement window pane. Julie has an idea of what to do, but needs instructions to guide her through the replacement process to ensure she doesn’t make any major errors. She’s worried about irreparably damaging the glass itself or the window motor, and is hesitant to start.
+
+Refer also to my [Priority Guide](assets/docs/MatheneyTaskAnalysis.docx.pdf)  
+**Note:** my Task Analysis has different scenarios and user personas than in these procedures-- I misunderstand the original assignment and changed the tasks/scenarios/personas to fit this work.
