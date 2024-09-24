@@ -6,7 +6,7 @@ Use the content and structure to write the content for your branch's pull reques
 
 **Completed Work**
 
-- Created new procedure: `p-filename-here.md`
+- Created new procedure: `rogersk-p-instagram-create-account.md`
 - Procedure's Goal: To explain how to create an instagram account
 
 ## User Scenario
