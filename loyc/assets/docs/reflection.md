@@ -26,7 +26,7 @@ Each of my procedures addresses audiences at three different familiarity levels 
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 
-When I wrote my procedures, I cloned the repository to my local device and created three individual branches to work on—one for each procedure file I had. I worked on these individually, pushed my commits, and created a pull request that I got peer feedback on. I also gave feedback on  my peers’ pull requests via comments on pieces of their procedures—I left longer comments like this on the pull requests and smaller, line-by-line comments like this.
+When I wrote my procedures, I cloned the repository to my local device and created three individual branches to work on—one for each procedure file I had. I worked on these individually, pushed my commits, and created a pull request that I got peer feedback on. I also gave feedback on  my peers’ pull requests via comments on pieces of their procedures—I left longer comments [like this](https://github.com/ENG517/Procedure/pull/16#issuecomment-2365308489) on the pull requests and smaller, line-by-line comments [like this](https://github.com/ENG517/Procedure/pull/17#discussion_r1769653085).
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
