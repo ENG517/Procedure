@@ -18,3 +18,4 @@ Paul is a new instagram user who, in the past, has only used instagram to post h
 - I feel like this is all very self explainatory to the point that some of these steps seem very pointless to write directions for. 
 - On the other hand, I've helped older people use social media, I feel like it's might not explain enough. I think the best way to help is in person, but hopefulling adding photos will help.
 - Should I include appropriate things to comment and post? Since Instagram is different than Facebook, an older user might want more guidelines on how people use the site and the comment tool.
+- [My work so far](rogersk-p-instagram-respond-to-post.md)
