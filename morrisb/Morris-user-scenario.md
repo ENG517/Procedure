@@ -3,3 +3,4 @@
 **Scenario**:
 
 ### Morris [User Scenario and Procedure Ideation][assets/docs/MorrisProcedureIdeation.pdf]
+assets/docs/Morris-Procedure-Ideation.pdf
