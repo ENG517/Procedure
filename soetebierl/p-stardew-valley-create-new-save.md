@@ -27,7 +27,7 @@ There is no set order that these steps need to be completed in, the following or
 4. Select your animal preference from the options. This will determine what your first pet will be. There will be the opportunity to acquire a different pet later in the game.
 
 ## Selecting a Farm Type
-There are eight different farm settings availble to choose from in Stardew Valley 1.6.
+There are eight different farm settings available to choose from in Stardew Valley 1.6.
 
 
 **The Farm types are as follows:**
