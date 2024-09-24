@@ -42,11 +42,17 @@ Throughout all procedures I utilize "Notes" to alert the user to important infor
 
 Lauren gave me feedback and I gave lauren feedback. She suggested that I create the **conditions** section of my document. I believe that this section is incredibly important to my work. Without it, the user would not know what materials are needed for the procedure. She made a suggestion through Github and I employed her suggestion. 
 
+Example: 
+![Lauren Feedback](../images/screenshots/feedback.png)
+
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
 - All of my titles are heading One
 
 - All of my step-by-step instructions are heading three and numbered (unless as a conclusion or during teaching steps)
+Examples:
+1. ![heading example 1](<../images/screenshots/heading example1.png>)
+2. ![heading example 2](<../images/screenshots/heading example 2.png>)
 
 - All of my alerting steps have a bolded **Note:** and are italicized for increased awareness from the user. 
-
+> Please refer to figures #1 and #2 for examples.

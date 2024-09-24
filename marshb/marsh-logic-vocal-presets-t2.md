@@ -17,7 +17,7 @@
 
 ### 2. Open Logic Pro's preset library
 
-- In the top left corner of the screen, locate the **library** icon to access Logic Pro's sound library
+- In the top left corner of the screen, locate the **library** icon to access Logic Pro's sound library.
 
 ![Open Library](assets/images/screenshots/T2-step2.jpg)
 
@@ -30,8 +30,8 @@
 ![Locate Voice Option](assets/images/screenshots/T22-step3.jpg)
 
 ### 4. Explore Logic Pro's vocal presets
-- Once you select a vocal preset, the settings will be applied to your vocal track
-- Logic has a variety of vocal presets that range from mimicking the 1960s to expiremental delay
+- Once you select a vocal preset, the settings will be applied to your vocal track.
+- Logic has a variety of vocal presets that range from mimicking the 1960s to experimental delay.
 
 
 ![Vocal Preset Options](assets/images/screenshots/T2-step4.jpg)
