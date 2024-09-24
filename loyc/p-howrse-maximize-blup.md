@@ -43,7 +43,7 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
 
 > *Figure 3: The **Equestrian center** tile can be found on the private page of a horse that is at least 6 months of age. If you have a VIP membership on the game, you can position this tile to sit anywhere on your horse's page.*
 
-2. Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water.
+2. Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water. Do this until your horse can no longer gain skill points from forest rides.
 
 > **Note:** Do not let your horse's daily energy fall below 20% or it could penalize the amount of energy your horse begins with the next time it wakes up.
 
@@ -51,7 +51,7 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
 
 > *Figure 4: The **Rides** tile can be found on the private page of a horse that is at least 1 year and 6 months of age. If you have a VIP membership on the game, you can position this tile to sit anywhere on your horse's page.*
 
-3. After your horse can no longer gain skill points from forest rides, as displayed in the **Rides** tile on your horse's page, begin **mountain rides**. Maximize the hours your horse goes on mountain rides each time it wakes up. Make sure to balance mountain rides with daily care, food, and water.
+3. After your horse can no longer gain skill points from forest rides, as displayed in the **Rides** tile on your horse's page, begin **mountain rides**. Maximize the hours your horse goes on mountain rides each time it wakes up. Make sure to balance mountain rides with daily care, food, and water. Do this until your horse can no longer gain skill points from mountain rides.
 
 ![Screenshot of a horse's profile page highlighting the Rides tile and option to choose the amount of hours to take your horse on mountain rides.](assets/images/screenshots/ss-mountain-rides.png)
 
