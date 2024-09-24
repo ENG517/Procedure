@@ -1,23 +1,22 @@
 # Procedure Assignment Reflection
 
-Write a short analysis (~500 words) in which you explain what you did to meet the assignment's criteria. Use the criteria as headings to structure your reflection.
-
-## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.
-
+## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.    
+My procedures address the needs of a "reading to learn to do" audience by focusing on the user's goal(s) and the task that needs to be accomplished, but still providing clarifying details and contextual information that will help the user actually learn about the topic rather than simply completing an action. For example, I include optionals steps in [these](p-car-repair-fill-crack) [procedures](p-car-repair-fix-scratch), "letting go" and allowing the user to decide for themselves, based on the knowledge they've received so far, what the best course of action is for their context. I also provide details on risk and success in the alerting procedures, cautioning against proceeding without cleaning the damaged area, for example, as it will further damage the car. In one of the coaching steps, I also explain what the tools actually do, describing how the scratch remover liquid acts as an abrasive to smooth out the rough edges of a scratch or scrape. Later on, I caution that the scratch remover can damage the paint, further revealing the tool's properties and providing the reader with greater knowledge. I include several images in the procedures so users can understand what the successful completion of a step is and what the larger success condition is for their task, aiding an audience that will need this information or knowledge for later.
 
 
-## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.
 
+## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.  
+My procedures follow the WTGA stylistic conventions from Hart-Davidson by clearly stating the task to be completed and what the outcome will be. All of my alerting steps, such as notes or statements of caution, are visually distinctive. Following the reading, my alerts begin with an action and then introduce the risk. Particularly in [Car Repair: Window Replace](p-car-repair-window-replace), I make a big note of prerequisites that are necessary to complete the task safely, connecting to the WTGA standards of staging, but also alerting users of the risk assumed by not following the prereqd.
 
 
 ## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
-
+My procedures don't follow the task orientation work we did in class. I made a note of this in [my user scenario file](user-scenario.md) but I misunderstood the original Task Analysis assignment and had to redo most of my work for this assignment. My procedures are written with an audience in mind, accomodating their abilities and knowledge or lack thereof. This aspect of the user scenario was drawn from my original Task Analysis work, but my intended user in [Car Repair: Fix Crack](p-car-repair-fix-crack) had limited mobility in the arms. In my instructions, I provided multiple options for repairing a crack in the windshield, emphasizing the durability and ease of use for one option that stabilizes the syringe without needing to be held up. With my audience and their goals in mind, I tailored my documentation to fit the users, which was aided greatly by the review process and communication with my peers.
 
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
-
+I applied a docs-as-code editorial workflow to my assignment in the collaborative work with my reviewers. I did struggle a bit in identifying who was in my group and figuring out how to comment, mention, and request a review from another user in Github. I did manage to request reviews from group members-- [see here](https://github.com/ENG517/Procedure/pull/28). This conversation allowed me to discuss with others and edit my work before merging it, or sending it live. Besides my own work, I also engaged with others through the review process, commenting directly in the lines of their document with feedback and suggestions-- see my comments and review of Beth's work [here](https://github.com/ENG517/Procedure/pull/31). 
 
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
-
+I applied a consistent use of Markdown language throughout the project in creating the documents' formatting. I used Markdown to create headings, hierarchies, un/numbered lists, and bold or italicized font. Markdown allowed me to include pictures in my documents, but I did use HTML to resize and edit the attributes of my screenshots and photos-- see [Car Repair: Window Replace](p-car-repair-window-replace) for examples of the above. In my other procedures, I aimed to use Markdown in a similar way and structure, which followed the typology of an automotive repair guide, and also ensured consistency in my documentation.
 
