@@ -12,4 +12,4 @@ Scenario 3 - How to interact with a post
 Paul is a new instagram user who, in the past, has only used instagram to post his own content. Paul is a bird photographer who has used instagram as a bird-spotting journal, but want to now use instagram to build relationships with other birders. Paul wants to be able to like, comment, and share content with like-minded people.
 
 
-Refer also to my [Audience and Task Analysis](assets/docs/enter-pdf-filename-here.pdf)
+Refer also to my [Audience and Task Analysis]([assets/docs/enter-pdf-filename-here.pdf](https://docs.google.com/document/d/1RlLnOO_9EWsOirYVn971lQl-LVJRe_UODkL5sUnXcNE/edit?usp=sharing))
