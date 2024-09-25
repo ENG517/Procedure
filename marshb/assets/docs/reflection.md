@@ -32,6 +32,8 @@ Throughout all procedures I utilize "Notes" to alert the user to important infor
 
 ## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
 
+My task orientation work allowed me to understand the levels of experience that match with my procedures. This allowed me to design my tasks based upon the background knowledge that my user should have at their experience level. In depth analysis is below:
+
 [Procedure One](../../marsh-logic-create-audio-track.md) is for the most novice audience. Creating an audio track is an essential task for using Logic Pro, so I used the most plain language when creating this procedure. I used more detailed graphics within the procedure because novice user will not be familiar with Logic Pro's user interface. For alerting moves, I made sure that the user understood to select the correct input for their track. More experienced users will understand that this is an essential part of using Logic Pro.
 
 [Procedure Two](../../marsh-logic-vocal-presets-t2.md) is meant for an mid-level experienced user. I add a brief link to my first procedure to ensure that the user understands what they need to know before beginning the tutorial. The steps within the task are less rudimentary and rely upon insignificant prior information (i.e. how to create a Logic Pro file, etc.). My alerting boxes are more for extra information that the user might find useful but is not necessary to the task at hand. 
