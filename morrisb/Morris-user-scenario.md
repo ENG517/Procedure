@@ -1,6 +1,1 @@
-# Morris User Scenario and Procedure Ideation 
-
-**Scenario**:
-
-### Morris [User Scenario and Procedure Ideation][assets/docs/MorrisProcedureIdeation.pdf]
-assets/docs/Morris-Procedure-Ideation.pdf
+User scenario pdf  is located in docs
