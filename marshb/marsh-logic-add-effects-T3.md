@@ -68,4 +68,3 @@ A vocal chain is a series of processors that modify a microphone's raw audio to 
 5. Chorus
 6. Delay
 7. Reverb
-

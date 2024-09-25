@@ -1,5 +1,7 @@
 # Locating Vocal Presets Within Logic Pro
 
+#### Learn how to locate and use vocal presets within Logic Pro
+
  Logic Pro is home to a wide variety of vocal presets for new users to utilise and experiment with while using the Digital Audio Workstation (DAW). By the end of this tutorial, you will be able to locate and utilise all vocal presets Logic Pro has to offer. 
 
 ## Conditions
@@ -17,7 +19,7 @@
 
 ### 2. Open Logic Pro's preset library
 
-- In the top left corner of the screen, locate the **library** icon to access Logic Pro's sound library.
+- In the top left corner of the screen, select the **library** icon to access Logic Pro's sound library.
 
 ![Open Library](assets/images/screenshots/T2-step2.jpg)
 
@@ -31,7 +33,7 @@
 
 ### 4. Explore Logic Pro's vocal presets
 - Once you select a vocal preset, the settings will be applied to your vocal track.
-- Logic has a variety of vocal presets that range from mimicking the 1960s to experimental delay.
+- Logic has a variety of vocal presets that range from mimicking the 1960s spring reverb to experimental delayed vocals.
 
 
 ![Vocal Preset Options](assets/images/screenshots/T2-step4.jpg)
