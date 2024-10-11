@@ -1,6 +1,7 @@
+<!-- See comments in the iced espresso procedure. -->
 # How to Make Peanut Butter Bars
 
-Need to make a quick-to-prep dessert with stuff you (probably) already have? Not great at baking, but still want to impress? Here is a recipe for Peanut Butter Bars, an easy-to-make dessert using things you may already have. To start you'll need the following:
+Need to make a quick-to-prep dessert with stuff you (probably) already have? Not great at baking, but still want to impress? Here is a recipe for Peanut Butter Bars, an easy-to-make dessert using things you may already have. To start you'll need the following: <!--Just a little thing. We never want to separate deictic phrases such as this from the content it relates to. In this case, you set up a list that begins in a different section of the document. -->
 
 ## Ingredients
 **For the Base**
