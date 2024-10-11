@@ -58,7 +58,7 @@ Once you have collected these documents through emailing or physically mailing a
 #### **Drafting a Support Letter for Sponsoring Company** 
 
 
-1. Use a word processor to format a letter template.
+1. Use a word processor to format a letter template. <!--perhaps you would include a template?-->
 2. Highlight history of company and service(s) they provide.
 3. Include impressive achievements, projects, and accolades of company.
 4. Introduce client and highlight their job duties.
@@ -69,15 +69,24 @@ Once you have collected these documents through emailing or physically mailing a
 **NOTE**: You can alter the order of topics within your letter, visit this [link](https://www.bu.edu/isso/administrators/forms/h-1b-support-letter/) for an example of other details you can provide in your support letter.
 
 #### **Creating a USCIS Cover Letter**
-This cover letter should act as an outline for your petition. 
-
-
-1. Use a word processor to format a letter template.
+<!-- Original
+This cover letter should act as an outline for your petition.
+1. Use a word processor to format a letter template. [This step seems unecessary.]
 2. Start with outlining visa type, names of client and company, and requested amount of years for the petition.
 3. Detail included documents for client.
 4. Detail included documents for company.
+-->
 
-Please view the template below for a visual representation of these steps
+<!-- Some suggestions to consider with your imperative verb choices and phrasings. -->
+The USCIS cover letter outlines your petition by providing the following information: 
+  * Visa type
+  * Names of client and company,
+  * Requested amount of years for the petition, and
+  * List of attached documents for client and company.
+
+Please view the template below for a visual representation of these steps. 
+
+<!-- Be sure to ask yourself if an image/figure is necessary. This image seems redundant and not needed, as you could simply provide those details above. Plus, the information would be more easily accessible. -->
 
 ![USCIS Cover Letter Example](assets/images/screenshots/uscis-cov-let.jpg)
 

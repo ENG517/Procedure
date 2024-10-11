@@ -1,6 +1,22 @@
+<!-- OVERALL FEEDBACK
+   - Heading Levels: Be sure to follow the heading levels in a sequence. This is an accessibility issue.
+     - #: reserved for the title
+     - ##: H2 as top level heading for sections
+       - ###: H3
+         - ####: H4
+           - #####: H5
+             - ######: H6
+     - Then, also remove the bolding in headings for consistency with that level
+   - Terms:
+     - First instance of a term and its acronym/abbreviation is sufficient. Thereafter, be sure to use the abbreviation throughout.
+       - Some abbreviations are undefined like SVP. Check throughout.
+-->
 ## Creating a Labor Condition Application (LCA)
 A Labor Condition Application is an application that is often filed concurrently with employment-based petitions to USCIS. It establishes an appropriate wage amount and wage level for a foreign client being sponsored by a company to come work in the U.S. It functions as a safeguard against financial injustices potentially being committed by companies exploiting foreign labor. It is also a useful resource to help sponsoring companies realize the cost of fully sponsoring an employee before committing to other costs such as filing fees. This guide will provide the necessary steps and resources to enable you to find the LCA application and create a draft ready for review by a reviewing attorney. 
 
+<!-- 
+   - I'd consider making this its own section with an H2 (##) and the items in list form
+-->
 **Assumed Knowledge**: Ability to Operate a Computer, Ability to Use Email Software, Knowledge of Mircrosoft Excel, Knowledge of USCIS website, Knowledge of Employment-Based Petitions Requirements, Knowledge of your Firm's Case Management Software (INSZoom, LollyLaw, Filevine,etc.)
 
 #### **Required Documents for Labor Condition Application (LCA)**
@@ -10,14 +26,19 @@ The documents you will need for this application are:
 
    **Note**: If the client will be working at a secondary work location in addition to the first proposed work location, be sure to include that address in the application. 
 
-
 ### **Determining the Correct Wage Range**
 Finding the correct wage range enables you to have the necessary information to complete the Labor Condition Application in later steps
 1. Go to the Department of Labor Website located [here](https://flag.dol.gov/programs/LCA)
-2. Navigate to the **Wage Data** tab
-3. Click **OFLC Wage Search**
+2. Navigate to the **Wage Data** tab <!-- Screenshots with indicators are very helpful for orientation steps on interfaces like this. Same with the next step. -->
+3. Click **OFLC Wage Search** 
 4. Fill out the fields with the information from your collected required documents
-   
+   <!--
+      The screenshot doesn't quite do any actionable work for the reader, other than help them know what the page looks like overall. Instead, consider how this step could be unpacked with substeps for each form entry. 
+      1. To ensure the correct wage range, carefully set your search criteria for each of the fields below:
+         1. Data Series: Enter explanation
+         2. Collection: Enter explanation
+         3. ...
+   -->
    
    ![OFLC Wage Calculator](assets/images/screenshots/oflc.jpg)
    *Fig. 1: An example of a filled out OFLC Wage Calculator*
@@ -28,7 +49,6 @@ Finding the correct wage range enables you to have the necessary information to 
     *Fig. 2: The O-Net Occupation Code Search Bar*
 
 5. Once you have a range of wage levels, prepare to determine the exact correct wage level in the next step below
-
 
 ### **Finding the Correct Wage Level**
 This step can vary by law firm on methodology to find the wage level according to USCIS standards. Here we have provided a excel spreadsheet example that aims to streamline the process to finding the correct wage level for your client in case your firm does not have a preexisting methodology for finding it. Please follow the steps below the table. 
@@ -55,11 +75,9 @@ This step can vary by law firm on methodology to find the wage level according t
     * (a): Input the degree required by both the employer and the O-Net job description. 
     * (b): If the degrees are equal then input a 0 (I.e. a Bachelors degree required for both employer and O-Net standards).
     * (c): If the degree required by the employer is higher than the degree required by O-Net, you will input a number according to the difference between the two. 
-  
-        **Example**: If the employer requires a Masters degree and O-Net requires a Bachelors degree, then you would add 1 to the Wage Level Result Column.
-
-
-       **NOTE**: You would input a 0 if the degree required by O-Net was higher than the years required by the employer.
+      <!-- More of a suggested way to format the markdown. -->
+      - **Example**: If the employer requires a Masters degree and O-Net requires a Bachelors degree, then you would add 1 to the Wage Level Result Column.
+      - **NOTE**: You would input a 0 if the degree required by O-Net was higher than the years required by the employer.
 
 4. Determine the Special Skills Requirements 
    * (a):  Carefully review the employers job description and the O-Net job description for the client.
