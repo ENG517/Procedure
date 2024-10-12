@@ -1,3 +1,4 @@
+<!-- See my comments in the admin file and apply here as well. -->
 # How to Manage a LinkedIn Company Group Page
 
 _**Warning:** To successfully complete this task, you need to have "Super Admin" access to the company LinkedIn page._
