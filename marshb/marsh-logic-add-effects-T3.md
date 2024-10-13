@@ -1,12 +1,32 @@
+<!-- OVERALL COMMENTS
+  - Consider how this, and your other procedures, have too wide of scopes and objectives, which make it difficult to write a simplified procedure with a tangible outcome. For example, you note how there are multiple types of effects to unpack: delay, reverb, chorus, etc., all of which would and could have their distinct procedure. In effect, you are having trouble writing to guide action with SCA moves. Instead, your procedure has turned more into a technical description of these effects, rather than writing to guide **action**.
+  - I think you arrived at a possible documentation sequence with the "Vocal Chain Order," where each procedure would have been easier to develop a sequence of steps, such as "Clean Vocal Track" via a running example to carry through a process like this.
+  - I recommend taking 2-3 of these and revise your procedures accordingly.
+  - Headings: Do not use headings as stylistic conventions. Focus more on your writing and making sure you demonstrate your knowledge and application of WTGA's SCA moves.
+  - Heading Levels: Be sure to follow the heading levels in a sequence. This is an accessibility issue, since it describes the structure of the document.
+     - #: reserved for the title
+     - ##: H2 as top level heading for sections
+       - ###: H3
+         - ####: H4
+           - #####: H5
+             - ######: H6
+  - Staging: Once you narrow your scope for your 2-3 procedures, you can better apply staging moves to express a specific goal and objective with tangible outcome(s).
+  - Coaching: Without a more precise goal, the coaching moves are very broad with more descriptive content.
+  - Alerting: Be sure to work on applying a consistent pattern for alerting moves. See some of my comments throughout.
+-->
 # How to Explore Vocal Effects in Logic Pro
-#### Logic Pro contains many vocal effects such as delay, reverb, chorus, phasers, and many more. Learn how to use vocal effects in Logic Pro through this tutorial.
+<!-- #### Logic Pro contains many vocal effects such as delay, reverb, chorus, phasers, and many more. Learn how to use vocal effects in Logic Pro through this tutorial. -->
+Logic Pro contains many vocal effects such as delay, reverb, chorus, phasers, and many more. Learn how to use vocal effects in Logic Pro through this tutorial.
 
 If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-presets-t2.md) for a tutorial.
 
-## Conditions
-#### Before you begin, here is what you need.
-1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac.
-2. Purchase Logic Pro from the application store.
+<!-- ## Conditions -->
+<!-- This term is often used more prevalently than 'Conditions' -->
+## Prerequirements
+<!-- Both of these can be assumed. Instead, you would provide more helpful prereqs like other procedures or any optional effect "libraries" in this case. We can assume the user has a computer and this software. -->
+<!-- 1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac.
+2. Purchase Logic Pro from the application store. -->
+<!-- #### Before you begin, here is what you need. -->
 
 ## Vocal Effects in Logic Pro
 
