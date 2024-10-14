@@ -1,16 +1,23 @@
-# How to make posts on Instagram
+<!-- Seems like this should clarify straight away how it is a "grid post" -->
+<!-- # How to make posts on Instagram -->
+# How to Create a Grid Post on Instagram
 
+<!-- This section will walk you through how to make a basic post on Instagram. This is one of the most common forms of content on instagram often called a "grid post" because it stays on your profile, unlike stories, which disappear after 24 hrs. -->
+<!-- COMMENT: This revised suggestion isn't the greatest, but I hope it conveys a variation that contrasts against more product-oriented staging vs. user goal orientedness. -->
+You can start sharing images and videos with the most common type of post on Instagram: a *grid post*. Learn how to create a grid post, which will remain on your profile's "grid" of posts.
 
-This section will walk you through how to make a basic post on Instagram. This is one of the most common forms of content on instagram often called a "grid post" because it stays on your profile, unlike stories, which disappear after 24 hrs.
+<!-- Note how you can provide links to other types of related tutorials in the staging area, since folks actually might have 'landed' on this page and realized that they actually want something else. -->
+For other types of posts, please see theh following tutorials: [stories](#), [reels](#), or [live feeds](#).
 
+<!-- COMMENT: 
+  - Use a heading for prereqs.
+  - Markdown may make it look funny, but the point is to think about how you structure the document, rather than how Markdown renders the content in your editor with preset default styles.
+-->
+## Prerequirements
+- Instagram account
 
-Before reading this article, you should already have an Instagram account set up.
-
-
-Note: This page does not cover stories, reels or going live.
-
-
-## Posting to your grid
+<!-- ## Posting to your grid -->
+## Create a new post to your grid
 1. On the bottom navigation bar, select the + icon
 2. Here, you should see available photos to select from your camera roll
 
