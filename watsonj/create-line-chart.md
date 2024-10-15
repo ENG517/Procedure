@@ -1,3 +1,7 @@
+<!-- COMMENTS:
+  - See comments in the install file and apply here.
+  - All code exercepts should be in text, rather than buried in an image.
+-->
 # Create a Line Chart
 In this section you will learn how to create a line chart, using Python and Matplotlib.
 
