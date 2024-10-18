@@ -1,4 +1,7 @@
-  # How to Explore Vocal Track Features in Logic Pro
+<!--COMMENTS
+  - See the comments in the add effects file and apply here as well.
+-->
+# How to Explore Vocal Track Features in Logic Pro
 #### Learn to create a vocal track with Logic Pro and explore the many features within the program.
 
 ## About Logic Pro
@@ -11,23 +14,24 @@ Logic Pro is a **digital audio workstation (DAW)** owned by Apple inc. Apple acq
 2. Purchase Logic Pro from the application store.
 
 ## Create an Audio Track
-
-1. ### Power on your Apple computer and Open Logic Pro
+<!-- These are baseline moves, which you can assume your audience knows how to do. -->
+<!-- 1. ### Power on your Apple computer and Open Logic Pro
 
 - The Logic Pro application can be found within the finder folder in your Apple computer.
 
  ![Logic Pro Icon](assets/images/screenshots/Logic.jpg)
 
- > *Logic Pro icon*
+ > *Logic Pro icon* -->
 
-2. ### Select **_Empty Project_** and press **_Choose_**
-- When first openning Logic Pro, you will be presented a screen that says *Empty Project*. Select *Empty Project* to create a Logic Pro file. 
+<!-- 1. ### Select **_Empty Project_** and press **_Choose_** -->
+1. Select **_Empty Project_** and press **_Choose_**.
+   <!-- Keep your alerting moves bundled in a consistent pattern. -->
+   <!-- - When first openning Logic Pro, you will be presented a screen that says *Empty Project*. Select *Empty Project* to create a Logic Pro file.  -->
+    ![Selecting Empty Project Photo](assets/images/screenshots/create_project.jpg)
+    - **Note**: If you wish to add an audio to an existing project, select **Open an existing Project** in the bottom left corner.
+    - **Note**: When first openning Logic Pro, you will be presented a screen that says *Empty Project*. Select *Empty Project* to create a Logic Pro file. 
 
- ![Selecting Empty Project Photo](assets/images/screenshots/create_project.jpg)
-
- > **Note:** *If you wish to add an audio to an existing project, select **Open an existing Project** in the bottom left corner.*
-
-3. ### Press the + button to **_create a new track_**
+1. ### Press the + button to **_create a new track_**
 - The **+ button** in the middle of the Logic Pro workspace allows you to create a variety of different track options: Software Instrument, Audio, Drummer, External MIDI, and Guitar or Bass.
 
 
