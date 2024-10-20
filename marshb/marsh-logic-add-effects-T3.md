@@ -3,11 +3,9 @@
 
 If you wish to explore _**vocal presets**_, click [here](marsh-logic-vocal-presets-t2.md) for a tutorial.
 
-## Conditions
+## Prerequisites
 #### Before you begin, here is what you need.
-1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac.
-2. Purchase Logic Pro from the application store.
-
+- Logic Pro X basic audio effects
 ## Vocal Effects in Logic Pro
 
 ### 1. Create an Audio Track within Logic Pro

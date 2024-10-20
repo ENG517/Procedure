@@ -5,10 +5,8 @@
 
 Logic Pro is a **digital audio workstation (DAW)** owned by Apple inc. Apple acquired the software from Emagic in 2002. Logic Pro is the professional version of the free DAW software *Garageband* that is included with all Apple products. Logic Pro is incompatible with any operating systems outside of the Apple ecosytem.
 
-## Conditions
+## Prerequisites
 #### Before you begin, here is what you need.
-1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac.
-2. Purchase Logic Pro from the application store.
 
 ## Create an Audio Track
 
