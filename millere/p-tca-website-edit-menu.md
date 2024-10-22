@@ -22,6 +22,9 @@ Before editing the TCA website menu, you must:
 
 3. Scroll to the bottom of the page and select **Log In.**
 
+![Screenshot highlighting the Log in button on the TCA website](assets/images/screenshots/ss-log-in-menu-update.png)
+> *Figure 1: The **Log in** button is located on the bottom of the TCA website.*
+
 4. Type in your NCSU Unity ID.
 
 > **Note:** Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
@@ -30,9 +33,14 @@ Before editing the TCA website menu, you must:
 
 6. **Hover** over **Appearance** in left sidebar. **>** **Select** **Menus.**
 
+![Screenshot highlighting Apperance and Menu buttons.](assets/images/screenshots/ss-apperance-menu.png)
+> *Figure 2: Click the **Menus** button under the **Apperance** menu.*
+
 ### To Add Menu Items
 
 1. **Confirm** if you are adding a page, post, or custom link. **>** **Select** corresponding option on left sidebar.
+
+![Screenshot highlighting the Menu conditional menu.](assets/images/screenshots/)
 
 2. If the menu item is a page or post, click the proper checkbox and **Add to Menu.**
 
