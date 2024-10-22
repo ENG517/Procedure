@@ -15,13 +15,15 @@ Before beginning the process of updating executive board member profile pictures
 ## How to Update TCA Executive Board Member Profile Pictures
 1. Open your preferred website browser.
 2. Search: **[https://orgs.ncsu.edu/technical-communication-association/](https://orgs.ncsu.edu/technical-communication-association/)**
-3. Scroll to the bottom of the page and select **Log In**.
-4. Type in your NCSU Unity ID.
+3. Scroll to the bottom of the page and select **Log in**.
+![Screenshot highlighting log in button the TCA Wordpress website.](assets/images/screenshots/ss-log-in.png)
+> *Figure 1: The **Log in** button is located at the bottom of the TCA website homepage.*
+1. Type in your NCSU Unity ID.
 > **Note:** Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
-5. Complete NCSU Duo authentication.
-6. Click **Pages** located in the left-hand sidebar of your WordPress Dashboard.
-7. Select **Executive Board Members** page title. This will allow you to edit the selected webpage.
-8. Click the profile image you need to update.
+1. Complete NCSU Duo authentication.
+2. Click **Pages** located in the left-hand sidebar of your WordPress Dashboard.
+3. Select **Executive Board Members** page title. This will allow you to edit the selected webpage.
+4. Click the profile image you need to update.
 > **Example:** If you want to update the TCA president profile picture, click the photo next to **[Acting-TCA-President-Name] | President.** 
 > **Note:** Please see additional documentation to update webpage copy. 
 1.  Select **Replace > Upload**.
