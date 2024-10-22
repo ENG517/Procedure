@@ -12,35 +12,35 @@ Before editing the TCA website menu, you must:
 
 - Have access to your NCSU Unity ID and Duo App.
 
-> Note: If you do not have administrator access to the Technical Communication Association website, request access from the acting TCA president or association faculty advisor.
+> **Note:** If you do not have administrator access to the Technical Communication Association website, request access from the acting TCA president or association faculty advisor.
 
 ## How to Edit the TCA Website Menu
 
 1. Open your preferred website browser.
 
-2. Search: [https://orgs.ncsu.edu/technical-communication-association/](https://orgs.ncsu.edu/technical-communication-association/).
+2. Search: **[https://orgs.ncsu.edu/technical-communication-association/](https://orgs.ncsu.edu/technical-communication-association/).**
 
-3. Scroll to the bottom of the page and select “Log In.”
+3. Scroll to the bottom of the page and select **Log In.**
 
 4. Type in your NCSU Unity ID.
 
-> Note: Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
+> **Note:** Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
 
 5. Complete NCSU Duo authentication.
 
-6. Hover over “Appearance” in left sidebar > Select “Menus.”
+6. **Hover** over **Appearance** in left sidebar. **>** **Select** **Menus.**
 
 ### To Add Menu Items
 
-1. Confirm if you are adding a page, post, or custom link > Select corresponding option on left sidebar.
+1. **Confirm** if you are adding a page, post, or custom link. **>** **Select** corresponding option on left sidebar.
 
-2. If the menu item is a page or post, click the proper checkbox and “Add to Menu.”
+2. If the menu item is a page or post, click the proper checkbox and **Add to Menu.**
 
-3. If the menu item is a custom link, copy and paste link URL, add preferred hyperlink text in “Link Text,” and “Add to Menu.”
+3. If the menu item is a custom link, copy and paste link URL, add preferred hyperlink text in **Link Text**, and **Add to Menu.**
 
 4. Save menu.
 
-> Note: The hypertext written will be how your link is displayed on the live website menu.
+> **Note:** The hypertext written will be how your link is displayed on the live website menu.
 
 ### To Remove Menu Items
 
@@ -48,7 +48,7 @@ Before editing the TCA website menu, you must:
 
 2. Click the down arrow next to the menu item title.
 
-3. Select the red and underlined “Remove” text.
+3. Select the red and underlined **Remove** text.
 
 4. Save Menu.
 
