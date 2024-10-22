@@ -32,18 +32,19 @@ To achieve a BLUP value of 100 for a single horse, your horse must:
 Maximizing BLUP is colloquially referred to by players as **blupping**.
 
 ## Prerequisites
+<!-- Excellent detail here! -->
 There are no prerequisites that a player must follow before blupping a horse. However, it is strongly advised that players use aging points or Morpheus' Arms to age a horse at will while blupping instead of waiting for it age naturally. This will tremendously speed up the blupping process.
 
 ## How to BLUP a horse to 100
 1. Access the private page of the horse you intend to BLUP and register it in an equestrian center.
+   <!-- another simple indentation tip for formatting figures and alert moves in relationship to its text. -->
+   > **Tip:** Select an equestrian center with a **shower** and **water trough** in the box where your horse will stay. These features help your horse conserve energy during care, allowing you to take more daily actions and speed up the blupping process.
 
-> **Tip:** Select an equestrian center with a **shower** and **water trough** in the box where your horse will stay. These features help your horse conserve energy during care, allowing you to take more daily actions and speed up the blupping process.
+   ![Screenshot of a foal's profile page highlighting the Equestrian Center tile, with a focus on the option to register the foal in an equestrian center.](assets/images/screenshots/ss-register-ec.png)
 
-![Screenshot of a foal's profile page highlighting the Equestrian Center tile, with a focus on the option to register the foal in an equestrian center.](assets/images/screenshots/ss-register-ec.png)
+   > *Figure 3: The **Equestrian center** tile can be found on the private page of a horse that is at least 6 months of age. If you have a VIP membership on the game, you can position this tile to sit anywhere on your horse's page.*
 
-> *Figure 3: The **Equestrian center** tile can be found on the private page of a horse that is at least 6 months of age. If you have a VIP membership on the game, you can position this tile to sit anywhere on your horse's page.*
-
-2. Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water. Do this until your horse can no longer gain skill points from forest rides.
+1. Once your horse is at least 1 year and 6 months of age, begin **forest rides**. Maximize the hours your horse goes on forest rides each time it wakes up. Make sure to balance forest rides with daily care, food, and water. Do this until your horse can no longer gain skill points from forest rides.
 
 > **Note:** Do not let your horse's daily energy fall below 20% or it could penalize the amount of energy your horse begins with the next time it wakes up.
 
@@ -51,17 +52,22 @@ There are no prerequisites that a player must follow before blupping a horse. Ho
 
 > *Figure 4: The **Rides** tile can be found on the private page of a horse that is at least 1 year and 6 months of age. If you have a VIP membership on the game, you can position this tile to sit anywhere on your horse's page.*
 
-3. After your horse can no longer gain skill points from forest rides, as displayed in the **Rides** tile on your horse's page, begin **mountain rides**. Maximize the hours your horse goes on mountain rides each time it wakes up. Make sure to balance mountain rides with daily care, food, and water. Do this until your horse can no longer gain skill points from mountain rides.
+<!-- 3. After your horse can no longer gain skill points from forest rides, as displayed in the **Rides** tile on your horse's page, begin **mountain rides**. Maximize the hours your horse goes on mountain rides each time it wakes up. Make sure to balance mountain rides with daily care, food, and water. Do this until your horse can no longer gain skill points from mountain rides. -->
+3. If your horse can no longer gain skill points from forest rides, as displayed in the **Rides** tile on your horse's page, complete some of the following activities:
+   1. **Mountain Rides**: Take your horse on **mountain rides**. Maximize the hours your horse goes on mountain rides each time it wakes up. Make sure to balance mountain rides with daily care, food, and water. Do this until your horse can no longer gain skill points from mountain rides.
+      1. Select how many hours your horse spends on each ride.
+      2. **Optional**: If you have a VIP membership on the game, you can define a preset that preselects the amount of hours your horse spends on that ride
 
-![Screenshot of a horse's profile page highlighting the Rides tile and option to choose the amount of hours to take your horse on mountain rides.](assets/images/screenshots/ss-mountain-rides.png)
+      ![Screenshot of a horse's profile page highlighting the Rides tile and option to choose the amount of hours to take your horse on mountain rides.](assets/images/screenshots/ss-mountain-rides.png)
+      <!-- Don't bury coaching and alerting moves in captions, which can be easily overlooked. -->
+      <!-- > *Figure 5: You'll need to select how many hours your horse spends on each ride. If you have a VIP membership on the game, you can define a preset that preselects the amount of hours your horse spends on that ride.* -->
+      > *Figure 5: The "Rides" tile includes all of the options for you to customize your horse's experience.*
 
-> *Figure 5: You'll need to select how many hours your horse spends on each ride. If you have a VIP membership on the game, you can define a preset that preselects the amount of hours your horse spends on that ride.*
-
-4. After your horse can no longer gain skill points from mountain rides, as displayed in the **Rides** tile on your horse's page, identify your horse's best three skills for training:
-
-    - Navigate to the **Characteristics** tab at the bottom of your horse's private page.
-    - Select your horse's breed to access the directory page for that breed.
-    - On this page, look for the three skills marked with the highest score. These are the best three skills for your horse's breed.
+   <!-- 2. After your horse can no longer gain skill points from mountain rides, as displayed in the **Rides** tile on your horse's page, identify your horse's best three skills for training: -->
+   2. After your horse can no longer gain skill points from mountain rides, identify your horse's best three skills for training:
+      1. Navigate to the **Characteristics** tab at the bottom of your horse's private page.
+      2. Select your horse's breed to access the directory page for that breed.
+      3. Choose from the three highest scored skills, which depends on your horse's breed.
 
 ![Screenshot of the KWPN breed page highlighting the best three skills for the KWPN: Speed, Dressage, and Jumping.](assets/images/screenshots/ss-best-three-skills.png)
 
