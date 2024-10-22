@@ -14,6 +14,8 @@ You need the following to upload your blog post to the TCA website:
 
 - Blog post copy approved by your fellow team members for website posting. Copy approval takes place during scheduled weekly team meetings. 
 
+> Note: If you do not have administrator access to the Technical Communication Association website, request access from the acting TCA president or association faculty advisor.
+
 ## How to Upload a Blog Post to the TCA Website
 1. Open your preferred website browser.
 
@@ -22,6 +24,8 @@ You need the following to upload your blog post to the TCA website:
 3. Scroll to the bottom of the page and select “Log In.”
 
 4. Type in your NCSU Unity ID.
+
+> Note: Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
 
 5. Complete NCSU Duo authentication.
 
@@ -33,7 +37,11 @@ You need the following to upload your blog post to the TCA website:
 
 9. Copy and paste the blog’s copy in the “Type / to choose a block” section.
 
+> Note: Choosing a block via the plus box on the right hand side of your screen allows you to add additional features to your post. These features are not applicable for current standards surrounding the TCA blog post uploading process.
+
 10. Press the “Publish” button in the upper right corner.
+
+> Optional: To set a blog image, click “Settings” next to the “Publish” button and set your featured image.
 
 11. Review blog settings and assign “TCA Blog” category. If applicable, you may add tags and assign additional categories.
 
