@@ -12,7 +12,7 @@ Before beginning the process of updating executive board member profile pictures
 
 - Have access to your NCSU Unity ID and Duo App.
 
-- Download all TCA executive board member profile pictures; png or .jpg images are preferred for quality and ease of uploading.
+- Download all TCA executive board member profile pictures; .png or .jpg images are preferred for quality and ease of uploading.
 
 > **Note:** If you do not have administrator access to the Technical Communication Association website, request access from the acting TCA president or association faculty advisor.
 
@@ -34,14 +34,24 @@ Before beginning the process of updating executive board member profile pictures
 
 6. Click **Pages** located in the left-hand sidebar of your WordPress Dashboard.
 
+![Screenshot highlighting Pages section of the Wordpress dashboard menu](assets/images/screenshots/ss-locate-pages.png)
+> *Figure 2: The **Pages** option can be found in the menu on the left side of your browser.*
+
 7. Select **Executive Board Members** page title. This will allow you to edit the selected webpage.
+
+![Screenshot highlighting Executive Board Members page title](assets/images/screenshots/ss-executive-board-members.png)
+> *Figure 3: Locate and click the **Executive Board Members** page title to edit the webpage.*
    
 8. Click the profile image you need to update.
    
 > **Example:** If you want to update the TCA president profile picture, click the photo next to **[Acting-TCA-President-Name] | President.** 
 
 > **Note:** Please see additional documentation to update webpage copy. 
+
 Select **Replace > Upload**.
+
+![Screenshot highlighting the Replace and Upload function](assets/images/screenshots/ss-upload-replace.png)
+> *Figure 4: Click **Replace > Upload** to upload the new profile image.*
 
 9. Upload TCA executive board member photo.
    
@@ -50,5 +60,8 @@ Select **Replace > Upload**.
 > **Note:** For consistency, all photos should be 1080 x 1080 pixels.
 
 11. Press **Save** in the upper right corner. 
+
+![Screenshot highlighting webpage Save function](assets/images/screenshots/ss-save.png)
+> *Figure 5: Always save your webpage after completing any edits.*
 
 > **Note:** Unless changing website design, do not change the dimensions of image containers. Our website aims for a professional and consistent design.
