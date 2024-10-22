@@ -7,28 +7,48 @@ Due to the short nature of the Masters of Science in Technical Communication (MS
 
 ## Prerequisites
 Before beginning the process of updating executive board member profile pictures:
+
 - Confirm you have been added as an administrator to the Technical Communication Association website.
+
 - Have access to your NCSU Unity ID and Duo App.
+
 - Download all TCA executive board member profile pictures; png or .jpg images are preferred for quality and ease of uploading.
+
 > **Note:** If you do not have administrator access to the Technical Communication Association website, request access from the acting TCA president or association faculty advisor.
 
 ## How to Update TCA Executive Board Member Profile Pictures
 1. Open your preferred website browser.
+   
 2. Search: **[https://orgs.ncsu.edu/technical-communication-association/](https://orgs.ncsu.edu/technical-communication-association/)**
+
 3. Scroll to the bottom of the page and select **Log in**.
+
 ![Screenshot highlighting log in button the TCA Wordpress website.](assets/images/screenshots/ss-log-in.png)
 > *Figure 1: The **Log in** button is located at the bottom of the TCA website homepage.*
-1. Type in your NCSU Unity ID.
+
+4. Type in your NCSU Unity ID.
+   
 > **Note:** Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
-1. Complete NCSU Duo authentication.
-2. Click **Pages** located in the left-hand sidebar of your WordPress Dashboard.
-3. Select **Executive Board Members** page title. This will allow you to edit the selected webpage.
-4. Click the profile image you need to update.
+
+5. Complete NCSU Duo authentication.
+
+6. Click **Pages** located in the left-hand sidebar of your WordPress Dashboard.
+
+7. Select **Executive Board Members** page title. This will allow you to edit the selected webpage.
+   
+8. Click the profile image you need to update.
+   
 > **Example:** If you want to update the TCA president profile picture, click the photo next to **[Acting-TCA-President-Name] | President.** 
+
 > **Note:** Please see additional documentation to update webpage copy. 
-1.  Select **Replace > Upload**.
-2.  Upload TCA executive board member photo.
-3.  Select **Select** in the lower left corner.
+Select **Replace > Upload**.
+
+9. Upload TCA executive board member photo.
+   
+10. Select **Select** in the lower left corner.
+
 > **Note:** For consistency, all photos should be 1080 x 1080 pixels.
-1.  Press **Save** in the upper right corner. 
+
+11. Press **Save** in the upper right corner. 
+
 > **Note:** Unless changing website design, do not change the dimensions of image containers. Our website aims for a professional and consistent design.
