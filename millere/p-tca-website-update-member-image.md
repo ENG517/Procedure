@@ -27,4 +27,6 @@ Before beginning the process of updating executive board member profile pictures
 9.  Select Replace > Upload.
 10. Upload TCA executive board member photo.
 11. Select “Select” in the lower left corner.
+> Note: For consistency, all photos should be 1080 x 1080 pixels.
 12. Press “Save” in the upper right corner. 
+> Note: Unless changing website design, do not change the dimensions of image containers. Our website aims for a professional and consistent design.
