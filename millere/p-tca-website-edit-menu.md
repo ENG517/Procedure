@@ -12,6 +12,8 @@ Before editing the TCA website menu, you must:
 
 - Have access to your NCSU Unity ID and Duo App.
 
+> Note: If you do not have administrator access to the Technical Communication Association website, request access from the acting TCA president or association faculty advisor.
+
 ## How to Edit the TCA Website Menu
 
 1. Open your preferred website browser.
@@ -21,6 +23,8 @@ Before editing the TCA website menu, you must:
 3. Scroll to the bottom of the page and select “Log In.”
 
 4. Type in your NCSU Unity ID.
+
+> Note: Your Unity ID is the letter and number combination used for your NCSU email address, not your student ID number.
 
 5. Complete NCSU Duo authentication.
 
@@ -35,6 +39,8 @@ Before editing the TCA website menu, you must:
 3. If the menu item is a custom link, copy and paste link URL, add preferred hyperlink text in “Link Text,” and “Add to Menu.”
 
 4. Save menu.
+
+> Note: The hypertext written will be how your link is displayed on the live website menu.
 
 ### To Remove Menu Items
 
