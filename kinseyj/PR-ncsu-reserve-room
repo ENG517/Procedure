@@ -1,0 +1,25 @@
+# Pull Request Template
+
+Use the content and structure to write the content for your branch's pull request.
+
+## Created p-ncsu-libraries-reserve-room
+
+**Completed Work**
+
+- Created new procedure: `p-ncsu-libraries-reserve-room.md`
+- Procedure's Goal: To teach new students how to reserve rooms in the NCSU libraries so they can make use of resources available to NCSU students.
+
+## User Scenario
+
+A graduate student is starting at NCSU, after having completed their undergraduate degree at another institution. They are unsure what sort of benefits they have while being a student and what resources are available to them. They also want to spend more time on campus, but do not have the cubicle that comes with being a TA. They want places to study and get work done. Maybe even a way to meet new people. 
+
+They hear from a classmate who attended NCSU for their undergrad that students can reserve rooms in the libraries, for free! And, to top that off, graduate students get their own exclusive spaces they can reserve. They are curious about how to go about reserving a study room so they can study away from their apartment, and maybe start a study group.
+
+## Notable Review Requests
+
+Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
+
+1. I wonder if I should add any alerts, to be honest the wesbite I'm guiding students on is prettuy straightforward but I think I could find something. How should alerts be formatted?
+2. I plan to add images, I just haven't gotten there yet.I find that process confusing.
+3. Other than images, do you feel I should break up the text somehow? It feels a little dense to me...
+

@@ -17,3 +17,11 @@ Mark prioritizes vocabulary study but also practices using context clues to unde
 Jenny adopts a strategy to answer every question on the test, choosing 'C' for complete guesses to avoid leaving any blanks.
 
 Changed file, pull request review requested
+=======
+
+## Notable Review Requests
+
+<ul>
+Are more images needed for these instructions?
+Are the documents relating to Hi-Set preparation understandble? 
+</ul>

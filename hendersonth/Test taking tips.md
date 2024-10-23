@@ -1,5 +1,7 @@
 # Hi Set exam tips
- ![Your test is still by pencil and paper](hendersonth/assets/images/OIP.jpeg)
+
+![Your test is still by pencil and paper](assets/images/OIP.jpeg)
+
 <ul>
 <li> Take 30 minutes to study your study guide for two weeks leading up to the exam, however you must also come to class </li>
 <li> 70% of the questions are skills based questions meaning the answers can be found within reading passages, pictures and diagrams </li>
@@ -7,6 +9,3 @@
 <li> Answer every question on the test, wrong answers do not count aganist you but skipped questions means there is no chance of procuring a point. If random guessing must occur, choose the letter C.  </li>
 <li> Always work to exceed your own expectations!</li>
 </ul>
-
-
-Changed file 1

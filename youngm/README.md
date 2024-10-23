@@ -1,3 +1,3 @@
-# Title of Project
+# Procedure Project
 
-[provide basic summary of your procedure assignment]
+[Using skills we have learned over the past several weeks to construct our own procedures in Github using Markdown]
