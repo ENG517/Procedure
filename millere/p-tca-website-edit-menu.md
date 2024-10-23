@@ -40,11 +40,15 @@ Before editing the TCA website menu, you must:
 
 1. **Confirm** if you are adding a page, post, or custom link. **>** **Select** corresponding option on left sidebar.
 
-![Screenshot highlighting the Menu conditional menu.](assets/images/screenshots/)
-
 2. If the menu item is a page or post, click the proper checkbox and **Add to Menu.**
 
+![Screenshot highlighting the Pages and Posts options under the Add Menu Items conditional menu.](assets/images/screenshots/ss-pages-posts.png)
+> *Figure 3: Click the drop-down link next to the relevant catagory.*
+
 3. If the menu item is a custom link, copy and paste link URL, add preferred hyperlink text in **Link Text**, and **Add to Menu.**
+
+![Screenshot highlighting the Custom Link option under the Add Menu Items conditional menu.](assets/images/screenshots/ss-custom-links.png)
+> *Figure 4: Click the drop-down link next to **Custom Links** to add a custom link to the TCA menu.*
 
 4. Save menu.
 
@@ -58,6 +62,9 @@ Before editing the TCA website menu, you must:
 
 3. Select the red and underlined **Remove** text.
 
+![Screenshot highlighting Remove option.](assets/images/screenshots/ss-remove-meu.png)
+> *Figure 5: Click the **Remove** red underlined text to remove a menu item.*
+
 4. Save Menu.
 
 ### To Move Menu Items
@@ -67,5 +74,8 @@ Before editing the TCA website menu, you must:
 2. Hover over the menu item.
 
 3. Click and hold the menu item to drag and drop it to your desired position. 
+
+![Screenshot highlighting an example of moving a menu item.](assets/images/screenshots/ss-move-menu-item.png)
+> *Figure 6: Move menu item to the desired position.*
 
 4. Save Menu.
