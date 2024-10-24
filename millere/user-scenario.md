@@ -1,5 +1,10 @@
-# User Scenario - Title Here
+# User Scenarios - NCSU Technical Communication Association Website Guide
 
-**Scenario**: Paste the scenario text here.
+**Scenario 1**: Morgan is a first year MSTC student that just joined the TCA executive board as its secretary. Her undergrad experience mostly focused on psychology, so she’s excited to learn more about the technical aspects of technical communication. During her first TCA meeting, she was assigned to update the executive board members' profile pictures on TCA’s Wordpress website because the leadership changes drastically year-to-year. Morgan is excited to be an active board member, but has no idea how Wordpress works.
 
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+**Scenario 2**: Joe is a second year MSTC student who has been in TCA for a year and just became the association’s vice president. Most of his interest in technical communication is in data science and large language models (LLMs), so he doesn’t have a lot of previous experience in website development or UX. On rotating months, TCA board members are responsible for creating and uploading blog posts to the association’s website. This is the first month Joe has to post a blog post, but he isn’t sure what that process looks like. 
+
+**Scenario 3**: Kevin is a second-year MSTC student who just became president of TCA. He was not previously involved in TCA, but was encouraged by his professor’s to run for a leadership role and was elected president. After graduation, Kevin hopes to continue studying technical communications in a PhD program and eventually become a college professor. After getting access to the TCA website, he made it his mission to make the website as accessible as possible so everyone can learn from its content. He wants to start with updating the website’s menu, but doesn’t know where to start.
+> *Note: Scenario 3 is labeled Scenario 4 in Priority Guide.
+
+Refer also to my [Priority Guide](assets/docs/Miller-Task-Analysis-Updated.docx%20(3).pdf)
