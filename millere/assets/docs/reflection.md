@@ -16,11 +16,15 @@ My procedures were task-focused (emphasis on coaching moves), with my staging an
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 
-I completed three procedures and new Github branches for each procedure to do the Markdown work. After completing one of the move types, I would perform a commit and push to properly document the edits. I did the same after I completed the Markdown aesthetic editing process (bolding/italicizing text, adding image files, and adding screenshots and “Figure” labels into my code). After I was confident in the quality of my procedure, I created a pull request to share with my team members for group review, commented on the review and edited my documentation accordingly, and (after making sure merging was compatible) merged my procedure to the main document. I added my “Task Analysis” file and this reflection copy to the first branch I created and will commit, push, pull, and merge from there. Below I’ve attached one of my pull requests:
+I completed three procedures and new Github branches for each procedure to do the Markdown work. After completing one of the move types, I would perform a commit and push to properly document the edits. I did the same after I completed the Markdown aesthetic editing process (bolding/italicizing text, adding image files, and adding screenshots and “Figure” labels into my code). After I was confident in the quality of my procedure, I created a pull request to share with my team members for group review, commented on the review and edited my documentation accordingly, and (after making sure merging was compatible) merged my procedure to the main document. I added my “Task Analysis” file and this reflection copy to the first branch I created and will commit, push, pull, and merge from there. Below I’ve attached a link to one of my pull requests:
+
+[Link to Pull Request 78](https://github.com/ENG517/Procedure/pull/78)
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
-Consistent use of Markdown was crucial to me. I made sure all my code was properly spaced, bolded all “Note” terms, italicized “Figure” and “Figure” copy, and bolded terms I would typically put in quotations for ease of reading. I’ve attached a screenshot of my code below to highlight these features. 
+Consistent use of Markdown was crucial to me. I made sure all my code was properly spaced, bolded all “Note” terms, italicized “Figure” and “Figure” copy, and bolded terms I would typically put in quotations for ease of reading. I’ve attached a link to my code on the Github website:
+
+[Link to Markdown copy](https://github.com/ENG517/Procedure/blob/main/millere/p-tca-website-edit-menu.md?plain=1)
 
 
 
