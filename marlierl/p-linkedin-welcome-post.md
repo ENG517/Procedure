@@ -1,3 +1,4 @@
+<!-- See my comments in the admin file and apply here as well. -->
 # How to Write A Welcome Post
 
 _To successfully write and publish a welcome post on LinkedIn, you will need to have a computer, stable internet connection, your job description, and a digital copy of your headshot_
