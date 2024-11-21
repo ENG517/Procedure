@@ -1,21 +1,24 @@
 # Locating Vocal Presets Within Logic Pro
 
-#### Learn how to locate and use vocal presets within Logic Pro
+<!-- #### Learn how to locate and use vocal presets within Logic Pro -->
+<!-- This is a BIG promise to fulfill: "locate and utilise all vocal presets Logic Pro has to offer." Narrowing your scope will help you write a more helpful procedure with a specific outcome. Again, use a running example to ground your procedure. -->
+Logic Pro is home to a wide variety of vocal presets for new users to utilise and experiment with while using the Digital Audio Workstation (DAW). By the end of this tutorial, you will be able to locate and utilise all vocal presets Logic Pro has to offer. 
 
- Logic Pro is home to a wide variety of vocal presets for new users to utilise and experiment with while using the Digital Audio Workstation (DAW). By the end of this tutorial, you will be able to locate and utilise all vocal presets Logic Pro has to offer. 
-
-## Conditions
-#### Before you begin, here is what you need.
-1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac.
-2. Purchase Logic Pro from the application store.
+<!-- ## Conditions -->
+<!-- #### Before you begin, here is what you need. -->
+<!-- 1. Own a Apple Macbook Pro, Macbook Air, Mac Mini, or iMac. -->
+<!-- 2. Purchase Logic Pro from the application store. -->
+<!-- Comment: In this case, the prereq is the procedure. -->
+## Prerequirements
+- [Created a audio track](marsh-logic-create-audio-track.md)
 
 ## How to Locate Vocal Presets in Logic Pro
 
-### 1. Create an Audio Track within Logic Pro
+<!-- ### 1. Create an Audio Track within Logic Pro
 
 - Click [here](marsh-logic-create-audio-track.md) for a tutorial on how to create an audio track.
 
-![Audio Track Starting Point](assets/images/screenshots/T2-step1.jpg)
+![Audio Track Starting Point](assets/images/screenshots/T2-step1.jpg) -->
 
 ### 2. Open Logic Pro's preset library
 
