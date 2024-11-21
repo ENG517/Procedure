@@ -39,13 +39,14 @@ Before accepting a public covering offer, your mare must:
 ![Screenshot displaying the public coverings search page and a player's mouse hovering over the covering offer they intend to accept for their mare](assets/images/screenshots/ss-choose-covering.png)
 > *Figure 3: Selecting **Choose** next to a covering offer brings you to a confirmation page that allows you to preview the genetic details of the stallion before accepting the covering.*
 
-5. Confirm that the genetic details for both the sire and dam you are attempting to breed align with your desired traits before proceeding.
+5. Confirm that the genetic details for both the sire and dam you are attempting to breed align with your desired traits before proceeding. <!--Just a little suggestion about markdown, which helps format your content with simple indentation to connote its relationship with the step content.-->
+  ![Screenshot displaying the confirmation page of a covering](assets/images/screenshots/ss-confirm-covering.png)
+    > *Figure 4: The covering confirmation page reviews genetic details of both horses as well as the covering fees you are responsible for paying.*
+<!-- Note the buried actions within one step. Consider the following variance in how one may revise a more complex sequence.  -->
+1. **Optional**: Add **Black Market** items.
+   1. Add items from the Black Market to enhance the gestation period for your mare or the foals she gives birth to. Items display on the right-hand side of the window.
+   2. Select **Use** for whichever item(s) you would like to apply to the covering.
 
-![Screenshot displaying the confirmation page of a covering](assets/images/screenshots/ss-confirm-covering.png)
-> *Figure 4: The covering confirmation page reviews genetic details of both horses as well as the covering fees you are responsible for paying.*
+      > **Note:** Once you accept the public covering offer, you cannot undo it. Be sure to double check the genetic details of the horses you're breeding, and apply all desired Black Market Items to your mare *before* the covering is accepted.
 
-6. Optional: Add items from the Black Market to enhance the gestation period for your mare or the foals she gives birth to. Items display on the right-hand side of the window. Select **Use** for whichever item(s) you would like to apply to the covering.
-
-> **Note:** Once you accept the public covering offer, you cannot undo it. Be sure to double check the genetic details of the horses you're breeding, and apply all desired Black Market Items to your mare *before* the covering is accepted.
-
-7. Select **Cover my mare**.
+2. Select **Cover my mare**.

@@ -1,3 +1,4 @@
+<!-- See the feedback from the other two files and consider its application here. -->
 # Reserving and applying an affix to a horse
 
 ![Screenshot of a horse's private page with an arrow indicating where the horse's affix is](assets/images/screenshots/ss-show-affix.png)
