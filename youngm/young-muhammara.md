@@ -2,7 +2,7 @@
 
 Mumhammra is a smokey and sweet dip made primarily of roasted peppers. Similar in texture to it’s more common cousin - hummus. This spread combines walnuts, tahini, red bell pepper, chiles, and pomegranate molasses. The recipe originated in Syria but there are regional variations of the recipe across the Middle East.
 
-![alt text](/youngm\assets\images\screenshots\Muhammara-Dip-5.jpg)
+![alt text](/youngm/assets/images/screenshots/Muhammarafresh.jpg)
 
 ## Equipment
 - Stove 
@@ -35,7 +35,7 @@ Mumhammra is a smokey and sweet dip made primarily of roasted peppers. Similar i
 5. If the texture of the dip is too wet or too smooth, add anywhere from a dash to a ½ cup of breadcrumbs
 6. Transfer muhammara to a small bowl; drizzle with more pomegranate molasses and top with any leftover chopped walnuts.
 
-![alt text]()
+![alt text](/youngm/assets/images/screenshots/Muhammarafresh.jpg)
 
 Serve with a crusty bread, pita, or naan
 
