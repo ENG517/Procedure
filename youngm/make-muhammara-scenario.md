@@ -1,4 +1,4 @@
-# User Scenario - Writing A Cover Letter
+# User Scenario - Making Muhammara
 
 **Scenario**: 
 User's can range from a person new to cooking, or someone experienced in the kitchen but looking to try something new or get out of their comfort zone.
