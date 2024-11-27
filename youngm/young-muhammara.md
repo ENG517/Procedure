@@ -35,7 +35,5 @@ Mumhammra is a smokey and sweet dip made primarily of roasted peppers. Similar i
 5. If the texture of the dip is too wet or too smooth, add anywhere from a dash to a ½ cup of breadcrumbs
 6. Transfer muhammara to a small bowl; drizzle with more pomegranate molasses and top with any leftover chopped walnuts.
 
-![alt text](/youngm/assets/images/screenshots/Muhammarafresh.jpg)
-
 Serve with a crusty bread, pita, or naan
 
