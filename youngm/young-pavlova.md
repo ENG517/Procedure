@@ -4,8 +4,6 @@ A pavlova is a meringue presented as a cake, and comprised of just five common i
 
 A meringue may seem intimidating but it is just a combination of egg whites and sugar that has a lot of air whipped into it, making it expand in size.
 
-![alt text](/youngm/assets/images/screenshots/Pavlova-Recipe-2-of-2 (1).jpg)
-
 ## Equipment
 - Oven
 - Mixing bowl
