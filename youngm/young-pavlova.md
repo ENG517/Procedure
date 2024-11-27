@@ -33,11 +33,11 @@ A meringue may seem intimidating but it is just a combination of egg whites and 
 
 [^3]: Whipping by hand would be a long and brutal process.
 
-![alt text](youngm\assets\images\screenshots\soft-peak-egg-whites.jpg)
+![alt text](/youngm\assets\images\screenshots\soft-peak-egg-whites.jpg)
 
 5. Slowly pour in the sugar as the whipping continues. Once the sugar is added, turn the mixer speed up to high and keep whipping until stiff peaks form, this can take between 2-5 minutes.
 
-![alt text](youngm\assets\images\screenshots\egg-whites-to-stiff-peaks.jpg)
+![alt text](/youngm\assets\images\screenshots\egg-whites-to-stiff-peaks.jpg)
 
 6. Add in the vanilla extract. Whip for one more minute. 
 7. Finally, add in the cream of tartar and cornstarch. [^4]
@@ -58,4 +58,4 @@ A pavlova is traditionally topped with fresh fruit, but you can top it with what
 - Caramel
 - Honey
 
-![alt text](youngm\assets\images\screenshots\Pavlova-4.webp)
+![alt text](/youngm\assets\images\screenshots\Pavlova-4.webp)
