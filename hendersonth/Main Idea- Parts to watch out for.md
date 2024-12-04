@@ -30,6 +30,6 @@
 <ul>
 <li> Surrounding words</li>
 <li> Related ideas</li>
-<li> Signal phrases </li>
+<li> Signal phrases </li>a
 </ul>
  Example from Japan text: "contentious" surrounded by examples of conflict
