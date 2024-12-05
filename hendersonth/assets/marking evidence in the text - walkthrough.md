@@ -3,6 +3,7 @@
 ## Goal
 <ul>
 <li>Find and mark important evidence in any text</li>
+<li>This is an important skill which will help you with tasks like finding the main idea, and words in context<li>
 <li>Understand key points</li>
 <li>Connect main ideas</li>
 </ul>
