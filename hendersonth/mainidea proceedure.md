@@ -8,13 +8,13 @@ Having trobule with finding the main idea in complex reading passages? We are he
 
 ## Assess the main idea by following the events of the topic from the start to the end 
 2. Reading through, we spot several repeating themes: modernization, Western influence, and Japan's transformation. For instance there are the following cues 
-<ul>
-<li>At the start of the passage Japan is a closed country<li>
-<li>The opening introduces U.S. influence in 1848<li> 
-<li>A struggle between different groups in Japan for power in a conflict called 'Boshin War<li>
-<li>The mention of technology specifically 'western technology
-<li>At the end of the text, Japan is colonizing other countries<li>
-</ul>
+
+- At the start of the passage Japan is a closed country
+- The opening introduces U.S. influence in 1848
+- A struggle between different groups in Japan for power in a conflict called 'Boshin War
+- The mention of technology specifically 'western technology
+- At the end of the text, Japan is colonizing other countries
+
 
 
 ## Don't get distracted by overly specific details!:
@@ -28,37 +28,31 @@ Having trobule with finding the main idea in complex reading passages? We are he
 # Main Idea Reference Guide
 
 ## 1. Main Idea Elements
-<ul>
-<li>  Central theme/argument</li>
-<li>Supporting details</li>
-<li> Key points </li>
-</ul>
- Example from Japan text: Main idea is transformation and modernization
+* Central theme/argument
+* Supporting details
+* Key points
 
+Example from Japan text: Main idea is transformation and modernization
 
-## 2. Text Structure
-<ul>
-  <li>Introduction</li>
-<li> Body paragraphs</li>
-<li> Conclusion</li>
-<li> Transition words ("however," "despite," "while") </li>
-</ul>
- Example from Japan text: Shows chronological structure
+## 2. Text Structure 
+* Introduction
+* Body paragraphs
+* Conclusion
+* Transition words ("however," "despite," "while")
+
+Example from Japan text: Shows chronological structure
 
 ## 3. Evidence Types
-<ul>
-<li> Facts and dates</li>
-<li> Examples</li>
-<li> Explanations </li>
-</ul>
- Example from Japan text: "Perry's Black Ships" as specific evidence
+* Facts and dates
+* Examples
+* Explanations
+
+Example from Japan text: "Perry's Black Ships" as specific evidence
 
 ## 4. Context Clues
-<ul>
-<li> Surrounding words</li>
-<li> Related ideas</li>
-<li> Signal phrases </li>a
-</ul>
- Example from Japan text: "contentious" surrounded by examples of conflict
+* Surrounding words
+* Related ideas
+* Signal phrases
 
+Example from Japan text: "contentious" surrounded by examples of conflict
 
