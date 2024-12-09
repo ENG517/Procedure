@@ -14,9 +14,10 @@ Speaker Coach can only work with English at this time.
 
 ## Process steps
 
-1. Log into Microsoft PowerPoint
+1. Log into Microsoft PowerPoint.
    
 2. Open a presentation slide show file that you want to practice with.
+   ![PowerPoint Start]
    
 3. Click on the Slide Show tab.
     
