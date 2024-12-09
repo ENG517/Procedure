@@ -1,3 +1,4 @@
+<!--Was this file meant to be deleted?-->
 # Using Microsoft PowerPoint Speaker Coach Tool
 
 Microsoft PowerPoint is a well known presentation slide creator. Tools have been developed to not only make presentations more visually appealing but also to help users improve their presentation skills. One tool we will focus on is Speaker Coach. 
