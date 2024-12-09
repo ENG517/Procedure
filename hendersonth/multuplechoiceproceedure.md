@@ -76,4 +76,6 @@ Which event served as the primary catalyst for Japan's rapid modernization in th
 * Always read instructions carefully
 * Mark answers according to test requirements
 * Review answers if time permits
+* Even if an answer choice has information from the article, it is only correct if that information directly responds to the question
+* Don't let vocabulary issues stop you from choosing the correct answer, refer back to Words in context proceedure for more details 
 ```
