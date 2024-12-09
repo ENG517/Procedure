@@ -22,7 +22,7 @@ Speaker Coach can only work with English at this time.
    
     
 5. Check to make sure that you are on the first (start) slide in the presentation slideshow.
-   ![PowerPoint Start Slide](
+   ![PowerPoint Start Slide](assets/images/screenshots/PPfirstslide.png)
    
 7. Make sure you are sharing your microphone. 
    
