@@ -19,23 +19,26 @@ Speaker Coach can only work with English at this time.
 2. Open a presentation slide show file that you want to practice with.
   
 3. Click on the Slide Show tab.
-   
     
 5. Check to make sure that you are on the first (start) slide in the presentation slideshow.
    ![PowerPoint Start Slide](assets/images/screenshots/PPfirstslide.png)
    
 7. Make sure you are sharing your microphone. 
    
-8. Click on Rehearse with Coach button.
+8. Click on **Rehearse with Coach** button.
+   
+   ![Reshearse with Coach button](assets/images/screenshots/PPSpeakerCoachButton.png)
 
+9. Click on the **Start Rehearsing** button
+    
 ![Rehersal button](assets/images/screenshots/PPStartRehearse.png)
 ![PowerPoint Start](assets/images/screenshots/PPSpeakerCoachStart.png)
    
-1. Complete your presentation by speaking out loud and going through your slides.
+10. Complete your presentation by speaking out loud and going through your slides.
    
-2. Click the ESC button on your keyboard to exit Speaker Coach.
+11. Click the ESC button on your keyboard to exit Speaker Coach.
    
-3.  Your Rehersal Report will be generated.
+12.  Your Rehersal Report will be generated.
 
 ![Rehersal Report](assets/images/screenshots/PPRehearseReport.png)
     
