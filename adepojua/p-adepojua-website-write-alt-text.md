@@ -1,30 +1,64 @@
 # How to Write Great Alt Texts for Images
 
-Alt texts enable everyone, including people with visual impairments who use screen readers, to understand what your images represent—even if they can’t see them. Use this short guide to learn how to write functional alt texts for your website.
+Alt text enables everyone, including people with visual impairments who use screen readers, to understand what your images represent—even if they can’t see them. They also provide fallback descriptions if an image fails to load. Use this guide to write functional alt texts for your website.
+
+---
 
 ## What You’ll Need to Get Started
-- Access to your content management system (CMS) or HTML code
-- The images you’ll be describing
+- Access to your content management system (CMS) or HTML editor.
+- Familiarity with the distinction between **informational** and **decorative** images (explained below).
+- Optional tools: Screen reader software like [NVDA](https://www.nvaccess.org/) or VoiceOver on Mac for testing alt texts.
 
-## Writing Alt Text
+---
 
-1. First, decide whether the image is **informational** (i.e., it conveys important content) or **decorative** (i.e., it’s just for aesthetics). This will dictate how you handle the alt text.
+## Informational vs. Decorative Images
 
-2. For informational images, write descriptive alt text that explains what someone would need to know if they couldn’t see the image.
+| **Image Type**       | **Definition**                                                                                     | **Example**                     |
+|-----------------------|---------------------------------------------------------------------------------------------------|---------------------------------|
+| **Informational**     | Images conveying meaningful content that adds to the page's information.                          | A graph illustrating data trends. |
+| **Decorative**        | Images that are purely aesthetic and provide no additional information.                           | A background image of flowers.  |
 
-   ![Example of an informational alt text](/adepojua/assets/images/screenshots/Informational-alt-texts.png)
+For decorative images, leave the alt text field empty or use null alt text (`alt=""`).
 
-   **Note:**  
-   > - Don’t say “image of” or “picture of”—screen readers already know it’s an image.  
-   > - Don’t use too many words. It’s okay to write only what’s important for understanding the image.
+---
 
-3. If the image doesn’t add to the understanding of the content, leave the alt attribute blank.  
-   - Use `alt=""` in the HTML or leave the alt text field empty in your CMS. This tells screen readers to skip over the image without confusing users with unnecessary information.
+## Steps to Write Great Alt Texts
 
-![Empty alt text fields for decorative images](/adepojua/assets/images/screenshots/decorative-alt-texts.png)
+### 1. **Determine the Type of Image**
+- **Decide if the image is informational or decorative.**
+  - If **informational**, move to the next step.
+  - If **decorative**, leave the alt field empty (`alt=""`).
 
-4. Run a quick test with a screen reader to make sure the alt text sounds natural and informative. You can use free tools like [NVDA](https://www.nvaccess.org/) or VoiceOver on Mac.
+### 2. **Write Descriptive Alt Text**
+- Follow these guidelines when writing descriptive alt text:
+  1. Focus on the **image’s purpose**: Describe only what is relevant to the user.
+  2. Avoid redundant phrases like "Image of" or "Picture of," as screen readers already indicate it’s an image.
+  3. Keep it **clear and concise**, usually under 125 characters.
 
-5. Save your work and double-check to ensure you didn’t miss any images.
+    **Example**:
+    - **Bad**: “Image of a cat sitting on a couch.”
+    - **Good**: “A gray cat sitting on a red couch.”
 
-> ⚠ 
+### 3. **Use Context-Specific Alt Text**
+- Tailor the alt text based on where the image appears on the page:
+  1. If the image supports a specific headline or paragraph, describe its role or how it adds to the content.
+  2. For standalone images, ensure the description is complete without relying on external context.
+
+### 4. **Test with a Screen Reader**
+- Run a quick test to verify that the alt text:
+  1. **Sounds natural**: Ensure it flows well when read aloud.
+  2. **Conveys sufficient information**: Check that the user understands the image's purpose.
+- Use tools like [NVDA](https://www.nvaccess.org/) for Windows or VoiceOver on Mac ([official VoiceOver tutorial](#add-link-to-tutorial)).
+
+### 5. **Review and Refine**
+- Go through your alt texts to:
+  1. Double-check spelling and grammar.
+  2. Ensure every image has appropriate alt text (or is marked as decorative if applicable).
+  3. Confirm that the alt text aligns with the image’s purpose and the page’s content.
+
+---
+
+## Tips for Success
+- **Consistent Tools**: If your workflow involves WordPress or another CMS, stick to that platform for demonstration.
+- **Terminology Matters**: Define key terms like "alt text" in your introduction to help beginners.
+- **Real Examples**: Use common scenarios, like product images or charts, to illustrate effective alt text.
