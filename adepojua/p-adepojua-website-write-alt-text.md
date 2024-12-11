@@ -4,7 +4,7 @@ Alt text enables everyone, including people with visual impairments who use scre
 
 ---
 
-## What You’ll Need to Get Started
+## What You Will Need to Get Started
 - Access to your content management system (CMS) or HTML editor.
 - Familiarity with the distinction between **informational** and **decorative** images (explained below).
 - Optional tools: Screen reader software like [NVDA](https://www.nvaccess.org/) or VoiceOver on Mac for testing alt texts.
