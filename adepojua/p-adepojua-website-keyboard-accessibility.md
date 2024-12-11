@@ -1,8 +1,14 @@
-## How to implement keyboard accessibility on your website
+# How to Implement Keyboard Accessibility on Your Website
 
-Ensuring keyboard accessibility is essential for users who cannot use a mouse. Follow these steps to make your website navigable by keyboard.
+Ensuring keyboard accessibility is essential for users who cannot use a mouse. Follow these steps to make your website fully navigable via keyboard.
 
-### Making the keyboard accessible on your website
+## What You Will Need to Get Started
+
+- Access to your website’s codebase or content management system (CMS).
+- Basic understanding of HTML and CSS.
+- Optional tools: A keyboard for testing (e.g., using the **Tab** and **Esc** keys) and accessibility testing tools like Lighthouse or axe.
+  
+## Making the keyboard accessible on your website
 
 1. Start by using the **Tab** key to move through links, buttons, and form fields. Ensure all elements can be accessed via the **Tab** key. 
 
