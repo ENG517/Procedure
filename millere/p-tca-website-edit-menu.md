@@ -34,7 +34,7 @@ Before editing the TCA website menu, you must:
 6. **Hover** over **Appearance** in left sidebar. **>** **Select** **Menus.**
 
 ![Screenshot highlighting Appearance and Menu buttons.](assets/images/screenshots/ss-apperance-menu.png)
-> *Figure 2: Click the **Menus** button under the **Apperance** menu.*
+> *Figure 2: Click the **Menus** button under the **Appearance** menu.*
 
 ### To Add Menu Items
 
