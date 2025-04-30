@@ -1,3 +1,4 @@
+<!-- See comments in the iced espresso procedure. -->
 # How to Reserve a Room at One of NCSU's Libraries
 
 Want to find better places to study and get work done on campus? New to NCSU and want to learn about what sort of resources NCSU provides it's students? Here, you can learn how to reserve a room in one of NCSU's libraries, a great resource for getting a quiet place for getting work done, hosting meetings or study groups, and more. 
