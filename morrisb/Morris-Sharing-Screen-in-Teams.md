@@ -1,3 +1,4 @@
+<!-- See my overall comments in the Speaker Coach file to consider here as well. -->
 # Sharing your screen during a Microsoft Teams meeting
 
 Microsoft Teams a workspace for real-time collaboration and communication, meetings, file and app sharing, all in one place. In a Microsoft Teams meeting you can present content by sharing your screen (tab), your entire desktop or PowerPoint slides.
@@ -8,6 +9,7 @@ Microsoft Teams login (account)
 
 **Note:** You may do this in the online version, the app version on your desktop or on a mobile device. For this process it is recommended that you use your desktop. 
 
+<!-- COMMENT: Try to situate and guide your users with more helpful headings, since this only signals a generic process. -->
 ## Process Steps
 1. Log into Microsoft Teams 
    
@@ -20,7 +22,7 @@ Open your Microsoft Outlook Calendar and select New meeting.
 
 ![tools bar in a Teams meeting](assets/images/TeamstoolsShare.png) 
    
-4. Click the button.
+4. Click the button. <!--Which button?-->
    
 5. Click on share screen, window or tab option.
 
