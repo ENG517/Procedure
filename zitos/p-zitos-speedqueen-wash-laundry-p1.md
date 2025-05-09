@@ -45,4 +45,5 @@ Your clothes are now drying. The time remaining on the dry cycle will be display
 
 **Tip**: Set a time on your phone to remember to remove your clothes from the machine.
 
+<!-- I would use this alert where you have a similar alert in step 1 of drying you clothes. -->
 > **Alert**: Clean the lint trap when your clothes are finished drying to avoid the risk of fire.

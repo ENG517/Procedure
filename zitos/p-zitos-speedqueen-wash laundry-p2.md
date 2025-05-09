@@ -1,3 +1,10 @@
+<!--
+    - Overall really well done, Sami!
+    - I appreciate how you have written for different expertise, and I think they work overall.
+    - Only major note would be elaborating on a set of conditions to consider, when choosing things like water and dryer temperatures.
+    - See note about the alerting move work in the Drying portion
+    - Some minor spelling mistakes here and there
+-->
 # Washing Laundry with NC State Laundry Machines
 
 University Housing provides all residents living in Wolf Village with free and private laundry machines in their apartment.
@@ -44,7 +51,7 @@ Your laundry is now in the wash cycle. The control panel will display the remain
     * **Note**: never put scent beads in the dryer.
 
 4. Close dryer door.
-
+<!-- You could include a separate file with a set of conditions, based on the type of laundry in relationship to the settings. -->
 5. Press "WARM TEMP".
 
 6. Press start on the dryer's control panel.
