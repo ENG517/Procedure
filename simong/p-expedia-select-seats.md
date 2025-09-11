@@ -18,13 +18,14 @@ To select your seats,
 1) Scroll to the 'seats' section and click on 'choose your seats'.
 
 <img src="/simong/images/images-seats/choose-seats.jpeg/" alt="choose your seat message" style="width: 300px">
-*note: the green check mark indicates that seat choice is included for your flight. If there is a red X mark, then you will need to return to the flight selection section and change the flight class for each flight that you wish to have seat choice.
+    note: the green check mark indicates that seat choice is included for your flight. If there is a red X mark, then you will need to return to the flight selection section and change the flight class for each flight that you wish to have seat choice.
 
 The next screen will provide a virtual map of the airplane's seating chart.
 
 2) Click on the seat of your choice.
 
 <img src="/simong/images/images-seats/select-seat.jpeg" alt="seating chart" style="width: 300px">
+
 *Each square box indicates a seat. The light gray boxes with an X are reserved seats. The number indicates the row on the plane. Select your seat from the array of black-outlined boxes.*
 
 3) Click the 'select seat' button on the bottom-right side of the screen.
