@@ -50,3 +50,14 @@ Alternatively, you can use the Virtual Assistant feature to message with an agen
 ![virtual agent form](/simong/images/images-help/virtual-agent.jpeg)
 
 Answering the prompted questions will guide the virtual assistant to put you in contact with the right customer representative 
+
+
+
+
+<img src="/simong/images/images-help/support-heading.jpeg" alt="Expedia Header" style="width: 300px">
+<img src="/simong/images/images-help/how-can-we-help-textbox.jpeg" alt="How Can We Help Search Bar" style="width: 300px">
+<img src="/simong/images/images-help/how-to-contact-us.jpeg" alt="Contact us link" style="width: 300px">
+<img src="/simong/images/images-help/how-to-contact-blurb.jpeg" alt="how to contact us message" style="width: 300px">
+<img src="/simong/images/images-help/contact-us-questions.jpeg" alt="contact form" style="width: 300px">
+<img src="/simong/images/images-help/help-button.jpeg" alt="help button" style="width: 300px">
+<img src="/simong/images/images-help/virtual-agent.jpeg" alt="virtual agent form" style="width: 300px">
