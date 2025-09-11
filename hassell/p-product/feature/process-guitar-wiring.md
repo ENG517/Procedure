@@ -25,3 +25,5 @@ You should have some prior experience soldering. If you don't, practice for a fe
 
 ---
 
+## Breakdown of Potentiometers
+
