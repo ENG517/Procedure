@@ -9,11 +9,11 @@ Use the revolutionary Stand'o'Mix 300 stand mixer to make homemade pasta! Better
 - Pasta sheeter & cutter attachment
 
 ### Ingredients
-(This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.)
+This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
 - 4 Large Eggs
 - 3 1/2 cups All-purpose Flour
 - 1/2 tsp Salt
-- 1/4 cup water
+- 1/4 cup water 
 
 ## Let's Make Pasta!
 
