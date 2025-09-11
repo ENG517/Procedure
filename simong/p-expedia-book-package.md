@@ -52,7 +52,7 @@ Now that you have selected your accommodations and flights, you can review and b
 
 2) select the 'next: final details' button
 
-![final details button](//simong/images/images-package/final-details-package.jpeg)
+![final details button](/simong/images/images-package/final-details-package.jpeg)
 
 3) fill out the requested personal and financial information details
 
