@@ -27,3 +27,15 @@ You should have some prior experience soldering. If you don't, practice for a fe
 
 ## Breakdown of Potentiometers
 
+![Potentiometer diagram](/hassell/assets/images/screenshots/potentiometer-diagram.png)
+
+A *potentiometer* (which I'll refer to as a "pot" from now on) is a type of rotating resistor that, for our purposes, will control your guitar's *tone* and *volume* (hence why you need two). They are what you will be soldering on, so it's important to get acquainted with their parts.
+
+### Lugs
+
+* Lug 2 is connected to the carbon track, a type of resistant wiper (think windshield) that controls the amount of electrical current diverted to the outer lugs (Lugs 1 and 3). Turning the knob left will divert the current to Lug 1 while turning the knob right will divert the current to Lug 3.
+* Lugs 1 and 3 will serve different functions across the volume and tone pots, so the important thing to remember is one will receive current and one will not.
+
+---
+
+
