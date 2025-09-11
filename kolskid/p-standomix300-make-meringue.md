@@ -11,9 +11,9 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 - Parchment paper
 - Disposable piping bag
   - Smooth-sided cookies: no piping tip needed.
-![Smooth meringue cookies](<../images/Meringue pics/Smooth meringue.png>)
+![Smooth meringue cookies](<assets/images/screenshots/Meringue pics/Smooth meringue.png>)
   - Cookies with defined ruffles/ridges: star-shaped piping tip (any size) required.
-![Ruffled meringue cookies](<../images/Meringue pics/Ruffle meringue.png>)
+![alt text](<assets/images/screenshots/Meringue pics/Ruffle meringue.png>)
 
 ### Ingredients
 - 4 large eggs
@@ -28,7 +28,7 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 1. Preheat the oven to 225F
 2. Separate the egg whites and yolks. The yolks can be used for a different recipe, or discarded.
    > _**Tip:** Even a small amount of yolk can ruin a meringue. Separate the eggs over a ‘quarantine’ bowl, and then transfer the egg whites to a second ‘collection’ bowl. This way, if a yolk breaks, you won’t lose all the egg whites you’ve already separated._
-![alt text](<../images/Meringue pics/Separating eggs.jpg>)
+![Using 3 bowls to separate eggs](<assets/images/screenshots/Meringue pics/Separating eggs.jpg>)
 3. Install the whisk and bowl in the stand mixer.
 4. Measure each ingredient and set them out near the stand mixer.
 5. Cover a cookie sheet with parchment paper.
@@ -47,7 +47,7 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 8. When the sugar is fully dissolved and the mixture comes to stiff peaks, it’s ready!
 - **Test for dissolved sugar:** Rub a small bit of meringue between your fingers. If it feels gritty, it needs to be mixed longer.
 - **Test for stiff peaks:** Unhook the whisk and lift it straight out of the bowl. The meringue should come to a ‘peak’ that is stiff enough to stand upright when the whisk is turned over. If the peak flops over, it needs to be mixed longer.
-![alt text](<../images/Meringue pics/Stiff peaks test.png>)
+![Stiff peaks staying upright even after the beater is turned over](<assets/images/screenshots/Meringue pics/Stiff peaks test.png>)
 
 ### Make the Cookies
 1. Transfer the meringue to the prepared piping bag.
