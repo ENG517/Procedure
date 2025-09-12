@@ -25,9 +25,9 @@ You must have the Kardia app installed on your smartphone:
  ## Creating your account
 
 1. **Open** the Kardia app on your smartphone
-2. **Tap** "Create New Account" on the welcome screen
+2. **Tap** `Create New Account` on the welcome screen
 3. **Enter** your email address and create a strong password (at least 8 characters)
-4. **Tap** "Create Account"
+4. **Tap** `Create Account`
 5. **Check** your email for a verification message and **tap** the verification link
 
-**What you should see:** "Account successfully created" confirmation message
+**What you should see:** 'Account successfully created' confirmation message
