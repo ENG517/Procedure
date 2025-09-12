@@ -11,7 +11,7 @@ The benefits of drawing in a monochromatic or *grayscale* palette are extensive.
 Depending on your artistic expertise, creating images like these will not be something you will be able to do instantly, but getting started drawing in Figma is now easier than ever with the introduction of **Figma Draw**, a dedicated workspace in Figma purely for expressive vector illustration and visual design.
 
 ## Prequisites ##
-In addition to Figma, you will need to utilize the [MonoMagic]("https://www.figma.com/community/plugin/1301603282794767236/monomagic-desaturate-frames-vectors") plugin to achieve an authentic Grayscale. I recommend saving or bookmarking this software.
+In addition to Figma, you will need to utilize the [MonoMagic]("https://www.figma.com/community/plugin/1301603282794767236/monomagic-desaturate-frames-vectors") plugin to achieve an authentic Grayscale. I recommend saving or bookmarking this software prior to beginning.
 
 ## Getting Started with Figma Draw ##
 
@@ -35,4 +35,50 @@ There are three drawing apparatuses available in Figma Draw, other than the shap
 3. ### The brush ###
 - Only available in Figma draw mode.
 - Great for hand painted textures and varying line weights.
+
+## Let's Draw! ##
+Now let's get started! I recommend beginning with the pencil tool and finishing with the brush to add texture and gradation. First:
+
+1. Select the pencil tool.
+2. Adjust properties in the design panel. Including:
+  - The Color (for our purpose, leave.)
+  - The weight or thickness
+  - The stroke style, including solid, line, or dashed.
+3. Draw to your heart's content!   
+![Toolbar](assets/images/screenshots/Toolbar.png)
+
+Now that you have finished creating a pencil-drawn image you're happy with, let's add on with the brush tool.
+
+The brush tool is slightly more complex than the pencil. Have fun experimenting with the 25 brush types and the various effects available on the right hand side.
+
+<img src="assets/images/screenshots/Brush_Effects.png" alt="Alt text"  style="width: 200px; height: 100px">
+
+## Deleting Drawings in Figma ##
+As mentioned previously, Figma is a *vector* based design software. As such, there is no eraser tool. To delete unwanted vectors you must
+
+1. Hover over the unwanted lines.
+2. **Select** the image you'd like to delete.
+3. Press the delete or backspace key on your keyboard.
+
+## Using MonoMagic to grayscale your drawing ##
+
+While it is possible to apply a grayscale mask in Figma using the saturation slider, to convert your image itself to grayscale will require a third party plugin. I recommend *MonoMagic* for its easy to use interface and seamless interaction with Figma.
+
+1. Hover over the open in button on the [Monomagic](https://www.figma.com/community/plugin/1301603282794767236/monomagic-desaturate-frames-vectors) page.
+2. Open the plugin in the environment we've been working in.
+3. Authentically desaturate your image using the true color conversion bar.
+
+## Export Your Image ##
+
+Once you're satifisfied with your image, it's time to export it! Exporting images in Figma is incredibly easy. 
+
+1. Navigate to the right side of the page.
+2. Select the desired file type (PNG, JPEG, SVG, PDF.)
+3. Hit "Export Untitled."
+
+Now you have your first fully grayscaled digital image in Figma! It's fairly intuitive, with lots of room to make adjustments based on your creative process. Just remember, as in hand-drawn illustration, practice makes perfect.
+
+
+
+
 
