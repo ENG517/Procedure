@@ -1,4 +1,4 @@
-# User Scenario - Title Here
+# User Scenario 
 
 **Scenario**: Paste the scenario text here.
 
