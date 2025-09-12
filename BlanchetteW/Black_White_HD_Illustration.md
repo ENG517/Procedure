@@ -8,7 +8,7 @@ The benefits of drawing in a monochromatic or *grayscale* palette are extensive.
 <img src="assets/images/BW_Illustrations/Shel-Silverstein-Illustration.jpg" alt="Alt text" style="width: 140px; height: 120 ">
 <img src="assets/images/BW_Illustrations/MC_Escher_Hands.jpeg" alt="Alt text"  style="width: 180px; height: 120px">. 
 
-Depending on your artistic expertise, creating images like these will not be something you will be able to do instantly, but getting started drawing in Figma is now easier than ever with the introduction of **Figma Draw**, a dedicated workspace in Figma purely for expressive vector illustration and visual design.
+Depending on your artistic expertise, creating images like these will not be something you will be able to do instantly. However, getting started drawing in Figma is now easier than ever with the introduction of **Figma Draw**, a dedicated workspace in Figma purely for expressive vector illustration and visual design.
 
 ## Prequisites ##
 In addition to Figma, you will need to utilize the [MonoMagic]("https://www.figma.com/community/plugin/1301603282794767236/monomagic-desaturate-frames-vectors") plugin to achieve an authentic Grayscale. I recommend saving or bookmarking this software prior to beginning.
