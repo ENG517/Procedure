@@ -10,3 +10,12 @@ The Landing is located on the 3rd floor of the Hunt Library in Room 3201. The ro
 The librarian or library specialist working with you during the process will be your first point of contact for questions or concerns with the space, and will be on-site the day of your event to assist with troubleshooting as needed. If internal attempts to resolve problems with the space do not work, please contact the Ask Us desk for physical concerns and the IT department for more in-depth technological resolution. 
 
 To organize more reserved events in the space, please complete the request form, and a Libraries staff member will be in touch with you in 2-3 business days. Please submit the request at least 14 days in advance of the requested date.
+
+## Community Guidelines 
+The landing is a space for everyone. You play an important role in shaping this environment.
+
+Please avoid behaviors that interfere with others’ use of the space
+
+Please leave the space as you found it and return all items to their original location.
+
+These guidelines are based on University Rule 02.61.05

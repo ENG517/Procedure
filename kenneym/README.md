@@ -1,3 +1,3 @@
 # Title of Project
 
-[provide basic summary of your procedure assignment]
+This guide serves as a digital toolkit to teach users how to _. 

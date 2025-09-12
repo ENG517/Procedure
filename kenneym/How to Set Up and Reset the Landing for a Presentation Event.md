@@ -38,3 +38,4 @@ Note: if you experience (1) resistance from the table upon pushing or (2) the ta
 ## Resetting the Space to its Origional Condition
 Time - 15 minutes for one person
 
+It is important to return the space to its origional condition so students and faculty can continue using the space after your presentation period concludes. 
