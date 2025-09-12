@@ -38,3 +38,21 @@ You must have the Kardia app installed on your smartphone:
 > - Check your spam or junk folder
 > - Verify you entered the correct email address
 > - Request a new verification email from the app
+
+## Completing your profile setup
+
+After creating your account, complete your profile by adding your medical information, health history, current medications, and setting up daily reminders through the app's [**Profile**](#) and **Settings** sections. This ensures accurate ECG analysis and consistent monitoring schedule.
+
+> **Privacy Note**
+>
+> Your medical information is encrypted and only shared with healthcare providers you authorize. Never enter information in unofficial apps or websites.
+
+## Next steps
+
+With your profile complete, you can start taking daily ECG readings and sharing data with your healthcare provider through the app.
+
+## Additional resources
+
+- [Kardia User Guide](https://kardia.com/assets/old/app-user-manuals/00LB17.15-en.pdf) - Comprehensive app documentation
+- [Understanding ECG Results](https://alivecor.com/products) - Educational materials
+- [Contact Support](https://alivecor.zendesk.com/hc/en-us/requests/new) - Technical assistance
