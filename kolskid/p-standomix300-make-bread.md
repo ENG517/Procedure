@@ -5,8 +5,8 @@ Baking bread is a fun and therapeutic activity with a bonus: you get homemade, f
 ## Required tools and ingredients
 ### Tools
 - Stand’o’Mix 300
-- Paddle attachment
-- Dough hook attachment
+  - Paddle attachment
+  - Dough hook attachment
 - Large bowl
 - Oven
 - Two loaf pans
@@ -53,29 +53,40 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 5. With the mixer running add more flour, ½ cup at a time, until the dough begins to pull away from the sides of the bowl. 
    - Allow each addition to fully incorporate before adding more.
    - The dough should be smooth, elastic, and lightly tacky to the touch. If the dough is sticky, add a little more flour. 
-      - Turn off the mixer before you poke the dough, please.
+      - Turn off the mixer before you poke the dough.
 ![The doughball is cohesive, smooth, and pulls away from the mixing bowl.](<assets/images/screenshots/Bread pics/Bread dough.webp>)
 6. Raise the speed to medium and knead the dough for 5 minutes.
 
 
 ### Rise
-1. Transfer the doughball to the oiled bowl, turning it over once to coat the doughball.
+1. Transfer the doughball to the oiled bowl, and turn it over once to coat all sides.
 2. Take a picture of the doughball, and then cover the bowl with a dish towel or plastic wrap.
 3. Leave it in a warm place until doubled in size, about 1 ½ hours.
-   - The exact time will depend on the temperature. Warmer temperatures mean a faster rise.
+   - The exact time will depend on the temperature of the room. Warmer temperatures mean a faster rise.
    - Compare the dough to your picture to determine when it’s doubled in size.
 
 ### Rise Again
 1. Generously oil both loaf pans.
 2. Punch down the doughball to remove air bubbles.
 3. Divide the dough into two equal(ish) portions.
-4. Shape each half into logs and place into the greased loaf pans.
-5. Cover the pans with a dishtowel, and allow to rise for another 45 minutes - 1 hour, or until they’ve risen about 1 inch above the loaf pan.
-6. Preheat the oven to 350 F, either right away or at least 20 minutes before the bread is finished rising.
+4. Dust a clean area of counter with flour, and lay out one of the halves.
+5. Press and stretch the dough into a long, flat rectangle roughly as wide as the loaf pan is long.
+   - Don't worry about being too rough or popping air bubbles. Some people use a rolling pin for this step!
 
-    > **The importance of a long preheat**: _The sensors in your oven only track the temperature of the **air**, which is going to rush out when you open the door to put the bread in. This results in the oven taking longer to return to temperature at the start of your bake._
+![alt text](<assets/images/screenshots/Bread pics/Rolled out dough.png>)
 
-   > _Letting the oven preheat for as long as possible (at least 20 minutes, but the longer the better!) allows the metal interior of the oven, not just the air, to rise to the target temperature, meaning the oven will return to temperature more quickly after you put the bread in._
+6. Roll up the rectangle into a log and place it in one of the loaf pans.
+7. Repeat with the other half of the dough.
+8. Cover the pans with a dish towel and allow to rise for another 45 minutes - 1 hour, or until they’ve risen about 1 inch above the loaf pan.
+9. Preheat the oven to 350 F in the last 20 minutes of the rise.
+
+![alt text](<assets/images/screenshots/Bread pics/Proofed in loaf pan.png>)
+
+
+#### **Why such a long preheat?** 
+_The sensors in your oven only track the temperature of the **air**, a lot of which is going to be lost when you open the door to put the bread in. This results in the oven taking longer to return to temperature at the start of your bake._
+
+_Letting the oven preheat for as long as possible (at least 20 minutes, but the longer the better!) allows the metal interior of the oven, not just the air, to rise to the target temperature, meaning the oven will return to temperature more quickly after you put the bread in._
 
 ### Bake
 1. Bake for 30-33 minutes, or until golden brown on top.
