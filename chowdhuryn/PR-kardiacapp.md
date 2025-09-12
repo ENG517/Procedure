@@ -1,19 +1,15 @@
 # Pull Request Template
-
-Use the content and structure to write the content for your branch's pull request.
-
-
-
 **Completed Work**
 
+    - Created new procedure: `p-kardiacapp-setup-user-profile`
+    - Procedure's Goal: Setting up comprehensive ECG app profile and understand dashboard navigation for daily heart monitoring
 
 ## User Scenario
 
--
+Mr. Rahman is a 65-year-old man recovering from a mild heart attack. His cardiologist has recommended he use the ECG app for daily heart monitoring. Motivated by following his doctor's digital monitoring protocol and ensuring proper health data management, he wants to set up his app profile correctly and understand the dashboard interface. His goal is to create a comprehensive user profile in the ECG app, configure his medical history and medications, set up automated reminders, and understand how to navigate the app's main dashboard and recording interface. As a new app user with limited digital health experience, he feels overwhelmed by the app's features and needs clear guidance on profile setup, privacy settings, and basic app navigation to build confidence with digital health management.
 
-Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
+## Notable review request
 
-Do the how to start a Teams meeting and how to use audio need to be flushed out more? I feel like those should be theier own tasks in a link or something. 
-Does this work well for beginners? 
+If you have any suggestion regarding the overall content, feel free to suggest me.  
 
 
