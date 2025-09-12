@@ -1,5 +1,5 @@
 # Pull Request Template
-**Completed Work**
+# # **Completed Work**
 
     - Created new procedure: `p-kardiacapp-setup-user-profile`
     - Procedure's Goal: Setting up comprehensive ECG app profile and understand dashboard navigation for daily heart monitoring
@@ -10,6 +10,8 @@ Mr. Rahman is a 65-year-old man recovering from a mild heart attack. His cardiol
 
 ## Notable review request
 
-If you have any suggestion regarding the overall content, feel free to suggest me.  
+- If you have any suggestion regarding the overall content, feel free to suggest me. Please, also review the staging, coaching and alerting move. 
+- [Ques about staging, coaching and alerting move](https://github.com/ENG517/Procedure/commit/38d58a48a8cf356beac6f8c4c1b068310aa34842)
+
 
 
