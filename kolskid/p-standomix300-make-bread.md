@@ -21,10 +21,8 @@ Baking bread is a fun and therapeutic activity with a bonus: you get homemade, f
 
 > ### *About Ingredients…*
  
-> - **Flour**: For this recipe, bread and all-purpose flour are interchangeable. The only difference is that the extra protein in bread flour will produce a slightly chewier loaf.
-  
-> - **Yeast**: Active Dry Yeast is not the same as Instant or Rapid Rise yeast. The instructions and time estimates in this recipe are intended for active dry yeast.
-  
+> - **Flour**: For this recipe, bread and all-purpose flour are interchangeable. The only difference is that the extra protein in bread flour will produce a slightly chewier loaf.  
+> - **Yeast**: Active Dry Yeast is not the same as Instant or Rapid Rise yeast, and they all behave differently. The instructions and time estimates in this recipe are intended for active dry yeast.  
 > - **Oil**: Oils with strong flavors, like olive oil, will affect the taste of the final loaf. Neutral oils will be undetectable and give the best, classic bread flavor.
 
 ## Process
@@ -36,26 +34,26 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 2. Lightly mix the yeast, water, and a dash of honey in the bowl of the stand mixer and let sit for 5-10 minutes so it can bloom.
    - After 10 minutes the yeast should have a foamy head, like the image below.
    - If it does not have this foam and seems inactive, the yeast is likely dead. check the expiration date on your yeast packets and start over
+   
+   ![Bloomed, foamy yeast that is ready to use](<assets/images/screenshots/Bread pics/Blooming yeast resize.jpg>)
 
-![Bloomed, foamy yeast that is ready to bake with](<assets/images/screenshots/Bread pics/Blooming yeast resize.jpg>)
-
-3. Measure out the salt, oil,  and honey set aside. out the rest of the ingredients while the yeast blooms so everything is ready to go.
+3. Measure out the salt, oil, and honey while the yeast blooms. 
 4. Lightly grease the large bowl with neutral oil
 5. Measure and divide the flour into: 3 cups, 1 cup, and the remaining 1½ cup. 
    - The flour will be added in 3 stages, not all at once: first 3 cups, then 1 cup, and then however much more is needed to form a smooth, slightly-tacky dough that pulls away from the sides of the bowl;
    - The exact amount of flour the dough needs will vary depending on the humidity in your kitchen.
 
 ### Make the dough
-1. Add the measured honey, salt, oil, and 3 cups of flour to the bloomed yeast.
-2. Mix on low until combined.
-3. Switch out the beater for the dough hook, and scrape down the sides of the bowl with a spatula.
+1. Add the measured honey, salt, oil, and 3 cups of flour to the bloomed yeast.   
+2. Mix on low until combined.  
+3. Switch out the beater for the dough hook, and scrape down the sides of the bowl with a spatula.  
 4. Add 1 cup of flour and mix on low until incorporated. 
 5. With the mixer running add more flour, ½ cup at a time, until the dough begins to pull away from the sides of the bowl. 
    - Allow each addition to fully incorporate before adding more.
    - The dough should be smooth, elastic, and lightly tacky to the touch. If the dough is sticky, add a little more flour. 
-      - Turn off the mixer before you poke the dough.
-![The doughball is cohesive, smooth, and pulls away from the mixing bowl.](<assets/images/screenshots/Bread pics/Bread dough.webp>)
-6. Raise the speed to medium and knead the dough for 5 minutes.
+            
+    ![The doughball is cohesive, smooth, and pulls away from the mixing bowl.](<assets/images/screenshots/Bread pics/Bread dough.webp>)
+6. Raise the mixing speed to medium and let the machine knead the dough for 5 minutes.  
 
 
 ### Rise
@@ -83,12 +81,12 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 ![alt text](<assets/images/screenshots/Bread pics/Proofed in loaf pan.png>)
 
 
-#### **Why such a long preheat?** 
+**Why such a long preheat?**   
 _The sensors in your oven only track the temperature of the **air**, a lot of which is going to be lost when you open the door to put the bread in. This results in the oven taking longer to return to temperature at the start of your bake._
 
 _Letting the oven preheat for as long as possible (at least 20 minutes, but the longer the better!) allows the metal interior of the oven, not just the air, to rise to the target temperature, meaning the oven will return to temperature more quickly after you put the bread in._
 
-### Bake
+### Bake 
 1. Bake for 30-33 minutes, or until golden brown on top.
    - Testing for doneness: Gently (carefully!) tap the top of a loaf: it should sound hollow.
 2. Turn the loaves out onto a wire cooling rack and allow to cool at least 10 minutes before slicing.
