@@ -11,5 +11,3 @@ Mrs. Lopez, age 72, lives alone and is preparing for a scheduled telehealth appo
 ## Notable review request
 
 - If you have any suggestion regarding the overall content, feel free to suggest me. Please, also review the staging, coaching and alerting move. 
-- [Suggestions about staging, coaching and alerting move](https://github.com/ENG517/Procedure/commit/38d58a48a8cf356beac6f8c4c1b068310aa34842)
-
