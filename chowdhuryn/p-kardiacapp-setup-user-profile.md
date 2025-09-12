@@ -41,7 +41,7 @@ You must have the Kardia app installed on your smartphone:
 
 ## Completing your profile setup
 
-After creating your account, complete your profile by adding your medical information, health history, current medications, and setting up daily reminders through the app's [**Profile**](#) and **Settings** sections. This ensures accurate ECG analysis and consistent monitoring schedule.
+After creating your account, complete your profile by adding your medical information, health history, current medications, and setting up daily reminders through the app's [**Profile**](#) and [**Settings**](#) sections. This ensures accurate ECG analysis and consistent monitoring schedule.
 
 > **Privacy Note**
 >
