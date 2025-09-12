@@ -30,4 +30,11 @@ You must have the Kardia app installed on your smartphone:
 4. **Tap** `Create Account`
 5. **Check** your email for a verification message and **tap** the verification link
 
-**What you should see:** 'Account successfully created' confirmation message
+**What you should see:** `Account successfully created` confirmation message
+
+> **Troubleshooting account creation**
+>
+> If you don't receive the verification email:
+> - Check your spam or junk folder
+> - Verify you entered the correct email address
+> - Request a new verification email from the app
