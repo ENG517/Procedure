@@ -32,7 +32,7 @@ This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
 
 ![Pasta dough pulling away from the bowl](<assets/images/screenshots/Pasta pics/Pasta dough.jpg>)
 
-6. Remove the finished dough from the mixer and shape into a flat disk (about 1 inch thick) with your hands.
+6. Remove the finished dough from the mixer and shape into a wide, flat disk (about 1 inch thick) with your hands.
 7. Wrap the dough in plastic and rest on the counter for 25 minutes, or up to 1 hour.
    - This rest allows the gluten fibers to relax and become more pliable so the dough can stretch. Don't skip it!
 
@@ -67,7 +67,7 @@ This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
 
 ![Cutting noodles with the pasta cutter](<assets/images/screenshots/Pasta pics/cut spaghetti.jpg>)
 
-6. Dust the cut noodles with additional flour, and gently twist into a loose nest.
+6. Dust the cut noodles with additional flour to prevent them sticking together, and gently twist into a loose nest.
 7. Allow the noodles to rest and dry on the counter or cookie sheet for 10 minutes before cooking. 
 
 #### Store Additional Pasta
