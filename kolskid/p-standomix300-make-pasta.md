@@ -30,7 +30,7 @@ This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
      - Whether or not the dough needs more water will depend on your flour and the humidity in the air. 
    - The dough should form a ball, pull away from the sides of the bowl, and leave no excess flour in the bowl.
 
-![alt text](<assets/images/screenshots/Pasta pics/Pasta dough.jpg>)
+![Pasta dough pulling away from the bowl](<assets/images/screenshots/Pasta pics/Pasta dough.jpg>)
 
 6. Remove the finished dough from the mixer and shape into a flat disk (about 1 inch thick) with your hands.
 7. Wrap the dough in plastic and rest on the counter for 25 minutes, or up to 1 hour.
@@ -56,7 +56,7 @@ This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
 11. Repeat steps 7 - 10 for Settings 3 and 4.
      - If the sheet of pasta gets too long to handle, cut in half or thirds.
 
-![alt text](<assets/images/screenshots/Pasta pics/Pasta sheet resize.png>)
+![Dough sheets can get long!](<assets/images/screenshots/Pasta pics/Pasta sheet resize.png>)
 
 ### Cut the Noodles
 1. Change the sheeting attachment to the cutter, and decide whether you want to cut spaghetti (thinner) or fettucini (wider.)
@@ -65,7 +65,7 @@ This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
 4. Dust the pasta sheet with flour to prevent sticking.
 5. Carefully feed the sheets of pasta through the cutter, one at a time
 
-![alt text](<assets/images/screenshots/Pasta pics/cut spaghetti.jpg>)
+![Cutting noodles with the pasta cutter](<assets/images/screenshots/Pasta pics/cut spaghetti.jpg>)
 
 6. Dust the cut noodles with additional flour, and gently twist into a loose nest.
 7. Allow the noodles to rest and dry on the counter or cookie sheet for 10 minutes before cooking. 
