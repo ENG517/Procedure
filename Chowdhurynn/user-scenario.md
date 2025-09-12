@@ -1,5 +1,5 @@
-# User Scenario - Title Here
+# User Scenario 
 
-**Scenario**: Paste the scenario text here.
+## Scenario
 
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+Refer also to my [Priority Guide](./assets/docs/Procedure%20Ideation-Chowdhury.pdf)
