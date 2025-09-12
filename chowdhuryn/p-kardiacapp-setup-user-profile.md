@@ -21,3 +21,13 @@ You must have the Kardia app installed on your smartphone:
  You'll also need:
  - An active email address ([Create Gmail account](https://accounts.google.com/signup) if needed)
  - Your medical information (medication, conditions, emergency contact)
+
+ ## Creating your account
+
+1. **Open** the Kardia app on your smartphone
+2. **Tap** "Create New Account" on the welcome screen
+3. **Enter** your email address and create a strong password (at least 8 characters)
+4. **Tap** "Create Account"
+5. **Check** your email for a verification message and **tap** the verification link
+
+**What you should see:** "Account successfully created" confirmation message
