@@ -27,17 +27,30 @@ Visible Margins are set with margin stops. These are common on older typewriter 
 
 4. Test your Margins
     - To test the success of this margin setting, slide the carriage between each margin stop. The carriage should halt in movement at each stop.
-        - Note: If you want to continue typing past your margin for any reason, most typewriters are equipped with a Margin Release key or lever. This may look different for each typewriter model, and may be denoted by arrows, the letters “M-R" or "MAR REL," or something similar. Simply press this key or lever, and the right margin stop will be released and you can continue typing on your current line.
-
 
 ### Magic Margins
 
-Royal typewriters that were produced after the 1950's are equipped with "Magic Margins." This is a type of margin function that allows you to automatically set margins at the push of a button, rather than manually setting them using margin stops. To set Magic Margins, follow these steps:
+Royal typewriters that were produced after the 1950's are equipped with "Magic Margins." This is a type of non-visible margin function that allows you to automatically set margins at the push of a button, rather than manually setting them using margin stops. To set Magic Margins, follow these steps:
 
-1. 
+1. Locate your Magic Margin Buttons
+    - These are two buttons located on the far ends of the back of your carriage.
+
+2. Move your carriage to where you want to begin typing on the left side in relation to the left edge of your paper, and press the left margin button down.
+
+3. Move your carriage to where you want to stop typing on the right side in relation to the right edge of your paper, and press the right margin button down.
+
+4. If you need to expand your margins, the process is slightly different:
+    1. Move your carriage to where your margin is currently set. 
+    2. Press down the margin button.
+    3. Slide the carriage to where you want the new margin to be.
+    4. Release the margin button to set.
+
+5. Test your margins
+    - To test the success of this margin setting, slide the carriage left and right. The carriage should halt in movement at your set margin locations.
 
 ### Additional Tips
 
+- If you want to continue typing past your margin for any reason, most typewriters are equipped with a Margin Release key or lever. This may look different for each typewriter model, and may be denoted by arrows, the letters “M-R" or "MAR REL," or something similar. Simply press this key or lever, and the right margin stop will be released and you can continue typing on your current line. This is the case for both visible and non-visible margin settings.
 - Most typewriters are equipped with a bell that will ring when you are 5 character spaces away from hitting your right margin. This is so that, when you are typing, you will know if you need to move on to the next line or hyphenate a word at the end of your current line.
 
 ## Line and Paragraph Spacing
