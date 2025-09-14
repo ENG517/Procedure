@@ -1,8 +1,8 @@
-## Crafting a Flyer in Figma ##
+## Importing and Digitizing Hand Drawn Images in Figma ##
+Terrence is a college senior at the Academy of The Arts studying illustration. In his time at school, he has done everything from sample illustrations for advertisements, charicatures for the school's satire newspaper, cartoons, and children's books. 
 
-Derek is an 18 year old arts high school student who plays drums in a band with his classmates. Derek’s band has just booked their first show at a local venue and are immensely excited. They have practiced for over a year and have invited many of their friends and family members to attend.
+His real passion, however, lies in concept art. Terrence has always been a sci-fi junkie and enjoys hand-sketching elaborate cityscapes, fantasy backgrounds, and futurist characters and technology. His portfolio of these drawings being so extensive, in fact, that he was able to acquire an internship with Harper Voyager, a sci-fi focused imprint of Harper Collins.
 
-The show is in two weeks and the band realized that no promotional materials have been created. The other band members have suggested Derek take the lead on crafting a flyer to distribute amongst the school and post on social media. They pointed to the fact that he has always been the most “tech-savvy” of the band, and even took an introductory Adobe Illustrator course his junior year, though his subscription has now lapsed. Furthermore, Derek's older brother already has Figma downloaded on his laptop and he has been eager to try his hand with the software.
+Perhaps even more importantly, Harper Voyager would like to use one of Terrence's drawings for one of their represented writers! His first task is to both digitize and colorize the selected illustration for their use.
 
 
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
