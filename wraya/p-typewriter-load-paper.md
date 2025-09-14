@@ -15,6 +15,7 @@ There are minimal materials required to load paper into a typewriter:
  1. Remove the existing paper, if applicable
     - Pull back the paper bail to an open position to release its hold on the paper
     - Pull back the paper release lever
+      - Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
     - Roll the platen knob forward until the existing sheet of paper is fully removed
  2. Insert the new paper
     - Manually feed a new sheet of paper downward behind the platen
@@ -30,12 +31,25 @@ There are minimal materials required to load paper into a typewriter:
 
 ## Common Issues To Look Out For
 
-If you are loading paper into a typewriter for the first time and followed all of the steps above, but your paper seems to be sliding while you type or move the carriage, it becomes unaligned in the middle of typing, or are experiencing other paper related issues, check for these common problems:
+If you are loading paper into a typewriter for the first time and followed all of the steps above, but your paper seems to be sliding while you type or move the carriage, it becomes unaligned in the middle of typing, or you are experiencing other paper related issues, check for these common problems:
 
 ### Paper Release Lever Activation
 
+Double check that the paper release lever is not activated. If it is, simply close it and see if your issues resolve.
+
 ### Damaged or Worn Platen
 
-### Damaged Paper Bailer
+After a few decades or so, platen rollers can become worn and hardened, making their surface very smooth. Try to clean the rollers with a rubber cleaner. This may help roughen the surface enough to go back to normal use. If this does not resolve the issue, the only solution is to have the roller replaced or resurfaced. 
+
+### Damaged Paper Bail
+
+Sometimes, the paper bail or its components may be damaged, resulting in difficulty keeping your paper in place.
+- Visually inspect the paper bail bar. If it is bent or misshapen in any way, the paper bail rollers may not be able to make contact with the paper. If this is the case, try to gently bend the bar back into place. If you cannot correct the damage, it may need to be replaced.
+- Visually inspect the paper bail rollers. If they are hardened, cracked, or flattened, and are unable to make contact with your paper, they need to be replaced.
+
 
 ### Paper Thickness
+
+As mentioned above, some older typewriters were designed with specific stock paper in mind. 
+- If your paper is not staying put, or the rollers are struggling to grip it, consider trying thicker stock paper in place of regular printer paper. 
+- If you ARE using thicker paper, but the rollers are struggling to feed the paper, it may be too heavy/thick for the feeding mechanism of your typewriter to handle. Consider using a lower stock paper.
