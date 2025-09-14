@@ -13,3 +13,25 @@ Building a treehouse is a challenging build project in Valheim. The mechanics ar
 As mentioned above, building a treehouse is a challenging project. In order to be successful and build a treehouse you're proud of, you should have access to the stonecutter. It would also enhance your experience if you had access to iron materials.
 
 If you don't have much experience building structures in Valheim, this would be a difficult first build. Try building different types of buildings in the meadows and black forest before giving this a shot.
+
+## How to Build a Swamp Treehouse
+
+1. Select a large, indestructible tree in the swamp in an area where you'd want a treehouse.
+
+![Indestructible Tree](knightj/assets/images/screenshots/Valheim-Guck.avif "Indestructible Tree")
+
+>*Note that you can tell which trees are indestrucible because they will have green guck on their trunks, and hitting them with any weapon will alert you that it is too hard to be cut down.
+
+2. Build a platform at ground level that will serve as a foundation from which to build the structure.
+3. Build ladders or stairs from the platform up to where you want to start building your treehouse.
+    - You can snap the side of the stairs to the tree to give it ground-level stability, allowing you to build as high up the tree as you want.
+4. Place corewood or iron beams as the framework for the floor of your treehouse, branching out from the trunk.
+5. Place the floor on top of the beams as desired.
+6. Build the walls and roof as you would with other buildings, using the trunk to help with structural support.
+7. Decorate to your heart's content.
+
+![Swamp Treehouse 2](knightj/assets/images/screenshots/tree-house-in-the-swamp-v0-PRjUuWolB3fkQ-tmo9MREpOEbdU6b0o4q_J49n7CsZU.png.webp "Swamp Treehouse 2")
+
+>*Another swamp treehouse to provide inspiration*
+
+You are now prepared to build the treehouse of your dreams in Valheim. Skål!
