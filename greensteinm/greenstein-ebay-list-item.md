@@ -30,4 +30,51 @@
 
 ## Create the Listing
 
+**1. Log into eBay.**
+   - Click ***sell*** in the top right corner.
+
+**2. Choose a selling format.**
+   - Enter your item name in the search bar. eBay may suggest categories and listing templates.
+   - Confirm the best category (e.g., Electronics > Cell Phones > Smartphones).
+
+**3. Write the listing title.**
+   - Be descriptive but concise. Include brand, model, size, and condition.
+   - Example: *Apple iPhone 13 Pro Max – 256GB – Graphite (Unlocked)*
+
+**4. Select item specifics.**
+   - Fill in eBay’s fields (brand, size, color, material, style, UPC, etc.).
+   - Accurate details help buyers find your item in search.
+
+**5. Write the item description.**
+   - Include condition (new, gently used, refurbished, etc.).
+   - Highlight key features and benefits.
+   - Disclose flaws honestly to avoid returns.
+   - Optional: Use bullet points for readability.
+
+6. Upload photos.
+eBay allows up to 24 free photos per listing.
+Ensure they are clear, high-quality, and show any imperfections.
+
+7. Set the price.
+Auction format: Choose starting bid, duration (1–10 days), and optional reserve price.
+Buy It Now: Set a fixed price based on research.
+Consider offering “Best Offer” so buyers can negotiate.
+
+8. Set shipping options.
+Choose shipping service (USPS, UPS, FedEx, etc.).
+Decide if you’ll offer free shipping or buyer-pays.
+Use eBay’s shipping calculator to estimate costs.
+Pack and weigh your item before listing for accuracy.
+
+9. Choose payment method.
+eBay uses Managed Payments, so funds go directly to your linked bank account.
+
+10. Review fees.
+eBay charges a final value fee (usually a % of sale + processing fee).
+Insertion fees may apply if you exceed your free monthly listings.
+
+11. Publish your listing.
+Click List item.
+Your listing is now live on eBay.
+
 ## Manage After Listing
