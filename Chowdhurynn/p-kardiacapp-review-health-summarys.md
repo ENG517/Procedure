@@ -25,37 +25,44 @@ You must have been using your Kardia app consistently:
  - A reliable internet connection for data synchronization
  - Your current medication list and recent doctor's notes
 
- ## Creating your account
+ ## Accessing your Kardia Health Summary
 
 1. **Open** the Kardia app on your smartphone
-2. **Tap** `Create New Account` on the welcome screen
-3. **Enter** your email address and create a strong password (at least 8 characters)
-4. **Tap** `Create Account`
-5. **Check** your email for a verification message and **tap** the verification link
+2. **Tap** the `History` tab at the bottom of the screen
+3. Look for `Health Summary` or tap the calendar icon to view trends
+4. Wait for all ECG data to fully load (this may take 10-15 seconds)
+5. Verify the date range covers your recent monitoring period
 
-[**What you should see:**](#) `Account successfully created` confirmation message
+[**You should see:**](#) Your comprehensive Kardia dashboard with ECG trend graphs and recent readings organized by date
 
-> **Troubleshooting account creation**
+> **Troubleshooting navigation**
 >
-> If you don't receive the verification email:
-> - Check your spam or junk folder
-> - Verify you entered the correct email address
-> - Request a new verification email from the app
+> If you can't find the Health Summary:
+> - Ensure you have a KardiaCare subscription for advanced analytics
+> - Check the `Reports` section in your profile settings
+> - Update your Kardia app to the latest version
+> - Look for `Trends` or `Analytics` in the main menu
 
-## Completing your profile setup
+## Generating Kardia reports for your doctor
 
-After creating your account, complete your profile by adding your medical information, health history, current medications, and setting up daily reminders through the app's [**Profile**](#) and [**Settings**](#) sections. This ensures accurate ECG analysis and consistent monitoring schedule.
+1. Go to the `Reports` section in your Kardia app
+2. Select the date range specified by your doctor (last 30 days, 90 days, etc.)
+3. Choose `Comprehensive Report` which includes ECG strips, analysis, and trends
+4. Tap `Generate PDF` or `Share Report`
+5. Email the report to yourself and your doctor, or save to share via patient portal
+6. Verify the PDF opens correctly and displays all your ECG recordings
 
-> [**Privacy Note**](#)
+> [**Privacy and Data Security**](#)
 >
-> Your medical information is encrypted and only shared with healthcare providers you authorize. Never enter information in unofficial apps or websites.
+> Your ECG recordings, analysis results, and health data are encrypted and stored securely in your Kardia account. This information is only shared with healthcare providers you specifically authorize. Keep your account secure by never sharing your login credentials with others.
 
 ## Next steps
 
-With your profile complete, you can start taking daily ECG readings and sharing data with your healthcare provider through the app.
+During your telehealth appointment, be prepared to share your screen showing Kardia data, demonstrate taking an ECG if requested, and discuss any patterns or concerns you've identified in your recordings.
 
 ## Additional resources
 
 - [Kardia User Guide](https://kardia.com/assets/old/app-user-manuals/00LB17.15-en.pdf) - Comprehensive app documentation
 - [Understanding ECG Results](https://alivecor.com/products) - Educational materials
-- [Contact Support](https://alivecor.zendesk.com/hc/en-us/requests/new) - Technical assistance
+- [KardiaCare Support](https://alivecor.zendesk.com/hc/en-us/requests/new) - Technical assistance
+- [Telehealth Best Practices](https://telehealth.hhs.gov/patients/why-use-telehealth) - Technical assistance
