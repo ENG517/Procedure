@@ -9,11 +9,11 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 - Pasta sheeter & cutter attachment
 
 ### Ingredients
-This recipe yields about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
+*This recipe yields about 1 - 1 1/2 pounds of pasta, about 8-9 servings.*
 - 4 Large Eggs
-- 3 1/2 Cups All-purpose Flour
-- 1/2 Tsp Salt
-- 1/4 Cup water 
+- 3 ½ Cups All-purpose Flour
+- ½ Tsp Salt
+- ¼ Cup water 
 
 ## Let's Make Pasta!
 
@@ -31,6 +31,7 @@ This recipe yields about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
    - The dough should form a ball, pull away from the sides of the bowl, and leave no excess flour in the bowl.
 
 ![Pasta dough pulling away from the bowl](<assets/images/screenshots/Pasta pics/Pasta dough.jpg>)
+>*Figure 1: Pasta dough pulling away from the bowl*
 
 6. Remove the finished dough from the mixer and shape into a wide, flat disk (about 1 inch thick) with your hands.
 7. Wrap the dough in plastic and rest on the counter for 25 minutes, or up to 1 hour.
@@ -55,6 +56,7 @@ This recipe yields about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
      - If the sheet of pasta gets too long to handle, cut in half or thirds.
 
 ![Dough sheets can get long!](<assets/images/screenshots/Pasta pics/Pasta sheet resize.png>)
+>*Figure 2: Dough sheets can get long! Support them with your hands and cut as needed.*
 
 ### Cut the Noodles
 1. Change the sheeting attachment to the cutter, and decide whether you want to cut spaghetti (thinner) or fettucini (wider.)
@@ -64,6 +66,7 @@ This recipe yields about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
 5. Carefully feed the sheets of pasta through the cutter, one at a time
 
 ![Cutting noodles with the pasta cutter](<assets/images/screenshots/Pasta pics/cut spaghetti.jpg>)
+>*Figure 3: Cutting noodles with the pasta cutter.*
 
 6. Dust the cut noodles with additional flour to prevent them sticking together, and gently twist into a loose nest.
 7. Allow the noodles to rest and dry on the counter or cookie sheet for 10 minutes before cooking. 
