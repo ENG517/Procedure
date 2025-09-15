@@ -49,7 +49,7 @@
 
 ## After Negotiation
 
-- **If accepted** (by you or buyer):
+- **If accepted** (by seller or buyer):
    1. eBay automatically marks the item as sold.
    2. Package and ship promptly.
 
