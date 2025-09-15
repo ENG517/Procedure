@@ -1,19 +1,20 @@
-# Pull Request Template
 
-Use the content and structure to write the content for your branch's pull request.
+# Completed Work
 
-
-
-**Completed Work**
+- Created new procedure: p-possystem-updateinventory
 
 
 ## User Scenario
 
--
+An accounting manager who has worked on the product before but is not aware of its
+advanced features and wants to generate revenue reports at the end of each business
+day for auditing purposes.
 
-Below our some guiding questions and concerns, regarding the above work. Reviewers can use this information to start their review process, but need not limit their feedback to these items alone.
+## Notable Review Requests
 
-Do the how to start a Teams meeting and how to use audio need to be flushed out more? I feel like those should be theier own tasks in a link or something. 
-Does this work well for beginners? 
+- Please let me know if the user scenarios need to be more detailed.
+
+- Please review the staging, coaching, and alerting moves as well.
+
 
 
