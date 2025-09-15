@@ -9,6 +9,7 @@
 
 **2. Plan negotiation flexibility.**
    - Decide if you’ll leave room in your price for counteroffers. For example, if your target is $80, you might list at $100 to allow negotiation.
+   - Price slightly higher than your minimum so you have room to negotiate.
 
 **Recommended steps:**
   - When creating your listing, enable the *Best Offer* option.
@@ -29,6 +30,8 @@
 **3. Use counteroffers strategically.**
    - Counter with a price closer to your goal while being flexible. For example, if the listing price is $100 and the potential buyer offers $60, counter with $85.
    - Keep in mind buyers can walk away, so don’t counter too aggressively.
+   - If you’re confident your item will sell, wait for stronger offers.
+
 
 **4. Respond promptly.**
    - eBay requires a response within 48 hours. Quick replies encourage buyers to stay engaged.
@@ -45,3 +48,15 @@
    - Stick to roughly 1–2 rounds of negotiation.
 
 ## After Negotiation
+
+- **If accepted** (by you or buyer):
+   1. eBay automatically marks the item as sold.
+   2. Package and ship promptly.
+
+- **If declined or expired**:
+   1. The item remains listed.
+   2. Be patient. Other buyers may submit offers.
+
+- **Adjust listing if needed.**
+   1. If you get repeated low offers, consider lowering the listing price.
+   2. Alternatively, revise your description or photos to show more value.
