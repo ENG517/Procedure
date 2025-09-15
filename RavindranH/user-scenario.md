@@ -5,4 +5,4 @@ operations, but new to the product, and wants to monitor and update stock inform
 ensuring the kitchen and bar do not run out of supplies.
 
 
-Refer also to my [Priority Guide](assets/docs/RAVINDRAN-TASK-ANALYSIS.pdf)
+Refer also to my [Priority Guide](./assets/docs/RAVINDRAN-TASK-ANALYSIS.pdf)
