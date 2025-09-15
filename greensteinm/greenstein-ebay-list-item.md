@@ -27,6 +27,7 @@
    - Capture multiple angles of the item (front, back, sides, close-ups of flaws). 
      - If the listing includes multiple items (i.e., a set of salt and pepper shakers), photograph the items together *and* separately.
    - Include original packaging if available.
+   - eBay allows up to 24 free photos per listing.
 
 ## Create the Listing
 
@@ -51,30 +52,30 @@
    - Disclose flaws honestly to avoid returns.
    - Optional: Use bullet points for readability.
 
-6. Upload photos.
-eBay allows up to 24 free photos per listing.
-Ensure they are clear, high-quality, and show any imperfections.
+**6. Upload photos.**
+   - Ensure they are clear, high-quality, and distinctly show any imperfections.
+   - Make sure the first photo acts as a cover, and clearly shows the full object.
 
-7. Set the price.
-Auction format: Choose starting bid, duration (1–10 days), and optional reserve price.
-Buy It Now: Set a fixed price based on research.
-Consider offering “Best Offer” so buyers can negotiate.
+**7. Set the price.**
+   - **Auction format:** Choose starting bid, duration (1–10 days), and optional reserve price.
+   - **Buy It Now:** Set a fixed price based on research.
+     - Consider offering “Best Offer” so buyers can negotiate.
 
-8. Set shipping options.
-Choose shipping service (USPS, UPS, FedEx, etc.).
-Decide if you’ll offer free shipping or buyer-pays.
-Use eBay’s shipping calculator to estimate costs.
-Pack and weigh your item before listing for accuracy.
+**8. Set shipping options.**
+   - Choose shipping service (USPS, UPS, FedEx, etc.).
+   - Decide if you’ll offer free shipping or buyer-pays.
+   - Use eBay’s shipping calculator to estimate costs.
+   - Pack and weigh your item before listing for accuracy.
 
 9. Choose payment method.
-eBay uses Managed Payments, so funds go directly to your linked bank account.
+   - eBay uses *Managed Payments*, so funds go directly to your linked bank account.
 
 10. Review fees.
-eBay charges a final value fee (usually a % of sale + processing fee).
-Insertion fees may apply if you exceed your free monthly listings.
+   - eBay charges a final value fee (usually a % of sale + processing fee).
+   - Insertion fees may apply if you exceed your free monthly listings.
 
-11. Publish your listing.
-Click List item.
-Your listing is now live on eBay.
+**11. Click *List item* to publish your listing.**
+
+### Your listing is now live on eBay.
 
 ## Manage After Listing
