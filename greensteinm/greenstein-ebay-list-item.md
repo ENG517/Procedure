@@ -2,12 +2,16 @@
 
 ## To Prepare Before Listing
 
-**1. Create an eBay account** if you don't already have one.
-   - Go to [ebay.com](https://www.ebay.com).
-   - Click ***register*** in the top left corner. [Add screenshot of register button]
-   - Follow the prompts to register for a personal account.
-     - You will need a valid phone number, email address, and payment details (for fees and payouts).
-     - If you plan to sell a large number of items, or sell on behalf of a business or nonprofit, register under the ***Business*** tab.
+**1. Create an eBay account** 
+
+If you already have an eBay account, proceed to the next step. If you don't already have an account, follow the steps below.
+
+   1. Go to [ebay.com](https://www.ebay.com).
+   2. Click ***register*** in the top left corner.
+   ![Register link on ebay.com](./assets/images/screenshots/ebay-register.png)
+   3. Follow the prompts to register for a personal account.
+      - You will need a valid phone number, email address, and payment details (for fees and payouts).
+      - If you plan to sell a large number of items, or sell on behalf of a business or nonprofit, register under the ***Business*** tab.
 
 **2.** Once you have created your account, **research your item.**
    - Search current eBay listings for:
