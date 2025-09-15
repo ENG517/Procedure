@@ -11,7 +11,8 @@ Baking bread is a fun and therapeutic activity with a bonus: you get homemade, f
 - Oven
 - Two loaf pans
 
-### Ingredients for 2 Loaves
+### Ingredients
+*Makes 2 loaves*
 - 2 Cups warm water (105-115F)
 - 1 Tbsp active dry yeast
 - ¼ Cup honey 
