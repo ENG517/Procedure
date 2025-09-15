@@ -16,6 +16,23 @@
 
 ## Handling Incoming Offers
 
+**1. Review each offer carefully.**
+   - Look at the offer amount.
+   - Check buyer feedback and history if it's available.
+   - Consider your current demand. Are there other potential buyers watching the item, submitting offers, or bidding?
+
+**2. Decide how to respond.** There are three options:
+   - ***Accept***: If the offer meets your minimum price or is higher than expected.
+   - ***Decline***: If the offer is far below your bottom line.
+   - ***Counteroffer***: If you’re open to negotiation but want a higher price.
+
+**3. Use counteroffers strategically.**
+   - Counter with a price closer to your goal while being flexible. For example, if the listing price is $100 and the potential buyer offers $60, counter with $85.
+   - Keep in mind buyers can walk away, so don’t counter too aggressively.
+
+**4. Respond promptly.**
+   - eBay requires a response within 48 hours. Quick replies encourage buyers to stay engaged.
+
 ### Buyer-Seller Communication
 
 ## After Negotiation
