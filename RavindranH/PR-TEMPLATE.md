@@ -1,5 +1,5 @@
 
-**Completed Work**
+## Completed Work
 
 - Created new procedure: `p-possystem-updateinventory`
 - Procedure's Goal: Understand the steps to generate end-of-the-day reports in the POS system.
