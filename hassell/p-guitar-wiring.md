@@ -161,10 +161,19 @@ If everything checks out with the circuit test, you can go ahead and install the
 3. Slide the knob caps onto the pot knobs.
 4. Run the wires that were connected to the output jack through to the output jack slot in the body.
 
-### Reconnect the Disconnected Components
+### 3. Reconnect the Disconnected Components
 
 1. Re-solder the humbucker wires to the volume pot.
 2. Resolder the output jack wires to the output jack.
+
+### 4. Connect the Bridge Ground
+
+While not pictured in the diagram, your guitar body should have a wire running from one of the bridge peg slots into the electronics cavity.
+
+1. If the body doesn't have that wire, cut and strip the ends off one more black wire.
+2. Run the wire from the electronics cavity into the bridge slot through the small hole in the cavity wall.
+3. Fray the end of the wire that's in the bridge slot and press the frays into the wall.
+4. Solder the other end to the volume pot casing.
 
 ---
 
