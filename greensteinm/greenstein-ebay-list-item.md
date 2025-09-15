@@ -39,7 +39,7 @@
    - Confirm the best category (e.g., Electronics > Cell Phones > Smartphones).
 
 **3. Write the listing title.**
-   - Be descriptive but concise. Include brand, model, size, and condition.
+   - Be descriptive but concise. Include brand, model, and size. If there is room, feel free to include some of the item's defining features.
    - Example: *Apple iPhone 13 Pro Max – 256GB – Graphite (Unlocked)*
 
 **4. Select item specifics.**
@@ -67,12 +67,12 @@
    - Use eBay’s shipping calculator to estimate costs.
    - Pack and weigh your item before listing for accuracy.
 
-9. Choose payment method.
+**9. Choose payment method.**
    - eBay uses *Managed Payments*, so funds go directly to your linked bank account.
 
-10. Review fees.
+**10. Review fees.**
    - eBay charges a final value fee (usually a % of sale + processing fee).
-   - Insertion fees may apply if you exceed your free monthly listings.
+   - If you exceed your free monthly listings, there may be additional fees.
 
 **11. Click *List item* to publish your listing.**
 
