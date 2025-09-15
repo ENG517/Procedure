@@ -16,7 +16,6 @@
 
 Your materials should be prepped and ready to connect. If they are not, follow the [Wiring a Single-Humbucker Setup: Preparing Materials](/hassell/p-guitar-wiring-prep-materials.md) guide.
 
-
 ### Tools
 
 * Soldering Iron, between 40W and 80W. Anything less than 40W will be too weak.
@@ -29,6 +28,16 @@ Your materials should be prepped and ready to connect. If they are not, follow t
 ### Skills
 
 * You should have some prior experience soldering. If you don't, practice for a few hours before continuing with this guide. *(Will insert link to a soldering guide here)*
+
+---
+
+## Important Details and Warnings for Soldering
+
+When soldering wires to the pot casings, there is a risk of frying the carbon track, which will either break the pot entirely or limit its ability to control volume or tone. Below are some steps to take to help prevent that:
+
+1. Ensure your soldering iron is heated to at least 360 degrees Celsius. The hotter it is, the less time it needs to be in contact with the pot casing.
+2. After soldering a wire to the pot casing, give it some time to cool before soldering anything else to it.
+3. While not required, using [heat sinks](https://www.youtube.com/watch?v=7TQfPwgvEe4) can help.
 
 ---
 
