@@ -2,25 +2,21 @@
 
 You can manage your Kardia app alerts to understand instant analysis results, troubleshoot sync issues, and respond appropriately to different types of notifications.
 
-> **Who can use this App?**
+> **Who can use this feature?**
 >
-> Anyone with a cardiac condition who has been prescribed ECG monitoring can create a Kardia app profile. You must have a smartphone with the Kardia app installed and access to your medical information to complete the setup process.
+> Anyone using the kardia ECG app who receives instant analysis results and notifications can manage their alert settings. You must have an active Kardia app account with previous ECG recording to access analysis history and notification management features.
 
-## About ECG app profile
+## About ECG instant analysis
 
-Your Kardia app profile stores your medical information and helps provide accurate heart rhythm analysis. The profile connects your ECG readings with your health history and enables communication with your healthcare team.
+Your Kardia app provides instant algorithmic analysis of your heart rhythm upon completion of your ECG recording. The analysis represents the results to help you understand your heart health.
 
 ## Prerequisites
 
 **Before you begin**
  
-You must have the Kardia app installed on your smartphone:
- - [Download for Android](https://play.google.com/store/apps/details?id=com.alivecor.kardia)
- - [Download for iOS](https://apps.apple.com/us/app/kardia/id441136284)
- 
- You'll also need:
- - An active email address ([Create Gmail account](https://accounts.google.com/signup) if needed)
- - Your medical information (medication, conditions, emergency contact)
+You must have -
+  - An actice Kardia app account with recorded ECG data.
+  - Accessnto your heathcare provider's contact information.
 
  ## Creating your account
 
