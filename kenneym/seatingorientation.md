@@ -11,6 +11,10 @@ We reccomend a maximum capacity of 20 people in the room. If you would like spec
 if you did not reserve the space for your event, please fill out **this form**
 
 ### Landing Seating Materials Checklist
+* 2 tables
+* 10 chairs
+* 2 bean bag chairs
+* 2 ottomans
 
 ## Task 1: Setting Up the Room
 Time - 15 minutes for one person
@@ -36,3 +40,6 @@ Congratulations, you have successfuly set up the Landing for your event!
 ## Resetting the Landing to Default Orientation
 Once your event has concluded and all event participants have vacated the space, you are ready to begin resetting the Landing to its default orientation. 
 
+1. Unlock all wheels for the tables and chairs
+
+You should now be able to move the furniture without resistance
