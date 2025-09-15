@@ -1,6 +1,6 @@
 # How to List an Item on eBay
 
-## Prepare Before Listing
+## To Prepare Before Listing
 
 **1. Create an eBay account** if you don't already have one.
    - Go to [ebay.com](https://www.ebay.com).
@@ -29,7 +29,7 @@
    - Include original packaging if available.
    - eBay allows up to 24 free photos per listing.
 
-## Create the Listing
+## Creating the Listing
 
 **1. Log into eBay.**
    - Click ***sell*** in the top right corner.
@@ -71,11 +71,30 @@
    - eBay uses *Managed Payments*, so funds go directly to your linked bank account.
 
 **10. Review fees.**
-   - eBay charges a final value fee (usually a % of sale + processing fee).
+   - eBay takes a small percentage of the item's sale value and a processing fee.
    - If you exceed your free monthly listings, there may be additional fees.
 
 **11. Click *List item* to publish your listing.**
 
 ### Your listing is now live on eBay.
 
-## Manage After Listing
+## To Manage After Listing
+
+**1. Monitor your listing.**
+   - Answer buyer questions promptly.
+   - Adjust pricing if needed (you can revise listings).
+
+**2. Once sold:**
+   - Package the item securely with padding.
+   - Ship within the handling time you specified.
+   - Upload tracking info to eBay.
+
+**3. Communicate with the buyer** and send a short note once the item has been shipped.
+
+**4. Leave feedback.**
+   - Buyers and sellers leave ratings and comments for each other.
+   - Positive feedback builds your credibility as a seller.
+
+**5. Handle returns (if necessary).**
+   - If you offer returns, follow eBay’s return process.
+   - If the item is not as described, you may need to accept a return regardless.
