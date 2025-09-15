@@ -59,6 +59,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 
 ### Rise
 1. Transfer the doughball to the oiled bowl, and turn it over once to coat all sides.
+
 2. Take a picture of the doughball, and then cover the bowl with a dish towel or plastic wrap.
 3. Leave it in a warm place until doubled in size, about 1 ½ hours.
    - The exact time will depend on the temperature of the room. Warmer temperatures mean a faster rise.
@@ -66,6 +67,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 
 ### Rise Again
 1. Generously oil both loaf pans.
+
 2. Punch down the doughball to remove air bubbles.
 3. Divide the dough into two equal(ish) portions.
 4. Dust a clean area of counter with flour, and lay out one of the halves.
@@ -75,8 +77,9 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 ![alt text](<assets/images/screenshots/Bread pics/Rolled out dough.png>)
 
 6. Roll up the rectangle into a log and place it in one of the loaf pans.
+
 7. Repeat with the other half of the dough.
-8. Cover the pans with a dish towel and allow to rise for another 45 minutes - 1 hour, or until they’ve risen about 1 inch above the loaf pan.
+8. Cover the pans with a dish towel and allow to rise for another 45 minutes – 1 hour, or until they’ve risen about 1 inch above the loaf pan.
 9. Preheat the oven to 350 F in the last 20 minutes of the rise.
 
 ![alt text](<assets/images/screenshots/Bread pics/Proofed in loaf pan.png>)
@@ -89,10 +92,11 @@ _Letting the oven preheat for as long as possible (at least 20 minutes, but the 
 
 ### Bake 
 1. Bake for 30-33 minutes, or until golden brown on top.
+
    - Testing for doneness: Gently (carefully!) tap the top of a loaf: it should sound hollow.
-   - Or, the bread is done when an instant-read thermometer reads the center of the loaf as 195–200F.
+   - Or, insert an instant-read thermometer into the center of the loaf. The bread is done when it reads 195–200F.
 2. Turn the loaves out onto a wire cooling rack and allow to cool at least 10 minutes before slicing.
    - Optional: while the loaves are still hot, brush the tops with butter.
-3. Once cool, store in an airtight container or bag for 2-3 days at room temperature, or up to 5 days in the refrigerator.
+3. Once cool, store in an airtight container or bag for 2–3 days at room temperature, or up to 5 days in the refrigerator.
 
 ![alt text](<assets/images/screenshots/Bread pics/Baked loaves.png>)
