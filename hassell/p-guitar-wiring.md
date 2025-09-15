@@ -110,3 +110,55 @@ Solder one of the black wires you previously cut from the volume pot casing to t
 Solder the final black wire from the casing of the volume pot to the Sleeve of the output jack (the larger inner-most lug).
 
 ---
+
+## Testing the Circuit
+
+Everything is wired in place. Now, it's time to test things out. 
+
+### 1. Connect to an Amp
+
+1. Plug a 1/4 inch cable from the output jack to an amp.
+2. Turn the amp on and crank the volume.
+
+### 2. Check for Sound
+
+1. Turn the knob of the volume pot all the way clockwise.
+2. Using your phone, or any music playing device, play a song and hold the speaker up to the humbucker. You should hear the song playing through the amp.
+3. With the song still playing against the humbucker, turn the knob of the volume pot counter-clockwise. You should hear the song get quieter as you turn, going completely mute when the knob is turned fully counter-clockwise.
+
+### 3. Check for Tone
+
+With the song still playing against the humbucker, turn the knob of the tone pot clockwise and counter-clockwise. You should hear a noticeable difference as you do: turning the knob all the way counter-clockwise will considerably cut high end frequencies, leaving a very bassy tone.
+
+### Troubleshooting
+
+If the expected outcomes listed in the previous three steps are not met, consult the Troubleshooting guide.
+
+---
+
+## Installing the Circuit
+
+If everything checks out with the circuit test, you can go ahead and install the parts into the body of the guitar.
+
+### 1. Disconnect Necessary Components
+
+1. De-solder the humbucker entirely.
+2. De-solder the output jack entirely. Disconnect the wires from the output jack itself rather than the volume pot.
+
+### 2. Place Components into the Body
+
+1. Screw the humbucker into its slot in the body and run the wires into the electronics cavity.
+2. With the rest of the circuit stil intact, fasten the pots into their slots in the electronics cavity.
+3. Slide the knob caps onto the pot knobs.
+4. Run the wires that were connected to the output jack through to the output jack slot in the body.
+
+### Reconnect the Disconnected Components
+
+1. Re-solder the humbucker wires to the volume pot.
+2. Resolder the output jack wires to the output jack.
+
+---
+
+## Conclusion
+
+With the completion of this guide, you have successfully wired a single humbucker setup with volume and tone control. Plug in your guitar, test each knob, and enjoy your new sound. If you’d like to expand later, this setup also makes it easy to add coil-splitting or a second pickup.
