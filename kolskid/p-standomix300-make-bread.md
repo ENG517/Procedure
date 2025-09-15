@@ -37,6 +37,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    - If it does not have this foam and seems inactive, the yeast is likely dead. check the expiration date on your yeast packets and start over
    
    ![Bloomed, foamy yeast that is ready to use](<assets/images/screenshots/Bread pics/Blooming yeast resize.jpg>)
+   >*Figure 1: Bloomed, foamy yeast that is ready to use.*
 
 3. Measure out the salt, oil, and honey while the yeast blooms. 
 4. Lightly grease the large bowl with neutral oil
@@ -54,6 +55,8 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    - The dough should be smooth, elastic, and lightly tacky to the touch. If the dough is sticky, add a little more flour. 
             
     ![The doughball is cohesive, smooth, and pulls away from the mixing bowl.](<assets/images/screenshots/Bread pics/Bread dough.webp>)
+>*Figure 2: The doughball is cohesive, smooth, and pulls away from the mixing bowl.*
+
 6. Raise the mixing speed to medium and let the machine knead the dough for 5 minutes.  
 
 
@@ -74,7 +77,8 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 5. Press and stretch the dough into a long, flat rectangle roughly as wide as the loaf pan is long.
    - Don't worry about being too rough or popping air bubbles. Some people use a rolling pin for this step!
 
-![alt text](<assets/images/screenshots/Bread pics/Rolled out dough.png>)
+![Dough stretched and flattened into a rectangle, ready to roll into a log and place in a loaf pan](<assets/images/screenshots/Bread pics/Rolled out dough.png>)
+>*Fig 3: Dough stretched and flattened into a rectangle, ready to roll into a log and place in a loaf pan*
 
 6. Roll up the rectangle into a log and place it in one of the loaf pans.
 
@@ -82,8 +86,8 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 8. Cover the pans with a dish towel and allow to rise for another 45 minutes – 1 hour, or until they’ve risen about 1 inch above the loaf pan.
 9. Preheat the oven to 350 F in the last 20 minutes of the rise.
 
-![alt text](<assets/images/screenshots/Bread pics/Proofed in loaf pan.png>)
-
+![Proofed dough that has risen 1 inch above the loaf pan](<assets/images/screenshots/Bread pics/Proofed in loaf pan.png>)
+>*Figure 4: Proofed dough that has risen 1 inch above the loaf pan*
 
 **Why such a long preheat?**   
 _The sensors in your oven only track the temperature of the **air**, a lot of which is going to be lost when you open the door to put the bread in. This results in the oven taking longer to return to temperature at the start of your bake._
@@ -99,4 +103,5 @@ _Letting the oven preheat for as long as possible (at least 20 minutes, but the 
    - Optional: while the loaves are still hot, brush the tops with butter.
 3. Once cool, store in an airtight container or bag for 2–3 days at room temperature, or up to 5 days in the refrigerator.
 
-![alt text](<assets/images/screenshots/Bread pics/Baked loaves.png>)
+![Perfectly baked loaves!](<assets/images/screenshots/Bread pics/Baked loaves.png>)
+>*Figure 5: Perfectly baked loaves!*
