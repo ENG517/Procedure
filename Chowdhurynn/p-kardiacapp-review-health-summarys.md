@@ -1,6 +1,6 @@
-# Setting up Your Kardia ECG App Profile
+# Preparing Your ECG Data for Telehealth Appointments
 
-You can set up a Kardia app profile to monitor your heart rhythm and share data with your healthcare provider.
+You can review your ECG monitoring data and prepare comprehensive reports for your upcoming telehealth appointment with your cardiologist.
 
 > **Who can use this App?**
 >
