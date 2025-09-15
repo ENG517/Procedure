@@ -33,6 +33,15 @@
 **4. Respond promptly.**
    - eBay requires a response within 48 hours. Quick replies encourage buyers to stay engaged.
 
-### Buyer-Seller Communication
+### Buyer-Seller Communication Tips
+
+- **Stay professional and polite.**
+   - Avoid emotional responses to “lowball” offers.
+   - Example response in counteroffer note: *“Thanks for your interest! I can meet you at $85, which I think is a fair value given the item’s condition.”*
+- **Consider highlighting the item's value.**
+   - Briefly remind buyers why your item is worth your price (brand, rarity, condition, free shipping, etc.).
+- **Avoid over-negotiating.**
+   - Too many back-and-forth counteroffers can frustrate buyers.
+   - Stick to roughly 1–2 rounds of negotiation.
 
 ## After Negotiation
