@@ -1,5 +1,5 @@
 # Making Homemade Pasta
-Use the revolutionary Stand'o'Mix 300 stand mixer to make homemade pasta! Better than storebought, and cooks in half the time.
+Homemade pasts is tastier than storebought, and cooks in half the time. And the stand'o'mix makes the process a breeze: kneading the dough, rolling it out into a nice, even sheet, and even cutting the noodles!
 
 ## What You Will Need
 ### Tools
@@ -9,7 +9,7 @@ Use the revolutionary Stand'o'Mix 300 stand mixer to make homemade pasta! Better
 - Pasta sheeter & cutter attachment
 
 ### Ingredients
-This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
+This recipe yeilds about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
 - 4 Large Eggs
 - 3 1/2 cups All-purpose Flour
 - 1/2 tsp Salt
@@ -46,14 +46,12 @@ This recipe yeilds about 1 1/2 - 1 1/2 pounds of pasta, about 8-9 servings.
 2. Select one portion to work with and re-wrap the other 3. 
    > **Note**: It is your choice whether to sheet and cut the whole batch at once, or sheet and cut one portion at a time. This guide does the latter.
 3. Flatten the dough until it's about a half-inch thick.
-4. Set the stand mixer speed to 2 and carefully feed the dough into the pasta sheeter. 
-5. Fold the dough in half.
-6. Feed the dough through the sheeter two more times.
-7. Change the sheeter to the next smallest setting (Setting 2.)
-8. Lightly sprinkle flour over both sides of the dough to ensure it won't stick.
-9. Feed the dough through the sheeter.
-10. Fold it in half, and feed it through the sheeter two more times.
-11. Repeat steps 7 - 10 for Settings 3 and 4.
+4. Set the stand mixer speed to 2.
+5. Lightly sprinkle flour on the dough and and carefully feed it into the pasta sheeter. 
+6. Fold the dough in half.
+7. Feed the dough through the sheeter two more times.
+8. Change the sheeter to the next smallest setting (Setting 2.)
+9. Repeat steps 5 - 8 on Setting 2, and again for settings 3, and 4.
      - If the sheet of pasta gets too long to handle, cut in half or thirds.
 
 ![Dough sheets can get long!](<assets/images/screenshots/Pasta pics/Pasta sheet resize.png>)
