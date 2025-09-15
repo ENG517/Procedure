@@ -12,12 +12,12 @@ Baking bread is a fun and therapeutic activity with a bonus: you get homemade, f
 - Two loaf pans
 
 ### Ingredients for 2 Loaves
-- 2 cups warm water (105-115F)
-- 1 Tablespoons active dry yeast
-- ¼ cup honey 
-- 2 tsp salt
-- 2 tbsp neutral oil (canola or vegetable) 
-- 5 ½ cups all-purpose or bread flour
+- 2 Cups warm water (105-115F)
+- 1 Tbsp active dry yeast
+- ¼ Cup honey 
+- 2 Tsp salt
+- 2 Tbsp neutral oil (canola or vegetable) 
+- 5 ½ Cups all-purpose or bread flour
 
 > ### *About Ingredients…*
  
@@ -93,3 +93,5 @@ _Letting the oven preheat for as long as possible (at least 20 minutes, but the 
 2. Turn the loaves out onto a wire cooling rack and allow to cool at least 10 minutes before slicing.
    - Optional: while the loaves are still hot, brush the tops with butter.
 3. Once cool, store in an airtight container or bag for 2-3 days at room temperature, or up to 5 days in the refrigerator.
+
+![alt text](<assets/images/screenshots/Bread pics/Baked loaves.png>)
