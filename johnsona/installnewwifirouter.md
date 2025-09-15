@@ -4,7 +4,7 @@ This beginner-friendly procedure will guide you through the process of installin
 
 ## What You'll Need 
 
-- An Synology WRX560 Wi-Fi Router
+- A Synology WRX560 Wi-Fi Router
 - An AC Power Adapter
 - An RJ-45 LAN Cable
 - An ISP Modem
