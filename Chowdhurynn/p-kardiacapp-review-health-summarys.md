@@ -6,21 +6,24 @@ You can review your Kardia ECG monitoring data and prepare comprehensive reports
 >
 > Anyone with a cardiac condition who has been using the Kardia app for ECG monitoring and has scheduled telehealth appointments with their healthcare providers. You must have an active Kardia app with collected data and access to your patient portal to complete these preparation steps.
 
-## About ECG app profile
+## About Kardia telehealth data preparation
 
-Your Kardia app profile stores your medical information and helps provide accurate heart rhythm analysis. The profile connects your ECG readings with your health history and enables communication with your healthcare team.
+Preparing your Kardia ECG data before your telehealth appointment ensures your doctor has comprehensive information about your heart health trends. This preparation includes reviewing your Kardia analysis, understanding your reports, and verifying data synchronization with your healthcare provider's systems.
 
 ## Prerequisites
 
 **Before you begin**
  
-You must have the Kardia app installed on your smartphone:
- - [Download for Android](https://play.google.com/store/apps/details?id=com.alivecor.kardia)
- - [Download for iOS](https://apps.apple.com/us/app/kardia/id441136284)
- 
+You must have been using your Kardia app consistently:
+ - Kardia app installed and actively used for at least 2-3 weeks
+ - [KardiaCare subscription](https://kardia.com/products/kardiacare?srsltid=AfmBOooIw1_2WPVplJJrWiOK3uvpJ_29bq-NRNDbwXgdv5BCPvI1xCrQ) (recommended for detailed reports and trend analysis) 
+ - Patient portal account connected to your healthcare provider
+ - [Patient portal login credentials](https://app.alivecor.com/login) (username and password)
+
  You'll also need:
- - An active email address ([Create Gmail account](https://accounts.google.com/signup) if needed)
- - Your medical information (medication, conditions, emergency contact)
+ - Your Kardia device nearby for reference
+ - A reliable internet connection for data synchronization
+ - Your current medication list and recent doctor's notes
 
  ## Creating your account
 
