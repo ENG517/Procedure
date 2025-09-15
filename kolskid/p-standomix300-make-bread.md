@@ -1,6 +1,6 @@
 # How to Make Sandwich Bread
 
-Baking bread is a fun and therapeutic activity with a bonus: you get homemade, fresh bread with no additives, preservatives, or excess sugar. This recipe is beginner-friendly, and it's made even easier when you can use the Stand'o'mix to do the kneading for you.
+Baking bread is a fun and therapeutic activity with a bonus: you get homemade, fresh bread with no additives, preservatives, or excess sugar. This beginner-friendly recipe is made even easier with the Stand'o'mix to do the kneading for you.
 
 ## Required tools and ingredients
 ### Tools
