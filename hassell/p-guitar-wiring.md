@@ -64,3 +64,16 @@ Twist together the stripped ends of the two red wires you previously cut on one 
 
 ## Grounding Lug 1 of the Volume Pot
 
+![Wiring diagram showing the ground connection from Lug 1 of the volume pot to the casing](/hassell/assets/images/screenshots/pot-ground.png)
+
+### Method 1: Connect the Solid Core Wire
+
+Solder the fully-stripped 0.5 inch solid core wire from **Lug 1** of the volume pot straight back to the volume pot casing.
+
+> **Note:** Depending on the size of the pots you have, 0.5 inches may be too large. If the wire is too large, you risk breakage or a cold solder connection that will nullify the grounding.
+
+### Method 2: Solder the Lug Directly
+
+Instead of using a solid core wire, you can bend **Lug 1** of the volume pot back and solder it directly to the casing, which is far more time and space efficient.
+
+**I do not recommend using this unless you are confident in your soldering abilities.**
