@@ -1,5 +1,6 @@
 # Completed Work
 
+Created a new procedure `p-possystem-performsale`
 
 ## User Scenario
 
