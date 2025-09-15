@@ -30,7 +30,7 @@ You must have the Kardia app installed on your smartphone:
 4. **Tap** `Create Account`
 5. **Check** your email for a verification message and **tap** the verification link
 
-**What you should see:** `Account successfully created` confirmation message
+[**What you should see:**](#) `Account successfully created` confirmation message
 
 > **Troubleshooting account creation**
 >
@@ -43,7 +43,7 @@ You must have the Kardia app installed on your smartphone:
 
 After creating your account, complete your profile by adding your medical information, health history, current medications, and setting up daily reminders through the app's [**Profile**](#) and [**Settings**](#) sections. This ensures accurate ECG analysis and consistent monitoring schedule.
 
-> **Privacy Note**
+> [**Privacy Note**](#)
 >
 > Your medical information is encrypted and only shared with healthcare providers you authorize. Never enter information in unofficial apps or websites.
 
