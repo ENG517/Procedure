@@ -2,7 +2,7 @@
 # # **Completed Work**
 
     - Created new procedure: `p-p-kardiacapp-manage-alert-notifications`
-    - Procedure's Goal: Review ECG app data and ensure successful integration with patient portal for telehealth appointment.
+    - Procedure's Goal: Understand and manage ECG app alerts while troubleshooting technical issues 
 
 ## User Scenario
 
