@@ -1,5 +1,5 @@
 # Making Homemade Pasta
-Homemade pasts is tastier than storebought, and cooks in half the time. And the stand'o'mix makes the process a breeze: kneading the dough, rolling it out into a nice, even sheet, and even cutting the noodles!
+Homemade pasta is tastier than storebought, and cooks in half the time. And the stand'o'mix makes the process a breeze: kneading the dough, rolling it out into a nice, even sheet, and even cutting the noodles!
 
 ## What You Will Need
 ### Tools
@@ -9,11 +9,11 @@ Homemade pasts is tastier than storebought, and cooks in half the time. And the 
 - Pasta sheeter & cutter attachment
 
 ### Ingredients
-This recipe yeilds about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
+This recipe yields about 1 - 1 1/2 pounds of pasta, about 8-9 servings.
 - 4 Large Eggs
-- 3 1/2 cups All-purpose Flour
-- 1/2 tsp Salt
-- 1/4 cup water 
+- 3 1/2 Cups All-purpose Flour
+- 1/2 Tsp Salt
+- 1/4 Cup water 
 
 ## Let's Make Pasta!
 
