@@ -16,7 +16,6 @@
 
 Your materials should be prepped and ready to connect. If they are not, follow the [Wiring a Single-Humbucker Setup: Preparing Materials](/hassell/p-guitar-wiring-prep-materials.md) guide.
 
-
 ### Tools
 
 * Soldering Iron, between 40W and 80W. Anything less than 40W will be too weak.
