@@ -11,14 +11,14 @@ You will need access to a computer and a stable WiFi network.
 
 <img src="/simong/images/images-help/support-heading.jpeg" alt="Expedia Header" style="width: 300px">
 
-    *At the top of the main webpage, select the 'Support' button*
+ *At the top of the main webpage, select the 'Support' button*
 
 2) Type your inquiry in the search bar
     - To easily search for the contact page, you can type **call**, **call line** or other variations
 
 <img src="/simong/images/images-help/how-can-we-help-textbox.jpeg" alt="How Can We Help Search Bar" style="width: 300px">
 
-    *In the search bar, you can ask your inquiry to find a variety of resources*
+ *In the search bar, you can ask your inquiry to find a variety of resources*
 
 3) Click on the 'search' button
 
