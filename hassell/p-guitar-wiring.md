@@ -62,15 +62,30 @@ Twist together the stripped ends of the two red wires you previously cut on one 
 
 ---
 
+## Connecting the Capacitor
+
+### 1. Connect Hot End
+
+Solder one leg of the capacitor to **Lug 2** of the tone pot. Since this kind of capacitor is non-polarized, meaning current can flow in either direction, it does not matter which end you choose to be the hot end.
+
+### 2. Connect Ground End
+
+![Diagram showing the tone pot side view with parallel capacitor leg](/hassell/assets/images/screenshots/tone-pot-side-view.png)
+
+1. Place the other leg of the capacitor against the tone pot case and fold the end to be parallel with the pot casing.
+2. Solder the folded end to the pot casing.
+
+---
+
 ## Grounding Lug 1 of the Volume Pot
 
-![Wiring diagram showing the ground connection from Lug 1 of the volume pot to the casing](/hassell/assets/images/screenshots/pot-ground.png)
+![Wiring diagram showing the ground connection from Lug 1 of the volume pot to the casing](/hassell/assets/images/screenshots/lug1-ground.png)
 
 ### Method 1: Connect the Solid Core Wire
 
 Solder the fully-stripped 0.5 inch solid core wire from **Lug 1** of the volume pot straight back to the volume pot casing.
 
-> **Note:** Depending on the size of the pots you have, 0.5 inches may be too large. If the wire is too large, you risk breakage or a cold solder connection that will nullify the grounding.
+> **Note:** Depending on the size of the pots you have, 0.5 inches may be too large. If the wire is too large, you again risk breakage or a cold solder connection that will nullify the grounding.
 
 ### Method 2: Solder the Lug Directly
 
