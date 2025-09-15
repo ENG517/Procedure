@@ -1,6 +1,6 @@
-# Setting up Your Kardia ECG App Profile
+# Managing Kardia ECG App Alerts and Notifications
 
-You can set up a Kardia app profile to monitor your heart rhythm and share data with your healthcare provider.
+You can manage your Kardia app alerts to understand instant analysis results, troubleshoot sync issues, and respond appropriately to different types of notifications.
 
 > **Who can use this App?**
 >
