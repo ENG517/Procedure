@@ -1,10 +1,10 @@
-# Preparing Your ECG Data for Telehealth Appointments
+# Preparing Your Kardia Data for Telehealth Appointments
 
-You can review your ECG monitoring data and prepare comprehensive reports for your upcoming telehealth appointment with your cardiologist.
+You can review your Kardia ECG monitoring data and prepare comprehensive reports for your upcoming telehealth appointment with your cardiologist.
 
-> **Who can use this App?**
+> **Who can use this guide?**
 >
-> Anyone with a cardiac condition who has been prescribed ECG monitoring can create a Kardia app profile. You must have a smartphone with the Kardia app installed and access to your medical information to complete the setup process.
+> Anyone with a cardiac condition who has been using the Kardia app for ECG monitoring and has scheduled telehealth appointments with their healthcare providers. You must have an active Kardia app with collected data and access to your patient portal to complete these preparation steps.
 
 ## About ECG app profile
 
