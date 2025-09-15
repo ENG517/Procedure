@@ -92,3 +92,21 @@ Solder the fully-stripped 0.5 inch solid core wire from **Lug 1** of the volume 
 Instead of using a solid core wire, you can bend **Lug 1** of the volume pot back and solder it directly to the casing, which is far more time and space efficient.
 
 **I do not recommend using this unless you are confident in your soldering abilities.**
+
+---
+
+## Grounding the Rest of the Circuit
+
+### 1. Connect the Two Pots
+
+![Wiring Diagram showing the ground connection between the volume and tone pots](/hassell/assets/images/screenshots/pot-ground.png)
+
+Solder one of the black wires you previously cut from the volume pot casing to the tone pot casing.
+
+### 2. Connect the Output Jack Ground
+
+![Wiring Diagram showing the ground connection between the volume pot casing to the output jack](/hassell/assets/images/screenshots/output-jack-ground.png)
+
+Solder the final black wire from the casing of the volume pot to the Sleeve of the output jack (the larger inner-most lug).
+
+---
