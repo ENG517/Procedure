@@ -6,7 +6,7 @@ You can set up a Kardia app profile to monitor your heart rhythm and share data 
 >
 > Anyone with a cardiac condition who has been prescribed ECG monitoring can create a Kardia app profile. You must have a smartphone with the Kardia app installed and access to your medical information to complete the setup process.
 
-## About ECG app profile
+## About ECG App Profile
 
 Your Kardia app profile stores your medical information and helps provide accurate heart rhythm analysis. The profile connects your ECG readings with your health history and enables communication with your healthcare team.
 
