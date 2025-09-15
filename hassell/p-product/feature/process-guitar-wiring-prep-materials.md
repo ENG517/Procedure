@@ -1,4 +1,4 @@
-# Introduction to Electric Guitar Wiring: a Single-Humbucker Setup
+# Wiring a Single-Humbucker Setup: Preparing Materials
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ A *potentiometer* (which I'll refer to as a "pot" from now on) is a type of rota
 
 *Hot wires* carry active electrical current, *ground wires* serve as a safety path in case of a short ciruit. For our purposes, think of hot wires as carrying the sound and ground wires as blocking excess noise.
 
-Hot wires will be *red*, ground wires will be *black*.
+Hot wires will be **red**, ground wires will be **black**.
 
 ---
 
@@ -61,7 +61,7 @@ Hot wires will be *red*, ground wires will be *black*.
   * The **black** wire is the hot wire
   * The **yellow** or **green** wire is the ground wire (you will only have one or the other).
 
-**Note:** if you have a 4-conductor humbucker, ensure the two wires that are NOT the hot wires are soldered together and taped off with electrical tape. Failure to do so will cause major noise bleed.
+> **Note:** if you have a 4-conductor humbucker, ensure the two wires that are NOT the hot wires are soldered together and taped off with electrical tape. Failure to do so will cause major noise bleed and a weak sound.
 
 ### 2. Label Pot Casings
 
@@ -70,7 +70,7 @@ With a marker, label one pot with **V** for volume and the other with a **T** fo
 ### 3. Prepare Threaded Wires
 
 1. Cut four 3.5 inch wires from the threaded spools, two black and two red.
-2. Strip the ends.
+2. Strip the ends
 
 ### 4. Prepare the Solid Wire
 
@@ -79,6 +79,14 @@ With a marker, label one pot with **V** for volume and the other with a **T** fo
 
 ### 5. Tin the Wires
 
-1. Apply a small amount of solder to the stripped ends of the five wires you just cut AND the humbucker hot and ground wires. This will make it easier to solder them to the pots.
+Apply a small amount of solder to the stripped ends of the five wires you just cut AND the humbucker hot and ground wires, just enough to coat the ends. This will make it easier to solder them to the pots.
+
+### 6. Prepare the Capacitor
+
+If the capacitor has extra long legs, cut each leg to just under 0.5 inches.
 
 ---
+
+## Next Steps
+
+Once your materials are prepped, you're ready to start putting things together. Move on to the next guide.
