@@ -46,3 +46,21 @@ Solder the **white**, **green**, or **yellow** wire, depending on the type and b
 
 ---
 
+## Connecting the Hot Wires
+
+![Wiring diagram showing the volume pot hot wire connections](/hassell/assets/images/screenshots/lug2-wire.png)
+
+### 1. Join Hot Wires
+
+Twist together the stripped ends of the two red wires you previously cut on one side only, leaving the other ends separate.
+
+### 2. Solder Hot Wires
+
+1. Solder the twisted end to **Lug 2** of the volume pot.
+2. Solder one of the separate ends to **Lug 1** of the tone pot.
+3. Solder the other separate end to the **Tip** of the output jack (smaller outer-most lug).
+
+---
+
+## Grounding Lug 1 of the Volume Pot
+
