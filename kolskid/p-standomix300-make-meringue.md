@@ -34,30 +34,29 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 5. Cover a cookie sheet with parchment paper.
 6. Set the tip of the piping bag in a tall glass, and turn the excess down over the sides. This will make filling easier!
 
-> **Ue it or Lose it:** _Meringue gradually loses its consistency as it sits around. Because of this, leftover meringue can’t be saved for a second batch of cookies, as it won’t be workable by the time the first batch is done. Plan to bake all of it at once._
+> **Use it or Lose it:** _Meringue gradually loses its consistency as it sits around. Because of this, leftover meringue can’t be saved for a second batch of cookies, as it won’t be workable by the time the first batch is done. Plan to bake all of it at once._
 
 ### Make the Meringue
 1. Wipe down the whisk and bowl with a dry cloth or paper towel, ensuring both are fully dry.
-2. Add egg whites, cream of tartar, and salt to the bowl. 
-3. Mix on low speed until frothy.	
-4. Raise mixer speed to high. 
-5. While the mixer is running, slow sprinkle in sugar 1 tbsp at a time, letting each addition fully incorporate before adding more.
-6. Add in the vanilla extract.
-7. Beat until the mixture is glossy, has a thick, marshmallowy texture, and has increased in volume. It will take several minutes! 
-8. When the sugar is fully dissolved and the mixture comes to stiff peaks, it’s ready!
+2. Add egg whites, cream of tartar, and salt to the bowl, and mix on low speed until frothy.	
+5. Raise mixer speed to high. 
+4. While the mixer is running, slow sprinkle in sugar 1 tbsp at a time, letting each addition fully incorporate before adding more.
+5. Add in the vanilla extract.
+6. Beat until the mixture is glossy, has a thick, marshmallowy texture, and has increased in volume. It will take several minutes! 
+7. When the sugar is fully dissolved and the mixture comes to stiff peaks, it’s ready!
     - **Test for dissolved sugar:** Rub a small bit of meringue between your fingers. If it feels gritty, it needs to be mixed longer.
     - **Test for stiff peaks:** Unhook the whisk and lift it straight out of the bowl. The meringue should come to a ‘peak’ that is stiff enough to stand upright when the whisk is turned over. If the peak flops over, it needs to be mixed longer.
 
 ![Stiff peaks staying upright even after the beater is turned over](<assets/images/screenshots/Meringue pics/Stiff peaks test.png>)
 
 ### Make the Cookies
-1. Transfer the meringue to the prepared piping bag.
-    - Spooning it in with a flexible spatula or dough/bench scraper is easiest, especially with the bag already set up in a glass.
+1. Spoon the meringue to the prepared piping bag with a flexible spatula or dough/bench scraper.
 2. Pipe equal(ish)-sized dollops onto the parchment paper about an inch apart. They need room for air circulation, but they will not spread.
 
 ![alt text](<assets/images/screenshots/Meringue pics/Piping meringue.png>)
 
 3. Place on the center rack of the preheated oven and bake for 1 hour.
-4. Turn the oven off, but do not open the door. The residual heat will gently finish drying the cookies while the oven gradually cools down.
+4. Turn the oven off, but do not open the door. 
+   - The residual heat will gently finish drying the cookies while the oven gradually cools down.
 5. Leave the cookies in the off, closed oven for 1-2 hours until they cool completely.
 6. Enjoy!
