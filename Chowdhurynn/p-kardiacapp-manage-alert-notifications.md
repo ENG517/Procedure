@@ -15,15 +15,15 @@ Your Kardia app provides instant analysis of your heart rhythm upon completion o
 **Before you begin**
  
 You must have -
-  - An actice Kardia app account with recorded ECG data.
-  - Access into your heathcare provider's contact information.
+  - An active Kardia app account with recorded ECG data.
+  - Access into your healthcare provider's contact information.
 
  ## Accessing your ECG history
 
 1. **Open** the Kardia app on your smartphone
 2. **Tap** `History` section from the main menu
 3. **Review** previous ECG recordings with the results
-4. **Tap** any  recording to see details
+4. **Tap** any recording to see details
 
 ## Types of alerts you might see
 
@@ -39,7 +39,7 @@ You must have -
   - Readings you don't understand
   - If you feel worried about any result
 
-**Get emergency help help if you have -**
+**Get emergency help if you have -**
 
   - Chest pain
   - Trouble breathing
