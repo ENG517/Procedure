@@ -16,6 +16,7 @@
      - which item categories they use.
        - Use the search filters to sort by sold items to see "completed" (sold) listings. [Add screenshot of search filters]
    - Decide whether to list your item for a **fixed price** (Buy It Now) or put it up for **auction**. 
+   - ***It's best to start selling with a few lower-value items to build positive feedback before listing high-ticket items.***
 
 **3. Gather item specifications and details.**
    - Item specifications can include brand, model, size, color, condition, serial number, and important features. 
