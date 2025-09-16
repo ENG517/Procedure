@@ -55,8 +55,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    - The dough should be smooth, elastic, and lightly tacky to the touch. If the dough is sticky, add a little more flour. 
             
     ![The doughball is cohesive, smooth, and pulls away from the mixing bowl.](<assets/images/screenshots/Bread pics/Bread dough.webp>)
->*Figure 2: The doughball is cohesive, smooth, and pulls away from the mixing bowl.*
-
+   >*Figure 2: The doughball is cohesive, smooth, and pulls away from the mixing bowl.*
 6. Raise the mixing speed to medium and let the machine knead the dough for 5 minutes.  
 
 
