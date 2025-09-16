@@ -70,6 +70,28 @@ You must have -
        style="margin-left: 40px;"/>
 </p>
 
+## Managing alerts within the app
+
+1. **Open** the Alerts tab
+2. **Tap** on any alert to view details
+3. **Mark as reviewed** by tapping the checkmark or "Dismiss" button
+
+      > **Tip:** Dismissed alerts remain in your history but won't show as active notifications.
+
+## Troubleshooting sync errors
+
+**If you see sync error alerts**
+
+  1. Check your internet connection
+  2. Close and reopen the Kardia app
+  3. Tap the failed recording and select "Retry Upload"
+  4. Restart your phone if the error continues
+
+**If sync problems persist**
+
+  - Log out and log back into your account
+  - Contact Kardia support through the app's Help section
+
 ## When to call your doctor
 
 **Contact your doctor if -**
