@@ -19,7 +19,7 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 
 ### Ingredients
 - 4 large eggs
-- 1/2 tsp cream of tartar
+- ½ tsp cream of tartar
 - 1/8 tsp salt
 - 1 cup granulated white sugar
 - 1 tsp vanilla extract
