@@ -1,8 +1,6 @@
 # How to Set Up a Wellness Event in the Landing
 
-filler text for more introduction pieces
-
-
+Filler text for more introduction pieces
 
 Goal:
 
@@ -30,7 +28,10 @@ You have now successfully logged into the interface! You are now ready to *Toggl
 ### How to Toggle the Privacy Windows
 1. Navigate to the top left corner by the NC State University Library logo
 2. Press and hold your finger in the top left corner. 
+
     After a few seconds, a new window will appear.
+
 4. Tap the “Display and Glass Control” box
+    
     On the right, you will see options for turning on and off the privacy glass.
  
