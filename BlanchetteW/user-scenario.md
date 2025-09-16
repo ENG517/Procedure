@@ -5,5 +5,3 @@ Recently Gary was approached by DC comics to work on a popular comic book series
 
 The team he’s working on recently transitioned to Figma for its collaborative power, not only amongst the illustrators but also with DC’s in-house web designers. They would like for Gary to give a short virtual presentation of work he’s created prior for the series, and would like for his images to be in Figma so other team members can offer real-time feedback and comments.
 
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
