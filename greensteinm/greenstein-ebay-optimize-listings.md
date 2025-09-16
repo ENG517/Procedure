@@ -23,6 +23,25 @@
 
 ## Maximize Visibility & Buyer Engagement
 
+**1. List consistently.**
+  - Daily or weekly listing activity signals eBay’s algorithm to boost your store visibility.
+
+**2. Leverage eBay Promoted Listings.**
+- Use Promoted Listings Standard for steady exposure.
+- Experiment with Advanced (CPM) if margins allow, to dominate high-competition categories.
+
+**3. Offer competitive shipping.**
+- Free or flat-rate shipping increases search placement.
+- Use calculated shipping for heavier items but optimize packaging to reduce costs.
+
+**4. Run promotions and markdowns.**
+- Create volume discounts (e.g., Buy 2, Get 10% Off).
+- Use eBay’s Markdown Manager to create urgency with sales.
+
+**5. Utilize multi-channel marketing.**
+- Share listings on social media, blogs, or email newsletters.
+- Drive repeat buyers directly to your eBay Store page.
+
 ## Negotiating Offers
 
 ## Strengthen Store Branding & Buyer Loyalty
