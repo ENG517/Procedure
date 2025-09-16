@@ -40,6 +40,13 @@ Congratulations, you have successfuly set up the Landing for your event!
 ## Resetting the Landing to Default Orientation
 Once your event has concluded and all event participants have vacated the space, you are ready to begin resetting the Landing to its default orientation. 
 
+Refer to the **default orientation** image for additional assistance in orienting the space. 
+
 1. Unlock all wheels for the tables and chairs
 
 You should now be able to move the furniture without resistance
+
+2. Push tables to their original spaces at the center of the room
+3. Surround the table with the chairs
+4. Place the 2 bean bag chairs and 2 ottomans back in the 
+
