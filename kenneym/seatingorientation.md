@@ -16,7 +16,7 @@ if you did not reserve the space for your event, please fill out **this form**
 * 2 bean bag chairs
 * 2 ottomans
 
-## Task 1: Setting Up the Room
+## Task 1: Configuring the Room
 Time - 15 minutes for one person
 
 1. Place the two large brown chairs and their ottomans on outside the door
@@ -40,13 +40,24 @@ Congratulations, you have successfuly set up the Landing for your event!
 ## Resetting the Landing to Default Orientation
 Once your event has concluded and all event participants have vacated the space, you are ready to begin resetting the Landing to its default orientation. 
 
+### Resetting the Tables and Chairs
 Refer to the **default orientation** image for additional assistance in orienting the space. 
 
 1. Unlock all wheels for the tables and chairs
 
 You should now be able to move the furniture without resistance
-
 2. Push tables to their original spaces at the center of the room
 3. Surround the table with the chairs
-4. Place the 2 bean bag chairs and 2 ottomans back in the 
+4. Place the 2 bean bag chairs and 2 ottomans back in the room against the wall
+
+Logging out of the interface
+1. Disconnect the HDMI port from the OLED insert and the laptop
+2. On the interface panel, tap "sound" and turn the volume to 0
+3. Tap "lights" and turn the lights to 50% brightness
+
+    If the lights flicker, turn them off and message your librarian about your issue.
+
+Note: If the lights begin to flicker, do not worry! This is not an issue you caused, and it is not a problem that can be solved without IT. We will fix this after you event concludes. 
+
+4. On the interface panel, press and hold on the top right corner until the login screen appears
 
