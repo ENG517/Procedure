@@ -1,8 +1,14 @@
 # Managing Kardia ECG App Alerts and Notifications
 
-You can manage your Kardia app alerts to understand instant analysis results, troubleshoot sync issues, and respond appropriately to different types of notifications.
+Your Kardia ECG app not only records your heart rhythms but also generates alerts and notifications that guide your next steps. These alerts can confirm normal readings, flag rhythm concerns that may need medical review, or warn about technical issues like sync errors.
 
-> **Who can use this feature?**
+## The goal of this guide is to help you:
+
+- Interpret instant analysis results and understand what different alerts mean.
+- Review your alert history and troubleshoot common issues such as sync errors.
+- Decide when to manage alerts within the app and when to contact your doctor or seek emergency care.
+
+> **Who can use this guide?**
 >
 > Anyone using the kardia ECG app who receives instant analysis results and notifications can manage their alert settings. You must have an active Kardia app account with previous ECG recording to access analysis history and notification management features.
 
