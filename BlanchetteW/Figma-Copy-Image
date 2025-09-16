@@ -1,6 +1,10 @@
-## Rendering Hand-Drawn Images in Figma ##
+## Tracing Hand-Drawn Images in Figma ##
 
-There are two ways in which you can render your hand-drawn images in Figma, tracing and importing. Both come with their distinct benefits. Importing is faster, clearly preserves all original details and colors, and allows for easy cropping and resizing. Tracing converts your image to a vector graphic, which allows for easier edibility, more scalability, and also results in a smaller file size.
+There are two main categories of image formats in the digital art world, **raster**, made of pixels, and **vector**, comprised of mathematical formulas defining points, lines and curves. Both come with advantages and disadvantages, and both are ideal for different types of projects.
+
+For this set of instructions, we are going to vectors. They are easily editable, can be scaled infinitely and to different screen sizes without loss of quality, use small file sizes, and are easily convertible to other formats. However, they may not be ideal for all photorealistic designs, and require higher-end software than raster.
+
+Currently, the only method for
 
 
 ## Prequisites ##
