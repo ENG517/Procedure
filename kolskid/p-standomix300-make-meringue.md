@@ -12,8 +12,10 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 - Disposable piping bag
   - Smooth-sided cookies: no piping tip needed.
 ![Smooth meringue cookies](<assets/images/screenshots/Meringue pics/Smooth meringue.png>)
+    >*Figure 1: Smooth meringue cookies.*
   - Cookies with defined ruffles/ridges: star-shaped piping tip (any size) required.
-![alt text](<assets/images/screenshots/Meringue pics/Ruffle meringue.png>)
+![Ruffled meringue cookies](<assets/images/screenshots/Meringue pics/Ruffle meringue.png>)
+    >*Figure 2: Ruffled meringue cookies.*
 
 ### Ingredients
 - 4 large eggs
@@ -29,6 +31,8 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 2. Separate the egg whites and yolks. The yolks can be used for a different recipe, or discarded.
    > _**Tip:** Even a small amount of yolk can ruin a meringue. Separate the eggs over a ‘quarantine’ bowl, and then transfer the egg whites to a second ‘collection’ bowl. This way, if a yolk breaks, you won’t lose all the egg whites you’ve already separated._
 ![Using 3 bowls to separate eggs](<assets/images/screenshots/Meringue pics/Separating eggs.jpg>)
+
+    >*Figure 3: Using 3 bowls to separate eggs*
 3. Install the whisk and bowl in the stand mixer.
 4. Measure each ingredient and set them out near the stand mixer.
 5. Cover a cookie sheet with parchment paper.
@@ -48,12 +52,14 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
     - **Test for stiff peaks:** Unhook the whisk and lift it straight out of the bowl. The meringue should come to a ‘peak’ that is stiff enough to stand upright when the whisk is turned over. If the peak flops over, it needs to be mixed longer.
 
 ![Stiff peaks staying upright even after the beater is turned over](<assets/images/screenshots/Meringue pics/Stiff peaks test.png>)
+>*Figure 4: Stiff peaks stay upright even after the beater is turned over.*
 
 ### Make the Cookies
 1. Spoon the meringue to the prepared piping bag with a flexible spatula or dough/bench scraper.
 2. Pipe equal(ish)-sized dollops onto the parchment paper about an inch apart. They need room for air circulation, but they will not spread.
 
-![alt text](<assets/images/screenshots/Meringue pics/Piping meringue.png>)
+![Piping cookies with a ruffle tip](<assets/images/screenshots/Meringue pics/Piping meringue.png>)
+>*Figure 5: Piping cookies with a ruffle tip.*
 
 3. Place on the center rack of the preheated oven and bake for 1 hour.
 4. Turn the oven off, but do not open the door. 
