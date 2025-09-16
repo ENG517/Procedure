@@ -10,11 +10,11 @@ Your Kardia ECG app not only records your heart rhythms but also generates alert
 
 > **Who can use this guide?**
 >
-> Anyone using the kardia ECG app who receives instant analysis results and notifications can manage their alert settings. You must have an active Kardia app account with previous ECG recording to access analysis history and notification management features.
+> Anyone with an active Kardia app account who receives ECG analysis results and notifications can use these instructions. You should already have at least one recorded ECG to access your analysis history and manage alerts.
 
-## About ECG instant analysis
+## About ECG Instant Analysis
 
-Your Kardia app provides instant analysis of your heart rhythm upon completion of your ECG recording. The analysis represents the results to help you understand your heart health.
+When you complete an ECG recording, the Kardia app provides instant analysis of your heart rhythm. These results help you monitor your heart health and identify when additional medical attention may be needed.
 
 ## Prerequisites
 
@@ -23,18 +23,45 @@ Your Kardia app provides instant analysis of your heart rhythm upon completion o
 You must have -
   - An active Kardia app account with recorded ECG data.
   - Access into your healthcare provider's contact information.
+  - A stable internet connection to ensure your recordings sync correctly.
 
  ## Accessing your ECG history
 
 1. **Open** the Kardia app on your smartphone
 2. **Tap** `History` section from the main menu
 3. **Review** previous ECG recordings with the results
+<p>
+  <img src="./assets/images/screenshots/History.png" 
+       alt="History" 
+       width="300" 
+       style="margin-left: 40px;"/>
+</p>
+
 4. **Tap** any recording to see details
+
+      > **Alert:** It may take 10–15 seconds for all ECG data to fully load. Wait until the list is complete before reviewing results to avoid missing recent recordings.
 
 ## Types of alerts you might see
 
-- **Normal Readings** [see details](https://kardia.com/assets/old/app-user-manuals/00LB17.15-en.pdf)
-- **Readings that need attention** [see details](https://alivecor.com/products)
+- **Normal Readings-** Your ECG did not show signs of irregular rhythm. 
+
+<p>
+  <img src="./assets/images/screenshots/normalReading..png" 
+       alt="NbnormalReading" 
+       width="300" 
+       style="margin-left: 40px;"/>
+</p>
+
+- **Readings that need attention-** The app detected possible irregularities such as [**atrial fibrillation**](#) or [**unclassified rhythms**](#).
+
+<p>
+  <img src="./assets/images/screenshots/abnormalReading.png" 
+       alt="AbnormalReading" 
+       width="300" 
+       style="margin-left: 40px;"/>
+</p>
+
+- **Sync or Technical Errors-** Notifications indicating a recording did not upload or sync properly.
 
 ## When to call your doctor
 
