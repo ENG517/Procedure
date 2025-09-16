@@ -30,7 +30,7 @@ You will need an image to import. Currently, Figma supports **JPG, PNG, GIF, WEB
 4. Click "Upload from Computer."
 5. Import your Image.  
 #
-And it's easy as that! Your image is now a fully editabe image fill object in Figma. Don't hesitate to play around with the dimensions and other properties or, if you are satisfied with how your image looks, feel free to stop here. 
+And it's easy as that! Your image is now a fully editabe fill object in Figma. Don't hesitate to play around with the dimensions and other properties or, if you are satisfied with how your image looks, feel free to stop here. 
 
 **Otherwise**, here are some quick tips on editing your image.
 
@@ -43,13 +43,20 @@ And it's easy as that! Your image is now a fully editabe image fill object in Fi
 
 ### Scaling Your Image ###
 As previously discussed, you can scale your image by dragging the corner of your frame. However, there are other methods available to scaling images in Figma.
-1. Press the "K" hot key to access the scaling tool.
+1. Press the **"K"** hot key to access the scaling tool.
 
 <img src="assets/images/screenshots/Scale Tool.png" alt="Alt text" style="width: 300px">
 
 2. Adjust Height and Width to your liking.
 3. Scale your image proportionally.
-> Note
+> Note: Adjusting your image too dramatically may alter the image quality.
+4. Switch back to the move tool by selecting the **"M"** hotkey.
+
+### Rotating Your Image ###
+1. 
+
+
+
 
 
 
