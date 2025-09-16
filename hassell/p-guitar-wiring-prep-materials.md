@@ -1,5 +1,7 @@
 # Wiring a Single-Humbucker Setup: Preparing Materials
 
+
+
 ## Prerequisites
 
 ### Materials
@@ -21,7 +23,7 @@
 * A wire stripper
 * A screwdriver set
 * Electrical tape
-* A marker
+* A permanent marker
 
 ### Skills
 
@@ -35,7 +37,7 @@ You should have some prior experience soldering. If you don't, practice for a fe
 
 ![Potentiometer diagram](/hassell/assets/images/screenshots/potentiometer-diagram.png)
 
-A *potentiometer* (which I'll refer to as a "pot" from now on) is a type of rotating resistor that, for our purposes, will control your guitar's *tone* and *volume* (hence why you need two). They are what you will be soldering on, so it's important to get acquainted with their parts.
+A *potentiometer* (which I'll refer to as a "pot" from now on) is a type of rotating resistor that will control your guitar's *tone* and *volume* (hence why you need two). They are what you will be soldering on, so it's important to get acquainted with their parts.
 
 #### Lugs
 
@@ -44,9 +46,9 @@ A *potentiometer* (which I'll refer to as a "pot" from now on) is a type of rota
 
 ### Hot Wires vs Ground Wires
 
-*Hot wires* carry active electrical current, *ground wires* serve as a safety path in case of a short ciruit. For our purposes, think of hot wires as carrying the sound and ground wires as blocking excess noise.
+*Hot wires* carry active electrical current, *ground wires* serve as a safety path in case of a short ciruit. Think of hot wires as carrying the sound and ground wires as blocking excess noise.
 
-Hot wires will be **red**, ground wires will be **black**.
+In this procedure, hot wires will be **red**, ground wires will be **black**.
 
 ---
 
@@ -63,25 +65,29 @@ Hot wires will be **red**, ground wires will be **black**.
 
 > **Note:** if you have a 4-conductor humbucker, ensure the two wires that are NOT the hot wires are soldered together and taped off with electrical tape. Failure to do so will cause major noise bleed and a weak sound.
 
-### 2. Label Pot Casings
+### 2. Orient the Pots
 
-With a marker, label one pot with **V** for volume and the other with a **T** for tone on the back of the casings (the flat side). Since both are 500k pots, it doesn't matter which is which.
+Flip both pots so the knobs are facing down and the flat metal casing and lugs are pointing up. with **Lug 3** on the left (refer to pot diagram for specific lug placement).
 
-### 3. Prepare Threaded Wires
+### 3. Label Pot Casings
 
-1. Cut four 3.5 inch wires from the threaded spools, two black and two red.
+With a permanent marker, label one pot with **V** for volume and the other with a **T** for tone on the back of the casings (the flat side). Since both are 500k pots, it doesn't matter which is which.
+
+### 4. Prepare Threaded Wires
+
+1. Cut four 3.5-inch wires from the threaded spools, two black and two red.
 2. Strip the ends
 
-### 4. Prepare the Solid Wire
+### 5. Prepare the Solid Wire
 
 1. Strip a 1 inch section off the end of the solid core spool.
-2. Cut half of the stripped section off. You should be left with a 0.5 inch fully-stripped wire.
+2. Cut half of the stripped section off. You should be left with a 0.5-inch fully-stripped wire.
 
-### 5. Tin the Wires
+### 6. Tin the Wires
 
 Apply a small amount of solder to the stripped ends of the five wires you just cut AND the humbucker hot and ground wires, just enough to coat the ends. This will make it easier to solder them to the pots.
 
-### 6. Prepare the Capacitor
+### 7. Prepare the Capacitor
 
 If the capacitor has extra long legs, cut each leg to just under 0.5 inches.
 
