@@ -63,6 +63,13 @@ You must have -
 
 - **Sync or Technical Errors-** Notifications indicating a recording did not upload or sync properly.
 
+<p>
+  <img src="./assets/images/screenshots/technicalError.png" 
+       alt="TechnicalError" 
+       width="300" 
+       style="margin-left: 40px;"/>
+</p>
+
 ## When to call your doctor
 
 **Contact your doctor if -**
