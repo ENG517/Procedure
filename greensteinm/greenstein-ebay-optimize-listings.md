@@ -44,6 +44,16 @@
 
 ## Negotiating Offers
 
+**1. Set smart auto-accept/decline ranges** to save time and signal seriousness to buyers.
+- For example, if the listed price is $120, set auto-decline for offers under $80 and auto-accept for offers of $110+.
+  
+**2. Personalize counteroffers** by adding a short accompanying message
+
+**3. Encourage multi-item deals and discounts.**
+
+**4. Don’t fear declining unreasonable offers.**
+- Relisting with better visibility often attracts stronger buyers.
+
 ## Strengthen Store Branding & Buyer Loyalty
 
 ## Monitor, Test, and Adapt
