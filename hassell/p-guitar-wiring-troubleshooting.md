@@ -1,5 +1,7 @@
 # Wiring a Single-Humbucker Setup: Troubleshooting
 
+Common problems encountered when wiring guitar electronics and potential solutions.
+
 ## Prerequisites
 
 You should have already completed the [Wiring a Single-Humbucker Setup: Connecting Components](/hassell/p-guitar-wiring.md) guide.
