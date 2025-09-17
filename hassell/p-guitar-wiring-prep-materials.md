@@ -1,6 +1,8 @@
 # Wiring a Single-Humbucker Setup: Preparing Materials
 
+The purpose of this guide is to provide an overview of materials needed to wire a simple single-humbucker circuit in an electric guitar and how to properly prepare them for easiest application. Intended for budding hobbyists seeking to delve into the world of guitar circuitry. You will be able to translate skills learned in this and the subsequent guides in this repository to more complex circuits.
 
+This guide is intended for Les Paul or Les Paul Junior models.
 
 ## Prerequisites
 
