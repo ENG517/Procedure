@@ -52,7 +52,7 @@ Solder didn’t fully bond to the lug or casing (dull, grainy, or blobbed look).
 1. Reheat the joint until the solder flows smoothly and makes good contact.
 2. Verify solid solder connection by tugging on the wires slighly.
 
-### 4. Shorts between hot and ground
+### 4. Shorts Between Hot and Ground
 
 A stray strand of wire, solder blob, or capacitor lead is touching a grounding point.
 
