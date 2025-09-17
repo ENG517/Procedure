@@ -1,4 +1,4 @@
-# Wiring a Single-Humbucker Setup: Troubleshooting
+# Guitar Wiring Troubleshooting
 
 Common problems encountered when wiring guitar electronics and potential solutions. Follow each problem-solution in order to rule out each one.
 
@@ -69,11 +69,9 @@ Wrong color wires used for hot/ground, or coil leads not joined correctly.
 
 ### 6. Damaged or Faulty Potentiometer
 
-If none of the other solutions fix the problem, you have likely fried the carbon track on one or both of the pots.
+If none of the other solutions fix the problem, you have likely fried the carbon track on one or both of the pots. The only solution is to replace the pot(s).
 
-1. Replace the pot(s)
-2. Ensure your soldering iron reaches at least 360 degrees Celsius.
-3. Solder quickly and use heat sinks.
+> **Important:** Ensure your soldering iron reaches at least 360 degrees Celsius to limit the amount of time the iron is in contact with the carbon track. Solder quickly and use heat sinks.
 
 ---
 
