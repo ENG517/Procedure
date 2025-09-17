@@ -10,8 +10,12 @@ Currently, the only method for converting an image to a vector in figma is throu
 ## Image Tracing Plug-Ins ##
 There are many image tracing plug-ins available, both paid and free. 
 
-
-
+| Plug-In            |   Paid                |   Pros           |  Cons           |
+|-------------|---------------------|--------------|-------------|
+| Vectorize Bitmap           |         N            | Supports expansive range of colors, lines are accurate             |    Software occasionally needs restarting        | 
+|   Image Tracer          |  Y                   |  Software is updated regularly and lines are clear            |       Colors can appear overexposed      |
+|      Trace Image      |          N           | Very accurate with simple images             |      Output is in black and white       |
+|    Vectorizer         |  Y                   | Colors are accurate             |    Not updated regularly         |
 ## Import ##
 
 -
