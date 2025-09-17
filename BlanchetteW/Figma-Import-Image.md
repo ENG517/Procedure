@@ -30,18 +30,18 @@ You will need an image to import. Currently, Figma supports **JPG, PNG, GIF, WEB
 4. Click "Upload from Computer."
 5. Import your Image.  
 #
-And it's easy as that! Your image is now a fully editabe fill object in Figma. Don't hesitate to play around with the dimensions and other properties or, if you are satisfied with how your image looks, feel free to stop here. 
+And it's easy as that! Your image is now a fully editabe fill object in Figma. Don't hesitate to play around with the dimensions and other properties.
 
-**Otherwise**, here are some quick tips on editing your image.
+Here are some *quick tips* on editing your image.
 
-### Adjusting Image Properties ###
+#### Adjusting Image Properties ####
 1. Select the "Image" button located underneath the "Fill" property.
 2. Draft the sliders to adjust the image properties to your liking.
     - Each property alters your image differently.
     - Dragging the saturation all the way down wil create a black and white image.
 3. Experiment with the different properties available!
 
-### Scaling Your Image ###
+#### Scaling Your Image ####
 As previously discussed, you can scale your image by dragging the corner of your frame. However, there are other methods available to scaling images in Figma.
 1. Press the **"K"** hot key to access the scaling tool.
 
@@ -49,11 +49,16 @@ As previously discussed, you can scale your image by dragging the corner of your
 
 2. Adjust Height and Width to your liking.
 3. Scale your image proportionally.
-> Note: Adjusting your image too dramatically may alter the image quality.
 4. Switch back to the move tool by selecting the **"M"** hotkey.
+> Note: Adjusting your image too dramatically may alter the image quality.
 
-### Rotating Your Image ###
-1. 
+#### Rotating Your Image ####
+1. Select your image fill image
+2. Navigate to the the rotation field in the design panel, which should have an angle icon next to it.
+3. Enter your desired degree value.
+
+
+
 
 
 
