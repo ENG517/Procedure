@@ -1,14 +1,16 @@
-## Tracing Hand-Drawn Images in Figma ##
+# Tracing Hand-Drawn Images in Figma #
 
-There are two main categories of image formats in the digital art world, **raster**, made of pixels, and **vector**, comprised of mathematical formulas defining points, lines and curves. Both come with advantages and disadvantages, and both are ideal for different types of projects.
+Have you ever had a sketch you've created and wondered how it would translate to the digital realm? Of course you could always take a picture, or a *pixelated* image, but there is another type of image, the [***vector***](https://heighton.agency/insights/vector-files/), which provides several distinct benefits.
 
-For this set of instructions, we are going to vectors. They are easily editable, can be scaled infinitely and to different screen sizes without loss of quality, use small file sizes, and are easily convertible to other formats. However, they may not be ideal for all photorealistic designs, and require higher-end software than raster.
+Vector images are comprised of mathematical formulas defining points, lines and curves, and can be scaled infinitely and to different screen sizes without loss of quality. They are easily translated to other image formats, flexible, and essential to design software of all stripes, including Figma. 
 
-Currently, the only method for
+Currently, the only method for converting an image to a vector in figma is through **tracing** it, which is much easier if completed using the help of a third-party plugin. I will walk you through some of the process in a few short and easy steps.
 
 
-## Prequisites ##
-Tracing your images will require a third-party plugin. I recommend Image Tracer.
+## Image Tracing Plug-Ins ##
+There are many image tracing plug-ins available, both paid and free. 
+
+
 
 ## Import ##
 
@@ -48,3 +50,15 @@ Tracing your images will require a third-party plugin. I recommend Image Tracer.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+## Tips for Success ##
