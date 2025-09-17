@@ -1,5 +1,5 @@
-# User Scenario - Title Here
+# User Scenario - Wellness Event
 
-**Scenario**: Paste the scenario text here.
+**Scenario**: Erika Rowles is the junior event coordinator for NC State Counseling Services. She runs a campus-affiliated organization, OnePack, which creates sensory-safe events for neurodivergent students. She is interested in hosting a homework-free afternoon where students can listen to lofi, play card games, and rest during midterms. This is not her first time organizing a wellness event, but she has never been to Hunt Library before. She’s interested in learning the fundamentals of the Landing's tools to change the room's environment without moving the furniture around. Their top priorities are minimizing harsh lighting and sound in the space, allowing them to be flexible with their board games, poster-sized coloring pages, and reading corner. 
 
 Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
