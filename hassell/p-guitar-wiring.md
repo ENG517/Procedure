@@ -1,6 +1,6 @@
 # Wiring a Single-Humbucker Setup: Connecting Components
 
-
+Procedure for wiring a single-humbucker electric guitar circuit. While intermediate users can use this guide on its own, it is intended as a follow-up to the [Wiring a Single-Humbucker Setup: Preparing Materials](/p-guitar-wiring-prep-materials.md) guide. For beginners, ensure you follow the previous guide before beginning this one.
 
 ## Prerequisites
 
@@ -16,8 +16,6 @@
 * A spool of solid core copper wire
 * A .022uF tone capacitor
 
-Your materials should be prepped and ready to connect. If they are not, follow the [Wiring a Single-Humbucker Setup: Preparing Materials](/hassell/p-guitar-wiring-prep-materials.md) guide.
-
 ### Tools
 
 * Soldering Iron, between 40W and 80W. Anything less than 40W will be too weak.
@@ -29,7 +27,7 @@ Your materials should be prepped and ready to connect. If they are not, follow t
 
 ### Skills
 
-You should have some prior experience soldering. If you don't, practice for a few hours before continuing with this guide. *(Will insert link to a soldering guide here)*
+You should have some prior experience soldering. If you don't, follow a [tutorial video](https://www.youtube.com/watch?v=rK38rpUy568) and practice for a few hours before continuing with this guide.
 
 ---
 
