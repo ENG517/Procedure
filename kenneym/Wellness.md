@@ -37,7 +37,14 @@ You have now successfully logged into the interface! You are now ready to *Toggl
     On the right, you will see options for turning on and off the privacy glass.
  
 
-### Connecting your phone to the OLED display
+## Connecting your Phone to the OLED display
+Materials 
+* phone or tablet
+* HDMI cord
+* optional: HDMI adapter
+
+If you do not have these tools, NCSU Libraries offers Tech lending for all materials in the list. Walk down to the Ask Us desk on the 2nd floor for assistance in finding your equipment. For more information, please visit [this website](https://www.lib.ncsu.edu/devices)
+
 1. 
 
 Do not begin testing the audio or video from your phone until you hit "accept connection" onthe 
