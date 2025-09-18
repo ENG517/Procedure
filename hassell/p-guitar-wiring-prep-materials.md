@@ -12,6 +12,7 @@ This guide is intended for Les Paul or Les Paul Junior models.
 * Two Split Shaft 500K potentiometers
   * The larger the casing the easier they are to work with.
 * Potentiometer knobs
+  * Ensure they are compatible with Split Shaft knobs, not smooth shaft. 
 * A mono output jack
 * A spool of red and a spool of black stranded tinned copper wire
   * You can find single spools that have both.
@@ -29,7 +30,7 @@ This guide is intended for Les Paul or Les Paul Junior models.
 
 ### Skills
 
-You should have some prior experience soldering. If you don't, practice for a few hours before continuing with this guide. *(Will insert link to a soldering guide here)*
+You should have some prior experience soldering. If you don't, follow a [tutorial video](https://www.youtube.com/watch?v=rK38rpUy568) and practice for a few hours before continuing with this guide.
 
 ---
 
