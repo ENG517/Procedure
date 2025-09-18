@@ -1,0 +1,5 @@
+# User Scenario - Rick
+
+Rick is a 34-year-old guitarist who has moderate experience modding guitar electronics. He's just completed his full install and when he plugged his guitar in to test it out, he noticed no sound was coming from his amp. He made sure the amp was on and the volume knob on it and his guitar were turned up, but nothing happened. He consulted a number of wiring diagrams and guides and verified the wiring is correct. He's looking for a troubleshooting resource that will run him through possible causes.
+
+Rick is already extremely frustrated, having put hours of work into the electronics in his hot shed all for the circuit to fail. He doesn't want to sit there and read through extensive guides, manuals, and Reddit threads-- he wants a guided diagnosis that will help him narrow down the problem. He's confident in his ability to fix the problem once he discerns it, he just needs help getting there.
