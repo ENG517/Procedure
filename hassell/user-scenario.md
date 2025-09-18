@@ -1,8 +1,4 @@
-# User Scenario - Title Here
-
-**Scenario**: Paste the scenario text here.
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+# User Scenario - Clay
 
 Clay is a 17-year-old aspiring guitarist who has recently come by some money thanks to a new after-school job. He’s been saving up for a new guitar, but after a stroke of luck managed to find an old Gibson Les Paul in a dumpster behind his work. It’s in a complete state of disrepair but luckily none of the body has broken. The strings are rusted and when he plugged it into an old amp, found the electronics didn't work. Still being on a tight budget, Clay wants to revamp the entire thing from top to bottom to make a working dream guitar rather than buying one. He has some loose change to spend on new electronics and his dad’s soldering iron, and is ready to get this show on the road.
 
