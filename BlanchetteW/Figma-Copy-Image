@@ -1,6 +1,6 @@
 # Vectorizing and Tracing Hand-Drawn Images in Figma #
 
-Have you ever had a sketch you've created and wondered how it would translate to the digital realm? Of course you could always take a picture, or a *pixelated* image, but there is another type of image, the [***vector***](https://heighton.agency/insights/vector-files/), which provides several distinct benefits.
+Have you ever had a sketch you've created and wondered how it would translate to the digital realm? Of course you could always just take a picture, or a *pixelated* image, but there is another type of image, the [***vector***](https://heighton.agency/insights/vector-files/), which provides several distinct benefits.
 
 Vector images are comprised of mathematical formulas defining points, lines and curves, and can be scaled infinitely and to different screen sizes without loss of quality. They are easily translated to other image formats, flexible, and essential to design software of **all stripes**, including *Figma*. 
 
@@ -8,7 +8,7 @@ Currently, the only method for converting an image to a vector in figma is throu
 
 
 ## Image Tracing Plug-Ins ##
-There are many image tracing plug-ins available for Figma, both paid and free. For this tutorial we will be using [Vectorizer (Image Tracer)](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer). I have found the image attained to be noticeably higher quality than many of its counterparts, plus the software is compatible with most image formats.
+There are many image tracing plug-ins available for Figma, both paid and free. For this tutorial we will be using [Vectorizer (Image Tracer)](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer). I have found the image attained to be noticeably higher quality than many of its counterparts— plus it is compatible with most image formats, including JPEG, PNG, and GIF.
 
 [Image Tracer](https://www.figma.com/community/plugin/735707089415755407/image-tracer) is another solid option, though it does require at one-time licensing fee of $10. Find a comparison of these and a few other viable plug-ins below.
 
@@ -19,7 +19,7 @@ There are many image tracing plug-ins available for Figma, both paid and free. F
 |      Trace Image      |          N           | Very accurate with simple images             |      Output is in black and white, only works well with jpegs      |
 |    Vector Magic         |  Y                   | Colors are accurate             |    Not updated regularly         |
 
-## Import ##
+## Import your Image ##
 Before we begin using Vectorizer, we will first have to import an image. To do this you'll first have to create a **frame**.
 ### Creating A Frame ###
 1. Open a new Figma workspace.
@@ -28,7 +28,7 @@ Before we begin using Vectorizer, we will first have to import an image. To do t
 4. Resize your frame by dragging its corners.
 > Note: For bigger images you will want a larger frame.
 
-
+![Frame Tool](./assets/images/screenshots/Frame_Toolbar.png)
 
 
 ### Filling Your Frame ###
@@ -38,30 +38,49 @@ Before we begin using Vectorizer, we will first have to import an image. To do t
 4. Click "Upload from Computer."
 5. Import your Image.  
 
-Now that we have imported your visual it's time to begin the process of tracing and vectorizing it. Depending on the complexity of your image, you can probably tell from a quick glance how hard manually tracing your might be with Figma's drawing tools.
+Now that we have imported your visual it's time to begin the process of tracing and vectorizing it. Depending on the complexity of your image, you can probably tell from a quick glance how hard manually tracing it might be with Figma's drawing tools.
 
 Luckily, the process is not nearly so difficult with our handy plug-in.
 
 
+### Opening and running Vectorizer (Image Tracer) in Figma ###
+1. To run Vectorizer (Image Tracer) first navigate to the plug-ins home page [here](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer).
+2. Select your workspace from "Recent Files."
+    - The symbol in the blue square denotes a standard Figma design space.
+    - Your workspace should be first in the list.
+
+<img src="assets/images/screenshots/Open Vectorizer.png" alt="Alt text" style="width: 280px">
+
 ### Running Vectorizer (Image Tracer) ###
--
+Once Vectorizer has successfully run, the following window should appear on your screen.
 
+<img src="./assets/images/screenshots/Vectorizer in Figma.png" alt="Alt text" style="width: 320px">
 
+Do the following to fully vectorize your raster image.
 
+1. Press "fetch image".
+2. Select your frame.
+3. Adjust image properties in the toolbar to your liking.
+    - There are many adjustable properties in Vectorizer.
+    - Play around until you are satisfied with your image.
+> Note: For more detailed images, I'd recommend the **"spline"** curve fitting.
+4. Select "Insert Vector."
 
+##
+And there you have it! You now have a fully vectorized image in Figma in ***SVG*** format. This is great for logos, icons, and illustrations that need to be scaled for different purposes, plus just a cool thing to show your friends. 
 
-
-
-
-
-
-
-
-
-
-
+Feel free to repeat the process for as many image files as you'd like, either in the same or different workspaces depending on your preferences and needs.
 
 
 
 
 ## Tips for Success ##
+- Check Vectorizer (Image Tracer) regularly for updates.
+    - Make sure to update your software when new patches are released.
+    - Don't hesitate to contact the developer if you're experiencing issues.
+- Use simple images.
+    - Vector images are not entirely as *photorealistic* as raster.
+    - Software renders simpler images clearer.
+- Keep tinkering!
+    - Experiment with other plug-ins if you'd like.
+    - Try out different editing techniques.
