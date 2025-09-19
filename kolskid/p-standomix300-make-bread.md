@@ -88,10 +88,10 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 ![Proofed dough that has risen 1 inch above the loaf pan](<assets/images/screenshots/Bread pics/Proofed in loaf pan.png>)
 >*Figure 4: Proofed dough that has risen 1 inch above the loaf pan*
 
-**Why such a long preheat?**   
-_The sensors in your oven only track the temperature of the **air**, a lot of which is going to be lost when you open the door to put the bread in. This results in the oven taking longer to return to temperature at the start of your bake._
+ **Why such a long preheat?**   
+* _The sensors in your oven only track the temperature of the **air**, a lot of which is going to be lost when you open the door to put the bread in. This results in the oven taking longer to return to temperature at the start of your bake._
 
-_Letting the oven preheat for as long as possible (at least 20 minutes, but the longer the better!) allows the metal interior of the oven, not just the air, to rise to the target temperature, meaning the oven will return to temperature more quickly after you put the bread in._
+ * _Letting the oven preheat for as long as possible (at least 20 minutes, but the longer the better!) allows the metal interior of the oven, not just the air, to rise to the target temperature, meaning the oven will return to temperature more quickly after you put the bread in._
 
 ### Bake 
 1. Bake for 30-33 minutes, or until golden brown on top.
