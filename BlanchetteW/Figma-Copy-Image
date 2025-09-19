@@ -29,7 +29,7 @@ Before we begin using Vectorizer, we will first have to import an image. To do t
 > Note: For bigger images you will want a larger frame.
 
 ![Frame Tool](./assets/images/screenshots/Frame_Toolbar.png)
-
+> *Figure 1: The **Frame Tool** is the primary container for design elements in Figma.*
 
 ### Filling Your Frame ###
 1. Navigate to the properties panel located on the right-hand side.
@@ -37,6 +37,7 @@ Before we begin using Vectorizer, we will first have to import an image. To do t
 3. Navigate to the image icon.
 4. Click "Upload from Computer."
 5. Import your Image.  
+
 
 Now that we have imported your visual it's time to begin the process of tracing and vectorizing it. Depending on the complexity of your image, you can probably tell from a quick glance how hard manually tracing it might be with Figma's drawing tools.
 
@@ -51,12 +52,15 @@ Luckily, the process is not nearly so difficult with our handy plug-in.
 
 <img src="assets/images/screenshots/Open Vectorizer.png" alt="Alt text" style="width: 280px">
 
+> *Figure 2: Feel free to rename your workspace, but it will default to "**untitled**."*
+
+
 ### Running Vectorizer (Image Tracer) ###
 Once Vectorizer has successfully run, the following window should appear on your screen.
 
 <img src="./assets/images/screenshots/Vectorizer in Figma.png" alt="Alt text" style="width: 320px">
 
-Do the following to fully vectorize your raster image.
+Complete the following tasks to fully vectorize your raster image.
 
 1. Press "fetch image".
 2. Select your frame.
