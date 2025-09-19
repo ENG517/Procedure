@@ -1,55 +1,46 @@
-# Tracing Hand-Drawn Images in Figma #
+# Vectorizing and Tracing Hand-Drawn Images in Figma #
 
 Have you ever had a sketch you've created and wondered how it would translate to the digital realm? Of course you could always take a picture, or a *pixelated* image, but there is another type of image, the [***vector***](https://heighton.agency/insights/vector-files/), which provides several distinct benefits.
 
-Vector images are comprised of mathematical formulas defining points, lines and curves, and can be scaled infinitely and to different screen sizes without loss of quality. They are easily translated to other image formats, flexible, and essential to design software of all stripes, including Figma. 
+Vector images are comprised of mathematical formulas defining points, lines and curves, and can be scaled infinitely and to different screen sizes without loss of quality. They are easily translated to other image formats, flexible, and essential to design software of all stripes, including *Figma*. 
 
-Currently, the only method for converting an image to a vector in figma is through **tracing** it, which is much easier if completed using the help of a third-party plugin. I will walk you through some of the process in a few short and easy steps.
+Currently, the only method for converting an image to a vector in figma is through **tracing**, which is much easier if completed using the help of a third-party plugin. I will walk you through the process of doing so in a few short and easy steps.
 
 
 ## Image Tracing Plug-Ins ##
-There are many image tracing plug-ins available, both paid and free. 
+There are many image tracing plug-ins available for Figma, both paid and free. For this tutorial we will be using [Vectorizer (Image Tracer)](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer). I have found the image attained to be noticeably higher quality than many of its counterparts, in addition to the software being compatible with most image formats.
+
+[Image Tracer](https://www.figma.com/community/plugin/735707089415755407/image-tracer) is another solid option, though it does require at one-time licensing fee of $10. Find a comparison of these and a few other viable plug-ins below.
 
 | Plug-In            |   Paid                |   Pros           |  Cons           |
 |-------------|---------------------|--------------|-------------|
-| Vectorize Bitmap           |         N            | Supports expansive range of colors, lines are accurate             |    Software occasionally needs restarting        | 
-|   Image Tracer          |  Y                   |  Software is updated regularly and lines are clear            |       Colors can appear overexposed      |
-|      Trace Image      |          N           | Very accurate with simple images             |      Output is in black and white       |
-|    Vectorizer         |  Y                   | Colors are accurate             |    Not updated regularly         |
+| Vectorizer (Image Tracer)      |         N            | Supports expansive range of colors, lines are accurate             |    Software occasionally needs restarting        | 
+|   Image Tracer          |  Y                   |  Software is updated regularly and lines are accurate           |       Colors can appear overexposed at times     |
+|      Trace Image      |          N           | Very accurate with simple images             |      Output is in black and white, only works well with jpegs      |
+|    Vector Magic         |  Y                   | Colors are accurate             |    Not updated regularly         |
+
 ## Import ##
+Before we begin using Vectorizer, we will first have to import an image. To do this you'll first have to create a **frame**.
+### Creating A Frame ###
+1. Open a new Figma workspace.
+2. Navigate to the toolbar located at the bottom of the page.
+3. Select the Frame Tool, located in the second dropdown menu from the left.
+4. Resize your frame by dragging its corners.
+> Note: For bigger images you will want a larger frame.
+### Filling Your Frame ###
+1. Navigate to the properties panel located on the right-hand side.
+2. Click the "FFFFFF" button located underneath the "Fill" property.
+3. Navigate to the image icon.
+4. Click "Upload from Computer."
+5. Import your Image.  
 
--
--
--
-
-## Image Tracer ##
-- 
--
--
-
-## Resizing Imported Image (Stop Here) 
--
--
--
--
--
--
-## Coloring Images
+And it's easy as that! Your image is now a fully editabe fill object in Figma. Don't hesitate to play around with the dimensions and other properties.
 
 
 
-## Tracing Images ##
+#### Scaling Your Ima
 -
--
--
--
--
-## Scale Image ##
--
--
--
--
-## Export Images ##
+
 
 
 
