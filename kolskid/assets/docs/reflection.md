@@ -3,7 +3,9 @@
 * Write a short analysis (~500 words) in which you explain what you did to meet the assignment's criteria. Use the criteria as headings to structure your reflection.
 
 ## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.
-* I included explanations for steps and ingredients to expand the users’ task domain, like the ‘About Ingredients’ and ‘Why the long preheat’ sections of the bread procedure. Understanding the ‘why’s of a procedure allows users to better understand he procedure as a whole and learn the ‘how’s, which creates the opportunity for deeper understanding. Rather than just performing the steps, the users are learning as they do, which allows them to learn to do, instead of just one or the other.
+* I included explanations for steps and ingredients to expand the users’ task domain, like the ‘About Ingredients’ and ‘Why the long preheat’ sections of the bread procedure. Both provide the reasoning behind the steps, which allows the user to better understand why specific ingredients are requested, and certain steps are important.
+
+* Understanding the ‘why’s of a procedure allows users to better understand he procedure as a whole and learn the ‘how’s, which creates the opportunity for deeper understanding. Rather than just performing the steps, the users are learning as they do, which allows them to learn to do, instead of just one or the other.
 
 
 ## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.
