@@ -20,6 +20,7 @@ Tip: if you don't have something, visit the AskUs desk to rent it for the aftern
 1. Locate HDMI Input 1 underneath the OLED screen
 2. Insert the HDMI cable into the port
 3. Connect your equipment to the cord
+<<<<<<< Updated upstream:kenneym/techconnection.md
 Your device name should now appear on the OLED interface panel. If your equipment's inputs do not match your cable, it will not appear. You will need an *HDMI adapter* to fix this as noted in materials.
 4. Tap on the device name in the OLED interface and press "accept connection"
 
@@ -42,6 +43,12 @@ The volume should now output through the speakers. If the try troubleshooting by
 If more than one console is connected to the screen, the newest connection will output audio to the screen. All others will not output to the OLED speakers. If a different console should be outputting audio, disconnect the device you want sound for and repear steps 2-4.
 
 
+=======
+Note: if your equipment's inputs do not match your cable, you may need an adapter as noted in materials.
+
+## Testing your connection
+1. 
+>>>>>>> Stashed changes:kenneym/Studentconsole.md
 ## Disconnecting Your Consoles
 Before disconnecting your device, make sure your progress is saved on all consoles. 
 
