@@ -18,6 +18,7 @@ You will need an image to import. Currently, Figma supports **JPG, PNG, GIF, WEB
 
 <img src="assets/images/screenshots/Frame_Toolbar.png" alt="Alt text" style="width: 350px">
 
+> *Figure 1: The **Frame Tool** is the primary container for design elements in Figma.*
 4. Resize your frame by dragging its corners.
 
 ### Filling Your Frame ###
@@ -26,6 +27,7 @@ You will need an image to import. Currently, Figma supports **JPG, PNG, GIF, WEB
 
 <img src="assets/images/screenshots/Properties Panel.png" alt="Alt text" style="width: 350px">
 
+> *Figure 2: The frame defaults to **"FFFFFF,"** which is a solid white fill.
 3. Navigate to the image icon.
 4. Click "Upload from Computer."
 5. Import your Image.  
@@ -47,6 +49,7 @@ As previously discussed, you can scale your image by dragging the corner of your
 
 <img src="assets/images/screenshots/Scale Tool.png" alt="Alt text" style="width: 300px">
 
+>*Figure 3: The Anchor point is only relevant with vector based shapes.*
 2. Adjust Height and Width to your liking.
 3. Scale your image proportionally.
 4. Switch back to the move tool by selecting the **"M"** hotkey.
@@ -56,6 +59,8 @@ As previously discussed, you can scale your image by dragging the corner of your
 1. Select your image fill image
 2. Navigate to the the rotation field in the design panel, which should have an angle icon next to it.
 3. Enter your desired degree value.
+
+
 
 
 
