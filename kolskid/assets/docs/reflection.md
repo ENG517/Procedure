@@ -38,8 +38,11 @@
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 * Everything is written in markdown in VS code, and then peer reviewed with collaborators through Pull Requests. I drafted the layouts and initial steps of the procedures in google docs, then transferred it into VSCode and added images. I made edits and updates through commits. 
 
-* I deleted a few commits, specifically where I had unsuccessfully tried to mass-copy/paste the user scenario.md file so I could have one for each branch, and it caused a strange error. I deleted those copies and that fixed it! Then copied them one-at-a-time, and that way worked.
+* I deleted a few commits, specifically where I had unsuccessfully tried to mass-copy/paste the user scenario.md file so I could have one for each branch, and it caused a strange error, even after renaming the different files. I deleted those copies and then instead went into each branch to make a single copy to use with tha tbranch. That way worked out fine.
+  * https://github.com/ENG517/Procedure/pull/5/commits/d1092e9fb0988fa20e7e0917666fba5f1a621172
 
+* I also made my own image folder in the Meringue branch, forgetting that 1) one was provided in the root folder and 2) if I made it in the Meringue branch, only the meringue branch would be able to access it. I made it in the Meringue branch. I transfered all images to the Root image folder, and deleted the one in the Meringue branch.
+  * https://github.com/ENG517/Procedure/pull/4/commits/94be84c329a15ee8e8ea42e961ce11129f995838
 
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
