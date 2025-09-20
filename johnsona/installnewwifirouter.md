@@ -48,8 +48,27 @@ The Synology WRX560 router is popular due to its high-speed connectivity, mesh n
 
 ### Setting Up the Software
 
-1. 
+1. Connect a wireless device to your router by scanning the QR code provides on [Synology's website](https://www.synology.com/en-us). 
 
-2. 
+2. Use Synology's default login information to connect to the Wi-Fi network. Synology's default SSID is is "Synology_" and the last 6 digits of your router's serial number, and its default password is "synology" in all lowercase. 
+>**Note:** Synology requires you to change this password during the setup process. 
 
-3. 
+3. Open a web browser on your wireless device and search up either of these URLs: 
+    - http://router.synology.com
+    - http://192.168.1.1:8000
+
+4. Click 'Start' to launch the SRM Setup Wizard. 
+
+5. Read and agree to the Synology End User License Agreement, then click 'next'. Repeat with the Privacy Statement.  
+![The Synology Privacy Statement Page](./../johnsona/assets/images/screenshots/synologyprivacystatementscreenshot.jpeg)
+>*Figure 3: The Synology Privacy Statement screen.*
+
+6. Set up your administrator account by filling in the necessary information. 
+
+7. Set up your Wi-Fi network with the necessary information. Wait for the Setup Wizard to finish the setup. This may take up to three minutes. 
+
+8. Sign in to SRM with your newly set-up administrator account. 
+
+## Wrap Up
+
+Congratulations on successfully installing your router! For any questions or concerns, visit Synology's [Knowledge Center](https://kb.synology.com/en-us). 
