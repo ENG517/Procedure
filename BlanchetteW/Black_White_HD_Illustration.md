@@ -55,14 +55,9 @@ Now that you have finished creating a pencil-drawn image you're happy with, let'
 The brush tool is slightly more complex than the pencil. Have fun experimenting with the 25 brush types and the various effects available on the right hand side.
 
 
-<<<<<<< Updated upstream
 <img src="assets/images/screenshots/./Brush_Effects.jpg" alt="Alt text"  style="width: 200px; height: 400px">
 
 > Figure 6: Some of the effects available in Figma Draw.
-=======
-
-<img src="assets/images/screenshots/Brush_Effects.png" alt="Alt text"  style="width: 150px;">
->>>>>>> Stashed changes
 
 ## Deleting Drawings in Figma ##
 As mentioned previously, Figma is a *vector* based design software. As such, there is no eraser tool. To delete unwanted vectors you must

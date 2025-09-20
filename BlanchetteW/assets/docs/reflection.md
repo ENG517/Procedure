@@ -54,15 +54,10 @@ I tried to make meaningful commits early and often, made sure I was working on t
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
-Bolded or italicized when technology is introduced for first time.
+I tried to be aware of and consistent with my Markdown usage. Technology/software is generally bolded or italicized when introduced for the first time, block quotes are used for both images and alerting stages, and my primary goal is always a  level 1 header with further tasks employing smaller headers.
 
-Block quotes for image labeling and alerting.
+My coaching stages are typically ordered lists, sometimes with unordered lists underneath. Perhaps the use of markdown I am most proud of is the table I created to compare image tracing plug-ins in my second procedure. Find a few examples of these uses of markdown below.
 
-Level 1 header and further headers are smaller.
-
-Coaching stages are typically ordered lists, sometimes with unordered lists underneath.
-
-Table used comparing image tracing plug-ins.
 
 ![Nested List](./../images/Reflection_Images/Nested_Unordered.png)
 
