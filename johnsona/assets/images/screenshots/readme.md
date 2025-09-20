@@ -1,3 +1,4 @@
 # SCREENSHOTS
+![The Synology WRX560](./../johnsona/assets/images/synology_wrx560_dual_band_wi_fi_6_1733036.jpg)
 
-Any screen captures that you use in your procedures should be organized in this folder.
+![Back side of a Synology WRX560](./../johnsona/assets/images/7-1080.edc11c9a.jpg)

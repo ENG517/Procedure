@@ -20,7 +20,7 @@ The Synology WRX560 router is popular due to its high-speed connectivity, mesh n
 - **Hardware**: The physical/tangible part of tech, like routers, modems and cables
 - **Software**: The digital/intangible part of tech, like websites and computer programs
 - **Router**: Hardware that connects and manages networks to provide an Internet connection 
-- **Modem**: Hardware that converts signals between devices to maintain a stable connection
+- **ISP Modem**: Hardware that converts signals between devices to maintain a stable connection
 - **Power Adapter Cable**: Hardware that ensures devices get the right kind of electrical power 
 - **LAN Cable**: Hardware that virtually connects devices and provides communication between them
 - **Indicator**: Small colored lights on a router that 'indicate' the device's operational state
@@ -28,16 +28,19 @@ The Synology WRX560 router is popular due to its high-speed connectivity, mesh n
 
 ## The Instructions
 
-![Back side of a Synology WRX560](./../johnsona/assets/images/7-1080.edc11c9a.jpg)
-
 ### Installing the Hardware
 
-1. 
-2. 
-3. 
+1. Check that your package has all three essential pieces of hardware: the Synology WRX560 router, an AC power adapter, and an RJ-45 LAN cable. You should also check to verify that you have an ISP modem and a working outlet to plug in the router. 
+  >**Note:** If your package is missing something, Synology recommends contacting the reseller. 
+
+2. Place your router in the spot where you intend to plug it in. An optimal area would be a flat, stable surface in the center of your area, ideally with few walls or ceilings between the router and your devices. 
+
+3. Connect your router to the modem
 
 ### Setting Up the Software
 
 1. 
+
 2. 
+
 3. 
