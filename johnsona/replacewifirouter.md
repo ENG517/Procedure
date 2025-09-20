@@ -7,7 +7,7 @@ This procedure will guide you through the process of replacing your old Synology
 
 ## What You'll Need
 
-- A Replacement Synology WRX560 Wi-Fi Router
+- A new Synology WRX560 Wi-Fi Router
 - An ISP Modem (current or replacement)
 - An AC Power Adapter (current or replacement)
 - An RJ-45 LAN Cable (current or replacement)
@@ -17,5 +17,7 @@ This procedure will guide you through the process of replacing your old Synology
 ## The Instructions
 
 1. 
+
 2. 
+
 3. 
