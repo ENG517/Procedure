@@ -54,5 +54,20 @@ I tried to make meaningful commits early and often, made sure I was working on t
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
-I tried to be 
+Bolded or italicized when technology is introduced for first time.
+
+Block quotes for image labeling and alerting.
+
+Level 1 header and further headers are smaller.
+
+Coaching stages are typically ordered lists, sometimes with unordered lists underneath.
+
+Table used comparing image tracing plug-ins.
+
+![Nested List](./../images/Reflection_Images/Nested_Unordered.png)
+
+![Block Quotes](./../images/Reflection_Images/Block%20Quotes.png)
+
+![Table](./../images/Reflection_Images/Plug-in%20Table.png)
+
 
