@@ -1,4 +1,4 @@
-## Crafting Realistic Black and White Images in Figma ##
+# Crafting Realistic Black and White Images in Figma #
 
 Whether you are an experienced artist adept at rendering complex hand-drawn illustrations or someone just starting out drawing, you have likely thought about trying your hand at digital illustration. Perhaps you have even heard of popular design tools like Adobe Illustrator, Canva, and Sketch. While all of these softwares have their benefits, I am here to talk to you about **Figma**, and more specifically the ease with which you can craft realistic black and white images and illustrations within its built-in environments.
 
