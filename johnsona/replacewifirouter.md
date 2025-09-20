@@ -3,7 +3,7 @@
 ![A Synology WRX560 Wi-Fi Router](./../johnsona/assets/images/Synology-WRX560-1-1536x864.jpg)
 >*Figure 1: A Synology WRX560 Wi-Fi Router.*
 
-This procedure will guide you through the process of replacing your old Synology WRX560 Wi-Fi router with a new one. 
+Need to swap out your old Wi-Fi router with a new Synology WRX560 router? Whether you're replacing it due to performance issues or just because you wanted a change, this guide will walk you through the process of uninstalling your old Wi-Fi router and replacing it with your new one!
 
 ## What You'll Need
 
