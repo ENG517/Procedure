@@ -1,3 +1,3 @@
-# Title of Project
+# Selecting Flight Seats on Expedia
 
-[provide basic summary of your procedure assignment]
+For this procedure, I provide users with the steps on how to select seats for their Expedia flight. With the use of images and alerts, I both aid users that want a quick overview or a visual guide and provide additional cautions to inform the users. Through my procedure, users learn how to select and change their seats. Both of these occur during the flight check-out stage.
