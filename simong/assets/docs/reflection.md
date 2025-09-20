@@ -18,16 +18,37 @@ For the Finding Support procedure, I ensured that my guide followed a simple tas
 
 For my editorial workflow, I started by creating separate branches for each procedure. With these branches, I made matching .md files where I added my procedure in Markdown. Once I completed a portion of the procedure, I pushed my commit to the origin. These commits typically followed specific guides, from creating outlines to adding images to making content edits. When my procedure was ready for review, I created a pull request on Github and added reviewers. These reviewers then added comments to my request. Using the notes from these comments, I continued refining my procedures on VS Code and pushing the commits to the branch origin.
 
-* link to pull requests
-* screenshot of commits
-* screenshot of branches
-* (screenshot of reviewers)
+* Links to Pull Requests:
+    * [Select Seats](https://github.com/ENG517/Procedure/pull/19#issue-3411207267)
+    * [Contact Help](https://github.com/ENG517/Procedure/pull/20#issue-3411211067)
+    * [Book Package](https://github.com/ENG517/Procedure/pull/21#issue-3411216098)
+
+### Examples in Procedures
+
+Branches:
+
+![screenshot of branches](/simong/images/images-reflection/branch-list.PNG)
+
+Commits:
+
+![screenshot of commits for booking package procedure](/simong/images/images-reflection/commits-git.jpeg)
+
+Reviewer List:
+
+![screenshot of reviewers on github pull request](/simong/images/images-reflection/reviewers-list.jpeg)
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
 I used Markdown language throughout the entirety of my procedures to create user-centric guides. For my summaries and guiding sentences, I used the standard paragraph format to give my users easy-to-read overviews. For my image captions and
 alerting moves, I used the block quote markdown to draw attention and visually separate these from the main content. I used dashes and asterisks for unordered lists and numbers for ordered lists. I also italicized the image captions to match the typical format for image captions. I bolded key words to make it easier for the user to scan and notice areas of emphasis. Originally, I added the image links in markdown, but later I updated it to HTML so that I could change the image ratio.
 
-* screenshot of alerting move
-* screenshot of unordered list
-* screenshot of image caption
+### Examples in Procedures
+
+Image Caption:
+![screenshot of image caption](/simong/images/images-reflection/image-caption.PNG)
+
+Unordered List and Block Quote:
+![screenshot of unordered list and block quote](/simong/images/images-reflection/list-block-quote.PNG)
+
+Alerting Move:
+![screenshot of alerting move](/simong/images/images-reflection/alert-block-quote.PNG)
