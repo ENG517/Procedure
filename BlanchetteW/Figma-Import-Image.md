@@ -38,7 +38,7 @@ Here are some *quick tips* on editing your image.
 
 #### Adjusting Image Properties ####
 1. Select the "Image" button located underneath the "Fill" property.
-2. Draft the sliders to adjust the image properties to your liking.
+2. Move the sliders to adjust the image properties to your liking.
     - Each property alters your image differently.
     - Dragging the saturation all the way down wil create a black and white image.
 3. Experiment with the different properties available!
