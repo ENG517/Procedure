@@ -4,20 +4,30 @@ Write a short analysis (~500 words) in which you explain what you did to meet th
 
 ## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.
 
-
+Following the views of Redish in regards to reading to learn to do audiences, I use my procedures to address the needs of my audience as information foragers, providing them with the tools they need to be able to learn the content with the capability for later recall. I highlight the coaching moves in isolated, portable chunks, providing simple tasks and formatting for easy readability. I give visual cues to the readers through my use of markdown language to highlight important words and information. I also provide screenshots of the process on the website to act as a guide for visual recall. I ensure that the readers know what they are getting out of the procedure by providing a summary that inspires and reminds them of their learning to do desires. My summaries emphasize the benefits of the feature and ensures the satisfaction of their goal.
 
 ## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.
 
-
+I begin each procedure with an introduction that aims to motivate, a breakdown overview of the topics that the procedure will cover, and a list of prerequisites. After the pull request review, I opted to omit the prerequisite section from the Finding Support procedure since the procedure started from the beginning of the website and the only potential prerequisites were self-explanatory (e.g., have access to stable Wi-Fi and a working computer). My coaching moves are listed in numerical order and follow Hart-Davidson's call for imperative action verb usage. There are visual aids to guide the user, including images, bolded text, and block quote notes. I added an optional or conditional task to two of my procedures. Additionally, the alerting moves follow a block quote format, separating and highlighting its importance from the other text. The visual emphasis adheres to Hart-Davidson's criteria. When formatting the content of the alerting moves, I made sure to put the most vital warnings at the beginning of the statements.
 
 ## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
 
-
+For the Finding Support procedure, I ensured that my guide followed a simple task orientation to address the needs of a potentially inexperienced audience. I structured the procedure with simple tasks and offered two options for the users to find and contact customer support. I based this off of my user scenario, as users that are seeking to contact Expedia support may be doing so because they are unfamiliar with and confused by Expedia's website. I provided several screenshots to offer a step-by-step visual guide. For the Booking a Package procedure, I provided full overviews on how to book flights and accommodations. In the introductions, I informed curious users of the opportunity to book a variety of experiences on Expedia. By doing this, I alerted both experienced and inexperienced travelers that they can book for additional travel needs. I also alerted them on the potential hazard for not protecting their flight, as this could be ignored by some users. This procedure guides users from beginning to end, helping users that may need a little extra guidance or a technical walkthrough. For the Selecting a Flight Seat procedure, I informed users on how to both select and change their flight seat. I started this procedure at the point at which they are in the final stages of their booking. Since this is a very specific topic, I followed the assumption that the audience has addressed the prerequisite of already making it to the flight details section. With this prerequisite, it can be assumed that the user has at least a basic familiarity with using Expedia. I included information on how to change the seat as an extra guide for users that have already chosen their seat and would like to update their preference. I alerted users of the potential for additional fees based on the seat they chose, as some users may be unfamiliar with this element of Expedia.
 
 ## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
 
+For my editorial workflow, I started by creating separate branches for each procedure. With these branches, I made matching .md files where I added my procedure in Markdown. Once I completed a portion of the procedure, I pushed my commit to the origin. These commits typically followed specific guides, from creating outlines to adding images to making content edits. When my procedure was ready for review, I created a pull request on Github and added reviewers. These reviewers then added comments to my request. Using the notes from these comments, I continued refining my procedures on VS Code and pushing the commits to the branch origin.
 
+* link to pull requests
+* screenshot of commits
+* screenshot of branches
+* (screenshot of reviewers)
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
+I used Markdown language throughout the entirety of my procedures to create user-centric guides. For my summaries and guiding sentences, I used the standard paragraph format to give my users easy-to-read overviews. For my image captions and
+alerting moves, I used the block quote markdown to draw attention and visually separate these from the main content. I used dashes and asterisks for unordered lists and numbers for ordered lists. I also italicized the image captions to match the typical format for image captions. I bolded key words to make it easier for the user to scan and notice areas of emphasis. Originally, I added the image links in markdown, but later I updated it to HTML so that I could change the image ratio.
 
+* screenshot of alerting move
+* screenshot of unordered list
+* screenshot of image caption
