@@ -19,7 +19,7 @@ This guide will teach you how to:
 
 As you are finalizing your flight, head to the **flight details** section in your booking process.
 
-## Choosing Seats
+## 1. Choosing Seats
 
 Once you have arrived to the flight details page in your booking process, you will now have the option to select your seats.
 
@@ -50,7 +50,7 @@ Each square box indicates a seat. The light gray boxes with an X are reserved se
 Optional Step:
 - Repeat the process for any additional flights.
 
-## Changing Seats
+## 2. Changing Seats
 
 To change your seat selections:
 
