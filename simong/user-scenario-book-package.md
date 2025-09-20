@@ -1,0 +1,3 @@
+**Scenario - Booking a Package**
+
+Martin has been in a slump ever since he graduated college. He majored in Indonesian Studies and always dreamed of visiting Bali, but he never had the chance. After passing a billboard advertising Bali, he rushes to the airport on a whim. When he gets there, he’s dismayed by the prices. Searching for cheap travel packages on his phone, he comes across Expedia. He gets excited, hoping to solve his last-minute travel desires on a one-stop-shop for flights and accommodations.

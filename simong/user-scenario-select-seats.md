@@ -1,0 +1,3 @@
+**Scenario 1: Selecting Flight Seats**
+
+Tina and Daniel recently got married. With the major wedding costs, they thought they had to delay the honeymoon. That is, until Tina saw a commercial for Expedia. She wants to surprise her husband with a flight to the Canary Islands, so she is eager to check out the site and book a flight. As her way of surprising him, she would like to reserve a window seat to ensure that he gets the best views as they reach the islands.
