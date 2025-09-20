@@ -1,6 +1,6 @@
 # Procedure Assignment Reflection
 
-Write a short analysis (~500 words) in which you explain what you did to meet the assignment's criteria. Use the criteria as headings to structure your reflection.
+By Gabby Simon
 
 ## How do your procedures address the needs of a "reading to learn to do audience"? Provide some specific examples that connect back to Redish's noted features of such an audience.
 
