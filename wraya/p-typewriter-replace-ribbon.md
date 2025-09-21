@@ -5,7 +5,7 @@
 Not much is required to successfully change your typewriters ink ribbon. All you need is:
  1. A Typewriter
  2. A New Ink Ribbon
-     - Most typewriters are compatable with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required. This is particularly important for older models and electric typewriters. 
+     > Note: Most typewriters are compatible with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required. This is particularly important for older models and electric typewriters. 
  3. Gloves (optional)
      - Typewriter ribbons are fully saturated in ink, so handling them can get quite messy. If you prefer to remain ink-stain free, nitrile, latex, or plastic gloves are recommended.
  4. Paper Towels/Cleaning Cloth (optional)
@@ -14,11 +14,11 @@ Not much is required to successfully change your typewriters ink ribbon. All you
 
 ## Preparation
 
-Lay out plastic surface protection or paper towels/cloths under and next to the typewriter to keep ink from staining surfaces and have a convenient location to sit the new and old ink ribbons while changing them. This is a good time to put on gloves if you choose to do so.
+Put on your gloves and lay out plastic surface protection or paper towels/cloths under and next to the typewriter to keep ink from staining surfaces and have a convenient location to sit the new and old ink ribbons while changing them. 
 
 ## Changing the Ribbon
 
-To continue using your typewriter, follow these steps:
+To change your typewriter ribbon, follow these steps:
  1. Remove Ribbon Cover
      - Gently release ribbon cover prongs from their grommets and lift from the typewriter
  2. Remove Existing Typewriter Ribbon
@@ -28,7 +28,7 @@ To continue using your typewriter, follow these steps:
      - Carefully unthread the existing ribbon through the small slits in the ribbon guides
  3. Place New Typewriter ribbon spools on spool shafts
      - Pull back one of the spring-loaded ribbon arms and place one of the new ribbon spools onto the ribbon spool shaft 
-     - Ensure that the ribbon coming off of the spool is directed toward the the back of the typewriter and is not twisted
+     - Ensure that the ribbon coming off of the spool is directed toward the back of the typewriter and is not twisted
      - Adjust the ribbon spool so that the spool shaft pin fits into the designated slot on the new ribbon spool
      - Ensure the ribbon is flush with the spool and let go of the spring-loaded ribbon arm
      - Repeat for the other ribbon spool
@@ -47,7 +47,7 @@ To continue using your typewriter, follow these steps:
     - Type out a few words to ensure the ribbon ink is installed and working as desired
     - Note: The letters may look smudgy at first, this is normal and likely due to excessive ink coming off of the ribbon during the installation process. It should resolve after typing a sentence or two. 
 
-## Notes/Concerns:
+## Additional Notes
 
  1. If the letters are still smudgy after a few sentences, your ribbon may be too loose and therefore struggling to make clean ink impressions. To address this issue, remove the ribbon cover and gently roll each spool so that the ribbon is more taut.
 
