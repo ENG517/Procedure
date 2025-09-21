@@ -9,15 +9,17 @@ What you'll need will depend on which method ends up working for you, but genera
 
 ## Terms to Know
 
-- 
-- 
-- 
+- **Troubleshooting:**
+- **Hardware:**
+- **Software:**
 
 ![A close-up of the vents of a Synology WRX560 router](./../johnsona/assets/images/screenshots/vents_up_close_screenshot.png)
 >>*Figure 1: The vents of a Synology WRX560 router, up close.*
 
-## The Procedure 
+## The Troubleshooting Methods
 
 1. 
+
 2. 
+
 3. 
