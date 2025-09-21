@@ -1,5 +1,5 @@
 # IMAGES FOLDER
 
-Any images that you include should be organized in this folder. 
+![The Synology WRX560](./../johnsona/assets/images/synology_wrx560_dual_band_wi_fi_6_1733036.jpg)
 
-Feel free to add any subfolders, as desired.
+![Back side of a Synology WRX560](./../johnsona/assets/images/7-1080.edc11c9a.jpg)

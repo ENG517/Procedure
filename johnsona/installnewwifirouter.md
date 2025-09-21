@@ -60,6 +60,7 @@ The Synology WRX560 router is popular due to its high-speed connectivity, mesh n
 4. Click 'Start' to launch the SRM Setup Wizard. 
 
 5. Read and agree to the Synology End User License Agreement, then click 'next'. Repeat with the Privacy Statement.  
+
 ![The Synology Privacy Statement Page](./../johnsona/assets/images/screenshots/synologyprivacystatementscreenshot.jpeg)
 >*Figure 3: The Synology Privacy Statement screen.*
 
