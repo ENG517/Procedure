@@ -37,6 +37,8 @@ Throughout my three Kardia App procedures, I applied standardized Markdown forma
 
 I also wrote menu items in backticks like `Create New Account` and `History` tab, which helps users identify exactly what to interact with in the app. 
 
+<img src="./../images/screenshots/backtics.png" alt="Backtics" width="300">
+
 For important alerts and warnings, I used consistent blockquote formatting with `> **Alert:**` followed by the warning text, creating visually distinct sections.
 
 <img src="./../images/screenshots/alert.png" alt="Alert" width="300">
