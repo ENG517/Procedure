@@ -1,5 +1,3 @@
-# User Scenario - Title Here
+# User Scenario - How to Replace a Typewriter Ribbon
 
-**Scenario**: Paste the scenario text here.
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+**Scenario**: An intermediate typewriter user, Park, is writing their debut novel on their vintage typewriter. So far, they have written an extensive amount of text and have noticed that their typewriter is running low on ink. They would like to continue using their typewriter, but they are relatively inexperienced in long-term typewriter maintenance, and need to know how to replace the ink ribbon to continue writing.
