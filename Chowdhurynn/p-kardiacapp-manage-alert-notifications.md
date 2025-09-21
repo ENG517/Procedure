@@ -63,13 +63,6 @@ You must have -
 
 - **Sync or Technical Errors-** Notifications indicating a recording did not upload or sync properly.
 
-<p>
-  <img src="./assets/images/screenshots/technicalError.png" 
-       alt="TechnicalError" 
-       width="300" 
-       style="margin-left: 40px;"/>
-</p>
-
 ## Managing alerts within the app
 
 1. **Open** the Alerts tab
