@@ -5,7 +5,7 @@
 
 If your Synology WRX560 router is acting up and you're not sure how to fix it, this guide is for you! We'll walk you through the various troubleshooting methods and help you quickly fix any issues you're facing with your router. 
 
-What you'll need will depend on which troubleshooting method ends up working for you, but generally speaking, make sure you have a fully-installed router and a device you can access the Internet through. You'll also need to be in the room with your router!
+What you'll need will depend on which method ends up working for you, but generally speaking, make sure you have a fully-installed router and a device you can access the Internet through. You'll also need to actually be in the room with your router!
 
 ## Terms to Know
 
