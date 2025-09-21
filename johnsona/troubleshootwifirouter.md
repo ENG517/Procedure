@@ -9,7 +9,7 @@ What you'll need will depend on which method ends up working for you, but genera
 
 ## Terms to Know
 
-- **Troubleshooting:**
+- **Troubleshooting:**Finding and correcting issues in a device or piece of technology
 - **Hardware:**
 - **Software:**
 
