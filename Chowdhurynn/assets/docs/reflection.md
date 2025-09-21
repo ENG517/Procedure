@@ -39,4 +39,6 @@ I also wrote menu items in backticks like `Create New Account` and `History` tab
 
 For important alerts and warnings, I used consistent blockquote formatting with `> **Alert:**` followed by the warning text, creating visually distinct sections.
 
+<img src="./../images/screenshots/alert.png" alt="Alert" width="300">
+
 For images, I switched from basic Markdown syntax to HTML tags like `<img src="./assets/images/screenshots/createAcc.png" alt="createAcc" width="300"/>` to control sizing and maintain consistency across all procedures. I also used consistent link formatting with descriptive text for external resources and internal references.
