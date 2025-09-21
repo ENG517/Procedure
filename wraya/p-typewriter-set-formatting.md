@@ -15,6 +15,11 @@ Visible Margins are set with margin stops. These are common on older typewriter 
 1. Locate the Margin Stops
     - Margin stops are small metal tabs that allow you to set margins by stopping the carriage at a fixed point, so that you cannot type in the designated margin space. They are typically located on the back or top of the carriage.
 
+    ![Margin Stops](/wraya/assets/images/typewriter-margin-stops.png)
+    
+    >*Figure 1: Margin Stops*
+
+
 2. Center your Carriage
     - Adjust your carriage so that it is centered with the ruler on the typewriter.
      >Note: While centering the carriage is not required, it is best practice as some margin stops can be finicky. It may be difficult to reset your margin stops in the desired location as they may not extend all the way to the left or right with an offset carriage.
@@ -33,6 +38,11 @@ Royal typewriters that were produced after the 1950's are equipped with "Magic M
 
 1. Locate your Magic Margin Buttons
     - These are two buttons located on the far ends of the back of your carriage.
+
+    ![Magic Margins](/wraya/assets/images/typewriter-magic-margins.png)
+    
+    >*Figure 2: Magic Margins*
+
 
 2. Move your carriage to where you want to begin typing on the left side in relation to the left edge of your paper, and press the left margin button down.
 
