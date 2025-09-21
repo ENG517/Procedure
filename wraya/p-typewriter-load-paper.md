@@ -1,5 +1,9 @@
 # How to Load Paper Into a Typewriter
 
+![Typewriter Anatomy](/wraya/assets/images/typewriter-load-paper-heading-image.jpg)
+
+>*Figure 1: Aesthetic Vintage Typewriter and Wrapped Stock Paper*
+
 So, you want to start using a manual typewriter. Whether you plan to write your debut novel, fill out an official document, or just listen the aesthetic sound that is clicking typewriter keys, you will need to first complete one important task: loading the paper!
 
 Loading paper into a typewriter for the first time can be tricky. Don't worry! Take the time to load and adjust your paper as needed using the steps below, and practice a few times to get the hang of it. Good luck!
@@ -15,11 +19,18 @@ There are minimal materials required to load paper into a typewriter:
 ## Loading the Paper
 
  1. Locate the important typewriter mechanisms listed below for your typewriter using the image provided. 
+
+     >Note: Your typewriter may look different than the example shown. If this is your first time using a typewriter, it will take some time to fully familiarize yourself with your machine.
+
     - Paper Bail
     - Paper Release Lever
     - Platen
     - Platen-Knob/Roller-Knob
-     >Note: Your typewriter may look different than the example shown. If this is your first time using a typewriter, it will take some time to fully familiarize yourself with your machine.
+    
+    ![Typewriter Anatomy](/wraya/assets/images/typewriter-anatomy-load-paper.png)
+
+    >*Figure 2: Anatomy of a Typewriter*
+
  2. Remove the existing paper, if applicable
     - Pull back the paper bail to an open position to release its hold on the paper
     - Pull back the paper release lever
