@@ -28,7 +28,7 @@ To change your typewriter ribbon, follow these steps:
 
      ![Ribbon Cover](/wraya/assets/images/typewriter-ribbon-cover.png)
 
-     >*Figure 2: Ribbon Cover*
+     >*Figure 1: Ribbon Cover*
 
  2. Remove Existing Typewriter Ribbon
      - Pull back one of the spring-loaded ribbon arms and lift the ribbon spool from its respective ribbon spool shaft
@@ -38,11 +38,11 @@ To change your typewriter ribbon, follow these steps:
 
      ![Ribbon Arm, Shaft, Pin](/wraya/assets/images/typewriter-ribbon-arm-shaft-pin.png)
 
-     >*Figure 3: Ribbon Spring Arm, Shaft, and Pin*
+     >*Figure 2: Ribbon Spring Arm, Shaft, and Pin*
      
      ![Ribbon Vibrator and Guides](/wraya/assets/images/typewriter-ribbon-vibrator-guides.png)
 
-     >*Figure 4: Ribbon Vibrator and Guides*
+     >*Figure 3: Ribbon Vibrator and Guides*
 
 
  3. Place New Typewriter ribbon spools on spool shafts
@@ -50,7 +50,7 @@ To change your typewriter ribbon, follow these steps:
 
      ![New Ribbon Spool](/wraya/assets/images/typewriter-ribbon-spool.png)
 
-     >*Figure 5: New Ribbon Spool*
+     >*Figure 4: New Ribbon Spool*
 
 
      - Pull back one of the spring-loaded ribbon arms and place one of the new ribbon spools onto the ribbon spool shaft 
@@ -68,7 +68,7 @@ To change your typewriter ribbon, follow these steps:
      
      ![Successfully Threaded Ribbon](/wraya/assets/images/typewriter-correct-threading.png)
 
-     >*Figure 6: Successfully Threaded Ribbon*
+     >*Figure 5: Successfully Threaded Ribbon*
 
  5. Clean typewriter interior and hands
      - Carefully wipe any excess ink off of the interior of the typewriter
