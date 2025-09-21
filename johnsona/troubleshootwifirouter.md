@@ -65,7 +65,7 @@ No physical issues? Maybe your software needs to be updated!
 > **Note:** Your network administrator account is the account you made after installing your router. It's used for logging into your Synology network. 
 
 4. Navigate to the 'Firmware Update' section and upload the new file.
-> **Note:** Do _not_ interrupt this new update; it could cause serious issues for your router. 
+> **Note:** Do _not_ interrupt this new update; it could severely damage your router. 
 
 5. Restart your router. 
 
