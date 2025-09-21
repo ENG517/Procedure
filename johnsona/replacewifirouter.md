@@ -13,6 +13,7 @@ Whether you're replacing it due to performance issues or you just want a change,
 - An RJ-45 LAN Cable 
 - A working outlet 
 - A device for set-up (phone, laptop, desktop, etc.)
+>**Note:** If you order a new Synology router, the package should come with a new power adapter and LAN cable as well. If it doesn't, contact your reseller!
 
 ## The Instructions
 
