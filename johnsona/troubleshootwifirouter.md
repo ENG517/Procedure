@@ -10,8 +10,8 @@ What you'll need will depend on which method ends up working for you, but genera
 ## Terms to Know
 
 - **Troubleshooting:**Finding and correcting issues in a device or piece of technology
-- **Hardware:**
-- **Software:**
+- **Hardware**: The physical/tangible part of tech, like routers, modems and cables
+- **Software**: The digital/intangible part of tech, like websites and computer programs
 
 ![A close-up of the vents of a Synology WRX560 router](./../johnsona/assets/images/screenshots/vents_up_close_screenshot.png)
 >*Figure 2: The vents of a Synology WRX560 router, up close.*
