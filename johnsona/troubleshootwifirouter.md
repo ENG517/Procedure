@@ -19,9 +19,9 @@ What you'll need will depend on which method ends up working for you, but genera
 
 Sometimes, the problem isn't with your Synology router at all! Before using the other troubleshooting methods, consider the following steps. 
 
-1. Try accessing multiple websites on different devices to make sure that the issue isn't just with one specific website. 
+1. Check that your device is logged into the right network with the correct password. 
 
-2. Check that your device is logged into the right network with the correct password. 
+2. Try accessing multiple websites on different devices to make sure that the issue isn't just with one specific website. 
 
 3. Check for local outages or technical difficulties Synology may be experiencing. This could be impacting your router's ability to work properly. 
 
