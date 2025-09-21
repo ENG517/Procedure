@@ -22,11 +22,21 @@ For a basic docs-as-code editorial workflow, I created separate branches for eac
 
 <img src="./../images/screenshots/branches.png" alt="Git branches for workflow" width="300">
 
-I also made meaningful commits after each major edit or content addition- for example: commiting after adding the pdf in the doc file or after incorporating screenshots.
+I also made meaningful commits after each major edit or content addition- for example: commiting after adding the pdf in the doc file or after incorporating images.
 
+<img src="./../images/screenshots/commits.png" alt="Commits" width="300">
 
+To complete the workflow, I created pull requests for each procedure branch. This keeps everything organized and ready for review before merging back to main.
+
+<img src="./../images/screenshots/pullRequest.png" alt="Pull requests" width="300">
 
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
+Throughout my three Kardia App procedures, I applied standardized Markdown formatting. I used `##` for major section headings like "Prerequisites" and "Creating your account" across all documents. For step-by-step instructions, I formatted numbered lists with bold action words using `1. **Open** the Kardia app` syntax, making it easy for users to identify required actions.
 
+I also wrote menu items in backticks like `Create New Account` and `History` tab, which helps users identify exactly what to interact with in the app. 
+
+For important alerts and warnings, I used consistent blockquote formatting with `> **Alert:**` followed by the warning text, creating visually distinct sections.
+
+For images, I switched from basic Markdown syntax to HTML tags like `<img src="./assets/images/screenshots/createAcc.png" alt="createAcc" width="300"/>` to control sizing and maintain consistency across all procedures. I also used consistent link formatting with descriptive text for external resources and internal references.
