@@ -2,6 +2,8 @@
 
 So, you want to start using a manual typewriter. Whether you plan to write your debut novel, fill out an official document, or just listen the aesthetic sound that is clicking typewriter keys, you will need to first complete one important task: loading the paper!
 
+Loading paper into a typewriter for the first time can be tricky. Don't worry! Take the time to load and adjust your paper as needed using the steps below, and practice a few times to get the hang of it. Good luck!
+
 ## Materials
 
 There are minimal materials required to load paper into a typewriter:
@@ -12,26 +14,32 @@ There are minimal materials required to load paper into a typewriter:
 
 ## Loading the Paper
 
- 1. Remove the existing paper, if applicable
+ 1. Locate the important typewriter mechanisms listed below for your typewriter using the image provided. 
+    - Paper Bail
+    - Paper Release Lever
+    - Platen
+    - Platen-Knob/Roller-Knob
+     >Note: Your typewriter may look different than the example shown. If this is your first time using a typewriter, it will take some time to fully familiarize yourself with your machine.
+ 2. Remove the existing paper, if applicable
     - Pull back the paper bail to an open position to release its hold on the paper
     - Pull back the paper release lever
-      - Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
+    >Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
     - Roll the platen knob forward until the existing sheet of paper is fully removed
- 2. Insert the new paper
+ 3. Insert the new paper
     - Manually feed a new sheet of paper downward behind the platen
     - Push the paper release lever back so that it is deactivated
- 3. Roll and adjust the new sheet of paper
+ 4. Roll and adjust the new sheet of paper
     - Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller
     - Curve the paper backwards so that it is behind the paper bail
- 4. Readjust the paper bail
+ 5. Readjust the paper bail
     - Move the paper bail back to a closed position so that it is resting against the paper
- 5. Test and Type
+ 6. Test and Type
     - Use the return lever to move the carriage to the left margin and begin typing
-    - If the new sheet of paper seems unstable, unaligned, becomes crinkled, etc. it may not be loaded correctly. Loading paper into a typewriter for the first time can be tricky. Don't worry! Take the time to adjust the paper as needed using the steps above, and practice a few times to get the hang of it. Good luck!
+    - If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. 
 
 ## Common Issues To Look Out For
 
-If you are loading paper into a typewriter for the first time and followed all of the steps above, but your paper seems to be sliding while you type or move the carriage, it becomes unaligned in the middle of typing, or you are experiencing other paper related issues, check for these common problems:
+If you are loading paper into a typewriter for the first time and followed all of the steps above but your paper seems to be moving excessively, check for these common problems:
 
 ### Paper Release Lever Activation
 
@@ -52,4 +60,4 @@ Sometimes, the paper bail or its components may be damaged, resulting in difficu
 
 As mentioned above, some older typewriters were designed with specific stock paper in mind. 
 - If your paper is not staying put, or the rollers are struggling to grip it, consider trying thicker stock paper in place of regular printer paper. 
-- If you ARE using thicker paper, but the rollers are struggling to feed the paper, it may be too heavy/thick for the feeding mechanism of your typewriter to handle. Consider using a lower stock paper.
+- If you ARE using thicker paper, and the rollers are struggling to feed the paper, it may be too heavy/thick for the feeding mechanism of your typewriter to handle. Consider using a lower stock paper.
