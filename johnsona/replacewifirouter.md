@@ -36,4 +36,4 @@ Whether you're replacing it due to performance issues or just because you wanted
 
 ## Wrap Up
 
-You've successfully replaced your old Synology WRX560 router with a new one!
+Congratulations, you've successfully replaced your old Synology WRX560 router with a new one! If you need a quick refresher on the installation process, feel free to check out our user guide on the procedure. You can also visit [Synology's Official Website](https://kb.synology.com/en-us/SRM) if you have any questions!
