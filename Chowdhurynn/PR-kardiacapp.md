@@ -2,11 +2,12 @@
 # # **Completed Work**
 
     - Created new procedure: `p-kardiacapp-setup-user-profile`
-    - Procedure's Goal: Setting up comprehensive ECG app profile and understand dashboard navigation for daily heart monitoring
+    - Procedure's Goal: Setting up comprehensive ECG app profile.
 
 ## User Scenario
 
-Mr. Rahman is a 65-year-old man recovering from a mild heart attack. His cardiologist has recommended he use the ECG app for daily heart monitoring. Motivated by following his doctor's digital monitoring protocol and ensuring proper health data management, he wants to set up his app profile correctly and understand the dashboard interface. His goal is to create a comprehensive user profile in the ECG app, configure his medical history and medications, set up automated reminders, and understand how to navigate the app's main dashboard and recording interface. As a new app user with limited digital health experience, he feels overwhelmed by the app's features and needs clear guidance on profile setup, privacy settings, and basic app navigation to build confidence with digital health management.
+Mr. Rahman is a 65-year-old retired teacher recovering from a mild heart attack. His cardiologist has prescribed daily ECG monitoring using the Kardia app. Having only learned basic computer skills after retirement, Mr. Rahman feels anxious about setting up medical apps correctly, particularly when handling his health data.
+His goal is to successfully create his Kardia account, verify his email, and complete the basic profile setup with his medical information and medications. Mr. Rahman's main concerns include creating a secure account, entering medical information accurately for reliable readings, and not missing critical setup steps. He needs clear, step-by-step guidance that acknowledges his limited digital health experience while building his confidence in using the app for his prescribed monitoring routine.
 
 ## Notable review request
 
