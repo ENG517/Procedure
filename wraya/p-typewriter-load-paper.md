@@ -1,6 +1,6 @@
 # How to Load Paper Into a Typewriter
 
-![Typewriter Anatomy](/wraya/assets/images/typewriter-load-paper-heading-image.jpg)
+![Aesthetic Vintage Typewriter with Paper](/wraya/assets/images/typewriter-load-paper-heading-image.jpg)
 
 >*Figure 1: Aesthetic Vintage Typewriter and Wrapped Stock Paper*
 
