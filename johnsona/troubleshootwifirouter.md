@@ -17,7 +17,7 @@ What you'll need will depend on which method ends up working for you, but genera
 
 ### Alternative Solutions
 
-Sometimes, the problem isn't with your Synology router at all! Before using the other troubleshooting methods, try the following. 
+Sometimes, the problem isn't with your Synology router at all! Before using the other troubleshooting methods, consider the following steps. 
 
 1. Try accessing multiple websites on different devices to make sure that the issue isn't just with one specific website. 
 
