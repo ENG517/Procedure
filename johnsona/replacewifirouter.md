@@ -30,7 +30,7 @@ Whether you're replacing it due to performance issues or you just want a change,
 4. Unplug any cables from the old router, including the power adapter and the LAN cable. 
 
 5. Dispose of the old router and any other hardware you're swapping out for the new installation. 
-> **Note:** It's recommended that you at least replace your power adapter cable; keeping the old one could lead to performance issues in your new router. 
+> **Note:** It's recommended that you at least replace your power adapter cable, even if you don't replace your LAN cable; keeping the old power adapter could lead to performance issues in your new router. 
 
 6. Install the hardware for your new router as normal. 
 
