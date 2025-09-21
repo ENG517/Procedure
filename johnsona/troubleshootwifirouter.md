@@ -18,8 +18,17 @@ What you'll need will depend on which method ends up working for you, but genera
 
 ## The Troubleshooting Methods
 
+### Resetting the Router
 1. 
 
+### Checking for Physical Issues
 2. 
 
+### Rebooting the Hardware
 3. 
+
+### Installing New Software
+4. 
+
+### Adjusting Settings
+5. 
