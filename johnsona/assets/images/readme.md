@@ -1,5 +1,3 @@
 # IMAGES FOLDER
 
-Any images that you include should be organized in this folder. 
-
-Feel free to add any subfolders, as desired.
+![A Synology WRX560 Wi-Fi Router](./../johnsona/assets/images/Synology-WRX560-1-1536x864.jpg) 
