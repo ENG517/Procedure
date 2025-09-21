@@ -48,3 +48,5 @@ For images, I switched from basic Markdown syntax to HTML tags to control sizing
 <img src="./../images/screenshots/image.png" alt="Image" width="300">
 
 I also used consistent link formatting with descriptive text for external resources and internal references.
+
+<img src="./../images/screenshots/Link.png" alt="Links" width="300">
