@@ -8,9 +8,9 @@ Need to swap out your old Wi-Fi router for a new Synology WRX560 router? Whether
 ## What You'll Need
 
 - A new Synology WRX560 Wi-Fi Router
-- An ISP Modem (current or replacement)
-- An AC Power Adapter (replacement)
-- An RJ-45 LAN Cable (current or replacement)
+- An ISP Modem 
+- An AC Power Adapter 
+- An RJ-45 LAN Cable 
 - A working outlet 
 - A device for set-up (phone, laptop, desktop, etc.)
 
@@ -31,3 +31,7 @@ Need to swap out your old Wi-Fi router for a new Synology WRX560 router? Whether
 6. Install the hardware for your new router as normal. 
 
 7. Set up the software for your new router as normal. 
+
+## Wrap Up
+
+You've successfully replaced your old Synology WRX560 router with a new one!
