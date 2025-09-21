@@ -43,4 +43,8 @@ For important alerts and warnings, I used consistent blockquote formatting with 
 
 <img src="./../images/screenshots/alert.png" alt="Alert" width="300">
 
-For images, I switched from basic Markdown syntax to HTML tags like `<img src="./assets/images/screenshots/createAcc.png" alt="createAcc" width="300"/>` to control sizing and maintain consistency across all procedures. I also used consistent link formatting with descriptive text for external resources and internal references.
+For images, I switched from basic Markdown syntax to HTML tags to control sizing and maintain consistency across all procedures. 
+
+<img src="./../images/screenshots/image.png" alt="Image" width="300">
+
+I also used consistent link formatting with descriptive text for external resources and internal references.
