@@ -23,6 +23,8 @@ Whether you're replacing it due to performance issues or just because you wanted
 
 3. _**Optional:**_ Take photos of the cable setup for your old router and modem. This can be used as a reference when you install the new router, just in case you forget which ports the cables are plugged into. 
 
+![An up-close shot of the port of a Synology WRX560 router](./../johnsona/assets/images/screenshots/up_close_port_screenshot.jpeg)
+
 4. Unplug any cables from the old router, including the power adapter and the LAN cable. 
 
 5. Dispose of the old router and any other hardware you're swapping out for the new installation. 
