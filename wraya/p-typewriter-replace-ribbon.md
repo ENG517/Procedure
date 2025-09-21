@@ -21,12 +21,34 @@ Put on your gloves and lay out plastic surface protection or paper towels/cloths
 To change your typewriter ribbon, follow these steps:
  1. Remove Ribbon Cover
      - Gently release ribbon cover prongs from their grommets and lift from the typewriter
+
+     ![Ribbon Cover](/wraya/assets/images/typewriter-ribbon-cover.png)
+
+     >*Figure 2: Ribbon Cover*
+
  2. Remove Existing Typewriter Ribbon
      - Pull back one of the spring-loaded ribbon arms and lift the ribbon spool from its respective ribbon spool shaft
      - Repeat for the second ribbon spool
      - Locate the set of ribbon guides that are in front of the ribbon vibrator
      - Carefully unthread the existing ribbon through the small slits in the ribbon guides
+
+     ![Ribbon Arm, Shaft, Pin](/wraya/assets/images/typewriter-ribbon-arm-shaft-pin.png)
+
+     >*Figure 3: Ribbon Spring Arm, Shaft, and Pin*
+     
+     ![Ribbon Vibrator and Guides](/wraya/assets/images/typewriter-ribbon-vibrator-guides.png)
+
+     >*Figure 4: Ribbon Vibrator and Guides*
+
+
  3. Place New Typewriter ribbon spools on spool shafts
+
+
+     ![New Ribbon Spool](/wraya/assets/images/typewriter-ribbon-spool.png)
+
+     >*Figure 5: New Ribbon Spool*
+
+
      - Pull back one of the spring-loaded ribbon arms and place one of the new ribbon spools onto the ribbon spool shaft 
      - Ensure that the ribbon coming off of the spool is directed toward the back of the typewriter and is not twisted
      - Adjust the ribbon spool so that the spool shaft pin fits into the designated slot on the new ribbon spool
@@ -38,6 +60,12 @@ To change your typewriter ribbon, follow these steps:
      - Locate the auto-reversing brackets next to each ribbon spool
      - For each ribbon spool, thread the excess ribbon through the slot in the auto-reversing bracket
      - Gently roll each ribbon spool so that the ribbon is taut, but not tightened too much
+
+     
+     ![Successfully Threaded Ribbon](/wraya/assets/images/typewriter-correct-threading.png)
+
+     >*Figure 6: Successfully Threaded Ribbon*
+
  5. Clean typewriter interior and hands
      - Carefully wipe any excess ink off of the interior of the typewriter
      - Clean your hands or remove your gloves
