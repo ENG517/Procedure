@@ -1,3 +1,3 @@
 # SCREENSHOTS
 
-Any screen captures that you use in your procedures should be organized in this folder.
+![A close-up of the vents of a Synology WRX560 router](./../johnsona/assets/images/screenshots/vents_up_close_screenshot.png)

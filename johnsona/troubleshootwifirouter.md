@@ -8,7 +8,7 @@ This procedure will guide you through the process of troubleshooting your Synolo
 - 
 - 
 
-![The vents of a Synology WRX650 Wi-Fi router](./../johnsona/assets/images/synology-wrx560-review7.jpg)
+![A close-up of the vents of a Synology WRX560 router](./../johnsona/assets/images/screenshots/vents_up_close_screenshot.png)
 
 ## The Procedure 
 
