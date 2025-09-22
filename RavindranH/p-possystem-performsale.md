@@ -54,8 +54,6 @@ Ensure the following product configuration steps are completed before proceeding
 
 ⚠️ **Warning:** Orders cannot be created without starting a new session.  
 
----
-
 ### Step 2: Add Product to Cart
 - Select product category.  
 - Add the product to the cart.  
@@ -66,13 +64,10 @@ Ensure the following product configuration steps are completed before proceeding
 
 ⚠️ **Warning:** Ensure a product does not have $0 price before adding to the cart.  
 
----
 ### Step 3: Review Order
 - Verify the product price, taxes applied, and quantity.  
 
 💡 **Tip:** Double-check product details before proceeding to payment.  
-
----
 
 ### Step 4: Complete the Payment
 - Click **Payment**.  
@@ -82,8 +77,6 @@ Ensure the following product configuration steps are completed before proceeding
 *Fig 3. Payment Success*  
 
 - Click **New Order** to proceed with another order.  
-
----
 
 ### Step 5: Generate Receipt and Close Session
 - Print or email the receipt.  
