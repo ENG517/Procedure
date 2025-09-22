@@ -39,10 +39,9 @@ Odoo POS system has the following reports:
 - Click **Reporting**.  
 - Select the appropriate type of report you want to generate from the available options. 
 
-![reporting](./assets/images/screenshots/8E0F9F4C-28E7-4F61-9198-7C71CFD0E95D.jpeg)
+![reporting](./assets/images/screenshots/reporting.jpeg)
 
 *Fig 4. Select Reporting*
-
 
 ### Step 2: Provide Input to Generate Report
 
