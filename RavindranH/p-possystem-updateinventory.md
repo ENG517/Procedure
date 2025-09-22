@@ -1,76 +1,73 @@
-# Generating a Report in Odoo POS System
+# Updating Inventory in Odoo POS System
 
 ## What is this for?
-This article explains how to generate a report in the Odoo POS system. By the end of this article, you’ll know how to create reports, customize, and export them to further analyze and gain insights from the statistics.
+This article explains how to update inventory in the Odoo POS system. Inventory updates help the POS system stay up to date with product quantities on the shelves.  
+
+By the end of this article, you’ll know how to adjust product stock levels, track stock movements, and ensure inventory accuracy in Odoo POS.
 
 ---
 
-## Before you Begin
-Ensure you are aware of the following details before generating a report:
+## Before You Begin
+Ensure the following steps are completed before updating the inventory:
 
-### Understand Report Types
-Odoo POS system has the following reports:  
-- **Orders Analysis Report** - Provides detailed information on orders created during a session.  
-- **Sales Details Report** - Summarizes sales transactions.  
-- **Session Report** - Provides detailed information on all activities within a POS session.  
-- **Preparation Time Report** - Provides information on the time taken to prepare each order.  
+### Make Product Available in Odoo
+- For each unit of the product available in the stock, create an equivalent in Odoo POS.  
+- The product must be created with accurate **prices, taxes, categories, and quantities**.  
+- Tick the **Point of Sale** checkbox at the top of the product.  
 
-### Data Availability
-- ⚠️ **Warning:** An active POS session must be available to generate a report.  
-
-### Product Configuration Accuracy
-- Verify if the products are configured with accurate **prices, taxes, and categories**.  
-- If refunds and returns are processed during a session, ensure that the details are captured accurately.  
+⚠️ **Warning:** Mismatch between physical product counts and instances of the product in the system may lead to oversold products, unreported stock-outs, and incorrect reporting.  
 
 ### User Roles with Access Permissions
-- **POS Manager**  
-- **Business Analyst**  
+- **Inventory Manager**  
 - **Supervisor**  
+- **POS Manager**  
 
 ---
 
-## How to Generate a Report?
+## How to Update Inventory?
 
-### Step 1: Select Report Type
+### Step 1: Go to Inventory Module
 - Launch **Odoo**.  
-- Go to **Point of Sale**.  
-  - 📝 **Note:** Reports can be generated only when there is an ongoing session.  
-  - If there is no active session, start one and then proceed.  
-- Click **Reporting**.  
-- Select the appropriate type of report you want to generate from the available options.  
+- Select the **Inventory** module.  
 
-![Select Reporting](./assets/images/screenshots/8E0F9F4C-28E7-4F61-9198-7C71CFD0E95D.jpeg)
+⚠️ **Warning:** Ensure you are logged into the right store.  
 
-*Fig 4. Select Reporting*  
+### Step 2: Create Inventory Adjustments
+- Go to **Operations → Physical Inventory → Adjustments → Physical Inventory**.  
 
-### Step 2: Provide Input to Generate Report
+![Select Adjustment](./assets/images/Adjustment.jpeg)
 
-#### For Sales Details Report
-- Select the **start and end date** in the calendar.  
-  - 📝 **Note:** The current date is selected by default.  
-- Click **Apply**. A summary of the transactions performed on the selected date appears.  
-- Click **Print**. The report is printed and downloaded as a `.pdf` file.  
+*Fig 5. Select Adjustments in Inventory Module*  
 
-#### For Session Report
-- Select the **POS session** from the prompt.  
-- Click **Print**. The report is printed and downloaded as a `.pdf` file.  
-  - 📝 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.  
-  - Input need not be provided to generate **Order Details** and **Preparation Time** reports.  
+- The Inventory Adjustments page lists all products that are currently in stock.  
+- Click **New**.  
+- Select a product under the **Product** column.  
+- Set the value of the product in the **Counted Quantity** column.  
+- Click **Apply** on the far right of the page to create an adjustment.  
 
-### Step 3: Customize Reports
-- Click **Measures** to customize the generated report.  
-- Click **Ascending** or **Descending** to group the values in the report.  
+### Step 3: Validate Adjustment
+- Check the **Counted Quantity**, **On Hand Quantity**, and **Difference** amounts.  
+
+📝 **Note:**  
+- If the Counted Quantity is greater than the On Hand Quantity, the value in the Difference column is **green**.  
+- If the Counted Quantity is less than the On Hand Quantity, the value in the Difference column is **red**.  
+- If the quantities match and have not been changed, no value appears in the Difference column.  
 
 
-### Step 4: Export and Visualize Reports
-- Click **Insert in Spreadsheet** to export the report to a worksheet in your system.  
-- Click **Bar Chart**, **Pie Chart**, or **Line Chart** to visualize the report.  
+### Step 4: View Adjustment History
+- Click **History** to view the adjustment history.  
+- The user who performed the count is listed in parentheses in the **Reference** field, while the user who applied the count is listed in **Done By**.  
+
+📝 **Note:** If the POS system is offline, the changes are cached and synced with the server later.  
+
+⚠️ **Warning:** Sync failure may result in count mismatch, resulting in cashiers selling items that are not in stock.  
 
 ---
 
 ## Additional Resources
-
-- [Odoo POS Reporting](https://www.odoo.com/documentation/18.0/applications/sales/point_of_sale/reporting.html)
-- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28 )
-- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)
-- [Odoo POS Support](https://www.odoo.com/help)
+- [Odoo POS Inventory Adjustments](https://www.odoo.com/documentation/18.0/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/count_products.html?highlight=inventory%20adjustments)  
+- [Odoo POS Tutorials](
+https://www.odoo.com/slides/point-of-sale-28
+)  
+- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)  
+- [Contact Odoo POS Support](https://www.odoo.com/help) 
