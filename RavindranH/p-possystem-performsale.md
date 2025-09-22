@@ -4,8 +4,7 @@
 This article explains how to perform a sale in the Odoo POS system. At the end of this article, you’ll know how to sell a product, process payments, and record a sale in Odoo POS.
 
 ## Before you Begin
-- Products form the building blocks of the Odoo POS system. 
-- Ensure the following product configuration steps are completed before proceeding with a sale.
+Ensure the following product configuration steps are completed before proceeding with a sale:
 
 ### Creating Products in Odoo
 - Launch **Odoo**.
@@ -31,14 +30,14 @@ This article explains how to perform a sale in the Odoo POS system. At the end o
 - Select a product.
 - Tick the **Point of Sale** checkbox at the top.
 
-## User with Access Permissions
+## User Roles with Access Permissions
 
 - Cashier  
 - POS User  
 - POS Manager  
 - Supervisor  
 
-## Sell a Product
+## How to Sell a Product?
 
 ### Step 1: Start a Session
 - Launch **Odoo**.
