@@ -1,4 +1,4 @@
-# ODOO POS SYSTEM OPERATIONS
+# Odoo POS System Help Guide
 
 ## Overview
 The Odoo Point of Sale system is a comprehensive solution designed to simplify retail and restaurant operations.  
