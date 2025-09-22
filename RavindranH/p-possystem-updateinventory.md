@@ -1,80 +1,76 @@
- # Procedure: Manually Updating Inventory in a POS System
+# Generating a Report in Odoo POS System
 
-## Device Requirements
-- **POS Terminal/Workstation**: Touchscreen or desktop PC with inventory management module installed  
-- **Barcode Scanner**: OPOS-compliant, used to quickly identify items when updating stock  
-- **Receipt/Label Printer (Optional)**: For printing updated stock labels or inventory adjustment slips  
-- **Cash Drawer (Not Required)**: Inventory updates do not require a cash drawer connection  
-- **External Storage/Export Device (Optional)**: USB drive or secure network path for exporting updated inventory data  
-- **Internet Connection**: Required for cloud-based inventory synchronization across multiple outlets  
+## What is this for?
+This article explains how to generate a report in the Odoo POS system. By the end of this article, you’ll know how to create reports, customize, and export them to further analyze and gain insights from the statistics.
 
 ---
 
-## System Requirements
-- POS workstation with:
-  - Windows 10 or later (or supported OS based on vendor)  
-  - Minimum 8GB RAM, 256GB SSD, dual-core processor  
-  - Barcode scanner and printer drivers compliant with OPOS standards  
-- POS software with **Inventory Management Module** enabled  
-- Database access with real-time stock tracking capability  
-- User account with **Manager** or **Inventory Supervisor** role permissions  
+## Before you Begin
+Ensure you are aware of the following details before generating a report:
+
+### Understand Report Types
+Odoo POS system has the following reports:  
+- **Orders Analysis Report** - Provides detailed information on orders created during a session.  
+- **Sales Details Report** - Summarizes sales transactions.  
+- **Session Report** - Provides detailed information on all activities within a POS session.  
+- **Preparation Time Report** - Provides information on the time taken to prepare each order.  
+
+### Data Availability
+- ⚠️ **Warning:** An active POS session must be available to generate a report.  
+
+### Product Configuration Accuracy
+- Verify if the products are configured with accurate **prices, taxes, and categories**.  
+- If refunds and returns are processed during a session, ensure that the details are captured accurately.  
+
+### User Roles with Access Permissions
+- **POS Manager**  
+- **Business Analyst**  
+- **Supervisor**  
 
 ---
 
-## Prerequisites
-- User has login credentials with access to the **Inventory Management** module  
-- Inventory catalog is already set up with product codes, barcodes, and categories  
-- Current stock levels are available (from previous sales or inventory imports)  
-- If physical stock-taking is performed, a count sheet should be ready before updating  
-- Backup of inventory database recommended before making manual adjustments  
+## How to Generate a Report?
+
+### Step 1: Select Report Type
+- Launch **Odoo**.  
+- Go to **Point of Sale**.  
+  - 📝 **Note:** Reports can be generated only when there is an ongoing session.  
+  - If there is no active session, start one and then proceed.  
+- Click **Reporting**.  
+- Select the appropriate type of report you want to generate from the available options.  
+
+![Select Reporting](./assets/images/screenshots/8E0F9F4C-28E7-4F61-9198-7C71CFD0E95D.jpeg)
+
+*Fig 4. Select Reporting*  
+
+### Step 2: Provide Input to Generate Report
+
+#### For Sales Details Report
+- Select the **start and end date** in the calendar.  
+  - 📝 **Note:** The current date is selected by default.  
+- Click **Apply**. A summary of the transactions performed on the selected date appears.  
+- Click **Print**. The report is printed and downloaded as a `.pdf` file.  
+
+#### For Session Report
+- Select the **POS session** from the prompt.  
+- Click **Print**. The report is printed and downloaded as a `.pdf` file.  
+  - 📝 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.  
+  - Input need not be provided to generate **Order Details** and **Preparation Time** reports.  
+
+### Step 3: Customize Reports
+- Click **Measures** to customize the generated report.  
+- Click **Ascending** or **Descending** to group the values in the report.  
+
+
+### Step 4: Export and Visualize Reports
+- Click **Insert in Spreadsheet** to export the report to a worksheet in your system.  
+- Click **Bar Chart**, **Pie Chart**, or **Line Chart** to visualize the report.  
 
 ---
 
-## Step-by-Step Procedure
-1. **Login to POS System**  
-   - Enter *Manager/Inventory Supervisor* credentials.  
-   - Navigate to the **Back Office → Inventory Management** module.  
+## Additional Resources
 
-2. **Search for Product(s)**  
-   - Use barcode scanner to scan item code OR  
-   - Search by product name, SKU, or category.  
-
-3. **Select Item for Update**  
-   - Open the product details screen.  
-   - Verify existing stock levels shown in the system.  
-
-4. **Update Inventory Quantities**  
-   - Choose **Adjust Stock / Manual Update** option.  
-   - Enter the **new stock quantity** (e.g., after delivery, corrections, or returns).  
-   - Specify reason for adjustment (e.g., “New Stock Received,” “Damaged Goods Removed,” “Stock Correction”).  
-
-5. **Save Changes**  
-   - Confirm update and save.  
-   - System logs the adjustment with timestamp, user ID, and reason.  
-
-6. **(Optional) Print Updated Labels or Adjustment Report**  
-   - Print shelf labels if pricing or barcodes changed.  
-   - Print adjustment slip for auditing and stockroom records.  
-
-7. **Verify Updated Inventory**  
-   - Refresh stock list to confirm updated levels.  
-   - Cross-check with physical stock count if necessary.  
-
----
-
-## Notes
-- Manual inventory updates should be logged with clear reasons to ensure **audit compliance**.  
-- For bulk updates, use import functionality (CSV/Excel) if supported instead of individual updates.  
-- Inventory adjustments directly affect **stock availability and sales reports** — always double-check entries.  
-- Barcode scanners reduce errors when selecting items for update. 
-- For cloud-based POS, ensure system syncs successfully to prevent discrepancies across outlets.  
-
----
-
-## References – OPOS Documentation
-- OPOS ensures barcode scanners, printers, and other retail devices integrate smoothly with POS systems.  
-
-Key resources:  
-- [OPOS Common Control Objects Download](https://www.microsoft.com/en-us/download/details.aspx?id=42095)  
-- [UnifiedPOS (UPOS) Specification – CCO](https://www.omg.org/upos/)  
-- [OPOS Developer Resources](https://www.posforsystem.com/opos/)  
+- [Odoo POS Reporting](https://www.odoo.com/documentation/18.0/applications/sales/point_of_sale/reporting.html)
+- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28 )
+- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)
+- [Odoo POS Support](https://www.odoo.com/help)
