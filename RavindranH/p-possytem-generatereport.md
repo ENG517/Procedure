@@ -16,7 +16,7 @@ Odoo POS system has the following reports:
 - **Preparation Time Report** - Provides information on the time taken to prepare each order.  
 
 ### Data Availability
-- ⚠️ **Note:** An active POS session must be available to generate a report.  
+- 📌 **Note:** An active POS session must be available to generate a report.  
 
 ### Product Configuration Accuracy
 - Verify if the products are configured with accurate **prices, taxes, and categories**.  
@@ -34,7 +34,7 @@ Odoo POS system has the following reports:
 ### Step 1: Select Report Type
 - Launch **Odoo**.  
 - Go to **Point of Sale**.  
-  - 📝 **Note:** Reports can be generated only when there is an ongoing session.  
+  - 📌 **Note:** Reports can be generated only when there is an ongoing session.  
   - If there is no active session, start one and then proceed.  
 - Click **Reporting**.  
 - Select the appropriate type of report you want to generate from the available options. 
@@ -47,14 +47,14 @@ Odoo POS system has the following reports:
 
 #### **For Sales Details Report**
 - Select the **start and end date** in the calendar.  
-  - 📝 **Note:** The current date is selected by default.  
+  - 📌 **Note:** The current date is selected by default.  
 - Click **Apply**. A summary of the transactions performed on the selected date appears.  
 - Click **Print**. The report is printed and downloaded as a `.pdf` file.  
 
 #### **For Session Report**
 - Select the **POS session** from the prompt.  
 - Click **Print**. The report is printed and downloaded as a `.pdf` file.  
-  - 📝 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.  
+  - 📌 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.  
   - Input need not be provided to generate **Order Details** and **Preparation Time** reports.  
 
 ### Step 3: Customize Reports
