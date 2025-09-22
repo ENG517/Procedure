@@ -13,7 +13,7 @@ Products form the building blocks of the Odoo POS system. Ensure the following p
 - Click **New**.
 - Go to the **General Information** tab.
 - Enter the following product details:
-   - **Product Name**: The name of the product.
+   - **Product Name**: The name of the product. 
    - **Product Type**: The type of the product (e.g., Goods, Services, Combo).
    - **Sales Price**: The price at which the product is sold.
 - Upload an image for the product and include a product description.
@@ -44,7 +44,7 @@ Products form the building blocks of the Odoo POS system. Ensure the following p
 - Choose a store (e.g., Retail or Restaurant).
 - Click **Open Register**.
    - **Tip**: If signing in as Cashier, cash in/cash out is mandatory.  
-   - **Tip**: Ensure the right store, location, and user role is selected.  
+   - **Note**: Ensure the right store, location, and user role is selected.  
    - **Warning**: Orders cannot be created without starting a new session.
 
 ### Step 2: Add Product to Cart
