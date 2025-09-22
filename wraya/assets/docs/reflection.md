@@ -6,10 +6,18 @@ Write a short analysis (~500 words) in which you explain what you did to meet th
 
 When writing my procedures, I considered the intended audience as described by Redish in a multitude of methods. I first explicitly state the end goal at the beginning of the procedure, so that the user does not have to dig through text. I provide a reason at the beginning of each procedure for completing the task, so that the user understands the “why” of what they are about to read. I lay out a list of prerequisites right at the start, and list concise steps to guide the user in an efficient manner so that they do not try to rush through. All warnings are made very clear through visual cues, in the event that they “Jump the gun” and “make errors” as described by Redish. For my longer procedure that explains how to change a typewriter ribbon, I include pictures of most steps, so that the user can feel actively involved while learning how to complete the task themselves.
 
+![screenshot of stated goal and why](/wraya/assets/images/screenshots/Question1-EX1.png)
+
+![screenshot of step pictures](/wraya/assets/images/screenshots/Question1-EX2.png)
+
 
 ## How do your procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions? Provide some specific examples that connect back to the criteria from Hart-Davidson.
 
 My procedures follow the WTGA Staging, Coaching, and Alerting stylistic conventions by following each of the moves as they are described in Hart-Davidson’s handout. I structured each of my procedures so that they will first clearly state the goal of the procedure, provide a list of prerequisites, and state the success condition of the task in the introductory section of the procedure. I then move on to the steps needed to complete the tasks, using imperative verbal phrases in each step to direct the user. I also break down each step into substeps, where necessary, to provide clarifying detail as to how the step is to be completed, and what conditions must be met for it to be successful. Lastly, I use alerting moves in the form of visual cues to notify the user that a particular step may be of utmost importance, or to warn them of making a common mistake. I then provide solutions to potential problems that may arise in the event that they do make a mistake, so that they can get back on track and learn how to complete their tasks.
+
+![screenshot of staging example](/wraya/assets/images/screenshots/Question2-EX1.png)
+
+![screenshot of coaching example](/wraya/assets/images/screenshots/Question2-EX2.png)
 
 
 ## How do your procedures follow your task orientation work? In other words, based on your audience and their goals, discuss how you oriented your SCA moves to the tasks.
@@ -21,8 +29,17 @@ For my “How to Load Paper into a Typewriter” procedure, I ensured that my tu
 
 For my procedures, I implemented a basic docs-as-code editorial workflow by first creating a root folder in the main branch where I would eventually add my user scenarios and reflection, and then followed this by creating a separate branch for each procedure I planned to write. In these separate branches, I created .md files where I would write my procedures in Markdown. As I worked on writing my procedures, I would add to each branch in substantial chunks of work, that I would then push as meaningful commits to the origin repository. After a decent portion of my procedures were drafted, I created a pull request for each branch on GitHub and assigned my peer review group members as reviewers. I used my group members pull requests to leave comments on their work, and they did the same for my pull requests. I then read through these comments, addressed them in my procedures, and continued to edit each procedure and push meaningful commits until they were complete.
 
+![screenshot of markdown files](/wraya/assets/images/screenshots/Question4-EX1.png)
+
+![screenshot of branches](/wraya/assets/images/screenshots/Question4-EX2.png)
+
+![screenshot of commits](/wraya/assets/images/screenshots/Question4-EX3.png)
 
 ## How did you apply a consistent use of the Markdown language throughout your project? Please provide specific cases with screenshots and/or links that can support your claims.
 
 I used Markdown language consistently throughout each of my procedures via the use of headings, subheadings, ordered and unordered lists, italicised lettering, and block quotes. For each major section of my procedures, I would use either level 1, 2, or 3 headings. For each coaching move, I would use ordered lists of steps, and then use unordered lists to divide each step into smaller substeps. For alerting moves, such as warnings and notes, I would either italicize or use block quotes to add visual cues to these moves. I also used Markdown language when adding images for certain steps and headings in each of my procedures.
+
+![screenshot of block quote and image markdown language](/wraya/assets/images/screenshots/Question5-EX1.png)
+
+![screenshot of level 2 and 3 headings](/wraya/assets/images/screenshots/Question5-EX2.png)
 
