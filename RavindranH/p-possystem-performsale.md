@@ -83,6 +83,7 @@ Ensure the following product configuration steps are completed before proceeding
 *Fig 3. Payment Success*  
 
 - Click **New Order**, if willling to proceed with another order.  
+
 📌 **Note:** It is recommended to print receipt before creating a new order. 
 
 ### Step 5: Generate Receipt and Close Session
@@ -97,4 +98,5 @@ Ensure the following product configuration steps are completed before proceeding
 - [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)
 - [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)
 - [Odoo POS Support](https://www.odoo.com/help)
+- Refer to my procedure [here](./assets/docs/Procedure.pdf)
 
