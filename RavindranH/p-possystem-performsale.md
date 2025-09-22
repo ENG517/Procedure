@@ -19,19 +19,20 @@ This article explains how to perform a sale in the Odoo POS system. At the end o
    - **Sales Price**: The price at which the product is sold
 - Upload an image for the product and include a product description.
 
-### Create Product Categories
+### Creating Product Categories
 - Go to **Point of Sale → Configuration → POS Product Categories**.
 - Click **Create**.
 - Enter a suitable name in the **Category** field.
 - Go to **Point of Sale → Products → Products**.
 - Go to the **Point of Sale** tab and fill in the **Category** field under the Point of Sale section with one or multiple POS categories.
 
-### Make Products Available in POS
+### Making Products Available in POS
 - Go to **Point of Sale → Products → Products**.
 - Select a product.
 - Tick the **Point of Sale** checkbox at the top.
 
-## User Roles to Choose
+## User with Access Permissions
+
 - Cashier  
 - POS User  
 - POS Manager  
@@ -53,6 +54,7 @@ This article explains how to perform a sale in the Odoo POS system. At the end o
 - Add the product to the cart.
 - Adjust the quantities, modifiers, and add-ons.
    - **Warning**: Ensure a product does not have $0 price before adding to the cart.
+   - **Tip**: You can also add a product to cart by scanning its barcode.
 
 ### Step 3: Review Order
 - Verify the product price, taxes applied, and quantity.
