@@ -16,7 +16,7 @@ Odoo POS system has the following reports:
 - **Preparation Time Report** - Provides information on the time taken to prepare each order.  
 
 ### Data Availability
-- ⚠️ **Warning:** An active POS session must be available to generate a report.  
+- ⚠️ **Note:** An active POS session must be available to generate a report.  
 
 ### Product Configuration Accuracy
 - Verify if the products are configured with accurate **prices, taxes, and categories**.  
@@ -37,21 +37,22 @@ Odoo POS system has the following reports:
   - 📝 **Note:** Reports can be generated only when there is an ongoing session.  
   - If there is no active session, start one and then proceed.  
 - Click **Reporting**.  
-- Select the appropriate type of report you want to generate from the available options.  
+- Select the appropriate type of report you want to generate from the available options. 
 
-![Select Reporting](./assets/images/screenshots/8E0F9F4C-28E7-4F61-9198-7C71CFD0E95D.jpeg)
+![reporting](./assets/images/screenshots/8E0F9F4C-28E7-4F61-9198-7C71CFD0E95D.jpeg)
 
-*Fig 4. Select Reporting*  
+*Fig 4. Select Reporting*
+
 
 ### Step 2: Provide Input to Generate Report
 
-#### For Sales Details Report
+#### **For Sales Details Report**
 - Select the **start and end date** in the calendar.  
   - 📝 **Note:** The current date is selected by default.  
 - Click **Apply**. A summary of the transactions performed on the selected date appears.  
 - Click **Print**. The report is printed and downloaded as a `.pdf` file.  
 
-#### For Session Report
+#### **For Session Report**
 - Select the **POS session** from the prompt.  
 - Click **Print**. The report is printed and downloaded as a `.pdf` file.  
   - 📝 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.  
@@ -61,7 +62,6 @@ Odoo POS system has the following reports:
 - Click **Measures** to customize the generated report.  
 - Click **Ascending** or **Descending** to group the values in the report.  
 
-
 ### Step 4: Export and Visualize Reports
 - Click **Insert in Spreadsheet** to export the report to a worksheet in your system.  
 - Click **Bar Chart**, **Pie Chart**, or **Line Chart** to visualize the report.  
@@ -69,8 +69,7 @@ Odoo POS system has the following reports:
 ---
 
 ## Additional Resources
-
-- [Odoo POS Reporting](https://www.odoo.com/documentation/18.0/applications/sales/point_of_sale/reporting.html)
-- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28 )
-- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)
-- [Odoo POS Support](https://www.odoo.com/help)
+- [Odoo POS Reporting](https://www.odoo.com/documentation/18.0/applications/sales/point_of_sale/reporting.html)  
+- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)  
+- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)  
+- [Contact Odoo POS Support](https://www.odoo.com/help)  
