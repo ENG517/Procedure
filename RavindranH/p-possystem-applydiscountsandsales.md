@@ -81,3 +81,5 @@ Ensure the following steps are completed before you proceed to apply discounts:
 - [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)  
 - [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html )  
 - [Contact Odoo POS Support](https://www.odoo.com/help) 
+
+Find my procedure [here](./assets/docs/Procedure.pdf)
