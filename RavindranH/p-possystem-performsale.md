@@ -3,8 +3,6 @@
 ## What is this for?
 This article explains how to perform a sale in the Odoo POS system. By the end of this article, you’ll know how to sell a product, process payments, and record a sale in Odoo POS. 
 
-
-
 ## Before you Begin  
 
 Ensure the following product configuration steps are completed before proceeding with a sale:
@@ -13,6 +11,9 @@ Ensure the following product configuration steps are completed before proceeding
 - Launch **Odoo**.  
 - Click **Point of Sale**.  
 
+![POS MODULE](./assets/images/POS%20Module.jpeg)
+
+*Fig 1. Select POS Module*
 - Go to **Products → Products**.  
 - Select **New**.  
 - Go to the **General Information** tab.  
@@ -58,6 +59,8 @@ Ensure the following product configuration steps are completed before proceeding
 - Select product category.  
 - Add the product to the cart.  
 
+![Add Items to Cart](./assets/images/Items%20in%20cart.jpeg)
+
 *Fig 2. Add Items in Cart*  
 
 - Adjust the quantities, modifiers, and add-ons.  
@@ -74,9 +77,12 @@ Ensure the following product configuration steps are completed before proceeding
 - Select payment method: **Cash, Card, or Other**.  
 - Click **Validate** after choosing the payment method. The order is complete.  
 
+![Payment Sucess](./assets/images/Payment%20Success.jpeg)
+
 *Fig 3. Payment Success*  
 
-- Click **New Order** to proceed with another order.  
+- Click **New Order**, if willling to proceed with another order.  
+📌 **Note:** It is recommended to print receipt before creating a new order. 
 
 ### Step 5: Generate Receipt and Close Session
 - Print or email the receipt.  
@@ -86,7 +92,8 @@ Ensure the following product configuration steps are completed before proceeding
 
 ---
 ## Additional Resources
-- [Odoo POS Product Configuration](#)  
-- [Odoo POS Tutorials](#)  
-- [Odoo POS User Docs](#)  
-- [Contact Odoo POS Support](#)  
+- [Odoo POS Product Configuration](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale/configuration.html)
+- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)
+- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)
+- [Odoo POS Support](https://www.odoo.com/help)
+
