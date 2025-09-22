@@ -1,77 +1,81 @@
+# Performing a Sale in Odoo POS System
 
-# Performing Sales in a POS System
+## What is this for?
+This article explains how to perform a sale in the Odoo POS system. At the end of this article, you’ll know how to sell a product, process payments, and record a sale in Odoo POS.
 
-## System Requirements
+## Before you Begin
+Products form the building blocks of the Odoo POS system. Ensure the following product configuration steps are completed before proceeding with a sale.
 
-The POS workstation must have the following requirements:
+### Creating Products in Odoo
+1. Launch Odoo.
+2. Select **Point of Sale**.
+3. Go to **Products → Products**.
+4. Click **New**.
+5. Go to the **General Information** tab.
+6. Enter the following product details:
+   - **Product Name**: The name of the product.
+   - **Product Type**: The type of the product (e.g., Goods, Services, Combo).
+   - **Sales Price**: The price at which the product is sold.
+7. Upload an image for the product and include a product description.
 
-- Supported OS: Windows 10 or later 
-- Minimum 8GB RAM, 256 GB SSD, and dual core-processor
-- Barcocde scanner, receipt printer, cash drawer compliant with OPOS standards. 
-- Active internet connection for cloud-based POS setup.
-- Database access with appropriate user role permissions. 
+### Create Product Categories
+1. Go to **Point of Sale → Configuration → POS Product Categories**.
+2. Click **Create**.
+3. Enter a suitable name in the **Category** field.
+4. Go to **Point of Sale → Products → Products**.
+5. Go to the **Point of Sale** tab and fill in the **Category** field under the Point of Sale section with one or multiple POS categories.
 
----
-## Prerequisites
-- User account created with *Cashier* role and login credentials  
-- POS application installed and running  
-- Items added to product catalog with barcodes configured  
-- Payment methods (cash, card, digital wallet) enabled in the POS system  
-- Cash drawer initialized with starting cash amount (if applicable)  
+### Make Products Available in POS
+1. Go to **Point of Sale → Products → Products**.
+2. Select a product.
+3. Tick the **Point of Sale** checkbox at the top.
 
----
-## Device Requirements
-- **Barcode Scanner**: USB or Bluetooth-enabled, capable of reading 1D/2D codes  
-- **Receipt Printer**: Thermal or impact printer with OPOS drivers (e.g., Epson, Star Micronics)  
-- **Cash Drawer**: Electrically connected to the receipt printer for automatic opening  
-- **Payment Terminal/Pin Pad**: EMV-compliant, NFC-enabled for contactless payments (Apple Pay, Google Pay)  
-- **Customer Display (Optional)**: OPOS-supported pole display for showing item details and totals  
-- **POS Terminal/Workstation**: Touchscreen or keyboard-operated system meeting minimum system specs  
+## User Roles to Choose
+- Cashier  
+- POS User  
+- POS Manager  
+- Supervisor  
 
-# Step-by-Step Sales Procedure
+## Sell a Product
 
-1. **Login to POS**  
-   - Launch the POS appplication by clicking the POS application shortcut in the Desktop. 
-   - Enter the valid credentials.  
-   - Select *Cashier* role from the **User Profiles** drop-down. 
+### Step 1: Start a Session
+1. **Launch** `Odoo`.
+2. Go to **Point of Sale**.
+3. Choose a store (e.g., Retail or Restaurant).
+4. Click **Open Register**.
+   - **Tip**: If signing in as Cashier, cash in/cash out is mandatory.  
+   - **Tip**: Ensure the right store, location, and user role is selected.  
+   - **Warning**: Orders cannot be created without starting a new session.
 
-2. **Scan Item(s)**  
-   - Use the barcode scanner to scan the product barcodes or select the item from the **Order** screen. 
-   - Verify that each item appears in the cart with correct name, price, and quantity.  
-   - If barcode is unreadable, use *Search by Item Code/Name* feature.  
+### Step 2: Add Product to Cart
+1. Select product category.
+2. Add the product to the cart.
+3. Adjust the quantities, modifiers, and add-ons.
+   - **Warning**: Ensure a product does not have $0 price before adding to the cart.
 
-3. **Review Cart**  
-   - Confirm items, quantities, and subtotal.  
-   - Apply discounts, promo codes, or loyalty points (if applicable).  
+### Step 3: Review Order
+1. Verify the product price, taxes applied, and quantity.
+   - **Tip**: Double-check product details before proceeding to payment.
 
-4. **Select Payment Method**  
-   - Tap **Checkout** → Choose payment type (cash, card, digital wallet, split payment).  
-   - For **cash payments**: Enter the amount tendered.   
-   - For **card payments**: swipe/insert/tap the card on connected payment terminal.  
-   - For **digital wallet**: Scan QR or confirm payment through linked gateway.  
+### Step 4: Process Payment
+1. Click **Payment**.
+2. Select payment method: Cash, Card, or Other.
 
-5. **Complete Transaction**  
-   - Confirm payment success on POS screen.   
+### Step 5: Generate Receipt and Close Session
+1. Print or email the receipt.
+2. Close the order.
+   - **Note**: Confirm the customer receives a copy of the receipt.  
+   - **Tip**: To view customer details in the order, register the customer in the POS system.
 
-6. **Print or Send Receipt**  
-   - Print physical receipt. 
-   - Optionally, send e-receipt via email or SMS if customer details exist.  
 
-7. **End-of-Sale Confirmation**  
-   - POS displays transaction summary with transaction ID.  
-   - Return change (if cash) and thank the customer.  
+> If the customer does not receive mail:
+> - Verify you entered the correct email address.
+> - Ask customer to check their spam/junk folder.
+> - Enter the customer details and manually mail the receipt
 
-   ---
+## Additional Resources
 
-## Notes
-- Always verify product prices against displayed catalog to prevent billing errors.  
-- If network drops during transaction, POS queues the offline and syncs them when reconnected.  
-
----
-
-## References – OPOS Documentation 
-
-Here are key resources:  
-- [OPOS Common Control Objects Download](https://www.microsoft.com/en-us/download/details.aspx?id=42095)  
-- [UnifiedPOS (UPOS) Specification – CCO](https://www.omg.org/upos/)  
-- [OPOS Developer Resources](https://www.posforsystem.com/opos/)  
+- [Customer Registration](https://www.odoo.com/documentation/13.0/applications/sales/point_of_sale/overview/register.html?utm_source=chatgpt.com)
+- [Odoo POS Tutorials](https://www.odoo.com/documentation/19.0/applications.html)  
+- [Odoo Developer Resources](https://www.odoo.com/documentation/19.0/developer.html)  
+- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)  
