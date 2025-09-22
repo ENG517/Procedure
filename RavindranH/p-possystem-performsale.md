@@ -47,7 +47,9 @@ Ensure the following product configuration steps are completed before proceeding
    - **Tip**: If signing in as Cashier, cash in/cash out is mandatory.  
    - **Note**: Ensure the right store, location, and user role is selected.  
    - **Warning**: Orders cannot be created without starting a new session.
-
+   > **See Also**
+   > - You can also process refunds and exchanges in Odoo POS. 
+   
 ### Step 2: Add Product to Cart
 - Select product category.
 - Add the product to the cart.
