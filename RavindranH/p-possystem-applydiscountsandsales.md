@@ -55,21 +55,19 @@ Ensure the following steps are completed before you proceed to apply discounts:
 ⚠️ **Warning:** Ensure a product does not have $0 price before adding to the cart.  
 
 ### Step 3: Link Customer to Order
-- Click **Customer** on the Order screen.  
+- Click **Customer** on the **Order** screen.  
 - Select an existing customer record or create a new one.  
 
-📝 **Note:** This step is required for applying loyalty programs only, not discounts.  
+📌 **Note:** This step is required for applying loyalty programs only, not discounts.  
 
 ### Step 4: Apply Discounts/Loyalty Programs
-- Click **Discount** on the Order screen to apply a discount, or click **Rewards** to apply loyalty programs. The order price is instantly updated.  
+- Click **Discount** on the **Order screen** to apply a discount, or click **Rewards** to apply loyalty programs. The order price is instantly updated.  
 
 ![Rewards](./assets/images/Rewards.jpeg)
 
 *Fig 7. Apply Loyalty Points*  
 
 ⚠️ **Warning:** Discounts and loyalty programs cannot be applied together on the same order.  
-
----
 
 ### Step 5: Complete the Payment
 - Click **Payment**.  
