@@ -14,6 +14,7 @@ Ensure the following product configuration steps are completed before proceeding
 ![POS MODULE](./assets/images/POS%20Module.jpeg)
 
 *Fig 1. Select POS Module*
+
 - Go to **Products → Products**.  
 - Select **New**.  
 - Go to the **General Information** tab.  
@@ -28,7 +29,7 @@ Ensure the following product configuration steps are completed before proceeding
 - Click **Create**.  
 - Enter a suitable name in the **Category** field.  
 - Go to **Point of Sale → Products → Products**.  
-- Go to the **Point of Sale** tab and fill in the **Category** field under the Point of Sale section with one or multiple POS categories.  
+- Go to the **Point of Sale** tab and fill in the **Category** field under the **Point of Sale** section with one or multiple POS categories.  
 
 ### Make Products Available in POS
 - Go to **Point of Sale → Products → Products**.  
