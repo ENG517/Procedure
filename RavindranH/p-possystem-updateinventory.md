@@ -48,7 +48,7 @@ Ensure the following steps are completed before updating the inventory:
 ### Step 3: Validate Adjustment
 - Check the **Counted Quantity**, **On Hand Quantity**, and **Difference** amounts.  
 
-📝 **Note:**  
+📌 **Note:**  
 - If the Counted Quantity is greater than the On Hand Quantity, the value in the Difference column is **green**.  
 - If the Counted Quantity is less than the On Hand Quantity, the value in the Difference column is **red**.  
 - If the quantities match and have not been changed, no value appears in the Difference column.  
@@ -58,7 +58,7 @@ Ensure the following steps are completed before updating the inventory:
 - Click **History** to view the adjustment history.  
 - The user who performed the count is listed in parentheses in the **Reference** field, while the user who applied the count is listed in **Done By**.  
 
-📝 **Note:** If the POS system is offline, the changes are cached and synced with the server later.  
+📌 **Note:** If the POS system is offline, the changes are cached and synced with the server later.  
 
 ⚠️ **Warning:** Sync failure may result in count mismatch, resulting in cashiers selling items that are not in stock.  
 
