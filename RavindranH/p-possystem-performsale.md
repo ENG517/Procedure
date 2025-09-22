@@ -98,5 +98,6 @@ Ensure the following product configuration steps are completed before proceeding
 - [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)
 - [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)
 - [Odoo POS Support](https://www.odoo.com/help)
-- Refer to my procedure [here](./assets/docs/Procedure.pdf)
+
+Find my procedure [here](./assets/docs/Procedure.pdf)
 
