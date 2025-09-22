@@ -4,18 +4,19 @@
 This article explains how to perform a sale in the Odoo POS system. At the end of this article, you’ll know how to sell a product, process payments, and record a sale in Odoo POS.
 
 ## Before you Begin
-Products form the building blocks of the Odoo POS system. Ensure the following product configuration steps are completed before proceeding with a sale.
+- Products form the building blocks of the Odoo POS system. 
+- Ensure the following product configuration steps are completed before proceeding with a sale.
 
 ### Creating Products in Odoo
-- Launch Odoo.
-- Select **Point of Sale**.
-- Go to **Products → Products**.
-- Click **New**.
+- Launch **Odoo**.
+- Select **Point of Sale**
+- Go to **Products → Products**
+- Click **New**
 - Go to the **General Information** tab.
 - Enter the following product details:
-   - **Product Name**: The name of the product. 
-   - **Product Type**: The type of the product (e.g., Goods, Services, Combo).
-   - **Sales Price**: The price at which the product is sold.
+   - **Product Name**: The name of the product
+   - **Product Type**: The type of the product (e.g., Goods, Services, Combo)
+   - **Sales Price**: The price at which the product is sold
 - Upload an image for the product and include a product description.
 
 ### Create Product Categories
