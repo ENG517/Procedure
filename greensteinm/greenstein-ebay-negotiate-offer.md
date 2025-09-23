@@ -1,5 +1,7 @@
 # How to Negotiate Offers on eBay
 
+![Ebay negotiation messages](./assets/images/screenshots/eBay-messaging.png)
+
 ## To Prepare Before Receiving Offers
 
 **1. Decide your bottom line.**
