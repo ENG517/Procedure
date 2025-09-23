@@ -1,4 +1,4 @@
-# Procedure
+# How to use the Landing for a Wellness event
 
 Repo for the Procedure assignment in ENG 517 at NCSU.
 
