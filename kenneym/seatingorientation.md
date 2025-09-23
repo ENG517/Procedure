@@ -8,7 +8,7 @@ We reccomend a maximum capacity of 20 people in the room. If you would like spec
 * Event reservation confirmation
 * Physical means to lift and push around tables and chairs
 
-If you did not reserve the space for your event, please fill out **this form**
+If you did not reserve the space for your event, please fill out **this form.**
 
 ### Landing Seating Materials Checklist
 * 2 tables
@@ -62,10 +62,10 @@ Once completed, the room should look like this:
 2. On the interface panel, tap "sound" and turn the volume to 0
 3. Tap "lights" and turn the lights to 50% brightness
 
-    If the lights flicker, turn them off and message your librarian about your issue.
+    If the lights flicker, turn them off for 30 seconds and turn them back on. If the flickering keeps happening, message your librarian to assist you. 
 
 Note: If the lights begin to flicker, don't stress! This is **not** an issue you caused, and it is not a problem that can be solved without IT. We will fix this after you event concludes. 
 
 4. On the interface panel, press and hold on the top right corner until the login screen appears.
 
-Congratulations! You just operated a successful presentation event in the Landing! We hope the tools in the space fostered an environment of _ for your students. 
+Congratulations! You just operated a successful presentation event in the Landing! We hope the tools in the space fostered safe and inviting environment for your students. 
