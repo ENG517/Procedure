@@ -1,6 +1,6 @@
 # How to Set Up a Wellness Event in the Landing
 
-This guide walks you through how to organize a wellness event in Landing, so you can curate the space for your community's needs!
+**Purpose:** This guide walks you through how to organize a wellness event in Landing, so you can curate the space for your community's needs!
 
 Welcome to the Landing; your place for promoting wellness and connection for students and faculty! We look forward to hosting your wellness events in the space. We recieved feedback on how to organize wellness events that include music playing from the OLED dislays while allowing students to work on card games, puzzles, and assignments. 
 
@@ -46,6 +46,7 @@ You have now successfully logged into the interface! You are now ready to *Toggl
 ## Connecting your Phone to the OLED display
 
 ### Materials 
+
 * phone or tablet
 * HDMI cord
 * optional: HDMI adapter
@@ -59,7 +60,9 @@ If you do not have these tools, NC State Libraries offers tech lending for all m
 **Do not** begin testing the audio or video from your phone until you hit "accept connection" on the interface panel. 
 
 ### Changing the Master Audio
+
 You can change the volume of the audio coming from your phone on the  
+
 ## Resetting the Room 
 It is important we maintain the space after events so the Landing remains a community resource 24 hours a day. Once your event concludes, we ask that you tidy up the space so it is ready for students to use it. 
 
