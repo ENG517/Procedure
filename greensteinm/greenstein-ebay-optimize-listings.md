@@ -59,6 +59,7 @@
 **1. Build an eBay Storefront.**
 - Customize your store with branding, categories, and featured products.
 - Use a professional logo and consistent style across listings.
+![Ebay storefront pricing plans](./assets/images/screenshots/ebay-storefront-plans.jpg)
 
 **2. Use newsletters and coupons.**
 - Send store newsletters to past buyers with new arrivals.
@@ -71,8 +72,9 @@
 ## Monitor, Test, and Adapt
 
 **1. Track performance metrics.**
-- Use Seller Hub analytics to monitor impressions, click-through rate, and conversion.
+- Use *Seller Hub* analytics to monitor impressions, click-through rate, and conversion.
 - Identify which titles, photos, or categories perform best.
+![eBay Seller Hub](./assets/images/screenshots/ebay-seller-hub.png)
 
 **2. A/B test strategies.**
 - Experiment with pricing tiers, shipping policies, and promoted listings to see what drives sales.
@@ -86,3 +88,4 @@
 - Use **scheduled listings** to drop items during peak traffic hours (evenings & weekends).
 - Offer **international shipping** (via eBay International Shipping or your own service) to reach a global audience.
 - Keep **out-of-stock listings active** (with Good ’Til Cancelled) to preserve search history and visibility.
+- Ask an [**expert seller**](https://www.zikanalytics.com/blog/increase-ebay-seller-rating/) for advice! ![Two Glassy Sisters ebay page](./assets/images/screenshots/Two%20Glassy%20Sisters%20eBay%20page.png)
