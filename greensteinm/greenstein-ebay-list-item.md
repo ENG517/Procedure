@@ -7,8 +7,7 @@
 If you already have an eBay account, proceed to the next step. If you don't already have an account, follow the steps below.
 
    1. Go to [ebay.com](https://www.ebay.com).
-   2. Click ***register*** in the top left corner.
-   ![Register link on ebay.com](./assets/images/screenshots/ebay-register.png)
+   2. Click ***register*** in the top left corner.![Register link on ebay.com](./assets/images/screenshots/ebay-register.png)
    3. Follow the prompts to register for a personal account.
       - You will need a valid phone number, email address, and payment details (for fees and payouts).
       - If you plan to sell a large number of items, or sell on behalf of a business or nonprofit, register under the ***Business*** tab.
@@ -18,7 +17,7 @@ If you already have an eBay account, proceed to the next step. If you don't alre
      - average listed and sold prices,
      - how other sellers title and describe the item, and
      - which item categories they use.
-       - Use the search filters to sort by sold items to see "completed" (sold) listings. [Add screenshot of search filters]
+       - Use the search filters to sort by sold items to see "completed" (sold) listings. ![Ebay search filters](./assets/images/screenshots/ebay-filters.png)
    - Decide whether to list your item for a **fixed price** (Buy It Now) or put it up for **auction**. 
    - ***It's best to start selling with a few lower-value items to build positive feedback before listing high-ticket items.***
 
@@ -33,11 +32,13 @@ If you already have an eBay account, proceed to the next step. If you don't alre
      - If the listing includes multiple items (i.e., a set of salt and pepper shakers), photograph the items together *and* separately.
    - Include original packaging if available.
    - eBay allows up to 24 free photos per listing.
+![Ebay image recommendations 1](./assets/images/screenshots/ebay-images-1.png)
+![Ebay image recommendations 2](./assets/images/screenshots/ebay-images-2.png)
 
 ## Creating the Listing
 
 **1. Log into eBay.**
-   - Click ***sell*** in the top right corner.
+   - Click ***sell*** in the top right corner. ![Sell link on ebay.com](./assets/images/screenshots/ebay-sell-button.png)
 
 **2. Choose a selling format.**
    - Enter your item name in the search bar. eBay may suggest categories and listing templates.
@@ -49,7 +50,7 @@ If you already have an eBay account, proceed to the next step. If you don't alre
 
 **4. Select item specifics.**
    - Fill in eBay’s fields (brand, size, color, material, style, UPC, etc.).
-   - Accurate details help buyers find your item in search.
+   - Accurate details help buyers find your item in search. ![Item specification fields](./assets/images/screenshots/ebay-item-specs.png)
 
 **5. Write the item description.**
    - Include condition (new, gently used, refurbished, etc.).
@@ -80,6 +81,7 @@ If you already have an eBay account, proceed to the next step. If you don't alre
    - If you exceed your free monthly listings, there may be additional fees.
 
 **11. Click *List item* to publish your listing.**
+![List item button](./assets/images/screenshots/ebay-list-button.png)
 
 ### Your listing is now live on eBay.
 
