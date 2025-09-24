@@ -5,7 +5,7 @@ This guide will teach you how to _.
 1. Check the Events panel directly outside the Landing to see if the space is reserved.
 
     Below shows what the panel looks like and how reservations appear on the screen. A librarian will enter the space prior to a reservation time and kindly ask you to leave if you are there during those times. Plan to leave 15 minutes before an event to give yourself and the librarians enough time to tidy up the room. 
-
+![Happening in the Landing calendar kiosk](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/IMG_0755.JPG?version%3D1758680940060)
 2. Find a librarian or someone at the Ask Us deak to log you into the system
 
     The library does not share the OLED password with students, so if you would like to use the screen, ask someone to log you in first. 
@@ -17,11 +17,18 @@ This guide will teach you how to _.
 
 Tip: if you don't have something, visit the AskUs desk to rent it for the afternoon. For more information on tech lending options for your needs, please visit [the tech lending portal.](https://www.lib.ncsu.edu/devices)
 ## Connecting your consoles: 
+
 1. Locate HDMI Input 1 underneath the OLED screen
+
+![wall plate visual](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/IMG_0761.JPG?version%3D1758680994901)
+
+This is what the HDMI inputs look like. Both power outlets connect with the HDMI port. If the wall plate's aren't visible, check behind the games on the shelves, as someone may have covered them. 
 2. Insert the HDMI cable into the port
 3. Connect your equipment to the cord
-Your device name should now appear on the OLED interface panel. If your equipment's inputs do not match your cable, it will not appear. You will need an *HDMI adapter* to fix this as noted in materials.
-4. Tap on the device name in the OLED interface and press "accept connection"
+
+Your device name should now appear on the OLED interface panel. The image below shows what the interface looks like for connections. If your equipment's inputs do not match your cable, it will not appear. You will need an *HDMI adapter* to fix this as noted in materials.
+
+![screen layout and wall plate input screen on OLED interface](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/JPG%20of%20Images%20in%20Landing/Selecting%202%20sources.jpg?version%3D1758680810156)
 
 Your device's screen should now be casting on the OLED display. 
 
@@ -30,6 +37,8 @@ Sometimes the audio will not automatically play when connected to the screen. Th
 ### 1. Your device audio is muted
 
 1. On the interface panel, turn the speaker volume to 50%
+
+![input panel with volume toggle](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/JPG%20of%20Images%20in%20Landing/Input%20Page.jpg?version%3D1758681165484)
 2. Go to your device settings and check if your console is muted. 
 
 This will look different for different consoles. If you have trouble locating your device's audio settings, please visit the AskUs desk for assistance.
@@ -40,21 +49,18 @@ The volume should now output through the speakers. If the try troubleshooting by
 
 If more than one console is connected to the screen, the newest connection will output audio to the screen. All others will not output to the OLED speakers. If a different console should be outputting audio, disconnect the device you want sound for and repear steps 2-4.
 
-
 Note: if your equipment's inputs do not match your cable, you may need an adapter as noted in materials.
 
-## Testing your connection
-1. 
 ## Disconnecting Your Consoles
 Before disconnecting your device, make sure your progress is saved on all consoles. 
 
 1. Return to your device's home screen.
-Power off Device
-Remove the HDMI cable from the OLED input
+2. Power off Device.
+3. Remove the HDMI cable from the OLED input.
 
 This should result in a black square appearing on the OLED screen in place if your device screencasting. This means you successfully disconnected your console and it is safe to remove the cord from your device. After 30 seconds, the black screen will disappear on its own. 
 
-Remove the HDMI cable from your device
+4. Remove the HDMI cable from your device.
 
 
  **WARNING:** If you disconnect your console from the cord before the HDMI input, your console's homepage will freeze on the screen. If this happens, navigate to the interface panel, and exit the input tab. This will remove the frozen screencast from the OLED and successfully return the screen to its origional backdrop. 
@@ -65,4 +71,4 @@ Remove the HDMI cable from your device
 1. To log out of the OLED panel, press and hold the top left corner of the screen. 
 2. Roll all chairs back under the tables you found them. 
 3. Remove all personal items from the space when you leave. 
-4. Return checked out materials to the AskUs Desk
+4. Return checked out materials to the AskUs Desk.
