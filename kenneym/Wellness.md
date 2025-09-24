@@ -25,11 +25,13 @@ Once a librarian reaches out to with from your form, they will be your primary p
 
     After a few seconds, a password login screen will appear. 
 
+![Password page](assets/images/password.jpg)
+
 3. Type in the password once the login window appears. 
 
-    The password is XXXXXX, all lowercase
+    The password is XXXXXX, all lowercase.
 
-You have now successfully logged into the interface! You are now ready to *Toggle the Privacy Screen, Connect phones to the OLED Screen* and *Changing the Master Audio.*
+You have now successfully logged into the interface! You are now ready to *Toggle the Privacy Windows, and Connect phones to the OLED Screen*
 
 ### How to Toggle the Privacy Windows
 
@@ -47,21 +49,27 @@ You have now successfully logged into the interface! You are now ready to *Toggl
 
 ### Materials 
 
-* phone or tablet
+* Phone or tablet
 * HDMI cord
-* optional: HDMI adapter
+* Optional: HDMI adapter
 
 If you do not have these tools, NC State Libraries offers tech lending for all materials in the list. Walk down to the Ask Us desk on the 2nd floor for assistance in finding your equipment. For more information, please visit [this website.](https://www.lib.ncsu.edu/devices)
 
-1. Plug the end compatible with your console into 
+1. Plug the HDMI cord into  your device. 
 
-**Note:** This will usually be an HDMI ir USB-C input on your console. if you do not have the correct input, you will need an *HDMI adapter.* These are available to check out at the AskUs Desk. 
+**Note:** This will usually be an HDMI ir USB-C input on your device. if you do not have the correct input, you will need an *HDMI adapter.* These are available to check out at the AskUs Desk.
 
-**Do not** begin testing the audio or video from your phone until you hit "accept connection" on the interface panel. 
+2. Plug the HMDI cord into the Wall Panel.
 
-### Changing the Master Audio
+Once plugged in, a notification will appear on the interface panel to accept the connection. 
 
-You can change the volume of the audio coming from your phone on the  
+3. Press "accept connection" on the interface panel.
+
+**Do not** Begin testing the audio or video from your phone until you hit "accept connection" on the interface panel. 
+
+4. Test the pairing by playing a song from your phone.
+
+If you experience delays in the music, reset your device while connected to the screen. ***DO NOT*** disconnect from the screen before resetting. 
 
 ## Resetting the Room 
 It is important we maintain the space after events so the Landing remains a community resource 24 hours a day. Once your event concludes, we ask that you tidy up the space so it is ready for students to use it. 
