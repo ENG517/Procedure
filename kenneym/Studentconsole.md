@@ -2,6 +2,8 @@
 
 This guide will teach you how to connect a console to the OLED screen outside of scheduled events. 
 
+A common misconception is the Landing can only be used when it is reserved. This is not true! You are free to use the space to play games, connect to the screen, and relax during your study break! This guide will teach you how to connect consoles to the OLED screen and use the space outside of its reservation times. 
+
 ## Before you Connect
 
 1. Check the Events panel directly outside the Landing to see if the space is reserved.
@@ -24,7 +26,7 @@ Tip: if you don't have something, visit the AskUs desk to rent it for the aftern
 
 1. Locate HDMI Input 1 underneath the OLED screen
 
-![wall plate visual](/Users/madelynkenney/Desktop/ENG 517/512 procedure copy/Procedure/kenneym/assets/images/IMG_0761.JPG)
+![wall plate visual](assets/images/wallplate.JPG)
 
 This is what the HDMI inputs look like. Both power outlets connect with the HDMI port. If the wall plate's aren't visible, check behind the games on the shelves, as someone may have covered them. 
 
@@ -53,7 +55,7 @@ The volume should now output through the speakers. If the try troubleshooting by
 
 If more than one console is connected to the screen, the newest connection will output audio to the screen. All others will not output to the OLED speakers. If a different console should be outputting audio, disconnect the device you want sound for and repear steps 2-4.
 
-Note: if your equipment's inputs do not match your cable, you may need an adapter as noted in materials.
+**Note:** if your equipment's inputs do not match your cable, you may need an adapter as noted in materials.
 
 ## Disconnecting Your Consoles
 Before disconnecting your device, make sure your progress is saved on all consoles. 
@@ -69,10 +71,8 @@ This should result in a black square appearing on the OLED screen in place if yo
 
  **WARNING:** If you disconnect your console from the cord before the HDMI input, your console's homepage will freeze on the screen. If this happens, navigate to the interface panel, and exit the input tab. This will remove the frozen screencast from the OLED and successfully return the screen to its origional backdrop. 
 
-
-
 ## Resetting the Room
-1. To log out of the OLED panel, press and hold the top left corner of the screen. 
+1. Log out of the OLED panel by pressing and holding the top left corner of the screen. 
 2. Roll all chairs back under the tables you found them. 
 3. Remove all personal items from the space when you leave. 
 4. Return checked out materials to the AskUs Desk.
