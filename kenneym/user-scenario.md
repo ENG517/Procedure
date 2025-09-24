@@ -1,5 +1,3 @@
 # User Scenario - Gaming in the Landing
 
 **Scenario**: Jimmy Patel is a 3rd-year student who brought his Nintendo Switch to the Library to play Mario Kart during study breaks. He found his friends at the Dataspace, and they agreed to go into the Landing for a quick Mario Kart tournament to reward their hard work during a productive study session. These students live at Wolf Ridge and work in the library almost every day. They have been to an event in the landing before, but don’t feel confident enough to set up their console on the OLED unassisted.
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)

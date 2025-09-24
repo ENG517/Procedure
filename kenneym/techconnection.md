@@ -31,7 +31,7 @@ Your device's screen should now be casting on the OLED display.
 ## Troubleshooting Console Device Audio
 Sometimes the audio will not automatically play when connected to the screen. This is caused by 3 different issues
 ### 1. Your device audio is muted
-    On the interface panel, turn the speaker volume to 50%
+On the interface panel, turn the speaker volume to 50%
 
 Go to your device settings and check if your console is muted. 
 

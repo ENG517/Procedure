@@ -8,7 +8,7 @@ This guide will teach you how to connect a console to the OLED screen outside of
 
 Below shows what the panel looks like and how reservations appear on the screen. A librarian will enter the space prior to a reservation time and kindly ask you to leave if you are there during those times. Plan to leave 15 minutes before an event to give yourself and the librarians enough time to tidy up the room. 
 
-![Happening in the Landing calendar kiosk](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/Kiosk.JPG?version%3D1758683023270)
+![Happening in the Landing calendar kiosk](kenneym/assets/images/Kiosk.JPG)
 
 2. Find a librarian or someone at the Ask Us deak to log you into the system
 
@@ -24,7 +24,7 @@ Tip: if you don't have something, visit the AskUs desk to rent it for the aftern
 
 1. Locate HDMI Input 1 underneath the OLED screen
 
-![wall plate visual](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/IMG_0761.JPG?version%3D1758680994901)
+![wall plate visual](/Users/madelynkenney/Desktop/ENG 517/512 procedure copy/Procedure/kenneym/assets/images/IMG_0761.JPG)
 
 This is what the HDMI inputs look like. Both power outlets connect with the HDMI port. If the wall plate's aren't visible, check behind the games on the shelves, as someone may have covered them. 
 
@@ -33,7 +33,7 @@ This is what the HDMI inputs look like. Both power outlets connect with the HDMI
 
 Your device name should now appear on the OLED interface panel. The image below shows what the interface looks like for connections. If your equipment's inputs do not match your cable, it will not appear. You will need an *HDMI adapter* to fix this as noted in materials.
 
-![screen layout and wall plate input screen on OLED interface](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/JPG%20of%20Images%20in%20Landing/Selecting%202%20sources.jpg?version%3D1758680810156)
+![screen layout and wall plate input screen on OLED interface](/Users/madelynkenney/Desktop/ENG 517/512 procedure copy/Procedure/kenneym/assets/images/JPG of Images in Landing/Selecting 2 sources.jpg)
 
 Your device's screen should now be casting on the OLED display. 
 
@@ -44,7 +44,8 @@ Sometimes the audio will not automatically play when connected to the screen. Th
 
 1. On the interface panel, turn the speaker volume to 50%.
 
-![input panel with volume toggle](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/JPG%20of%20Images%20in%20Landing/Input%20Page.jpg?version%3D1758681165484)
+![input panel with volume toggle](kenneym/assets/images/volume.jpg)
+
 2. Go to your device settings and check if your console is muted. 
 
 This will look different for different consoles. If you have trouble locating your device's audio settings, please visit the AskUs desk for assistance.
@@ -73,7 +74,7 @@ This should result in a black square appearing on the OLED screen in place if yo
 
 
 
-## Resetting the room
+## Resetting the Room
 1. To log out of the OLED panel, press and hold the top left corner of the screen. 
 2. Roll all chairs back under the tables you found them. 
 3. Remove all personal items from the space when you leave. 
