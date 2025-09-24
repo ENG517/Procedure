@@ -1,5 +1,3 @@
 # User Scenario - Title Here
 
-**Scenario**: Paste the scenario text here.
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+**Scenario**: John Doe is an intermediate-level user who has some experience using InDesign but is attempting their first large scale project to create a magazine for print format. John is a non-professional hobbyist looking to create a zine to feature their local community of musicians. After reviewing youtube tutorials to explore Indesign, using their university's Adobe subscription, they have an idea of the basic functionality and workflow of InDesign but need help with the specifics of how to compile their images, articles, and interviews into a finished zine.
