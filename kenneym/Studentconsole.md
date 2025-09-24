@@ -7,7 +7,7 @@ This guide will teach you how to _.
 
 Below shows what the panel looks like and how reservations appear on the screen. A librarian will enter the space prior to a reservation time and kindly ask you to leave if you are there during those times. Plan to leave 15 minutes before an event to give yourself and the librarians enough time to tidy up the room. 
 
-![Happening in the Landing calendar kiosk](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/IMG_0755.JPG?version%3D1758680940060)
+![Happening in the Landing calendar kiosk](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/Kiosk.JPG?version%3D1758683023270)
 
 2. Find a librarian or someone at the Ask Us deak to log you into the system
 
