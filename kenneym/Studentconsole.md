@@ -2,13 +2,16 @@
 
 This guide will teach you how to _. 
 ## Before you Connect
+
 1. Check the Events panel directly outside the Landing to see if the space is reserved.
 
-    Below shows what the panel looks like and how reservations appear on the screen. A librarian will enter the space prior to a reservation time and kindly ask you to leave if you are there during those times. Plan to leave 15 minutes before an event to give yourself and the librarians enough time to tidy up the room. 
+Below shows what the panel looks like and how reservations appear on the screen. A librarian will enter the space prior to a reservation time and kindly ask you to leave if you are there during those times. Plan to leave 15 minutes before an event to give yourself and the librarians enough time to tidy up the room. 
+
 ![Happening in the Landing calendar kiosk](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/IMG_0755.JPG?version%3D1758680940060)
+
 2. Find a librarian or someone at the Ask Us deak to log you into the system
 
-    The library does not share the OLED password with students, so if you would like to use the screen, ask someone to log you in first. 
+The library does not share the OLED password with students, so if you would like to use the screen, ask someone to log you in first. 
 
 ## Materials
 * HDMI cable
@@ -23,8 +26,9 @@ Tip: if you don't have something, visit the AskUs desk to rent it for the aftern
 ![wall plate visual](https://file+.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/IMG_0761.JPG?version%3D1758680994901)
 
 This is what the HDMI inputs look like. Both power outlets connect with the HDMI port. If the wall plate's aren't visible, check behind the games on the shelves, as someone may have covered them. 
-2. Insert the HDMI cable into the port
-3. Connect your equipment to the cord
+
+2. Insert the HDMI cable into the port.
+3. Connect your equipment to the cord.
 
 Your device name should now appear on the OLED interface panel. The image below shows what the interface looks like for connections. If your equipment's inputs do not match your cable, it will not appear. You will need an *HDMI adapter* to fix this as noted in materials.
 
@@ -33,10 +37,11 @@ Your device name should now appear on the OLED interface panel. The image below 
 Your device's screen should now be casting on the OLED display. 
 
 ## Troubleshooting Console Device Audio
-Sometimes the audio will not automatically play when connected to the screen. This is caused by 3 different issues
+Sometimes the audio will not automatically play when connected to the screen. There are two reasons why this may happen: 
+
 ### 1. Your device audio is muted
 
-1. On the interface panel, turn the speaker volume to 50%
+1. On the interface panel, turn the speaker volume to 50%.
 
 ![input panel with volume toggle](https://file%2B.vscode-resource.vscode-cdn.net/Users/madelynkenney/Desktop/ENG%20517/512%20procedure%20copy/Procedure/kenneym/assets/images/JPG%20of%20Images%20in%20Landing/Input%20Page.jpg?version%3D1758681165484)
 2. Go to your device settings and check if your console is muted. 
