@@ -9,7 +9,7 @@ Select the _Rectangle Frame Tool_ and draw a frame on the page where you want th
 
 ## 2. Place your photo
 
-Use _File_ > _Place_ to select your image file, or paste the iamge onto the artboard, to the side of the page, and drag and drop the file onto the frame
+Use _File_ > _Place_ to select your image file, or paste the image onto the artboard, to the side of the page, and drag and drop the file onto the frame
 
 ## 3. Position and Scale
 - Use the **Selection Tool (v)** to move the image.
