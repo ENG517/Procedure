@@ -2,7 +2,7 @@
 
 Seating arrangements in the Landing completely change the atmosphere of your event. The space includes tables and chairs both at the center of the space and against the walls that can be rolled around to better accomodate your event. 
 
-We reccomend a maximum capacity of 20 people in the room. If you would like specific seating not outlined in this guide, please fill out[this form](https://studentcenters.ncsu.edu/events/resources/forms/event-request-form/) This guide will show you to how orient the space for presentations requiring rows of seated attention toward the OLED screen.
+We reccomend a maximum capacity of 20 people in the room. If you would like specific seating not outlined in this guide, please fill out [this form](https://studentcenters.ncsu.edu/events/resources/forms/event-request-form/) This guide will show you to how orient the space for presentations requiring rows of seated attention toward the OLED screen.
 
 ## Prerequisites
 * Event reservation confirmation
@@ -16,8 +16,8 @@ If you did not reserve the space for your event, please fill out [this form.](ht
 * 2 bean bag chairs
 * 2 ottomans
 
-## Task 1: Configuring the Room
-Time - 15 minutes for one person
+## Configuring the Room
+*Time - 15 minutes for one person*
 
 1. Place the two large brown chairs and their ottomans on outside the door.
 
@@ -25,7 +25,7 @@ Time - 15 minutes for one person
 
 2. Move the chairs by the tables in rows to the front of the room.
 
-The amount of rows depends on how many people are in the space
+The amount of rows depends on how many people are in the space.
 
 3. Press on the wheel's switch with your foot to unlock the wheel.
 
@@ -36,15 +36,46 @@ The amount of rows depends on how many people are in the space
 5. Lock all wheels once you are satisfied with your layout.
 
 After Completing the steps above, the presentation space should look like this:
-# DO THIS put a picture here of presentation landing
+
+![Presentation orientation showing chairs in rows facing the OLED screen](assets/images/presentation.jpg)
 
 Congratulations, you have successfuly set up the Landing for your event! 
+
+## Connecting your Laptop to the OLED Screen
+
+The OLED screen offers a large layout for informative visuals! Here is how to connect your laptop to the screen. 
+
+**Materials**
+* Laptop
+* HDMI cord
+
+**Note:** Most laptops are compatible with HDMI inputs. If your laptop is not, there are adapters available downstairs at AskUs for you to check out!
+
+1. Log into the interface.
+
+![Password screen](assets/images/password.jpg)
+
+Your librarian should have sent you the password for the interface panel. Press and hold the top right of the screen until the password page appears, and type in the password provided. 
+
+2. Insert the HDMI cord into the wall plate below the OLED screen.
+
+![Wallplate example](assets/images/wallplate.JPG)
+
+If you need to charge your laptop while screencasting, please use the plugs connected to the wall plate you are using. 
+
+3. Plug the HDMI cord into the laptop.
+4. Test connection using your slides.
+
+**Note:** Macbook users occasionally experience freezing or muting immediately after connecting. If the screencasting is delayed or muted, reset your computer ***without unplugging your computer.*** If you still experience issues, contact your librarian for assistance or reach out to AskUs for more troubleshooting assistance.  
+
+You are now ready to host your presentation event!
 
 ## Resetting the Landing to Default Orientation
 Once your event has concluded and all event participants have vacated the space, you are ready to begin resetting the Landing to its default orientation. 
 
+*Time - 15 minutes for one person*
+
 ### Resetting the Tables and Chairs
-Refer to the **default orientation** image for additional assistance in orienting the space. 
 
 1. Unlock all wheels for the tables and chairs.
 
@@ -57,10 +88,11 @@ Refer to the **default orientation** image for additional assistance in orientin
 
 Once completed, the room should look like this:
 
-# DO THIS put a picture here of default landing
+![Default orientation of the landing](assets/images/default.jpg)
+
 ### Logging out of the interface
-1. Disconnect the HDMI port from the OLED insert and the laptop
-2. On the interface panel, tap "sound" and turn the volume to 0
+1. Disconnect the HDMI port from the OLED insert and the laptop.
+2. On the interface panel, tap "sound" and turn the volume to 0.
 3. Tap "lights" and turn the lights to 50% brightness
 
     If the lights flicker, turn them off for 30 seconds and turn them back on. If the flickering keeps happening, message your librarian to assist you. 
