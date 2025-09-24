@@ -1,5 +1,3 @@
-# User Scenario - Title Here
+# User Scenario - IDS Presentation Day in the Landing
 
-**Scenario**: Paste the scenario text here.
-
-Refer also to my [Priority Guide](assets/docs/enter-pdf-filename-here.pdf)
+**Scenario**: Dr. Sojourn Kellsworth is a professor in the Department of Interdisciplinary Studies and is teaching a senior capstone course for IDS, STS, and International Studies undergraduate students. Their final project consists of a large paper and an accompanying presentation to inform their classmates about their area of study. They want to use the Landing to hold their final presentations outside of the classroom so students can take pictures of their capstone speaking for LinkedIn and portfolios. The students’ presentations are all on Google Slides, so only one laptop is needed, connected to the OLED screen for use. However, Dr. Kellsworth solely uses Apple ecosystems, and is beginning their MacBook for connecting to the screen. They would like a physical guide to walk them through how to orient the chairs in the landing for these presentations as a start-to-finish guide covering setup, laptop connection, and resetting the room. 

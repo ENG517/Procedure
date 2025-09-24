@@ -2,13 +2,13 @@
 
 Seating arrangements in the Landing completely change the atmosphere of your event. The space includes tables and chairs both at the center of the space and against the walls that can be rolled around to better accomodate your event. 
 
-We reccomend a maximum capacity of 20 people in the room. If you would like specific seating not outlined in this guide, please fill out **THIS FORM** This guide will show you to how orient the space for presentations requiring rows of seated attention toward the OLED screen.
+We reccomend a maximum capacity of 20 people in the room. If you would like specific seating not outlined in this guide, please fill out[this form](https://studentcenters.ncsu.edu/events/resources/forms/event-request-form/) This guide will show you to how orient the space for presentations requiring rows of seated attention toward the OLED screen.
 
 ## Prerequisites
 * Event reservation confirmation
 * Physical means to lift and push around tables and chairs
 
-If you did not reserve the space for your event, please fill out **this form.**
+If you did not reserve the space for your event, please fill out [this form.](https://studentcenters.ncsu.edu/events/resources/forms/event-request-form/)
 
 ### Landing Seating Materials Checklist
 * 2 tables
@@ -25,13 +25,13 @@ Time - 15 minutes for one person
 
 2. Move the chairs by the tables in rows to the front of the room.
 
-    The amount of rows depends on how many people are in the space
+The amount of rows depends on how many people are in the space
 
 3. Press on the wheel's switch with your foot to unlock the wheel.
 
 4. Push the tables to the back of the room, against the wall opposite to the OLED screen.
 
-    **Note:** If you experience (1) resistance from the table upon pushing or (2) the table veering to the left or right while pushing, this means one or more of the wheels are still locked. Return to step one and press down on the wheels to ensure all are unlocked. 
+**Note:** If you experience (1) resistance from the table upon pushing or (2) the table veering to the left or right while pushing, this means one or more of the wheels are still locked. Return to step one and press down on the wheels to ensure all are unlocked. 
 
 5. Lock all wheels once you are satisfied with your layout.
 
@@ -49,6 +49,7 @@ Refer to the **default orientation** image for additional assistance in orientin
 1. Unlock all wheels for the tables and chairs.
 
     You should now be able to move the furniture without resistance.
+
 2. Push tables to their original spaces at the center of the room.
 3. Surround the table with the chairs.
 4. Place the 2 bean bag chairs and 2 ottomans back in the room against the wall
