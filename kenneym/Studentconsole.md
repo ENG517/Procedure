@@ -1,6 +1,7 @@
 # How to Connect Techology to the OLED Display
 
-This guide will teach you how to _. 
+This guide will teach you how to connect a console to the OLED screen outside of scheduled events. 
+
 ## Before you Connect
 
 1. Check the Events panel directly outside the Landing to see if the space is reserved.
