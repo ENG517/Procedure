@@ -1,15 +1,22 @@
 # Place and Format Images
 
-### Introduction
-By using image frames, you can add images into your document. Once you have assembled your images, created the document, and made the desired master pages, you can use image frames to add photos and other visual elements into the magazine.
+You can add photos and other visual elements into your document using image frames.
 
 ## 1. Create image frames
 
-Select the _Rectangle Frame Tool_ and draw a frame on the page where you want the image to go.
+1. Select the _Rectangle Frame Tool_ 
+2. Draw a frame on the page where you want the image to go
 
 ## 2. Place your photo
+1. Open the _File_ menu from the toolbar and select _Place_ 
+2. Select your image file from its folder location to copy it onto your artboard
 
-Use _File_ > _Place_ to select your image file, or paste the image onto the artboard, to the side of the page, and drag and drop the file onto the frame
+Or
+ 1. Right click on an image from document or web page 
+ 2. Select _Copy_ 
+ 3. Open the project, and right click on an area to the side of the artboard
+ 4. Select _Paste_ 
+ 5. Drag and drop new image into the desired location on the artboard
 
 ## 3. Position and Scale
 - Use the **Selection Tool (v)** to move the image.
