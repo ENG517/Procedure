@@ -4,7 +4,8 @@
 
 >*Figure 1: Aesthetic Vintage Typewriter and Wrapped Stock Paper*
 
-So, you want to start using a manual typewriter. Whether you plan to write your debut novel, fill out an official document, or just listen the aesthetic sound that is clicking typewriter keys, you will need to first complete one important task: loading the paper!
+So, you want to start using a manual typewriter. Whether you plan to write your debut novel, fill out an official document, or just listen the aesthetic sound that is clicking typewriter keys, you will need to first complete one important task: *loading the paper*!
+<!-- A little emphasis to make the main goal pop quickly for reading to do folks. -->
 
 Loading paper into a typewriter for the first time can be tricky. Don't worry! Take the time to load and adjust your paper as needed using the steps below, and practice a few times to get the hang of it. Good luck!
 
@@ -13,42 +14,58 @@ Loading paper into a typewriter for the first time can be tricky. Don't worry! T
 There are minimal materials required to load paper into a typewriter:
 
  1. A Typewriter
+ <!-- Any type of typewriter? Or does it assume a particular age/era? My mother used digital typewriters for awhile is why I ask. :-) -->
  2. Paper
      - Most manual typewriters can use regular ol' printer paper, though some older models work best with thicker stock paper. It will likely take some trial and error to determine what works best for you.
 
 ## Loading the Paper
 
- 1. Locate the important typewriter mechanisms listed below for your typewriter using the image provided. 
+<!-- Many of your steps involve numerous substeps, so consider the following format to help distinguish major and minor steps. -->
 
-     >Note: Your typewriter may look different than the example shown. If this is your first time using a typewriter, it will take some time to fully familiarize yourself with your machine.
+### 1. Locate the important typewriter mechanisms
+<!--
+  Instead of "Locate", perhaps "Identify" is a more aligned action here?
+-->
 
-    - Paper Bail
-    - Paper Release Lever
-    - Platen
-    - Platen-Knob/Roller-Knob
-    
-    ![Typewriter Anatomy](/wraya/assets/images/typewriter-anatomy-load-paper.png)
+Locate the important typewriter mechanisms listed below for your typewriter using the image provided.
 
-    >*Figure 2: Anatomy of a Typewriter*
+  >Note: Your typewriter may look different than the example shown. If this is your first time using a typewriter, it will take some time to fully familiarize yourself with your machine.
+  <!-- Are the below some of the most important/pertinent to this procedure? If so, perhaps note this straight away. -->
+  - Paper Bail
+  - Paper Release Lever
+  - Platen
+  - Platen-Knob/Roller-Knob
 
- 2. Remove the existing paper, if applicable
-    - Pull back the paper bail to an open position to release its hold on the paper
-    - Pull back the paper release lever
-    >Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
-    - Roll the platen knob forward until the existing sheet of paper is fully removed
- 3. Insert the new paper
+  ![Typewriter Anatomy](/wraya/assets/images/typewriter-anatomy-load-paper.png)
+
+  >*Figure 2: Anatomy of a Typewriter*
+
+### 2. Remove the existing paper, if applicable.
+
+1. Pull back the paper bail to an open position to release its hold on the paper.
+2. Pull back the paper release lever
+    > Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
+3. Roll the platen knob forward until the existing sheet of paper is fully removed.
+
+<!-- Comments
+  - Convert the below content to match the above content pattern.
+  - Be sure to use normal puncuatation at the end of your steps. Check and change throughout.
+-->
+### 3. Insert the new paper
     - Manually feed a new sheet of paper downward behind the platen
     - Push the paper release lever back so that it is deactivated
- 4. Roll and adjust the new sheet of paper
+4. Roll and adjust the new sheet of paper
     - Roll the platen knob forwards, towards the back of the typewriter until the paper begins to come out from under the platen roller
     - Curve the paper backwards so that it is behind the paper bail
- 5. Readjust the paper bail
+5. Readjust the paper bail
     - Move the paper bail back to a closed position so that it is resting against the paper
- 6. Test and Type
+6. Test and Type
     - Use the return lever to move the carriage to the left margin and begin typing
     - If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. 
 
 ## Common Issues To Look Out For
+
+<!-- I appreciate this content, but I wonder if you should put it in the places where they typically occur. Or, leave these subsections as is, but reference then in your procedure, where they are applicable. -->
 
 If you are loading paper into a typewriter for the first time and followed all of the steps above but your paper seems to be moving excessively, check for these common problems:
 
