@@ -1,19 +1,27 @@
 # Crafting Realistic Black and White Images in Figma #
+<!-- COMMENTS
+  - See commments in Vectorizer and apply here too.
+  - I think the main goal neds refining, since you are focusing on a particular aspect of Figma: Figma Draw, it should be represented in the title and noted in an immediate goal statement. As is, the first paragraph does not arrive at a main goal statement for the procedure. In short, simplify and focus on the main goal.
+-->
 
 Whether you are an experienced artist adept at rendering complex hand-drawn illustrations or someone just starting out drawing, you have likely thought about trying your hand at digital illustration. Perhaps you have even heard of popular design tools like Adobe Illustrator, Canva, and Sketch. While all of these softwares have their benefits, I am here to talk to you about **Figma**, and more specifically the ease with which you can craft realistic black and white images and illustrations within its built-in environments.
 
+<!-- If you establish the goal more clearly, I think you can provide a better transition into this content about the "Why grayscale?" factor. -->
 The benefits of drawing in a monochromatic or *grayscale* palette are extensive. By sticking with black and white, form, **contrast**, and fundamental elements like ***line*** and ***shape*** are emphasized. I mean, black and white illustrations and drawings are a timeless medium, just consider the following images:
 
 <img src="assets/images/BW_Illustrations/Cave of Altamira.jpg" alt="Altamiria Drawing" style="width: 160px; height: 120px">
 <img src="assets/images/BW_Illustrations/Shel-Silverstein-Illustration.jpg" alt="Alt text" style="width: 140px; height: 120px ">
 <img src="assets/images/BW_Illustrations/MC_Escher_Hands.jpeg" alt="Alt text"  style="width: 180px; height: 120px">. 
 
->* Figures 1, 2, and 3 from left to right: "Cave of Altamira," "Where the Sidewalk Ends," "Hands."
+> *Figures 1*. From left to right: "Cave of Altamira," "Where the Sidewalk Ends," and "Hands."
 
+<!-- Seems redundant here, whereas the important factor about the focus on Figma Draw should be noted straight away. -->
 Depending on your artistic expertise, creating images like these will not be something you will be able to do instantly. However, getting started drawing in Figma is now easier than ever with the introduction of **Figma Draw**, a dedicated workspace in Figma purely for expressive vector illustration and visual design.
 
 ## Prequisites ##
-In addition to Figma, you will need to utilize the [MonoMagic]("https://www.figma.com/community/plugin/1301603282794767236/monomagic-desaturate-frames-vectors") plugin to achieve an authentic Grayscale. I recommend saving or bookmarking this software prior to beginning.
+
+- Download and install the [MonoMagic]("https://www.figma.com/community/plugin/1301603282794767236/monomagic-desaturate-frames-vectors") plugin.
+  - Supports authentic grayscale outputs.
 
 ## Getting Started with Figma Draw ##
 
@@ -25,7 +33,30 @@ To open up Figma Draw:
 ##
 ![Figma Draw](assets/images/screenshots/Draw_Diagram.png)
 > Figure 4: The squiqqly icon opens Figma Draw.
-## Choosing a Drawing Tool ##
+
+## 1. Choose a Drawing Tool
+
+<!-- Comments
+
+- Note the revisions to the subheading.
+- Instead of "There are three drawing apparatuses available in Figma Draw ...", consider:
+___
+In Figma Draw, toggle between 3 drawing tools in the toolbar. Choose one of the following drawing tools to start drawing:
+
+- Pen tool
+  - Great for clear, concise lines.
+  - Easily bendable.
+- Pencil tool
+  - Great for freehand drawing.
+  - Great for unstructured, organic shapes,
+- Brush tool
+  - Only available in Figma draw mode.
+  - Great for hand painted textures and varying line weights.
+___
+
+- Note how these are not sequential steps, but options to consider, so we should not use numbered steps in this case.
+
+-->
 There are three drawing apparatuses available in Figma Draw, other than the shape tool, for creating vector based drawings. All are accessible via the toolbar.
 
 1. ### The pen ###
