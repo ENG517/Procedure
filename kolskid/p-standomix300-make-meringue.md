@@ -1,5 +1,6 @@
 # How to Make Meringue Cookies
-This procedure will guide you through the process of making tasty meringue cookies with the Stand’o’Mix 300. 
+<!-- Refer to my comments in your other two procedures and apply herein. -->
+This procedure will guide you through the process of making tasty meringue cookies with the Stand’o’Mix 300.
 
 This is a reliable, tasty recipe that produces wonderful meringue cookies without having to beat egg whites by hand until your arm falls off! Once bakers are more comfortable with the process, the cookies can easily be fancied up with food coloring, different flavors,and new cookie shapes.
 
@@ -10,12 +11,15 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 - Cookie sheet
 - Parchment paper
 - Disposable piping bag
+  <!-- Note my reformatting of the images as children of the list item. -->
   - Smooth-sided cookies: no piping tip needed.
-![Smooth meringue cookies](<assets/images/screenshots/Meringue pics/Smooth meringue.png>)
-    >*Figure 1: Smooth meringue cookies.*
+
+    ![Smooth meringue cookies](<assets/images/screenshots/Meringue pics/Smooth meringue.png>)
+      >*Figure 1: Smooth meringue cookies.*
   - Cookies with defined ruffles/ridges: star-shaped piping tip (any size) required.
-![Ruffled meringue cookies](<assets/images/screenshots/Meringue pics/Ruffle meringue.png>)
-    >*Figure 2: Ruffled meringue cookies.*
+
+    ![Ruffled meringue cookies](<assets/images/screenshots/Meringue pics/Ruffle meringue.png>)
+      >*Figure 2: Ruffled meringue cookies.*
 
 ### Ingredients
 - 4 large eggs
@@ -42,11 +46,11 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 
 ### Make the Meringue
 1. Wipe down the whisk and bowl with a dry cloth or paper towel, ensuring both are fully dry.
-2. Add egg whites, cream of tartar, and salt to the bowl, and mix on low speed until frothy.	
-5. Raise mixer speed to high. 
+2. Add egg whites, cream of tartar, and salt to the bowl, and mix on low speed until frothy.
+5. Raise mixer speed to high.
 4. While the mixer is running, slow sprinkle in sugar 1 tbsp at a time, letting each addition fully incorporate before adding more.
 5. Add in the vanilla extract.
-6. Beat until the mixture is glossy, has a thick, marshmallowy texture, and has increased in volume. It will take several minutes! 
+6. Beat until the mixture is glossy, has a thick, marshmallowy texture, and has increased in volume. It will take several minutes!
 7. When the sugar is fully dissolved and the mixture comes to stiff peaks, it’s ready!
     - **Test for dissolved sugar:** Rub a small bit of meringue between your fingers. If it feels gritty, it needs to be mixed longer.
     - **Test for stiff peaks:** Unhook the whisk and lift it straight out of the bowl. The meringue should come to a ‘peak’ that is stiff enough to stand upright when the whisk is turned over. If the peak flops over, it needs to be mixed longer.
@@ -62,7 +66,7 @@ This is a reliable, tasty recipe that produces wonderful meringue cookies withou
 >*Figure 5: Piping cookies with a ruffle tip.*
 
 3. Place on the center rack of the preheated oven and bake for 1 hour.
-4. Turn the oven off, but do not open the door. 
+4. Turn the oven off, but do not open the door.
    - The residual heat will gently finish drying the cookies while the oven gradually cools down.
 5. Leave the cookies in the off, closed oven for 1-2 hours until they cool completely.
 6. Enjoy!
