@@ -1,7 +1,10 @@
 # How To Change a Typewriter Ribbon
 
+<!-- See my notes in the loading paper and apply/consider herein. -->
+
 So, you've been writing on your typewriter for a while and your text is starting to look a bit see-through. Luckily, there's a simple fix for that! Read on to learn how to replace a typewriter ribbon and eliminate those obnoxiously transparent letters.
 
+<!-- Add this in the prereqs, under the typewriter -->
 >Note: The images used in this tutorial are for a Brother typewriter. Different typewriters may have different, less complex spool mechanisms, and may not include a spring-loaded arm or spool shaft pin.
 
 ## Materials
