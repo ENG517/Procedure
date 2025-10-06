@@ -17,6 +17,10 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 
 ## Let's Make Pasta!
 
+<!--
+  If a linear process, then consider using numbers in your headings too: 1. Prepare; 2. Make the dough; etc.
+  Consider this for the rest of your procedures.
+-->
 ### Prepare!
 1. Measure out the flour, salt, and water, and set out the eggs. 
 2. Install the beater in the mixer
@@ -25,8 +29,14 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 1. Add the eggs, flour, salt, and 2 tablespoons of water to the stand mixer.
 2. Beat on speed 2 until combined (about 30 seconds.)
 3. Switch out the beater for the dough hook.
-4. Knead for 3 minutes on speed 2.
+4. Knead for 3 minutes on speed 2, butCheck the dough.
+<!-- Suggestion: 4. Knead for 3 minutes on speed 2, but check the dough intermittently. -->
    - Keep an eye on the mixture. If it looks dry, sprinkle in more water 1 tbsp at a time.
+   <!-- Suggestion:
+    **Tip**: Keep an eye on the mixture. If it looks dry, sprinkle in more water 1 tbsp at a time. Whether or not the dough needs more water will depend on your flour and the humidity in the air.
+
+    I'd consider demarcating your alerting moves within the steps as either tips, notes, warnings, etc. Consider a dn carry this out throughout your procedures.
+  -->
      - Whether or not the dough needs more water will depend on your flour and the humidity in the air. 
    - The dough should form a ball, pull away from the sides of the bowl, and leave no excess flour in the bowl.
 
@@ -45,7 +55,8 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 ### Sheet the pasta
 1. Divide dough into 4 equal(ish) portions.
 2. Select one portion to work with and re-wrap the other 3. 
-   > **Note**: It is your choice whether to sheet and cut the whole batch at once, or sheet and cut one portion at a time. This guide does the latter.
+    <!-- Yes, delineate notes, but do so in a consistent fashion throughout. -->
+    - **Note**: It is your choice whether to sheet and cut the whole batch at once, or sheet and cut one portion at a time. This guide does the latter.
 3. Flatten the dough until it's about a half-inch thick.
 4. Set the stand mixer speed to 2.
 5. Lightly sprinkle flour on the dough and and carefully feed it into the pasta sheeter. 
