@@ -30,10 +30,13 @@ Baking bread is a fun and therapeutic activity with a bonus: you get homemade, f
 
 _Don’t forget: Baking is as much art as science! Things like humidity and the temperature of the room will affect the dough in different ways, and no two doughs will be exactly the same. Some might need more water, some might need more flour. Go with the flow, and don't sweat it!_
 
+<!-- Suggestion: "Make the bloom" or something to that effect. Write headings that signal the outcome. -->
 ### Prepare!
 1. Install the beater attachment in the mixer.
 2. Lightly mix the yeast, water, and a dash of honey in the bowl of the stand mixer and let sit for 5-10 minutes so it can bloom.
+<!-- I'd say that this is another step here. Then, the "If it does not ..." point is a tip/condition to be met under this step. -->
    - After 10 minutes the yeast should have a foamy head, like the image below.
+   <!-- Note the capitalization and punctuation. But, -->
    - If it does not have this foam and seems inactive, the yeast is likely dead. check the expiration date on your yeast packets and start over
    
    ![Bloomed, foamy yeast that is ready to use](<assets/images/screenshots/Bread pics/Blooming yeast resize.jpg>)
@@ -45,6 +48,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    - The flour will be added in 3 stages, not all at once: first 3 cups, then 1 cup, and then however much more is needed to form a smooth, slightly-tacky dough that pulls away from the sides of the bowl;
    - The exact amount of flour the dough needs will vary depending on the humidity in your kitchen.
 
+<!-- Suggestion: "Mix and beat the dough" -->
 ### Make the dough
 1. Add the measured honey, salt, oil, and 3 cups of flour to the bloomed yeast.   
 2. Mix on low until combined.  
@@ -58,7 +62,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    >*Figure 2: The doughball is cohesive, smooth, and pulls away from the mixing bowl.*
 6. Raise the mixing speed to medium and let the machine knead the dough for 5 minutes.  
 
-
+<!-- Suggestion: "Let the dough rise" or "Prove the dough"? Not imperative here, but just some thoughts. -->
 ### Rise
 1. Transfer the doughball to the oiled bowl, and turn it over once to coat all sides.
 
