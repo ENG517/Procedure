@@ -1,5 +1,7 @@
 # Managing Kardia ECG App Alerts 
 
+<!-- Consider feedback from the health summary procedure and apply here. -->
+
 Your Kardia ECG app not only records your heart rhythms but also generates alerts that guide your next steps. These alerts can confirm normal readings, flag rhythm concerns that may need medical review, or warn about technical issues like sync errors.
 
 ## The goal of this guide is to help you:
