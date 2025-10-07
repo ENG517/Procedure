@@ -1,4 +1,4 @@
-# Importing and Editing Images in Figma ##
+# Importing and Editing Images in Figma 
 <!-- COMMENTS
   - See my notes on vectorizing images procedure to apply here and elsewhere.
   - It seems like you could use the scenario more to revise the title and intro staging, too. It feels like you're trying to help folks use it like a portfolio / gallery of work of sorts. How can you use that as a means to ground your main goal for this procedure?
@@ -15,14 +15,14 @@ Perhaps most importantly, by importing images you enable the collaborative capab
 <!-- Consider what info this conveys. Instead, your staging should render the overal goal and sequence of fulfilled tasks clear to readers. Use this moment to setup the procedure with, perhaps, a short numbered list of the major steps, i.e., something simple to help readers orient and decide if this procedure is what they need. -->
 Overall, the process is quite simple and requires only a few easy steps.
 
-### Prerequisites ###
+### Prerequisites 
 <!-- Suggested revision below. Prereqs should often be simple lists with some explainers here and there, depending on the context. -->
 - An image to import.
   - Currently, Figma supports **JPG, PNG, GIF, WEBP,** and **HEIC** formats.
   - **Note**: Different image formats are ideal for different image types. Read more about which format might be right for yours [here](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types).
 
 
-### Create A Frame ##
+### Create A Frame 
 
 <!-- What's a "Frame" in Figma? This may be a quick one-liner definition that's needed here. -->
 
@@ -36,7 +36,7 @@ Overall, the process is quite simple and requires only a few easy steps.
 
 4. Resize your frame by dragging its corners.
 
-### Filling Your Frame ###
+### Filling Your Frame 
 1. Navigate to the properties panel located on the right-hand side.
 2. Click the "FFFFFF" button located underneath the "Fill" property.
     <!-- Example formatting in MD files -->
@@ -56,14 +56,14 @@ And it's easy as that! Your image is now a fully editabe fill object in Figma. D
 <!-- Again, integrate these in the specific steps, where they will be useful. -->
 Here are some *quick tips* on editing your image.
 
-#### Adjusting Image Properties ####
+#### Adjusting Image Properties
 1. Select the "Image" button located underneath the "Fill" property.
 2. Move the sliders to adjust the image properties to your liking.
     - Each property alters your image differently.
     - Dragging the saturation all the way down wil create a black and white image.
 3. Experiment with the different properties available!
 
-#### Scaling Your Image ####
+#### Scaling Your Image 
 As previously discussed, you can scale your image by dragging the corner of your frame. However, there are other methods available to scaling images in Figma.
 1. Press the **"K"** hot key to access the scaling tool.
 
