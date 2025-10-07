@@ -1,4 +1,4 @@
-# Vectorizing and Tracing Hand-Drawn Images in Figma #
+# Tracing Bitmap Images into Vectors in Figma 
 <!-- Comments
   - I needed to change this to a .md Markdown file.
   - Consider simplifying it to 1 action: "# Tracing Bitmap Images into Vectors in Figma"
@@ -14,9 +14,8 @@ Currently, the only method for converting an image to a vector in figma is throu
 <!-- Prereqs? -->
 
 
-## Image Tracing Plug-Ins ##
-<!-- Remember you only need the hashes before the text—not after. Change this throughout. -->
-There are many image tracing plug-ins available for Figma, both paid and free. For this tutorial we will be using [Vectorizer (Image Tracer)](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer). I have found the image attained to be noticeably higher quality than many of its counterparts— plus it is compatible with most image formats, including JPEG, PNG, and GIF.
+## Image Tracing Plug-Ins
+For this tutorial, we will be using [*Vectorizer (Image Tracer)*](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer), since this plugin achieves higher quality results with no licensing fees. Additionally, *Vectorizer* is compatible with most image formats, such as JPEG, PNG, and GIF. [*Image Tracer*](https://www.figma.com/community/plugin/735707089415755407/image-tracer) requires a one-time licensing fee of $10, but it is another solid option. Compare more plugins to use in the table below.
 
 <!-- Question
   Are you writing these tutorials as an employee of Figma or someone external to Figma? The use of "I" suggests the latter. But, if you are writing this suite of tutorials as a Figma user, then it can work. Just be sure to update your scenarios to reflect that positonality.
@@ -28,8 +27,6 @@ There are many image tracing plug-ins available for Figma, both paid and free. F
 Note how I combined it as 1 paragraph, since it is covering the same material.
 -->
 
-[Image Tracer](https://www.figma.com/community/plugin/735707089415755407/image-tracer) is another solid option, though it does require at one-time licensing fee of $10. Find a comparison of these and a few other viable plug-ins below.
-
 | Plug-In            |   Paid                |   Pros           |  Cons           |
 |-------------|---------------------|--------------|-------------|
 | Vectorizer (Image Tracer)      |         N            | Supports expansive range of colors, lines are accurate             |    Software occasionally needs restarting        | 
@@ -37,7 +34,7 @@ Note how I combined it as 1 paragraph, since it is covering the same material.
 |      Trace Image      |          N           | Very accurate with simple images             |      Output is in black and white, only works well with jpegs      |
 |    Vector Magic         |  Y                   | Colors are accurate             |    Not updated regularly         |
 
-## Import your Image ##
+## 1. Import an Image
 <!-- Major step/phase
   Procedures should include numbered steps. This heading represents the first major step:
 
@@ -46,7 +43,7 @@ Note how I combined it as 1 paragraph, since it is covering the same material.
 
 Before we begin using *Vectorizer*, we will first have to import an image. To do this you'll first have to create a **frame**.
 
-### Creating A Frame ###
+### 1.1 Creating A *frame*
 <!-- Step
   ### 1.1 Creating a *frame*
 
@@ -70,7 +67,7 @@ Before we begin using *Vectorizer*, we will first have to import an image. To do
     > **Note**: For bigger images you will want a larger frame.
     <!-- > Note: For bigger images you will want a larger frame. -->
 
-### Filling Your Frame ###
+### Filling Your Frame 
 <!-- See above feedback for this section -->
 1. Navigate to the properties panel located on the right-hand side.
 <!-- I recommend using strong styling for UI controls, such as **Frame Tool** above -->
@@ -87,7 +84,7 @@ Luckily, the process is not nearly so difficult with our handy plug-in.
 <!-- Comments
 - I think you should combine the last subsections into 1 here. You also state "Opening and running ..." in the title
 -->
-### Opening and running Vectorizer (Image Tracer) in Figma ###
+### Opening and running Vectorizer (Image Tracer) in Figma
 1. To run Vectorizer (Image Tracer) first navigate to the plug-ins home page [here](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer).
 2. Select your workspace from "Recent Files."
 <!-- Use consistent Note formatting throughout your docs. -->
@@ -99,7 +96,7 @@ Luckily, the process is not nearly so difficult with our handy plug-in.
 > *Figure 2: Feel free to rename your workspace, but it will default to "**untitled**."*
 
 
-### Running Vectorizer (Image Tracer) ###
+### Running Vectorizer (Image Tracer)
 Once Vectorizer has successfully run, the following window should appear on your screen.
 
 <img src="./assets/images/screenshots/Vectorizer in Figma.png" alt="Alt text" style="width: 320px">
@@ -124,7 +121,7 @@ Feel free to repeat the process for as many image files as you'd like, either in
 
 <!-- Integrate these tips throughout. Some  -->
 
-## Tips for Success ##
+## Tips for Success
 - Check Vectorizer (Image Tracer) regularly for updates.
     - Make sure to update your software when new patches are released.
     - Don't hesitate to contact the developer if you're experiencing issues.
