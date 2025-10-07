@@ -140,7 +140,7 @@ Solder the final black wire from the casing of the volume pot to the Sleeve of t
 ---
 
 ## Testing the Circuit
-
+<!-- I wonder if this testing and the next installing are there own files/procedures. It seems like they could be separated from the installation, so the file isn't so long. -->
 Everything is wired in place. Now, it's time to test things out. 
 
 ### 1. Connect to an Amp
