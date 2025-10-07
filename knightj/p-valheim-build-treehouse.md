@@ -1,5 +1,7 @@
 # How to Build a Swamp Treehouse in Valheim
 
+<!-- See comments in other two procedures: consider and apply throughout herein as well, where applicable. -->
+
 ![Swamp Treehouse](./assets/images/screenshots/built-a-treehouse-in-the-swamp-pretty-proud-of-this-one-v0-kdsekj3w8lva1.png "Swamp Treehouse")
 
 >*An example of a treehouse built in the swamp*
@@ -17,10 +19,10 @@ In order to be successful and build a treehouse you're proud of, you should have
 ## How to Build a Swamp Treehouse
 
 1. Select a large, indestructible tree in the swamp in an area where you'd want a treehouse.
+    <!-- Modified the indentation to match how this is a subset of step 1 -->
+    ![Indestructible Tree](./assets/images/screenshots/Valheim-Guck.avif "Indestructible Tree")
 
-![Indestructible Tree](./assets/images/screenshots/Valheim-Guck.avif "Indestructible Tree")
-
->Note that you can tell which trees are indestrucible because they will have green guck on their trunks, and hitting them with any weapon will alert you that it is too hard to be cut down.
+    >Note that you can tell which trees are indestrucible because they will have green guck on their trunks, and hitting them with any weapon will alert you that it is too hard to be cut down.
 
 2. Build a platform at ground level that will serve as a foundation from which to build the structure.
 
