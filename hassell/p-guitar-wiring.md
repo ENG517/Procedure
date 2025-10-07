@@ -35,12 +35,28 @@ You should have some prior experience soldering. If you don't, follow a [tutoria
 
 When soldering wires to the pot casings, there is a risk of frying the carbon track, which will either break the pot entirely or limit its ability to control volume or tone. Below are some steps to take to help prevent that:
 
+<!-- Change these to unordered list items, since it isn't a procedure. -->
 1. Ensure your soldering iron is heated to at least 360 degrees Celsius. The hotter it is, the less time it needs to be in contact with the pot casing.
 2. After soldering a wire to the pot casing, give it some time to cool before soldering anything else to it.
-3. While not required, using [heat sinks](https://www.youtube.com/watch?v=7TQfPwgvEe4) can help.
+3. While not required, using [heat sinks](https://www.youtube.com/watch?v=7TQfPwgvEe4) can help. <!-- Help with what? -->
 
 ---
 
+<!-- Suggestion:
+  - Consider numbering these major phases
+  - Use same verb tense throughout too
+  - Note my change in capitalization for the h3; not something we discussed yet, but thought I'd note.
+
+  ## 1. Connect the Humbucker
+
+  ... then for subsections:
+  ### 1.1 Connect the *hot wire*
+  ...
+  ### 1.2 Connect the *ground wire*
+
+  ___
+  Rinse and repeat across your procedures.
+-->
 ## Connecting the Humbucker
 
 ![Wiring diagram showing where to connect humbucker wires](/hassell/assets/images/screenshots/humbucker-wire.png)
@@ -59,6 +75,7 @@ Solder the **white**, **green**, or **yellow** wire, depending on the type and b
 
 ![Wiring diagram showing the volume pot hot wire connections](/hassell/assets/images/screenshots/lug2-wire.png)
 
+<!-- Missing article: ### 1. Join the hot wires -->
 ### 1. Join Hot Wires
 
 Twist together the stripped ends of the two red wires you previously cut on one side only, leaving the other ends separate.
@@ -88,6 +105,8 @@ Solder one leg of the capacitor to **Lug 2** of the tone pot. Since this kind of
 
 ## Grounding Lug 1 of the Volume Pot
 
+<!-- Seems important to note why there are two methods. -->
+
 ![Wiring diagram showing the ground connection from Lug 1 of the volume pot to the casing](/hassell/assets/images/screenshots/lug1-ground.png)
 
 ### Method 1: Connect the Solid Core Wire
@@ -99,7 +118,7 @@ Solder the fully-stripped 0.5 inch solid core wire from **Lug 1** of the volume 
 ### Method 2: Solder the Lug Directly
 
 Instead of using a solid core wire, you can bend **Lug 1** of the volume pot back and solder it directly to the casing, which is far more time and space efficient.
-
+<!-- This warning should be placed before the method is written, and I would develop a "Warning" alert format to carry through the docs. -->
 **I do not recommend using this unless you are confident in your soldering abilities.**
 
 ---
