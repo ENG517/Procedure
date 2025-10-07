@@ -27,7 +27,7 @@ To be fully prepared to defeat Bonemass, follow these steps:
 
 1. Gather at least 150 pieces of raw iron.
     1. Head to a Swamp biome area.
-
+    <!-- We'll learn later how to provide a brief description to help folks orient themselves. But, I really appreciate your screenshot game! :-) -->
     2. Find a crypt. They look like this:
 
     ![Crypt](./assets/images/screenshots/SunkenCrypt.webp "Crypt")
@@ -37,6 +37,7 @@ To be fully prepared to defeat Bonemass, follow these steps:
     3. Using the crypt key you obtained from defeating the Elder, open the crypt and head inside.
 
     4. Using your pickaxe, break apart the iron veins to get raw iron.
+        <!-- Again, be sure to use a consistent alerting method for tips, notes, warnings, etc. Consider and apply throughout. -->
         >*Don't forget to check the chests you find in the crypt, they often have lots of raw iron inside.*
 
 2. Craft all three iron armor pieces (iron helmet, iron scale mail, and iron greaves), an iron mace, and an iron shield. 
