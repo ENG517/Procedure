@@ -1,6 +1,6 @@
 # Vectorizing and Tracing Hand-Drawn Images in Figma
 <!-- Consider simplifying it to 1 action: Tracing Bitmap Images into Vectors in Figma -->
-
+<!-- goal statement front and center, title and first paragraph -->
 Have you ever had a sketch you've created and wondered how it would translate to the digital realm? Of course you could always just take a picture, or a *pixelated* image, but there is another type of image, the [***vector***](https://heighton.agency/insights/vector-files/), which provides several distinct benefits.
 
 Vector images are comprised of mathematical formulas defining points, lines and curves, and can be scaled infinitely and to different screen sizes without loss of quality. They are easily translated to other image formats, flexible, and essential to design software of **all stripes**, including *Figma*. 
