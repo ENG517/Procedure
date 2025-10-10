@@ -1,5 +1,7 @@
 # How to Insert and Edit Text
 
+<!-- See and apply feedback from other two procedures herein. -->
+
 ## Introduction
 
 Text can be inserted into the pages of your project in Indesign using text frames. Text frames should be added into your magazine pages using the guides that you create in your parent pages (See "How to Create Parent Pages"). You will not know exactly how many pages you will need for each article until you see how your written content falls on the page based on the number of columns you selected in your parent page, and the font size and line spacing you choose for the text in the columns. So, this will be an iterative process, where the number of pages will be determined and adjusted as you go along.
