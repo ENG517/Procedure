@@ -1,5 +1,7 @@
 # How to Curate the Landing for a Presentation Event
 
+<!-- See the feedback in the other two procedures and apply herein, where appropriate to help build clarity and consistency across your procedures. -->
+
 Seating arrangements in the Landing completely change the atmosphere of your event. The space includes tables and chairs both at the center of the space and against the walls that can be rolled around to better accomodate your event. 
 
 We reccomend a maximum capacity of 20 people in the room. If you would like specific seating not outlined in this guide, please fill out [this form](https://studentcenters.ncsu.edu/events/resources/forms/event-request-form/) This guide will show you to how orient the space for presentations requiring rows of seated attention toward the OLED screen.
