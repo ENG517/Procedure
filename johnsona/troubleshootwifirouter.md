@@ -9,11 +9,17 @@ What you'll need will depend on which method ends up working for you, but genera
 
 ## Terms to Know
 
+<!-- Suggested terms
+  - DNS
+-->
+
 - **Troubleshooting**: Finding and correcting issues in a device or piece of technology
 - **Hardware**: The physical/tangible part of technology, like routers, modems and cables
 - **Software**: The digital/intangible part of technology, like websites and computer programs
 
 ## The Troubleshooting Methods
+
+<!-- Question: Are these methods in a particular suggested order? If so, you could number them. -->
 
 ### Alternative Solutions
 
@@ -33,16 +39,17 @@ Resetting the router may seem too easy, but it can actually be an effective fix 
 
 2. Wait for up to one minute, then plug them back in. 
 
-3. Check your device's connection to see if the issue has been resolved. 
+3. Check your device's connection to see if the issue has been resolved. <!-- How? -->
 
 ### Physical Issues
 
 If resetting your router doesn't work, there may be some physical issues, such as a faulty power source, hardware damage, or the router being in the wrong environment. 
 
 1. Check that the power outlet for your router is working properly. You can do this by plugging a different device into the same outlet and checking that it's charging. 
-> **Note:** If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working. 
+> **Note:** If the router's indicator lights are off, it could be a sign that the outlet or the power cord aren't working. <!-- Always state what actions they should take, based on the error/issue. -->
 
 2. Inspect the router, modem and cables for signs of physical damage. This can include tears or kinks in cables, dust build-up in the router vent, and cracks or dents in the router or modem. 
+<!-- Be sure to not bury your steps in captions. -->
 > **Note:** If there's a dust build-up in your router vents, you can try removing it with compressed air or a cotton swab. If any of the hardware is damaged, the best thing to do is replace it!
 
 ![A close-up of the vents of a Synology WRX560 router](./../johnsona/assets/images/screenshots/vents_up_close_screenshot.png)
@@ -54,20 +61,25 @@ If resetting your router doesn't work, there may be some physical issues, such a
 4. Check your device's connection to see if the issue has been resolved. 
 
 ### Software Updates
-
+<!-- Do you have any screenshots to help orient the user with step results? I highly recommend including them. -->
 No physical issues? Maybe your software needs to be updated!
 
 1. Visit [Synology's official website](https://www.synology.com/en-us) to see if new software has been released. 
 
 2. Download the newest version of the software to your device. 
 
-3. Log into your network administrator account for your router. 
-> **Note:** Your network administrator account is the account you made after installing your router. It's used for logging into your Synology network. 
+3. Log into your network administrator account for your router.
+    <!-- Just a simple indentation here will help you format it the note as a note for the step in particular. Change/update throughout. -->
+    > **Note:** Your network administrator account is the account you made after installing your router. It's used for logging into your Synology network.
 
 4. Navigate to the 'Firmware Update' section and upload the new file.
+<!-- Suggestion:
+  - This should be a WARNING! alert message to ensure the user does indeed take note.
+-->
 > **Note:** Do _not_ interrupt this new update; it could severely damage your router. 
 
-5. Restart your router. 
+5. Restart your router.
+<!-- Any particular button or method recommended? Is this the same as "Resetting"? If so, guide users to complete that procedure. -->
 
 6. Check your device's connection to see if the issue has been resolved. 
 
