@@ -1,8 +1,11 @@
 # Creating Parent Pages
 
+<!-- See suggestions in images procedure and apply herein too. -->
 
+<!-- Delete this heading -->
 ## Introduction
 
+<!-- You've provdied some helpful conceptual information to help folks understand the basics of what they will create. Yet, be sure to include and begin with the overall learning goal of the procedure. -->
 Parent pages (sometimes referred to as "master pages") in InDesign help you maintain consistency in your magazine layout by providing guides for the the placement of images and text. A parent page is essentially a template which you can re-use for each page in the magazine, allowing you to create images and columns of text that appear in consistent locations. If you want to use a different layout for different articles in the magazine, you can create a new parent page that corresponds to each new section.
 
 ## Prequisites
@@ -16,6 +19,7 @@ Before you get started with the parent page, be sure to:
 
 ## 1. Create a new master page
 
+<!-- We'll get into some copyediting later, but you should avoid burying helpful info within parantheses. Instead, simply use a colon. "...: *Windows* > *Pages*." -->
 1. In InDesign, open the pages panel (_Windows_ > _Pages_)
 2. In the upper right corner of the panel, click the small icon containing 4 horizontal bars.
 3. Select _New Parent..._ from the dropdown menu.
@@ -32,6 +36,7 @@ Before you get started with the parent page, be sure to:
 4. Set the spacing between the columns, known as "gutters"
 >Note: .25 inches is a good place to start for gutters, but if you are creating four or more columns, you may want to go smaller
 4. Check the box marked "Preview" so that you can view your guides on the page as your create them
+<!-- Suggestion: "5. Once you verified the desired result with the preview, click *OK*. -->
 5. Click "OK"
 
 ## 3. Apply the master page
@@ -40,4 +45,5 @@ Before you get started with the parent page, be sure to:
 3. Apply the master page by releasing the mouse button when a black rectangle appears on the border of the page
 
 ## Next Steps
+<!-- With a groudned running example, you could offer an example result here. -->
 Now you can begin consistently placing elements into your magazine. If you want each article to have a specific look, you can create a different master page for each section of the magazine. 
