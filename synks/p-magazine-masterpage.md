@@ -39,6 +39,8 @@ Before you get started with the parent page, be sure to:
 <!-- Suggestion: "5. Once you verified the desired result with the preview, click *OK*. -->
 5. Click "OK"
 
+<!-- Also, this seems like a good place to consider a potential user error. What if they don't complete it quite correctly? How can they remedy the situation and get back on track? -->
+
 ## 3. Apply the master page
 1. Go back to the _Pages_ panel, and select the parent page at the top of the panel, which will be indicated by a letter in the top corner of the page. (your first parent page will be marked with an "A")
 2. Click on the master page thumbnail and drag it down to the thumbnail for the desired document page
