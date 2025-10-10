@@ -17,28 +17,17 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 
 ## Let's Make Pasta!
 
-<!--
-  If a linear process, then consider using numbers in your headings too: 1. Prepare; 2. Make the dough; etc.
-  Consider this for the rest of your procedures.
--->
-### Prepare!
+### 1. Prepare!
 1. Measure out the flour, salt, and water, and set out the eggs. 
 2. Install the beater in the mixer
 
-###  Make the dough
+###  2. Make the dough
 1. Add the eggs, flour, salt, and 2 tablespoons of water to the stand mixer.
 2. Beat on speed 2 until combined (about 30 seconds.)
 3. Switch out the beater for the dough hook.
-4. Knead for 3 minutes on speed 2, butCheck the dough.
-<!-- Suggestion: 4. Knead for 3 minutes on speed 2, but check the dough intermittently. -->
-   - Keep an eye on the mixture. If it looks dry, sprinkle in more water 1 tbsp at a time.
-   <!-- Suggestion:
-    **Tip**: Keep an eye on the mixture. If it looks dry, sprinkle in more water 1 tbsp at a time. Whether or not the dough needs more water will depend on your flour and the humidity in the air.
-
-    I'd consider demarcating your alerting moves within the steps as either tips, notes, warnings, etc. Consider a dn carry this out throughout your procedures.
-  -->
-     - Whether or not the dough needs more water will depend on your flour and the humidity in the air. 
+4. Knead for 3 minutes on speed 2.
    - The dough should form a ball, pull away from the sides of the bowl, and leave no excess flour in the bowl.
+   - **Tip**: Keep an eye on the dough while mixing. If it looks dry, sprinkle in more water 1 tbsp at a time. Whether or not the dough needs more water will depend on your flour and the humidity in the air.   
 
 ![Pasta dough pulling away from the bowl](<assets/images/screenshots/Pasta pics/Pasta dough.jpg>)
 >*Figure 1: Pasta dough pulling away from the bowl*
@@ -47,15 +36,14 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 7. Wrap the dough in plastic and rest on the counter for 25 minutes, or up to 1 hour.
    - This rest allows the gluten fibers to relax and become more pliable so the dough can stretch. Don't skip it!
 
-### Set up the pasta sheeter
+### 3. Set up the pasta sheeter
 1. While the dough rests, attach the pasta sheeter to the mixer. 
 2. Turn on the stand mixer and ensure the sheeter runs properly.
 3. Set the sheeter to the widest setting: Setting 1. 
 
-### Sheet the pasta
+### 4. Sheet the pasta
 1. Divide dough into 4 equal(ish) portions.
-2. Select one portion to work with and re-wrap the other 3. 
-    <!-- Yes, delineate notes, but do so in a consistent fashion throughout. -->
+2. Select one portion to work with and re-wrap the other 3.
     - **Note**: It is your choice whether to sheet and cut the whole batch at once, or sheet and cut one portion at a time. This guide does the latter.
 3. Flatten the dough until it's about a half-inch thick.
 4. Set the stand mixer speed to 2.
@@ -64,12 +52,12 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 7. Feed the dough through the sheeter two more times.
 8. Change the sheeter to the next smallest setting (Setting 2.)
 9. Repeat steps 5 - 8 on Setting 2, and again for settings 3, and 4.
-     - If the sheet of pasta gets too long to handle, cut in half or thirds.
+     - **Tip**: If the sheet of pasta gets too long to handle, cut in half or thirds.
 
 ![Dough sheets can get long!](<assets/images/screenshots/Pasta pics/Pasta sheet resize.png>)
 >*Figure 2: Dough sheets can get long! Support them with your hands and cut as needed.*
 
-### Cut the Noodles
+### 5. Cut the Noodles
 1. Change the sheeting attachment to the cutter, and decide whether you want to cut spaghetti (thinner) or fettucini (wider.)
 2. Clear part of the counter or set out a cookie sheet where you can place the cut pasta.
 3. Set the mixer on speed 2.
@@ -82,7 +70,7 @@ Homemade pasta is tastier than storebought, and cooks in half the time. And the 
 6. Dust the cut noodles with additional flour to prevent them sticking together, and gently twist into a loose nest.
 7. Allow the noodles to rest and dry on the counter or cookie sheet for 10 minutes before cooking. 
 
-#### Store Additional Pasta
+#### 6. Store Additional Pasta
 1. Toss pasta with extra flour and allow to dry on the counter for at least 24 hours, or untill fully dry to the touch
    - Exact times will vary depending on the humidity in the room.
 2. Store in an airtight container in a dry, dark place for up to 1 month.
