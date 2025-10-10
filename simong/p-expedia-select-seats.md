@@ -1,5 +1,7 @@
 # Selecting Flight Seats on Expedia
 
+<!-- See my notes from the other branches and apply herein. -->
+
 A benefit to most Expedia flights is the option to select seats. The process to select seats through Expedia's site involves choosing and confirming seats. The visual process, which immitates a birds-eye view of the plane's interior, helps to make choosing the best seat a seamless experience.
 
 This guide will teach you how to:
