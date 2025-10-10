@@ -1,5 +1,7 @@
 # How To Replace a Synology WRX560 Wi-Fi Router
 
+<!-- See comments in other two procedures and apply where appropriate herein. Also, be sure to rename your files, as per the instructions in the README.md -->
+
 ![A Synology WRX560 Wi-Fi Router](./../johnsona/assets/images/Synology-WRX560-1-1536x864.jpg)
 >*Figure 1: A Synology WRX560 Wi-Fi Router.*
 
@@ -17,11 +19,12 @@ Whether you're replacing it due to performance issues or you just want a change,
 
 ## The Instructions
 
-1. Disconnect all of your devices from the old router's Wi-Fi network. 
+1. Disconnect all of your devices from the old router's Wi-Fi network.
+<!-- This note seems like a potential set of conditional steps, rather than an alerting move. -->
 > **Note:** For wired devices, this means powering them off, and for wireless devices, this means signing them out of the old network in Settings. 
 
 2. Turn off your old router and modem. 
-
+<!-- good use of the optional step here. -->
 3. _**Optional:**_ Take photos of the cable setup for your old router and modem. This can be used as a reference when you install the new router, just in case you forget which ports the cables are plugged into. 
 
 ![An up-close shot of the ports of a Synology WRX560 router](./../johnsona/assets/images/screenshots/up_close_port_screenshot.jpeg)
