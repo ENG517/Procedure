@@ -1,5 +1,11 @@
 # How to Optimize Your Listings as an Expert eBay Seller
 
+<!--
+  - See feedback in other two procedures.
+  - Don't forget to include your staging work up top with a short paragraph with a goal statement.
+  - Any prereqs?
+-->
+
 ## Optimize Listings for SEO & Buyer Behavior
 
 **1. Craft keyword-rich titles.**
