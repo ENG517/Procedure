@@ -1,17 +1,55 @@
 # How to List an Item on eBay
 
+<!-- Staging should include some introductary material that stages the overall goal. -->
+
 ## To Prepare Before Listing
+<!-- Perhaps just "Prerequisites" -->
 
-**1. Create an eBay account** 
+<!-- **1. Create an eBay account**  -->
+- Registered user with an eBay account. If you already have an eBay account, proceed to the next step. If you don't already have an account, follow the steps below.
 
-If you already have an eBay account, proceed to the next step. If you don't already have an account, follow the steps below.
+  1. Go to [ebay.com](https://www.ebay.com).
+  <!-- Here's a nice design pattern for steps with images. Consider how to apply throughout your procedures. -->
+  2. Click ***register*** in the top left corner.
 
-   1. Go to [ebay.com](https://www.ebay.com).
-   2. Click ***register*** in the top left corner.![Register link on ebay.com](./assets/images/screenshots/ebay-register.png)
-   3. Follow the prompts to register for a personal account.
-      - You will need a valid phone number, email address, and payment details (for fees and payouts).
-      - If you plan to sell a large number of items, or sell on behalf of a business or nonprofit, register under the ***Business*** tab.
+      ![Register link on ebay.com](./assets/images/screenshots/ebay-register.png)
 
+  3. Follow the prompts to register for a personal account.
+    - You will need a valid phone number, email address, and payment details (for fees and payouts).
+    - If you plan to sell a large number of items, or sell on behalf of a business or nonprofit, register under the ***Business*** tab.
+
+<!-- SUGGESTIONS
+
+- Clearly demarcate major phases. Headings work well. Consider the example structure below.
+- I also think the "search" and "decide" steps are pretty difficult for new users, so the procure will require some more drawn out concrete steps for your audience.
+- I also recommend a running example to make the procedure more concrete.
+
+## 1. Research Your Item
+
+Short intro here that describes the goal to research and decide.
+
+### 1.1 Search current eBay listings
+
+Enter brief intro and use a running example that grounds the (re)search process.
+
+1. Enter more concrete step
+    - **Tip**: Use search filters to sort by sold items to see "completed" (sold) listings.
+
+      ![Ebay search filters](./assets/images/screenshots/ebay-filters.png)
+
+2. ...
+3. ...
+
+### 1.2. Decide type of auction
+
+Before you start listing your item, use the above information to decide whether to list your item for a **fixed price** (Buy It Now) or put it up for **auction**.
+
+- **Buy It Now**: Define it here.
+- **Auction**: Define it here.
+
+[Enter your procedure, based on a running example.]
+
+-->
 **2.** Once you have created your account, **research your item.**
    - Search current eBay listings for:
      - average listed and sold prices,
@@ -37,6 +75,11 @@ If you already have an eBay account, proceed to the next step. If you don't alre
 
 ## Creating the Listing
 
+<!-- SUGGESTIONS
+  - This is its own file/procedure.
+  - Many of your substeps below should use numbered/ordered list items.
+  - Clearly and consistently mark notes, tips, warnings, etc.
+-->
 **1. Log into eBay.**
    - Click ***sell*** in the top right corner. ![Sell link on ebay.com](./assets/images/screenshots/ebay-sell-button.png)
 
