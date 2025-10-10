@@ -1,4 +1,6 @@
 # Booking a Package on Expedia
+
+<!-- See my suggestions in Contact Help file to also apply herein. -->
 Selecting a package on Expedia can be a useful way to secure all trip flights and accommodations at once. Expedia offers thousands of affordable, customizable packages to choose from worldwide.
 
 This guide will demonstrate the process for using a package booking to secure:
@@ -23,6 +25,7 @@ You will need to have a location and budget in mind to make your booking choices
 
 ## 2. Selecting an Accommodation
 
+<!-- This material is tied to the previous step, since it is the result of the step. Keep those together. Then, add a short goal statement regarding this second major step instead. -->
 A list of accommodations will appear, ranging in price and ratings. The total costs per traveler (including flights and accomodations) is included in the price estimate.
 
 1) Select an accomodation.
@@ -31,6 +34,7 @@ A list of accommodations will appear, ranging in price and ratings. The total co
 
     *Figure 2.1: Expedia offers many accommodation choices. Each listing displays highlights of the stay.*
 
+<!-- Be sure to use a consistent alerting format. This seems like a Note, perhaps. -->
 Once you select an accommodation, a detailed page of information about the accommodation's features will appear. 
 
 2) Click on 'select a room' or scroll down the page to choose from the room options.
@@ -60,6 +64,9 @@ A screen will appear, offering choices between flight classes.
 
     *Figure 3.2: The benefits of each flight class are detailed on this screen to inform your choice.*
 
+<!-- I can see the logic here to note this. However, consider the following suggestion:
+3. **If you chose a roundtrip flight**, repeat the previous step to select the flights for your return trip.
+-->
 Conditional Step:
 
 - If you chose a roundtrip flight, repeat the previous step, selecting the flights for your return trip.
@@ -68,7 +75,7 @@ Conditional Step:
 
 Now that you have selected your accommodations and flights, you can review and book your package.
 
-1) Review your package.
+1) Review your package. <!-- Any tips or notes here, such as a common issue or pitfall? -->
 
 2) Select the 'next: final details' button.
 
