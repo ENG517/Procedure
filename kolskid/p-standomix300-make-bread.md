@@ -30,26 +30,22 @@ Baking bread is a fun and therapeutic activity with a bonus: you get homemade, f
 
 _Don’t forget: Baking is as much art as science! Things like humidity and the temperature of the room will affect the dough in different ways, and no two doughs will be exactly the same. Some might need more water, some might need more flour. Go with the flow, and don't sweat it!_
 
-<!-- Suggestion: "Make the bloom" or something to that effect. Write headings that signal the outcome. -->
-### Prepare!
+### 1. Bloom the Yeast!
 1. Install the beater attachment in the mixer.
 2. Lightly mix the yeast, water, and a dash of honey in the bowl of the stand mixer and let sit for 5-10 minutes so it can bloom.
-<!-- I'd say that this is another step here. Then, the "If it does not ..." point is a tip/condition to be met under this step. -->
-   - After 10 minutes the yeast should have a foamy head, like the image below.
-   <!-- Note the capitalization and punctuation. But, -->
-   - If it does not have this foam and seems inactive, the yeast is likely dead. check the expiration date on your yeast packets and start over
+3. After 10 minutes the yeast should have a foamy head, like the image below.
+   - If it does not have this foam and seems inactive, the yeast is likely dead. Check the expiration date on your yeast packets and start over
    
    ![Bloomed, foamy yeast that is ready to use](<assets/images/screenshots/Bread pics/Blooming yeast resize.jpg>)
    >*Figure 1: Bloomed, foamy yeast that is ready to use.*
 
-3. Measure out the salt, oil, and honey while the yeast blooms. 
-4. Lightly grease the large bowl with neutral oil
-5. Measure and divide the flour into: 3 cups, 1 cup, and the remaining 1½ cup. 
+4. Measure out the salt, oil, and honey while the yeast blooms. 
+5. Lightly grease the large bowl with neutral oil
+6. Measure and divide the flour into: 3 cups, 1 cup, and the remaining 1½ cup. 
    - The flour will be added in 3 stages, not all at once: first 3 cups, then 1 cup, and then however much more is needed to form a smooth, slightly-tacky dough that pulls away from the sides of the bowl;
    - The exact amount of flour the dough needs will vary depending on the humidity in your kitchen.
 
-<!-- Suggestion: "Mix and beat the dough" -->
-### Make the dough
+### 2. Mix and Knead the Dough
 1. Add the measured honey, salt, oil, and 3 cups of flour to the bloomed yeast.   
 2. Mix on low until combined.  
 3. Switch out the beater for the dough hook, and scrape down the sides of the bowl with a spatula.  
@@ -62,8 +58,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    >*Figure 2: The doughball is cohesive, smooth, and pulls away from the mixing bowl.*
 6. Raise the mixing speed to medium and let the machine knead the dough for 5 minutes.  
 
-<!-- Suggestion: "Let the dough rise" or "Prove the dough"? Not imperative here, but just some thoughts. -->
-### Rise
+### 3. Proove the Dough
 1. Transfer the doughball to the oiled bowl, and turn it over once to coat all sides.
 
 2. Take a picture of the doughball, and then cover the bowl with a dish towel or plastic wrap.
@@ -71,7 +66,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
    - The exact time will depend on the temperature of the room. Warmer temperatures mean a faster rise.
    - Compare the dough to your picture to determine when it’s doubled in size.
 
-### Rise Again
+### 4. Proove Again
 1. Generously oil both loaf pans.
 
 2. Punch down the doughball to remove air bubbles.
@@ -97,7 +92,7 @@ _Don’t forget: Baking is as much art as science! Things like humidity and the 
 
  * _Letting the oven preheat for as long as possible (at least 20 minutes, but the longer the better!) allows the metal interior of the oven, not just the air, to rise to the target temperature, meaning the oven will return to temperature more quickly after you put the bread in._
 
-### Bake 
+### 5. Bake 
 1. Bake for 30-33 minutes, or until golden brown on top.
 
    - Testing for doneness: Gently (carefully!) tap the top of a loaf: it should sound hollow.
