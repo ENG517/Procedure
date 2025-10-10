@@ -1,5 +1,7 @@
 # How to Negotiate Offers on eBay
 
+<!-- Don't forget to include your staging work, such as a short goal statement. -->
+
 ![Ebay negotiation messages](./assets/images/screenshots/eBay-messaging.png)
 
 ## To Prepare Before Receiving Offers
@@ -41,6 +43,7 @@
 ### Buyer-Seller Communication Tips
 
 - **Stay professional and polite.**
+  <!-- These are great. Perhaps include the consequences of not adhering to these tips like you do regarding the counteroffers tip. -->
    - Avoid emotional responses to “lowball” offers.
    - Example response in counteroffer note: *“Thanks for your interest! I can meet you at $85, which I think is a fair value given the item’s condition.”*
 - **Consider highlighting the item's value.**
