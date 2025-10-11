@@ -1,5 +1,7 @@
 # Applying Promotions, Discounts, and Offers in Odoo POS System
 
+<!-- Again, apply feedback in perform a sale. -->
+
 ## What’s This For?
 Loyalty programs, promotional offers, and discounts encourage customers to keep returning to your shop or restaurant.  
 
