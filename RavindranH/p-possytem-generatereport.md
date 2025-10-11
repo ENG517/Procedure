@@ -1,5 +1,7 @@
 # Generating a Report in Odoo POS System
 
+<!-- See feedback in perform sale branch and apply throughout. -->
+
 ## What is this for?
 This article explains how to generate a report in the Odoo POS system. By the end of this article, you’ll know how to create reports, customize, and export them to further analyze and gain insights from the statistics.
 
@@ -38,10 +40,10 @@ Odoo POS system has the following reports:
   - If there is no active session, start one and then proceed.  
 - Click **Reporting**.  
 - Select the appropriate type of report you want to generate from the available options. 
+  <!-- note the updated formatting pattern. Apply throughout your procedures consistently. -->
+  ![reporting](./assets/images/screenshots/reporting.jpeg)
 
-![reporting](./assets/images/screenshots/reporting.jpeg)
-
-*Fig 4. Select Reporting*
+    *Fig 4. Select Reporting*
 
 ### Step 2: Provide Input to Generate Report
 
@@ -54,7 +56,8 @@ Odoo POS system has the following reports:
 #### **For Session Report**
 - Select the **POS session** from the prompt.  
 - Click **Print**. The report is printed and downloaded as a `.pdf` file.  
-  - 📌 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.  
+  - 📌 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.
+  <!-- Is this list item a note too? Is it part of the above note? Be sure to maintain consistency to help build familiarity for your audience. -->
   - Input need not be provided to generate **Order Details** and **Preparation Time** reports.  
 
 ### Step 3: Customize Reports
@@ -72,5 +75,5 @@ Odoo POS system has the following reports:
 - [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)  
 - [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)  
 - [Contact Odoo POS Support](https://www.odoo.com/help)  
-
+<!-- I see the reasoning here, but consider how you name the file and also frame/describe what it is for your audience. -->
 - Find my procedure [here](./assets/docs/Procedure.pdf)
