@@ -1,5 +1,7 @@
 # Updating Inventory in Odoo POS System
 
+<!-- See feedback in perform a sale & generate report, and apply it throughout here too. -->
+
 ## What is this for?
 This article explains how to update inventory in the Odoo POS system. Inventory updates help the POS system stay up to date with product quantities on the shelves.  
 
