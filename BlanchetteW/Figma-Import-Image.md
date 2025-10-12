@@ -31,7 +31,6 @@ Overall, the process is quite simple and requires only a few easy steps.
 3. Select the Frame Tool, located in the second dropdown menu from the left.
     <!-- Example formatting in MD files -->
     <img src="assets/images/screenshots/Frame_Toolbar.png" alt="Alt text" style="width: 250px">
-
     > *Figure 1: The **Frame Tool** is the primary container for design elements in Figma.*
 
 4. Resize your frame by dragging its corners.
