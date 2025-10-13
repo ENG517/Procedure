@@ -10,7 +10,7 @@ It is also possible to work with your image as a *Vector*, the other dominant im
 - An image to import.
   - Currently, Figma supports **JPG, PNG, GIF, WEBP,** and **HEIC** formats.
   - Different image formats are ideal for different image types. Read more about which format might be right for yours [here](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types).
-      > Note: 
+      > Note: JPG files often take up less size, but may provide less detail than other image formats.
 
 ## 1. Creating a Frame 
 Frames are the primary container for design elements such as shapes, texts, and **images** in Figma. To create a frame, first:
@@ -39,7 +39,7 @@ And it's easy as that! Your image is now a fully editabe fill object in Figma. D
 
 Here are some *quick tips* on editing your image.
 
-### 2.1 Adjusting Image Properties
+### 2.1 Adjusting **image properties**
 1. Select the **Image** button located underneath the **Fill** property.
 2. Move the sliders to adjust the image properties to your liking.
     - Each property alters your image differently.
@@ -69,7 +69,7 @@ As previously discussed, you can scale your image by dragging the corner of your
 3. Enter your desired degree value.
 
 ## Congratulations!
-
+Your image is now fully imported into Figma! Hopefully it closely resembles the scale and look of your original drawing. There are many adjustable properties I did not mention, don't hesitate to play around further in the toolbar as you see fit.
 
 
 
