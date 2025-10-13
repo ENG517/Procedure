@@ -10,7 +10,7 @@ It is also possible to work with your image as a *Vector*, the other dominant im
 - An image to import.
   - Currently, Figma supports **JPG, PNG, GIF, WEBP,** and **HEIC** formats.
   - Different image formats are ideal for different image types. Read more about which format might be right for yours [here](https://developer.mozilla.org/en-US/docs/Web/Media/Guides/Formats/Image_types).
-
+      > Note: 
 
 ## 1. Creating a Frame 
 Frames are the primary container for design elements such as shapes, texts, and **images** in Figma. To create a frame, first:
@@ -18,18 +18,18 @@ Frames are the primary container for design elements such as shapes, texts, and 
 2. Navigate to the toolbar located at the bottom of the page.
 3. Select the **Frame** Tool, located in the second dropdown menu from the left.
 
-    <img src="assets/images/screenshots/Frame_Toolbar.png" alt="Alt text" style="width: 300px">
+  <img src="assets/images/screenshots/Frame_Toolbar.png" alt="Alt text" style="width: 300px">
 
-      > *Figure 1: The dropdown menu contains three options.*
+  > *Figure 1: The dropdown menu contains three options.*
 4. Resize your frame by dragging its corners.
 
 ### 1.1 Filling Your *frame* 
 1. Navigate to the properties panel located on the right-hand side.
 2. Click the "**FFFFFF**" button located underneath the "Fill" property.
 
-    <img src="assets/images/screenshots/Properties Panel.png" alt="Alt text" style="width: 250px">
+  <img src="assets/images/screenshots/Properties Panel.png" alt="Alt text" style="width: 250px">
 
-      > *Figure 2: The frame defaults to **"FFFFFF,"** which is a solid white fill.*
+  > *Figure 2: The frame defaults to **"FFFFFF,"** which is a solid white fill.*
 3. Navigate to the **image icon**.
 4. Click **Upload from Computer**.
 5. Import your Image.
@@ -50,23 +50,26 @@ Here are some *quick tips* on editing your image.
 As previously discussed, you can scale your image by dragging the corner of your frame. However, there are other methods available to scaling images in Figma.
 1. Press the **"K"** hot key to access the scaling tool.
 
-    <img src="assets/images/screenshots/Scale Tool.png" alt="Alt text" style="width: 300px">
+  <img src="assets/images/screenshots/Scale Tool.png" alt="Alt text" style="width: 300px">
 
-      >*Figure 3: The Anchor point is only relevant with vector based shapes.*
+  >*Figure 3: The Anchor point is only relevant with vector based shapes.*
 
 2. Adjust Height and Width to your liking.
 3. Scale your image proportionally.
 4. Switch back to the move tool by selecting the **"M"** hotkey.
-      > Note: Adjusting your image too dramatically may alter the image quality.
+      > Note: Scaling your image too dramatically may alter the image quality.
 
 ### 2.3 Rotating Your Image 
 1. Select your image.
 2. Navigate to the the rotation field in the design panel, which should have an angle icon next to it.
 
-    <img src="assets/images/screenshots/Rotation Tool.png" alt="Alt text" style="width: 300px">
+  <img src="assets/images/screenshots/Rotation Tool.png" alt="Alt text" style="width: 300px">
     
-      >*Figure 4: Rotation controls located in the design panel.*
+  >*Figure 4: Rotation controls located in the design panel.*
 3. Enter your desired degree value.
+
+## Congratulations!
+
 
 
 
