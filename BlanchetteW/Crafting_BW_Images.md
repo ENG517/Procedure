@@ -1,6 +1,6 @@
 # Crafting Realistic Black and White Images in Figma Draw
 
-Whether you are an experienced artist adept at rendering complex hand-drawn illustrations or someone just starting out drawing, these will help you learn to create realistic black and white images in Figma Draw, a dedicated workspace in Figma purely for visual design. 
+Whether you are an experienced artist adept at rendering complex hand-drawn illustrations or someone just starting out drawing, these instructions will help guide you through creating realistic black and white images in Figma Draw, a dedicated workspace in Figma purely for visual design. 
 
 The benefits of drawing in a monochromatic or *grayscale* palette are extensive. By sticking with black and white, form, **contrast**, and fundamental elements like ***line*** and ***shape*** are emphasized. I mean, black and white illustrations and drawings are a timeless medium, just consider the following images:
 
@@ -51,7 +51,7 @@ Now let's get started! I recommend beginning with the pencil tool and finishing 
 ![Toolbar](assets/images/screenshots/Toolbar.png)
   > *Figure 3: Color, stroke style, and weight slider are represented in the toolbar.*
 
-Now that you have finished creating a pencil-drawn image you're happy with, let's add on with the brush tool.
+Now that you have finished creating a pencil-drawn image you're happy with, let's add on with the brush tool by repeating the previous steps.
 
 The brush tool is slightly more complex than the pencil. Have fun experimenting with the 25 brush types and various effects available on the right hand side.
 
