@@ -10,10 +10,10 @@ Currently, the only method for converting an image to a vector in Figma is throu
 - An image to vectorize. Simple images will show up much more clearly.
 - An image tracing plug-in.
 
-  > Note: Images not in JPEG, PNG, or GIF form will not render.
+    > Note: Images not in JPEG, PNG, or GIF form will not render.
 
 
-### Image Tracing Plug-Ins
+## Image Tracing Plug-Ins
 For this tutorial, we will be using [*Vectorizer (Image Tracer)*](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer), since this plugin achieves higher quality results with no licensing fees. Additionally, *Vectorizer* is compatible with most image formats, such as JPEG, PNG, and GIF. [*Image Tracer*](https://www.figma.com/community/plugin/735707089415755407/image-tracer) requires a one-time licensing fee of $10, but it is another solid option. Compare more plugins to use in the table below.
 
 | Plug-In            |   Paid                |   Pros           |  Cons           |
@@ -23,10 +23,10 @@ For this tutorial, we will be using [*Vectorizer (Image Tracer)*](https://www.fi
 |      Trace Image      |          N           | Very accurate with simple images             |      Output is in black and white, only works well with jpegs      |
 |    Vector Magic         |  Y                   | Colors are accurate             |    Not updated regularly         |
 
-### 1. Import an Image
+## 1. Import an Image
 Before we begin using *Vectorizer*, we will first have to import an image. To do this you'll first have to create a **frame**, the primary container for design elements in Figma.
 
-#### 1.1 Creating A *frame*
+### 1.1 Creating A *frame*
 1. Open a new Figma workspace.
 2. Navigate to the toolbar located at the bottom of the page.
 3. Select the Frame Tool, located in the second dropdown menu from the left.
@@ -34,15 +34,15 @@ Before we begin using *Vectorizer*, we will first have to import an image. To do
 
 <img src="assets/images/screenshots/Sample Frame.png" alt="Alt text" style="width: 280px">
 
-> *Figure 1: For bigger images you will want a larger frame.*
-#### 1.2 Filling A *frame*
+  > *Figure 1: For bigger images you will want a larger frame.*
+### 1.2 Filling A *frame*
 1. Navigate to the **properties panel** located on the right-hand side.
 2. Click the **FFFFFF** button located underneath the **Fill property**.
 3. Navigate to the **image icon**.
 
 <img src="assets/images/screenshots/Image Icon.png" alt="Alt text" style="width: 280px ; height: 450px">
 
-> *Figure 2: The image icon is the fourth button from the right.*
+  > *Figure 2: The image icon is the fourth button from the right.*
 4. Click **Upload from Computer**.
 5. Import your Image.  
 
@@ -51,20 +51,20 @@ Now that we have imported your visual it's time to begin the process of tracing 
 
 Luckily, the process is not nearly so difficult with our handy plug-in.
 
-### 2. Vectorizing Your Image 
+## 2. Vectorizing Your Image 
 1. Navigate to the plug-ins home page [here](https://www.figma.com/community/plugin/1526280907441235581/free-vectorizer-image-tracer).
 2. Select your workspace from "Recent Files."  
     > Note:  The symbol in the blue square denotes a standard Figma design space.
 
 <img src="assets/images/screenshots/Open Vectorizer.png" alt="Alt text" style="width: 280px">
 
-> *Figure 3: Feel free to rename your workspace, but it will default to "**Untitled**."*
+  > *Figure 3: Feel free to rename your workspace, but it will default to "**Untitled**."*
 
 After you select your current workspace, the following window should appear on your screen.
 
 <img src="./assets/images/screenshots/Vectorizer in Figma.png" alt="Alt text" style="width: 320px">
 
-> *Figure 4: The home page of Vectorizer (Image Tracer).*
+  > *Figure 4: The home page of Vectorizer (Image Tracer).*
 
 Once Vectorizer (Image Tracer) is successfully running, complete the following tasks to fully vectorize your raster image.
 
@@ -72,9 +72,9 @@ Once Vectorizer (Image Tracer) is successfully running, complete the following t
 5. Select your frame.
 6. Select a **Curve Fitting**.
 
-  <img src="./assets/images/screenshots/Curve Fittings.png" alt="Alt text" style="width: 320px">
+<img src="./assets/images/screenshots/Curve Fittings.png" alt="Alt text" style="width: 320px">
 
-> *Figure 5: For more detailed images, I'd recommend the **"spline"** curve fitting, as it will better capture a wide variety of shapes. Pixel and Polygon work better with non-complex images*
+  > *Figure 5: For more detailed images, I'd recommend the **"spline"** curve fitting, as it will better capture a wide variety of shapes. Pixel and Polygon work better with non-complex images*
 7. Select **Insert Vector**.
 
 ## Congratulations!
