@@ -10,9 +10,9 @@ Ensure you meet the following requirements and have the recommended items readil
 
 ### Required |
 
-- **User Status:** You must be a Kardia app user with a cardiac condition who is actively preparing for a telehealth appointment with a healthcare provider.
+- **User Status:** You must have been using your Kardia app consistently for a telehealth appointment with a healthcare provider.
 
-- **Kardia App Use:** Your Kardia app must be installed and actively used with collected ECG data for at least 2-3 weeks.
+- **Kardia App Use:** Kardia app must be installed and actively used with collected ECG data for at least 2-3 weeks.
 
 - **Devices:** A compatible mobile device (smartphone or tablet) with the Kardia app installed.
 
