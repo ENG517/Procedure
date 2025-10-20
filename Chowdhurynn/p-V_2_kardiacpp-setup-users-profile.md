@@ -10,7 +10,7 @@ You can set up a Kardia app profile to monitor your heart rhythm and share data 
 
 ## About ECG App Profile
 
-Your Kardia app profile stores your medical information and helps provide accurate heart rhythm analysis. The profile connects your ECG readings with your health history and enables communication with your healthcare team.
+Your Kardia app profile securely stores your medical information, which is critical for accurate heart rhythm analysis. This profile links your ECG readings with your personal health history, enabling effective communication with your healthcare team and ensuring your monitoring is personalized.
 
 ## Prerequisites
 
@@ -26,22 +26,22 @@ You must have the Kardia app installed on your smartphone:
 
  ## Creating your account
 
-1. **Open** the Kardia app on your smartphone.
-2. **Tap** `Create New Account` on the welcome screen.
-3. **Enter** your email address and create a strong password (at least 8 characters).
-4. **Tap** `Create Account`.
+1. Open the Kardia app on your smartphone.
+2. Tap `Create New Account` on the welcome screen.
+3. EEnter your email address and create a strong password (at least 8 characters, ideally including a mix of uppercase and lowercase letters, numbers, and symbols).
+4. Tap `Create Account`.
   <!-- I'm doubtful that you would need to supply this particular screenshot, since it's very common. -->
   <img src="./assets/images/screenshots/createAcc.png" 
        alt="createAcc" 
        width="300" 
        style="margin-left: 40px;"/>
 
-5. **Check** your email for a verification message and **tap** the verification link.
+5. Check your email for a verification message and tap the verification link.
   <!-- Suggestions:
     - This is where you should supply a screenshot, since it is an important success condition.
     - I modified the indentation work, since it helps connote a relationship with step 5.
   -->
-  - [**What you should see:**](#) `Account successfully created` confirmation message.
+  - **Expected Confirmation:** You should see sn `Account successfully created` confirmation message.
 
     > **Troubleshooting account creation**
     >
@@ -52,9 +52,15 @@ You must have the Kardia app installed on your smartphone:
 
 ## Completing your profile setup
 
-After creating your account, complete your profile by adding your medical information, health history, current medications, and setting up daily reminders through the app's [**Profile**](#) and [**Settings**](#) sections. This ensures accurate ECG analysis and consistent monitoring schedule.
+After creating your account, ensure your profile is fully set up with essential medical details for accurate ECG analysis and consistent monitoring.
+  1.  Navigate to the `Profile` section within the app.
+  2.  Add your medical information, including health history and current medications.
+  3.  Go to the `Settings` section.
+  4.  Set up any desired daily reminders for ECG readings.
 
-> [**Privacy Note**](#)
+**Expected Outcome:** Your profile should now display all entered medical information and activated reminders, ensuring personalized and accurate monitoring.
+
+> **Important Privacy Note**
 >
 > Your medical information is encrypted and only shared with healthcare providers you authorize. Never enter information in unofficial apps or websites.
 
