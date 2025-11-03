@@ -1,6 +1,7 @@
 # Preparing Your Kardia Data for Telehealth Appointments
 
-You can review your Kardia ECG monitoring data and prepare comprehensive reports for your upcoming telehealth appointment with your cardiologist. Preparing your Kardia ECG data before your telehealth appointment ensures your doctor has comprehensive information about your heart health trends. This preparation includes reviewing your Kardia analysis, understanding your reports, and verifying data synchronization with your healthcare provider's systems.
+Preparing your Kardia ECG data before your telehealth appointment ensures your 
+doctor has comprehensive information about your heart health trends. This guide shows you how to access your Health Summary, generate comprehensive reports, and verify your data is ready to share with your healthcare provider.
 
 ## Prerequisites |
 
@@ -10,13 +11,15 @@ Ensure you meet the following requirements and have the recommended items readil
 
 ### Required |
 
-- **User Status:** You must have been using your Kardia app consistently for a telehealth appointment with a healthcare provider.
-
-- **Kardia App Use:** Kardia app must be installed and actively used with collected ECG data for at least 2-3 weeks.
-
-- **Devices:** A compatible mobile device (smartphone or tablet) with the Kardia app installed.
+- **Kardia App:** You must have been using your Kardia app consistently to collect ECG data for at least 2-3 weeks before your telehealth appointment.
 
 - **Internet:** A reliable internet connection for data synchronization.
+
+- **Login Credentials:** [Username and password](https://app.alivecor.com/login) for both your Kardia app account and patient portal connected to your healthcare provider.
+
+- **Kardia Device:** Your physical Kardia device should be nearby for reference.
+
+- **Battery:** Sufficient battery life on your mobile device to complete the process.
 
 - **Accounts & Credentials:**
 
