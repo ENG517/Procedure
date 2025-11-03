@@ -3,35 +3,27 @@
 Preparing your Kardia ECG data before your telehealth appointment ensures your 
 doctor has comprehensive information about your heart health trends. This guide shows you how to access your Health Summary, generate comprehensive reports, and verify your data is ready to share with your healthcare provider.
 
-## Prerequisites |
+## Prerequisites 
 
 **Before you begin**
 
 Ensure you meet the following requirements and have the recommended items readily available:
 
-### Required |
+### Required 
 
-- **Kardia App:** You must have been using your Kardia app consistently to collect ECG data for at least 2-3 weeks before your telehealth appointment.
-
-- **Internet:** A reliable internet connection for data synchronization.
-
-- **Login Credentials:** [Username and password](https://app.alivecor.com/login) for both your Kardia app account and patient portal connected to your healthcare provider.
+- **Kardia App:** Installed and actively used to collect ECG data for at least 2-3 weeks before your telehealth appointment.
 
 - **Kardia Device:** Your physical Kardia device should be nearby for reference.
 
 - **Battery:** Sufficient battery life on your mobile device to complete the process.
 
-- **Accounts & Credentials:**
+- **Internet:** A reliable internet connection for data synchronization.
 
-  - You must have [login credentials](https://app.alivecor.com/login) (username and password) and access to both your Kardia app account and your patient portal account connected to your healthcare provider.
+- **Accounts & Credentials:** [Username and password](https://app.alivecor.com/login) for both your Kardia app account and patient portal connected to your healthcare provider.
 
-- **Materials:** Your Kardia device should be nearby for reference.
+### Recommended 
 
-- **Technical Readiness:** Sufficient battery life on your mobile device to complete the process without interruption.
-
-### Recommended |
-
-- **KardiaCare Subscription:** Having a [KardiaCare subscription](https://kardia.com/products/kardiacare?srsltid=AfmBOooIw1_2WPVplJJrWiOK3uvpJ_29bq-NRNDbwXgdv5BCPvI1xCrQ) is recommended for accessing detailed reports and comprehensive trend analysis, which can be highly beneficial for your doctor.
+- **KardiaCare Subscription:** A [KardiaCare subscription](https://kardia.com/products/kardiacare?srsltid=AfmBOooIw1_2WPVplJJrWiOK3uvpJ_29bq-NRNDbwXgdv5BCPvI1xCrQ) provides access to detailed reports and comprehensive trend analysis.
 
 - **Medical Information:** Your current medication list and recent doctor's notes, as these can provide valuable context during your telehealth appointment.
 
