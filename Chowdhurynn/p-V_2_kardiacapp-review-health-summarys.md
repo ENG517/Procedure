@@ -31,15 +31,13 @@ Ensure you meet the following requirements and have the recommended items readil
  
 1. Open the Kardia app.
 2. Tap the `History` tab at the bottom of the screen.
-3. Look for `Health Summary` or tap the calendar icon to view trends.
+3. Tap the calendar icon to view `Health Summary`. The Health Summary loads with trend graphs.
 
-    > **Alert:** Be sure to wait for ECG data to fully load. This process can take **20-25 seconds**.
-    > 
-    > If you move forward too quickly, you may not see your complete monitoring history.
+    > **Alert:** Wait 20-25 seconds for ECG data to fully load. Moving forward too quickly may result in incomplete monitoring history.
 
 4. Verify the date range covers your recent monitoring period.
 
-    > **Result:** You should see the Kardia dashboard with ECG trend graphs and recent readings organized by date.
+    > **Result:** Your dashboard displays ECG trend graphs and recent readings organized by date.
     <!--![Add a screenshot here?]() -->
   
 ### Troubleshooting navigation |
