@@ -1,10 +1,10 @@
 # Guitar Wiring Troubleshooting
 
-Common problems encountered when wiring guitar electronics and potential solutions. Follow each problem-solution in order to rule out each one.
+Common problems encountered when wiring guitar electronics and potential solutions. Follow each problem-solution in order to rule out each one. You should have already completed the [Wiring a Single-Humbucker Setup: Connecting Components](/hassell/p-guitar-wiring.md) guide.
 
-## Prerequisites
+<!-- ## Prerequisites
 
-You should have already completed the [Wiring a Single-Humbucker Setup: Connecting Components](/hassell/p-guitar-wiring.md) guide.
+You should have already completed the [Wiring a Single-Humbucker Setup: Connecting Components](/hassell/p-guitar-wiring.md) guide. -->
 
 ---
 
