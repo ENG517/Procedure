@@ -25,7 +25,7 @@ Ensure you meet the following requirements:
 
 3. Scroll through your list of ECG recordings to view dates, times, and analysis results.
 4. Tap any recording to view full details.
-    > **Results:** The detailed recording screen displays the ECG waveform, heart rate, and complete analysis.
+    > **Result:** The detailed recording screen displays the ECG waveform, heart rate, and complete analysis.
 
 <p>
   <img src="./assets/images/screenshots/History.png" 
