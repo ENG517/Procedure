@@ -1,8 +1,8 @@
 # Understanding Your Kardia ECG Analysis Results
 
-Your Kardia app provides instant analysis of your ECG recordings to help you monitor your heart health. 
+Your Kardia app provides instant analysis of your ECG recordings to help you monitor your heart health. Understanding these results helps you recognize normal patterns, identify potential concerns, and know when to contact your healthcare provider. 
 
-This guide shows you how to access your ECG history, interpret different analysis results, troubleshoot recording issues, and determine when to contact your healthcare provider.
+This guide shows you how to access your ECG history, interpret different analysis results, troubleshoot recording issues, and determine when to seek medical attention.
 
 ## Prerequisites
 
