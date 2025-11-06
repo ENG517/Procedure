@@ -1,7 +1,8 @@
 # Preparing Your Kardia Data for Telehealth Appointments
 
-Preparing your Kardia ECG data before your telehealth appointment ensures your 
-doctor has comprehensive information about your heart health trends. This guide shows you how to access your Health Summary, generate comprehensive reports, and verify your data is ready to share with your healthcare provider.
+Preparing your Kardia ECG data before your telehealth appointment ensures your doctor has comprehensive information about your heart health trends. Well-organized data helps your healthcare provider make informed decisions about your treatment and provides a complete picture of your heart rhythm patterns over time.
+
+This guide shows you how to access your Health Summary, generate comprehensive reports, and verify your data is ready to share with your healthcare provider.
 
 ## Prerequisites 
 
@@ -57,7 +58,7 @@ If you can't find the Health Summary:
 
 ## Generating Kardia reports for your doctor
 
-1. Go to the `Reports` section in your Kardia app.
+1. From the main dashboard, tap the `Reports` section in your Kardia app.
 2. Select the date range specified by your doctor (last 30 days, 90 days, etc.).
 3. Choose `Comprehensive Report` which includes ECG strips, analysis, and trends.
 4. Tap `Download PDF` or `Share Report`.
