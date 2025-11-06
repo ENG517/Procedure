@@ -60,12 +60,11 @@ After verifying your account, add your personal and medical information to enabl
 6. Scroll down and tap `Connect New Device` and select your Kardia device model from list. 
 7. Tap the `Manage Reminders` section and set up any desired daily reminders for ECG readings (optional).
 8. Tap `Save` to complete your profile.
+    > **Result:** Your profile is now complete with a checkmark displayed next to "Profile Setup."
 
-  > **Result:** Your profile is now complete with a checkmark displayed next to "Profile Setup."
-
-**Privacy and Data Security**
-
-Your medical information is encrypted and stored securely in your Kardia account. This information is only shared with healthcare providers you specifically authorize. Keep your account secure by never sharing your login credentials.
+> **Privacy and Data Security**
+> 
+> Your medical information is encrypted and stored securely in your Kardia account. This information is only shared with healthcare providers you specifically authorize. Keep your account secure by never sharing your login credentials.
 
 ## Next steps
 
