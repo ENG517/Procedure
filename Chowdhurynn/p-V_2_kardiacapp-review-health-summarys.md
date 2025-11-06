@@ -27,7 +27,7 @@ Ensure you meet the following requirements and have the recommended items readil
 
 - **Medical Information:** Your current medication list and recent doctor's notes, as these can provide valuable context during your telehealth appointment.
 
-## Accessing Your Kardia Health Summary 
+## Accessing your Kardia health summary 
  
 1. Open the Kardia app.
 2. Tap the `History` tab at the bottom of the screen.
@@ -47,7 +47,7 @@ Ensure you meet the following requirements and have the recommended items readil
 </p>
     
   
-### Troubleshooting Navigation
+### Troubleshooting navigation
 
 If you can't find the Health Summary:
 
@@ -55,7 +55,7 @@ If you can't find the Health Summary:
   - Check the `Reports` section in your profile settings.
   - Update your Kardia app to the latest version.
 
-## Generating Kardia Reports for Your Doctor
+## Generating Kardia reports for your doctor
 
 1. Go to the `Reports` section in your Kardia app.
 2. Select the date range specified by your doctor (last 30 days, 90 days, etc.).
@@ -73,18 +73,18 @@ Example of a generated report:
        style="margin-left: 40px;"/>
 </p>
 
-> [**Privacy and Data Security**](#)
+> **Privacy and Data Security**
 >
 > Your ECG recordings, analysis results, and health data are encrypted and stored securely in your Kardia account. This information is only shared with healthcare providers you specifically authorize. Keep your account secure by never sharing your login credentials with others.
 
-## Next Steps
+## Next steps
 
 During your telehealth appointment, be prepared to:
 - Share your screen showing Kardia data.
 - Demonstrate taking an ECG if requested.
 - Discuss any patterns or concerns you've identified in your recordings.
 
-## Additional Resources
+## Additional resources
 
 - [Kardia User Guide](https://kardia.com/assets/old/app-user-manuals/00LB17.15-en.pdf) - Comprehensive app documentation.
 - [Understanding ECG Results](https://alivecor.com/products) - Educational materials.
