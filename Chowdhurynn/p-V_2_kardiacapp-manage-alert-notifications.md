@@ -1,10 +1,8 @@
-# Managing Kardia ECG App Alerts 
+# Understanding Your Kardia ECG Analysis Results
 
-Your Kardia app generates alerts to help you understand your ECG results and take appropriate action. These alerts can confirm normal readings, flag potential rhythm concerns that may need medical review, or warn about technical issues like unreadable or sync errors.
+Your Kardia app provides instant analysis of your ECG recordings to help you monitor your heart health. 
 
-This guide shows you how to interpret different alert types, manage notifications 
-within the app, troubleshoot common issues, and determine when to contact your 
-healthcare provider.
+This guide shows you how to access your ECG history, interpret different analysis results, troubleshoot recording issues, and determine when to contact your healthcare provider.
 
 ## Prerequisites
 
@@ -26,7 +24,8 @@ Ensure you meet the following requirements:
     > **Alert:** It may take 10–15 seconds for all ECG data to fully load. Wait until the list is complete before reviewing results to avoid missing recent recordings.
 
 3. Scroll through your list of ECG recordings to view dates, times, and analysis results.
-4. Tap any recording to view full details. The detailed recording screen opens, showing the ECG waveform and complete analysis.
+4. Tap any recording to view full details.
+    > **Results:** The detailed recording screen displays the ECG waveform, heart rate, and complete analysis.
 
 <p>
   <img src="./assets/images/screenshots/History.png" 
@@ -35,11 +34,13 @@ Ensure you meet the following requirements:
        style="margin-left: 40px;"/>
 </p>
 
-## Types of Alerts You Might See
+## Understanding Your Analysis Results
 
-Understanding these alert types helps you manage them effectively and know when to contact your healthcare provider.
+After each 30-second recording, the Kardia app provides instant analysis. Understanding these alert types helps you manage them effectively and know when to contact your healthcare provider.
 
-- **Normal Readings:** Your ECG did not show signs of irregular rhythm. 
+- **Normal Readings:** Your ECG shows a regular heart rhythm with a heart rate between 50-100 beats per minute and no irregular beats detected. 
+
+  > **Note:** A normal result does not guarantee you are not experiencing other heart conditions. Contact your doctor if you have symptoms even with normal readings.
 
 <p>
   <img src="./assets/images/screenshots/normalReading.png" 
@@ -48,7 +49,9 @@ Understanding these alert types helps you manage them effectively and know when 
        style="margin-left: 40px;"/>
 </p>
 
-- **Readings that need attention:** The app detected possible irregularities such as **atrial fibrillation** or **unclassified rhythms**.
+- **Artial Fibrillation Detected:** The app detected an irregular heart rhythm consistent with atrial fibrillation. This is not a diagnosis but a potential finding that requires medical review.
+
+    > **Action Required:** Contact your doctor to review this recording. Do not change your medication without consulting your physician.
 
 <p>
   <img src="./assets/images/screenshots/abnormalReading.png" 
@@ -57,7 +60,16 @@ Understanding these alert types helps you manage them effectively and know when 
        style="margin-left: 40px;"/>
 </p>
 
-- **Technical Errors:** Issues with recording quality or syncing, such as "Unreadable," "Too Short," or sync failures. See the Troubleshooting section below for solutions.
+- **Bradycardia:** Your ECG shows normal rhythm but with a heart rate between 40-50 beats per minute, which is slower than the typical range.
+
+- **Tachycardia:** Your ECG shows normal rhythm but with a heart rate between 100-140 beats per minute, which is faster than the typical range.
+
+- **Unclassified:** The app could not classify your recording into the categories above. This may occur with heart rates below 40 or above 140 beats per minute, or with certain heart rhythm patterns.
+
+    > **Action Recommended:** Review this recording with your doctor or request a clinician review through the app.
+
+- **Unreadable:** The recording quality was too poor for accurate analysis due to interference, movement, or poor electrode contact.
+
 <p>
   <img src="./assets/images/screenshots/Unreadable.jpeg" 
        alt="AbnormalReading" 
@@ -65,47 +77,39 @@ Understanding these alert types helps you manage them effectively and know when 
        style="margin-left: 40px;"/>
 </p>
 
-## Managing alerts within the app
+See the Troubleshooting section below for tips on improving recording quality.
 
-1. Open the Alerts tab.
-2. Tap on any alert to view details.
-3. Mark as reviewed by tapping the checkmark or `Dismiss` button.
+## Troubleshooting Recording Issues
 
-      > **Tip:** Dismissed alerts remain in your history but won't show as active notifications.
+If you frequently receive unreadable results, try these steps:
 
-## Troubleshooting sync errors
+1. Clean the electrodes with an alcohol-based sanitizer before each recording.
+2. Apply a water-based lotion to dry hands before recording.
+3. Rest your forearms and hands on a flat surface during recording.
+4. Ensure your phone is not charging and headphones are disconnected.
+5. Remain still during the entire 30-second recording.
 
-**If you see sync error alerts**
+## When to Contact Your Doctor or Seek Emergency Help
 
-  1. Check your internet connection (e.g., ensure Wi-Fi is connected or mobile data is active and functional).
-  2. Close and reopen the Kardia app.
-  3. Locate the failed recording in your history and tap it, then select `Retry Upload`.
-  4. Restart your phone if the error continues.
+**Contact your doctor if you see:**
 
-**If sync problems persist**
+- Atrial fibrillation detected on any recording.
+- Multiple unclassified readings in a row.
+- Any results you don't understand or that concern you.
+- Changes in your typical pattern of results.
+- Symptoms that worry you, regardless of the analysis result.
 
-  - Log out and log back into your account.
-  - Contact Kardia support through the app's Help section.
+**Seek emergency medical help immediately if you experience:**
 
-## When to call your doctor
+- Chest pain or pressure.
+- Severe shortness of breath.
+- Dizziness, lightheadedness, or fainting.
+- Rapid or irregular heartbeat with symptoms.
 
-**Contact your doctor if:**
-
-  - Any irregular readings.
-  - Multiple unusual readings in a row.
-  - Readings you don't understand.
-  - If you feel worried about any result.
-
-**Get emergency help if you have:**
-
-  - Chest pain.
-  - Trouble breathing.
-  - Feeling dizzy or faint.
-
-> [**Important Note**](#)
+> **Important Note**
 >
-> Your heart monitor app is helpful but it's not the same as seeing a doctor. If you feel sick or worried, get medical help even if the app says everything looks normal.
+> The Kardia app is a monitoring tool, not a substitute for medical care. If you feel unwell, seek medical attention even if your ECG shows normal results. The app cannot detect all heart conditions or provide a complete diagnosis.
 
 ## Next steps
 
-Now you can better understand what your heart monitor app is telling you and know when to contact your healthcare provider about any concerns.
+You now understand how to access your ECG history, interpret analysis results, and troubleshoot common issues. Continue taking regular recordings as recommended by your doctor, and share any concerning results with your healthcare provider promptly.
