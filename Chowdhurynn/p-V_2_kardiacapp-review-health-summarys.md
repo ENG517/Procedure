@@ -27,7 +27,7 @@ Ensure you meet the following requirements and have the recommended items readil
 
 - **Medical Information:** Your current medication list and recent doctor's notes, as these can provide valuable context during your telehealth appointment.
 
-## Accessing Your Kardia Health Summary |
+## Accessing Your Kardia Health Summary 
  
 1. Open the Kardia app.
 2. Tap the `History` tab at the bottom of the screen.
@@ -38,37 +38,55 @@ Ensure you meet the following requirements and have the recommended items readil
 4. Verify the date range covers your recent monitoring period.
 
     > **Result:** Your dashboard displays ECG trend graphs and recent readings organized by date.
-    <!--![Add a screenshot here?]() -->
+
+<p>
+  <img src="./assets/images/screenshots/history_by_dates.png" 
+       alt="History_By_Dates" 
+       width="300" 
+       style="margin-left: 40px;"/>
+</p>
+    
   
-### Troubleshooting navigation |
+### Troubleshooting Navigation
 
 If you can't find the Health Summary:
 
   - Ensure you have a KardiaCare subscription for advanced analytics.
   - Check the `Reports` section in your profile settings.
   - Update your Kardia app to the latest version.
-  - Look for `Trends` or `Analytics` in the main menu.
 
-## Generating Kardia reports for your doctor |
+## Generating Kardia Reports for Your Doctor
 
 1. Go to the `Reports` section in your Kardia app.
 2. Select the date range specified by your doctor (last 30 days, 90 days, etc.).
 3. Choose `Comprehensive Report` which includes ECG strips, analysis, and trends.
-4. Tap `Generate PDF` or `Share Report`.
+4. Tap `Download PDF` or `Share Report`.
 5. Email the report to yourself and your doctor, or save to share via patient portal.
 6. Verify the PDF opens correctly and displays all your ECG recordings.
+
+Example of a generated report:
+
+<p>
+  <img src="./assets/images/screenshots/Sample_report.png" 
+       alt="Sample Report" 
+       width="300" 
+       style="margin-left: 40px;"/>
+</p>
 
 > [**Privacy and Data Security**](#)
 >
 > Your ECG recordings, analysis results, and health data are encrypted and stored securely in your Kardia account. This information is only shared with healthcare providers you specifically authorize. Keep your account secure by never sharing your login credentials with others.
 
-## Next steps |
+## Next Steps
 
-During your telehealth appointment, be prepared to share your screen showing Kardia data, demonstrate taking an ECG if requested, and discuss any patterns or concerns you've identified in your recordings.
+During your telehealth appointment, be prepared to:
+- Share your screen showing Kardia data.
+- Demonstrate taking an ECG if requested.
+- Discuss any patterns or concerns you've identified in your recordings.
 
-## Additional resources |
+## Additional Resources
 
 - [Kardia User Guide](https://kardia.com/assets/old/app-user-manuals/00LB17.15-en.pdf) - Comprehensive app documentation.
 - [Understanding ECG Results](https://alivecor.com/products) - Educational materials.
 - [KardiaCare Support](https://alivecor.zendesk.com/hc/en-us/requests/new) - Technical assistance.
-- [Telehealth Best Practices](https://telehealth.hhs.gov/patients/why-use-telehealth) - Technical assistance.
+- [Telehealth Best Practices](https://telehealth.hhs.gov/patients/why-use-telehealth) - Patient resources and preparation tips.
