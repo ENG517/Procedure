@@ -49,7 +49,7 @@ After each 30-second recording, the Kardia app provides instant analysis. Unders
        style="margin-left: 40px;"/>
 </p>
 
-- **Artial Fibrillation Detected:** The app detected an irregular heart rhythm consistent with atrial fibrillation. This is not a diagnosis but a potential finding that requires medical review.
+- **Atrial Fibrillation Detected:** The app detected an irregular heart rhythm consistent with atrial fibrillation. This is not a diagnosis but a potential finding that requires medical review.
 
     > **Action Required:** Contact your doctor to review this recording. Do not change your medication without consulting your physician.
 
