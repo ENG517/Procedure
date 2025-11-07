@@ -13,7 +13,7 @@ Loading paper into a typewriter for the first time can be tricky. Don't worry! T
 
 There are minimal materials required to load paper into a typewriter:
 
- 1. A Typewriter
+ 1. A Manual Typewriter
  <!-- Any type of typewriter? Or does it assume a particular age/era? My mother used digital typewriters for awhile is why I ask. :-) -->
  2. Paper
      - Most manual typewriters can use regular ol' printer paper, though some older models work best with thicker stock paper. It will likely take some trial and error to determine what works best for you.
