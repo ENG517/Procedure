@@ -1,0 +1,23 @@
+# Reflection
+
+## How do your procedures incorporate the 4 components of procedures and follow the WTGA Staging, Coaching, and Alerting conventions?
+
+For staging, I used an introductory section for each procedure. For my textframes and masterpages procedures, I included a header called "Introduction" with a short introductory paragraph about the importance of those tasks in the overall procedural goal of creating a magazine. For the images procedure, based on the feedback from my group, I omitted the "Introduction" header and used a short, 1-sentence introduction as staging. I also used prerequisite lists in two of my three procedures, to give users an idea of what materials they should have already prepared before beginning the procedure.
+
+For coaching, I included Steps for tasks, usually in numbered lists, although I did use unnumbered lists as well, where appropriate. For each procedure, tasks were broken into sub tasks of 3-4 steps so that the user could accomplish each procedure in manageable chunks. I used minimalist principles in my writing, omitting unnecessary words, using present tense active voice, and keeping each step to a single action that followed in a logical order for the user.
+
+For alerting, I used the blockquote function (">") and an alert, "Note:" to give users more specific instructions pertaining to certain steps.
+
+## How do your procedures follow your task orientation work?
+
+The procedures were created in relation to my user scenario. The user was a beginner to intermediate level user with some experience with Adobe InDesign, but who was attempting to use the program to create a large-scale project for the first time. For each procedure, I chose a specific task that would be relevant to the user as they went about converting articles, interview, and image files into a cohesive final project with a consistent layout in Adobe Indesign. These procedures were: 1. Creating a Parent Page, 2. Creating Text Frames. and 3. Place and Format Images. Rather than focusing on the program's functionalities, I oriented each procedure toward a specific task that the user would want to accomplish as part of their overall goal. 
+
+## How did you apply a basic docs-as-code editorial workflow to your assignment? Please provide specific cases with screenshots and/or links that can support your claims.
+
+First, I opened the main Procedure repo in the ENG517 github page. Then I cloned the procedure, by copying the link from the Github webpage and opening in my Github desktop. Then I created a 3 new branches -- one for each one of my procedures. Inside each branch, I renamed the "task1", "task2", and "task3" markdown files to "p-magazine-images", ""p-magazine-masterpage", and ""p-magazine-textframes" respectively. While working on each branch, I edited only the markdown file for the task that corresponded to the branch. I wrote the procedures in Markdown files using VS Code and created a pull request for each branch after creating the general layout using headers. As I went about editing the tasks, I tried to make changes and commit those changes in relevant chunks, to make it easier for the reviewers to see where I had made edits.
+
+When I had finished the procedures, I added in my user scenarios. My user scenario applied to all 3 procedures, so I added the same user scenario to each one of my branches. Then, finally, I added my reflection. In the instructions, it said to added the reflection to the root branch of the repo -- however, I was unsure about whether or not that meant we should actually add it to the main branch. Instead, I wrote the reflection and copied it into each one of my branches, so that the instructor could see it in any of my branches.
+
+## How did you apply a consistnet use of the MArkdownlanguage throughout your project? Please provide specific cases.
+
+I used consistent sizes for headers. For the title of the procedure, I used heading 1. For the titles of the introduction and sub tasksl, I used header 2. For my steps within each sub tasks, I used numbered lists, except for sub task 3 in the Images procedure. I used an unordered list since they represented different potential options for the user that did not necessarily all need to be completed. For my alerts, I chose to use the same format throughout all the procedures, using the blockquote function to offset the text, which always began with "Note:". The other main formatting decision I made was use use _Italics_ to designate the names of toolbar and menu items. While bold may have worked just as well, I decided to use italics and apply it consistently, based on what I had seen in other similar procedural guides.
