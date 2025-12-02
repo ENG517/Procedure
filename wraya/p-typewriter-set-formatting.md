@@ -13,7 +13,7 @@ Setting margins and line spacing are necessary to achieve appropriate formatting
 
 Manual typewriters allow you to easily adjust the line spacing of your text. More expensive, higher-level typewriters typically have more options for line spacing than older, simpler, or cheaper models. Most commonly, a typewriter will have 2 to 3 options for line spacing. To set line spacing, follow the steps below:
 
-### Step 1: Locate your line spacer
+### Step 1: Identify your line spacer
 
  The line spacer is a small lever located on the left hand side of the typewriter, usually right above the carriage return lever.
  
@@ -47,10 +47,6 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
 ### Step 2: Center the carriage
 
  When a carriage is centered, the middle of the carriage is lined up with the half-way point on the typist's ruler. Centering the carriage is an important step, as it ensures your paper is also centered on the typist's ruler and the margins can be set evenly on the left and right sides of the paper.
-
- ![Typewriter Anatomy](/wraya/assets/images/)
-    
-    >*Figure 2: Typewriter Anatomy*
 
  1. Identify the **carriage centering lever** on the right-hand side of your typewriter. 
  2. Press the lever, and the carriage will center itself.
