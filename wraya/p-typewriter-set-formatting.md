@@ -9,7 +9,7 @@ Setting margins and line spacing are necessary to achieve appropriate formatting
 1. A manual typewriter, 1940's or newer.
 2. Typing paper must be loaded into the typewriter.
 
-## Setting Line Spacing
+## Setting line spacing
 
 Manual typewriters allow you to easily adjust the line spacing of your text. More expensive, higher-level typewriters typically have more options for line spacing than older, simpler, or cheaper models. Most commonly, a typewriter will have 2 to 3 options for line spacing. To set line spacing, follow the steps below:
 
@@ -28,11 +28,11 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
  3. Type a few words.
  4. Visually evaluate the line spacing to ensure it is your desired spacing.
 
-## Types of Margins
+## Types of margins
 
  There are two types of margin settings that exist in manual typewriters: visible margins and non-visible margins, i.e., "Magic" margins. Your typewriter model will determine which type of margin you have, and how you will set them. Non-visible margins are most common on Royal brand typewriters, while most other brands and models have visible margins.
 
-## Setting Visible Margins
+## Setting visible margins
 
  Visible Margins are set with margin stops. These are common on older typewriter models (pre-1950's), Smith-Corona machines, and Brother machines. To set visible margins, follow the steps below:
 
@@ -47,6 +47,10 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
 ### Step 2: Center the carriage
 
  When a carriage is centered, the middle of the carriage is lined up with the half-way point on the typist's ruler. Centering the carriage is an important step, as it ensures your paper is also centered on the typist's ruler and the margins can be set evenly on the left and right sides of the paper.
+
+ ![Typewriter Anatomy](/wraya/assets/images/)
+    
+    >*Figure 2: Typewriter Anatomy*
 
  1. Identify the **carriage centering lever** on the right-hand side of your typewriter. 
  2. Press the lever, and the carriage will center itself.
@@ -66,7 +70,7 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
 
  >**Note:** If you need some additional help with your margin settings, such as typing past a set margin, or knowing when you are approaching a margin while typing, see the **"Additional Tips"** section below.
 
-## Setting Magic Margins
+## Setting non-visible margins
 
 Royal typewriters that were produced after the 1950's are equipped with "Magic Margins." This is a type of non-visible margin function that allows you to automatically set margins at the push of a button, rather than manually setting them using margin stops. To set magic margins, follow these steps:
 
@@ -76,7 +80,7 @@ Royal typewriters that were produced after the 1950's are equipped with "Magic M
 
  ![Magic Margins](/wraya/assets/images/typewriter-magic-margins.png)
     
- >*Figure 2: Magic Margins*
+ >*Figure 3: Magic Margins*
  
 ### Step 2: Set your left-hand margin
 
@@ -94,7 +98,7 @@ Royal typewriters that were produced after the 1950's are equipped with "Magic M
 
  >**Note:** If you need some additional help with your margin settings, such as typing past a set margin, expanding margins, or knowing when you are approaching a margin while typing, see the **"Additional Tips"** section below.
 
-### Additional Tips
+### Additional tips
 
 - If you want to **continue typing past your margin**, most typewriters are equipped with a Margin Release key or lever. This may be denoted by arrows, the letters “M-R" or "MAR REL," or something similar. Simply press this key or lever, and the margin stop on the right side will be released and you can continue typing on your current line. This is the case for both visible and non-visible margin settings.
 - If you want to know when you are **typing near a margin,** listen for a bell sound when testing your margins. Most typewriters are equipped with a bell that will ring when you are 5 character spaces away from hitting your right margin. This is so that, when you are typing, you will know if you need to move on to the next line or hyphenate a word at the end of your current line.
