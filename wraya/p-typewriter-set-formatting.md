@@ -1,13 +1,16 @@
 # How to Set Formatting on a Manual Typewriter
 
-<!-- Also, should you provide that graphic from loading paper procedure for help and reference in this procedure too? -->
-
 Setting margins and line spacing are necessary to achieve appropriate formatting for any type of written work. Though it may not seem intuitive, **setting formatting on a typewriter** is quite simple! Continue reading to learn how to format like a pro.
 
 ## Prerequisites
 
 1. A manual typewriter, 1940's or newer.
 2. Typing paper must be loaded into the typewriter.
+3. Basic understanding of typewriter terminology/anatomy. For unfamiliar terminology, please refer to Figure 1 below.
+
+![Typewriter Anatomy](/wraya/assets/images/typewriter-anatomy.jpg)
+    
+>*Figure 1: Typewriter Anatomy*
 
 ## Setting line spacing
 
@@ -42,7 +45,7 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
 
     ![Margin Stops](/wraya/assets/images/typewriter-margin-stops.png)
     
-    >*Figure 1: Margin Stops*
+    >*Figure 2: Margin Stops*
 
 ### Step 2: Center the carriage
 
