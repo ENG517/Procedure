@@ -19,7 +19,7 @@ Not much is required to successfully change your typewriters ink ribbon. All you
 
 Put on your gloves and lay out plastic surface protection or paper towels/cloths under and next to the typewriter to keep ink from staining surfaces and have a convenient location to sit the new and old ink ribbons while changing them. 
 
-## Changing the Ribbon
+## Changing the ribbon
 
 To change your typewriter ribbon, follow these steps:
 
