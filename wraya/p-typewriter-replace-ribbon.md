@@ -2,14 +2,14 @@
 
 So, you've been writing on your typewriter for a while and your text is starting to look a bit see-through. Luckily, there's a simple fix for that! Read on to learn how to **replace a typewriter ribbon** and eliminate those obnoxious transparent letters.
 
->Note: The images used in this tutorial are for a Brother typewriter. Different typewriters, such as Smith Corona models, may have less complex spool mechanisms, and may not include a spring-loaded arm or spool shaft pin.
+>**Note**: The images used in this tutorial are for a Brother typewriter. Different typewriters, such as Smith Corona models, may have less complex spool mechanisms, and may not include a spring-loaded arm or spool shaft pin.
 
 ## Materials
 
 Not much is required to successfully change your typewriters ink ribbon. All you need is:
  1. A Manual Typewriter, 1940's or newer.
  2. A New Ink Ribbon.
-     > Note: Most typewriters are compatible with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required. 
+     > **Note**: Most typewriters are compatible with universal ribbons. However, it is important to research your typewriter model to ensure a specific ribbon size, spool size, or cassette type is not required. 
  3. **Optional -** Gloves.
      - Typewriter ribbons are fully saturated in ink, so handling them can get quite messy. If you prefer to remain ink-stain free, nitrile, latex, or plastic gloves are recommended.
  4. **Optional -** Paper Towels/Cleaning Cloth.
