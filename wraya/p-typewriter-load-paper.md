@@ -25,7 +25,7 @@ Locate the following important typewriter mechanisms for your typewriter using t
   - Platen
   - Platen-Knob/Roller-Knob
 
-  ![Typewriter Anatomy](/wraya/assets/images/typewriter-anatomy-load-paper.png)
+  ![Typewriter Anatomy](/wraya/assets/images/Typewriter-anatomy.jpg)
 
   >*Figure 2: Anatomy of a Typewriter*
 
