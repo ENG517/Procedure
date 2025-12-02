@@ -29,14 +29,14 @@ Locate the following important typewriter mechanisms for your typewriter using t
 
   >*Figure 2: Anatomy of a Typewriter*
 
-  >Note: The example above is a general layout of a manual typewriter. Your typewriter may look slightly different than the example shown, but the above mechanisms are generally the same across manual typewriter models and brands post 1940.
+  >**Note:** The example above is a general layout of a manual typewriter. Your typewriter may look slightly different than the example shown, but the above mechanisms are generally the same across manual typewriter models and brands post 1940.
 
 ### Step 2: Remove the existing paper, if applicable
 
 1. Pull back the paper bail to an open position to release its hold on the paper.
 2. Pull back the paper release lever.
 
-    > Note: This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
+    >**Note:** This is a very important step. While you may be able to pull the paper out without releasing the lever, over time this will damage the paper release mechanism.
 3. Roll the platen knob forward until the existing sheet of paper is fully removed.
 
 ### Step 3: Insert the new paper
@@ -62,7 +62,7 @@ Move the paper bail back to a closed position so that it is resting against the 
 1. Use the return lever to move the carriage to the left margin and begin typing.
 2. If the new sheet of paper seems unstable, misaligned, or becomes crinkled, it may not be loaded correctly. Try loading the paper again and see if the issues resolve.
 
-  >Note: If you have tried to load the paper multiple times and are still having issues, read the following section on **"Common issues to look out for,"** and see if they could be the source of your problems.
+  >**Note:** If you have tried to load the paper multiple times and are still having issues, read the following section on **"Common issues to look out for,"** and see if they could be the source of your problems.
 
 ## Common issues to look out for
 
