@@ -67,7 +67,7 @@ Manual typewriters allow you to easily adjust the line spacing of your text. Mor
 
  To test the success of this margin setting, slide the carriage between each margin stop. The carriage should halt in movement at each stop.
 
- >**Note:** If you need some additional help with your margin settings, such as typing past a set margin, or knowing when you are approaching a margin while typing, see the **"Additional Tips"** section below.
+ >**Note:** If you need some additional help with your margin settings, such as typing past a set margin, or knowing when you are approaching a margin while typing, see the **"Additional tips"** section below.
 
 ## Setting non-visible margins
 
@@ -95,7 +95,7 @@ Royal typewriters that were produced after the 1950's are equipped with "Magic M
 
  To test the success of this margin setting, slide the carriage left and right. The carriage should halt in movement at your set margin locations.
 
- >**Note:** If you need some additional help with your margin settings, such as typing past a set margin, expanding margins, or knowing when you are approaching a margin while typing, see the **"Additional Tips"** section below.
+ >**Note:** If you need some additional help with your margin settings, such as typing past a set margin, expanding margins, or knowing when you are approaching a margin while typing, see the **"Additional tips"** section below.
 
 ### Additional tips
 
