@@ -30,7 +30,7 @@ Before updating inventory, ensure the following:
 **Note:** This must be done from the backend, not the POS sales screen.
 
 ![Inventory](./assets/images/screenshots/Figure13.jpeg)
-*Figure 13: Odoo dashboard showing the Inventory Module.*
+*Figure 1: Odoo dashboard showing the Inventory Module.*
 
 ---
 
@@ -41,7 +41,7 @@ Before updating inventory, ensure the following:
 
 ![Adjustments](./assets/images/screenshots/Figure%2014.jpeg)
 
-*Figure 14: The Inventory Adjustments option displayed under Operations.*
+*Figure 2: The Inventory Adjustments option displayed under Operations.*
 
 ---
 
