@@ -95,3 +95,5 @@ Before updating inventory, ensure the following:
 
 ## Additional Resources
 Refer to [Inventory Adjustments](https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/count_products.html?highlight=inventory) for more information on matching warehouse inventory counts and avoiding discrepancies.
+
+Find my procedure [here](./assets/docs/Procedure%20Final.pdf)
