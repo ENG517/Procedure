@@ -106,3 +106,5 @@ A summary of transactions for the selected date appears.
 ## Additional Resources
 
 Refer to [Reporting](https://www.odoo.com/documentation/19.0/applications/essentials/reporting.html) for detailed information on analyzing and visualizing the data of your POS records.
+
+Find my procedure [here](./assets/docs/Procedure%20Final.pdf)
