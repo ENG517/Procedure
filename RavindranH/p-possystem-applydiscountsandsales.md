@@ -1,87 +1,81 @@
-# Applying Promotions, Discounts, and Offers in Odoo POS System
+# Applying Discount on Products in Odoo POS System
 
-<!-- Again, apply feedback in perform a sale. -->
+This guide teaches you how to apply discounts and offers to orders in the Odoo POS system.
 
-## What’s This For?
-Loyalty programs, promotional offers, and discounts encourage customers to keep returning to your shop or restaurant.  
-
-By the end of this article, you’ll know how to apply discounts, set up loyalty points for redemption, and apply promotions fairly in Odoo POS.
-
----
-
-## Before You Begin
-Ensure the following steps are completed before you proceed to apply discounts:
-
-### Availability of Customer Records
-- Customers are registered and their records are readily accessible.  
-⚠️ **Warning:** Discounts can be applied only if a customer record is tagged to a check.  
-
-### Active Loyalty Programs in Odoo POS
-- The loyalty programs must be enabled to be applied on the orders.  
-  - 📝 **Note:** To activate loyalty programs, go to **Point of Sale → Configuration**.  
-  - Tick the **Loyalty Program** checkbox under **Pricing**.  
-
-![Loyalty](./assets/images/Loyalty.jpeg)
-
-*Fig 6. Activate Loyalty Program*  
-
-- The following loyalty programs are available in Odoo POS:  
-  - **Points-Based:** Customers get a point for each purchase.  
-  - **Discount-Based:** Customers receive discounts when they’ve reached a purchase limit.  
-  - **Rewards:** Customers can accumulate points and get rewarded based on the points they’ve collected.  
-  - **Tiered Loyalty:** Customers are split into Bronze, Gold, and Platinum tiers based on their purchase history and rewarded accordingly.  
-
-### User Roles with Access Permissions
-- **POS Manager**  
-- **Supervisor**  
-- **Front-Desk Staff**  
+## Prerequisites
+Before you proceed to apply discounts on a product, make sure:
+- You are logged into the latest version of the Odoo application on your device.
+- You have permission to apply discounts and offers on orders.
+- The **Loyalty Program** setting in the Odoo dashboard is enabled so discounts will work correctly.
 
 ---
 
-## How to Apply Discounts/Loyalty Programs?
+## 1. Start a POS Session
+1.1 Click **New Session** to open your POS session.  
+**Note:** You can open only one POS session per browser at a time.
 
-### Step 1: Start a POS Session
-- Launch **Odoo**.  
-- Go to **Point of Sale**.  
-- Choose a store (e.g., Retail or Restaurant).  
-- Click **Open Register**.  
+---
 
-💡 **Tip:** Ensure the right store, location, and user role is selected.  
-⚠️ **Warning:** Discounts or loyalty programs cannot be applied without an active POS session.  
+## 2. Enable the Loyalty Program
+2.1 Click **Point of Sale** from the Odoo dashboard.  
+2.2 Click **Configuration**.  
+2.3 Turn on the **Loyalty Program** option under Pricing.  
+**Note:** Discounts can only be applied if this setting is enabled.
 
-### Step 2: Add Products to Cart
-- Select product category.  
-- Add products to the cart.  
-- Adjust the quantities, modifiers, and add-ons.  
+![Loyalty Program](./assets/images/screenshots/Figure15.jpeg)
+*Figure 15. The Loyalty Program setting selected to apply discounts* 
 
-⚠️ **Warning:** Ensure a product does not have $0 price before adding to the cart.  
 
-### Step 3: Link Customer to Order
-- Click **Customer** on the **Order** screen.  
-- Select an existing customer record or create a new one.  
+---
 
-📌 **Note:** This step is required for applying loyalty programs only, not discounts.  
+## 3. Choose Your Store
+3.1 Click **Point of Sale** from the Odoo dashboard.  
+3.2 Review the list of stores shown on the screen.  
+**Note:** Each store works independently, so discounts apply only to the store you select.  
+3.3 Select the store where you will make the sale.  
+**Example:** Select **Restaurant** if you are processing orders at the restaurant location.
 
-### Step 4: Apply Discounts/Loyalty Programs
-- Click **Discount** on the **Order screen** to apply a discount, or click **Rewards** to apply loyalty programs. The order price is instantly updated.  
+---
 
-![Rewards](./assets/images/Rewards.jpeg)
+## 4. Start a New Order
+4.1 Click **New Order**.  
+4.2 Select a product category to view its items.  
+**Example:** Tap **Foods** to see all food items.  
+4.3 Scroll through the screen to find the item you want.  
+**Note:** If you cannot find an item, click **Search Products** at the top.  
+4.4 Select the product the customer wants.  
+**Example:** Tap **Bacon Burger**.  
+4.5 Click **Add**. The item appears in the cart.
 
-*Fig 7. Apply Loyalty Points*  
+---
 
-⚠️ **Warning:** Discounts and loyalty programs cannot be applied together on the same order.  
+## 5. Add a Customer
+5.1 Click **Customer** in the keypad area.  
+**Note:** Adding a customer is required before applying discounts. This ensures that only customers with loyalty benefits receive discounts.  
+5.2 Click **Create** to add a new customer if needed.  
+**Example:** If a returning customer changed their phone number, update it here.  
+**Note:** You can update or delete customer information from this screen.  
+5.3 Enter the customer's details.  
+5.4 Click **Save**. The customer’s name now appears in the cart.
 
-### Step 5: Complete the Payment
-- Click **Payment**.  
-- Select payment method: **Cash, Card, or Other**.  
-- Click **Validate** after choosing the payment method. The order is complete.  
+---
+
+## 6. Apply a Discount to a Product
+6.1 Select the item in the cart that needs a discount.  
+**Note:** Make sure you select the correct item before applying the discount.  
+6.2 Click the **Discount** button on the keypad.  
+**Note:** If the Discount button does not appear in the keypad, ensure the Loyalty Program setting is turned on.
+
+**Figure 16.** The Discount button in the keypad used to apply discounts on products in the cart.  
+*Figure 16. The Discount button in the keypad which is used to apply discount on products in cart.*
+![Discount Button](./assets/images/screenshots/Figure%2016.jpeg)
+
+6.3 Enter the discount amount using the keypad.  
+**Example:** Enter **10** if you want to apply a **10 percent** discount.  
+6.4 Tap the **%** key to apply the percentage discount. The product price updates automatically.  
+**Tip:** Use the **Global Discount** option if the customer has a coupon that applies to the entire order.
 
 ---
 
 ## Additional Resources
-- [Odoo POS Loyalty and Discounts](https://www.odoo.com/documentation/18.0/applications/sales/point_of_sale/pricing/loyalty.html)  
-- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)  
-- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html )  
-- [Contact Odoo POS Support](https://www.odoo.com/help) 
-
-Find my procedure [here](./assets/docs/Procedure.pdf)
+Refer to [Global Discounts](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale/pricing/discounts.html?highlight=discounts#) for more information on applying order-level discounts in the POS interface.
