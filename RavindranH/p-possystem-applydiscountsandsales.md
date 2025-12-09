@@ -79,3 +79,5 @@ Before you proceed to apply discounts on a product, make sure:
 
 ## Additional Resources
 Refer to [Global Discounts](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale/pricing/discounts.html?highlight=discounts#) for more information on applying order-level discounts in the POS interface.
+
+Please find my procedure [here](./assets/docs/Procedure%20Final.pdf).
