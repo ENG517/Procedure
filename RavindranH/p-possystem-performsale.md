@@ -24,7 +24,7 @@ Before you proceed to perform a sale, make sure:
 
 ### 2.1 Click **Point of Sale** from the Odoo dashboard.
 
-![POS MODULE](./assets/images/Figure 1.jpeg)
+![POS MODULE](./assets/images/screenshots/Figure 1.jpeg)
 
 *Fig 1. Odoo dashboard showing the POS application*
 
