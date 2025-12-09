@@ -164,6 +164,8 @@ Refer to [POS tutorials](https://www.odoo.com/slides/point-of-sale-28)for more i
 - Invoicing  
 - Cash handling in the Odoo POS system
 
+Find my procedure [here](./assets/docs/Procedure%20Final.pdf)
+
 
 
 
