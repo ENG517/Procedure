@@ -1,79 +1,106 @@
-# Generating a Report in Odoo POS System
+## Generating Reports in Odoo POS System
 
-<!-- See feedback in perform sale branch and apply throughout. -->
+This article teaches you how to generate, customize, and export reports in the Odoo POS system.
 
-## What is this for?
-This article explains how to generate a report in the Odoo POS system. By the end of this article, you’ll know how to create reports, customize, and export them to further analyze and gain insights from the statistics.
+## Prerequisites
 
----
+Before you generate a report, make sure:
 
-## Before you Begin
-Ensure you are aware of the following details before generating a report:
-
-### Understand Report Types
-Odoo POS system has the following reports:  
-- **Orders Analysis Report** - Provides detailed information on orders created during a session.  
-- **Sales Details Report** - Summarizes sales transactions.  
-- **Session Report** - Provides detailed information on all activities within a POS session.  
-- **Preparation Time Report** - Provides information on the time taken to prepare each order.  
-
-### Data Availability
-- 📌 **Note:** An active POS session must be available to generate a report.  
-
-### Product Configuration Accuracy
-- Verify if the products are configured with accurate **prices, taxes, and categories**.  
-- If refunds and returns are processed during a session, ensure that the details are captured accurately.  
-
-### User Roles with Access Permissions
-- **POS Manager**  
-- **Business Analyst**  
-- **Supervisor**  
+- You are logged in to the latest version of the Odoo POS application on your Android, iOS, or Windows device.
+- You have the necessary permissions to view and generate reports.
+- A POS session is already open, as Odoo generates reports only for active or completed sessions.
 
 ---
 
-## How to Generate a Report?
+## 1. Start a POS Session
 
-### Step 1: Select Report Type
-- Launch **Odoo**.  
-- Go to **Point of Sale**.  
-  - 📌 **Note:** Reports can be generated only when there is an ongoing session.  
-  - If there is no active session, start one and then proceed.  
-- Click **Reporting**.  
-- Select the appropriate type of report you want to generate from the available options. 
-  <!-- note the updated formatting pattern. Apply throughout your procedures consistently. -->
-  ![reporting](./assets/images/screenshots/reporting.jpeg)
+1.1 Click **New Session** to open your POS session.
 
-    *Fig 4. Select Reporting*
+> **Note:** You can generate reports only when at least one POS session is active or has recorded transactions.
 
-### Step 2: Provide Input to Generate Report
+---
 
-#### **For Sales Details Report**
-- Select the **start and end date** in the calendar.  
-  - 📌 **Note:** The current date is selected by default.  
-- Click **Apply**. A summary of the transactions performed on the selected date appears.  
-- Click **Print**. The report is printed and downloaded as a `.pdf` file.  
+## 2. Select Report Type
 
-#### **For Session Report**
-- Select the **POS session** from the prompt.  
-- Click **Print**. The report is printed and downloaded as a `.pdf` file.  
-  - 📌 **Note:** If no transactions were performed during a session, the *No Data to Display* message appears.
-  <!-- Is this list item a note too? Is it part of the above note? Be sure to maintain consistency to help build familiarity for your audience. -->
-  - Input need not be provided to generate **Order Details** and **Preparation Time** reports.  
+2.1 Click **POS** from the Odoo dashboard.
 
-### Step 3: Customize Reports
-- Click **Measures** to customize the generated report.  
-- Click **Ascending** or **Descending** to group the values in the report.  
+2.2 Click **Reporting** on the POS dashboard.
 
-### Step 4: Export and Visualize Reports
-- Click **Insert in Spreadsheet** to export the report to a worksheet in your system.  
-- Click **Bar Chart**, **Pie Chart**, or **Line Chart** to visualize the report.  
+*Figure 11. Reporting screen displaying the available reports.*
+
+2.3 Review the list of available reports:
+
+- **Orders** – Shows details of every order created during the session.  
+- **Sales Details** – Shows item-wise sales information for the selected date.  
+- **Session Report** – Summarizes all actions performed in an active POS session.  
+- **Preparation Time** – Shows the time taken to prepare each order placed during the active POS session.
+
+2.4 Select the report you want to generate.  
+**Example:** Select **Orders** if you want information about orders created during the session.
+
+---
+
+## 3. Input Values to Generate Each Report
+
+> **Tip:** Each report type can be generated independently.
+
+3.1 Generate **Orders** or **Preparation Time** Report
+
+3.1.1 Select **Orders** or **Preparation Time**.
+
+3.1.2 Click **Print**.
+
+> **Note:** These reports do not require additional input. Odoo automatically uses data from the active session.
+
+---
+
+3.2 Generate **Sales Details** Report
+
+3.2.1 Select the start date and end date using the calendar.
+
+> **Note:** The system automatically selects today’s date by default.
+
+*Figure 12. Calendar screen showing the dates to select for report generation.*
+
+3.2.2 Click **Apply**.  
+A summary of transactions for the selected date appears.
+
+3.2.3 Click **Print** to download the report as a PDF file.  
+**Example:** Select *January 10 to January 10* to view only today’s sales.
+
+---
+
+3.3 Generate **Session Report**
+
+3.3.1 Select the POS session you want to review from the list.  
+**Example:** Select **Session 0125** to view all actions performed during that session.
+
+3.3.2 Click **Print** to download the report as a PDF.
+
+> **Note:** If no sales or activities occurred in the session, the message **No Data to Display** appears.
+
+---
+
+## 4. Customize Reports
+
+4.1 Click **Measures** to adjust the information displayed in your report.  
+**Example:** Select **Total Price** to display the total revenue generated from each product category.
+
+4.2 Click **Ascending** or **Descending** to sort the report data.  
+**Example:** Sort by **Quantity Sold** in descending order to identify best-selling items quickly.
+
+---
+
+## 5. Export and Visualize Reports
+
+ 5.1 Click **Insert in Spreadsheet** to export the report to a worksheet.  
+**Example:** Use this option to perform further analysis in Excel or Google Sheets.
+
+ 5.2 Click **Bar Chart**, **Pie Chart**, or **Line Chart** to visualize your report.  
+**Example:** Select **Pie Chart** to compare product category sales as percentages.
 
 ---
 
 ## Additional Resources
-- [Odoo POS Reporting](https://www.odoo.com/documentation/18.0/applications/sales/point_of_sale/reporting.html)  
-- [Odoo POS Tutorials](https://www.odoo.com/slides/point-of-sale-28)  
-- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)  
-- [Contact Odoo POS Support](https://www.odoo.com/help)  
-<!-- I see the reasoning here, but consider how you name the file and also frame/describe what it is for your audience. -->
-- Find my procedure [here](./assets/docs/Procedure.pdf)
+
+Refer to [Reporting](https://www.odoo.com/documentation/19.0/applications/essentials/reporting.html) for detailed information on analyzing and visualizing the data of your POS records.
