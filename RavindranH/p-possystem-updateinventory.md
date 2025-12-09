@@ -1,78 +1,97 @@
-# Updating Inventory in Odoo POS System
+# Managing Inventory in Odoo POS System
 
-<!-- See feedback in perform a sale & generate report, and apply it throughout here too. -->
+This article explains how to manage inventory in the Odoo POS system.
 
-## What is this for?
-This article explains how to update inventory in the Odoo POS system. Inventory updates help the POS system stay up to date with product quantities on the shelves.  
+## Prerequisites
+Before updating inventory, ensure the following:
 
-By the end of this article, you’ll know how to adjust product stock levels, track stock movements, and ensure inventory accuracy in Odoo POS.
+- You are logged in to the latest version of the Odoo POS application on your Android, iOS, or Windows device.
+- You have permission to view and manage inventory.
+- Your physical inventory matches the products created in Odoo POS.
 
----
+## Product Requirements
 
-## Before You Begin
-Ensure the following steps are completed before updating the inventory:
+- **Create a product in Odoo POS for every item in your physical stock.**  
+  **Warning:** If a product is not created, it cannot be sold at the POS.  
+  **Example:** If you have Bacon Burger in stock but did not register it, it will not appear on the order screen.
 
-### Make Product Available in Odoo
-- For each unit of the product available in the stock, create an equivalent in Odoo POS.  
-- The product must be created with accurate **prices, taxes, categories, and quantities**.  
-- Tick the **Point of Sale** checkbox at the top of the product.  
+- **Enter accurate product details** such as price, tax, category, and quantity.  
+  **Warning:** Incorrect prices or tax settings may cause customer overcharging or accounting errors.  
+  **Example:** Setting a $12 sandwich to $8 or applying 0% tax instead of 7% creates incorrect sales reports.
 
-⚠️ **Warning:** Mismatch between physical product counts and instances of the product in the system may lead to oversold products, unreported stock-outs, and incorrect reporting.  
-
-### User Roles with Access Permissions
-- **Inventory Manager**  
-- **Supervisor**  
-- **POS Manager**  
+- **Select the *Point of Sale* checkbox** when creating products to make them available for sale.  
+  **Warning:** If this box is not selected, the product will remain invisible on the POS order screen.
 
 ---
 
-## How to Update Inventory?
+## 1. Access the Inventory Module
 
-### Step 1: Go to Inventory Module
-- Launch **Odoo**.  
-- Select the **Inventory** module.  
+1.1 Select **Inventory** from the Odoo dashboard to begin managing stock quantities.  
+**Note:** This must be done from the backend, not the POS sales screen.
 
-⚠️ **Warning:** Ensure you are logged into the right store.  
+![Inventory](./assets/images/screenshots/Figure13.jpeg)
+*Figure 13: Odoo dashboard showing the Inventory Module.*
 
-### Step 2: Create Inventory Adjustments
-- Go to **Operations → Physical Inventory → Adjustments → Physical Inventory**.  
+---
 
-![Select Adjustment](./assets/images/Adjustment.jpeg)
+## 2. Create Inventory Adjustment
 
-*Fig 5. Select Adjustments in Inventory Module*  
+2.1 Navigate to **Operations → Physical Inventory → Adjustments → Physical Inventory**.  
+**Note:** If this is your first adjustment, the inventory list may appear empty until quantities are entered.
 
-- The Inventory Adjustments page lists all products that are currently in stock.  
-- Click **New**.  
-- Select a product under the **Product** column.  
-- Set the value of the product in the **Counted Quantity** column.  
-- Click **Apply** on the far right of the page to create an adjustment.  
+![Adjustments](./assets/images/screenshots/Figure%2014.jpeg)
 
-### Step 3: Validate Adjustment
-- Check the **Counted Quantity**, **On Hand Quantity**, and **Difference** amounts.  
+*Figure 14: The Inventory Adjustments option displayed under Operations.*
 
-📌 **Note:**  
-- If the Counted Quantity is greater than the On Hand Quantity, the value in the Difference column is **green**.  
-- If the Counted Quantity is less than the On Hand Quantity, the value in the Difference column is **red**.  
-- If the quantities match and have not been changed, no value appears in the Difference column.  
+---
 
+## 3. Set Product Quantities in Inventory
 
-### Step 4: View Adjustment History
-- Click **History** to view the adjustment history.  
-- The user who performed the count is listed in parentheses in the **Reference** field, while the user who applied the count is listed in **Done By**.  
+3.1 Click **New**.
 
-📌 **Note:** If the POS system is offline, the changes are cached and synced with the server later.  
+3.2 Under **Product**, select the item you want to update.  
+**Note:** If no products appear, create them in the POS product list first.
 
-⚠️ **Warning:** Sync failure may result in count mismatch, resulting in cashiers selling items that are not in stock.  
+3.3 In the **Counted Quantity** field, enter the exact physical stock count.  
+**Example:**  
+- Enter **6** if you have 6 Bacon Burgers.  
+- Enter **24** if you have 24 water bottles.  
+- Enter **0** if an item is out of stock.
+
+**Important:** Counted Quantity must match your actual physical stock.
+
+3.4  Click **Apply** on the far right to save the adjustment.
+
+---
+
+## 4. Review the Adjustment
+
+4.1  Check the **Counted Quantity**, **On-Hand Quantity**, and **Difference** fields:
+
+- **Green:** Counted quantity is higher than on-hand.  
+  *Example:* On-hand 4, counted 6 → **+2** (green).
+
+- **Red:** Counted quantity is lower than on-hand.  
+  *Example:* On-hand 10, counted 7 → **–3** (red).
+
+- **Blank:** Quantities match.  
+  *Example:* On-hand 12, counted 12 → *(no difference)*.
+
+**Note:** This step confirms that the physical count matches the system record, preventing stock errors and discrepancies.
+
+---
+
+## 5. View the Adjustment History
+
+5.1  Click **History** to view previous inventory adjustments.  
+- The user who performed the count appears in parentheses in the **Reference** field.  
+- The user who applied the adjustment appears under **Done By**.
+
+**Note:** Offline POS devices cache inventory adjustments and sync them when reconnected.  
+**Warning:** If syncing fails, stock levels may become inaccurate.  
+**Example:** If you mark an item as 0 units while offline, POS may still show 3 units until sync completes.
 
 ---
 
 ## Additional Resources
-- [Odoo POS Inventory Adjustments](https://www.odoo.com/documentation/18.0/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/count_products.html?highlight=inventory%20adjustments)  
-- [Odoo POS Tutorials](
-https://www.odoo.com/slides/point-of-sale-28
-)  
-- [Odoo POS User Docs](https://www.odoo.com/documentation/19.0/applications/sales/point_of_sale.html)  
-- [Contact Odoo POS Support](https://www.odoo.com/help) 
-
-Find my procedure [here](./assets/docs/Procedure.pdf)
-
+Refer to [Inventory Adjustments](https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/inventory/warehouses_storage/inventory_management/count_products.html?highlight=inventory) for more information on matching warehouse inventory counts and avoiding discrepancies.
