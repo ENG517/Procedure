@@ -1,28 +1,28 @@
 # Managing Inventory in Odoo POS System
 
-This article explains how to manage inventory in the Odoo POS system. 
-Updating product details in the inventory is referred to as making an inventory adjustment in the Odoo POS terminology. 
-Throughout this article you may come across varied terminologies like "registering a product", or "updating a product", or "saving a product", and they all mean that you're adjusting the inventory. 
+This article explains how to update the store inventory in the Odoo POS system. 
+Managing the inventory involves updating it as per the changes in your physical stock. 
+In this article, you will see the term "inventory adjustment" at several places. It simply means adding a product to the inventory, or deleting it, or updating its count so that the physical quantity of the product aligns with the inventory values. 
+
 
 ## Prerequisites
 Before updating inventory, ensure the following:
 
 - You are logged in to the latest version of the Odoo POS application on your Android, iOS, or Windows device.
-- You have permission to view and manage inventory.
-- Your physical inventory matches the products created in Odoo POS.
+- You have permission to view and manage store inventory.
 
-## Product Requirements
+## Important Inventory Requirements
 
-- Create a product in Odoo POS for every item in your physical stock. 
-  **Warning:** If a product is not created, it cannot be sold at the POS system.  
-  **Example:** If you have Bacon Burger in stock but did not register it in the inventory, the item will not appear on the order screen.
+- Every item in your physical stock must be available in the store inventory.
+  **Warning:** If a product is not added to the inventory, it cannot be sold at the POS system even when its physically available.  
+  **Example:** If you have Bacon Burger in stock but did not add it to the inventory, the item will not appear on the order screen.
 
-- Enter accurate product details such as price, tax, category, and quantity.  
+- Enter accurate product details such as price, tax, category, and quantity while adding it to the inventory. 
   **Warning:** Incorrect prices or tax settings may cause customer overcharging or accounting errors.  
   **Example:** Setting a $12 sandwich to $8 or applying 0% tax instead of 7% creates incorrect sales reports.
 
-- Select the *Point of Sale* checkbox when creating products to make them available for sale.  
-  **Warning:** If this box is not selected, the product will remain invisible on the POS order screen.
+- Select the *Point of Sale* checkbox for each product added to the inventory to make it available for sale.  
+  **Warning:** If this box is not selected, the product will remain invisible on the order screen even if its added to the inventory.
 
 ---
 
