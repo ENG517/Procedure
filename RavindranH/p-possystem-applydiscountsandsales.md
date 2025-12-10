@@ -32,6 +32,7 @@ Before you proceed to apply discounts on a product, make sure:
 3.1 Click **Point of Sale** from the Odoo dashboard.  
 3.2 Review the list of stores shown on the screen.  
 > **Note:** Each store works independently, so discounts apply only to the store you select.  
+
 3.3 Select the store where you will make the sale.  
 **Example:** Select **Restaurant** if you are processing orders at the restaurant location.
 
@@ -43,8 +44,10 @@ Before you proceed to apply discounts on a product, make sure:
 **Example:** Select **Foods** to see all food items.  
 4.3 Scroll through the screen to find the item you want.  
 > **Note:** If you cannot find an item, click **Search Products** at the top.  
+
 4.4 Select the product the customer wants.  
 **Example:** Bacon Burger
+
 4.5 Click **Add**. The item appears in the cart.
 
 ---
@@ -52,9 +55,10 @@ Before you proceed to apply discounts on a product, make sure:
 ## 5. Add a Customer
 5.1 Click **Customer** in the keypad area.  
 > **Note:** Adding a customer is required before applying discounts. This ensures that only customers with loyalty benefits receive discounts.  
-5.2 Click **Create** to add a new customer if needed.  
-**Example:** If a returning customer changed their phone number or email address, update it here.  
+
+5.2 Click **Create** to add a new customer if needed. **Example:** If a returning customer changed their phone number or email address, update it here.  
 **Note:** You can update or delete customer information from this screen.  
+
 5.3 Enter the customer's details.  
 5.4 Click **Save**. The customer’s name now appears in the cart.
 
@@ -63,6 +67,7 @@ Before you proceed to apply discounts on a product, make sure:
 ## 6. Apply a Discount to a Product
 6.1 Select the item in the cart that needs a discount.  
 > **Note:** Make sure you select the correct item before applying the discount.  
+
 6.2 Click the **Discount** button on the keypad.  
 **Note:** If the **Discount** button does not appear in the keypad, ensure the Loyalty Program setting is turned on.
 
