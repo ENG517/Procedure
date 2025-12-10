@@ -15,7 +15,7 @@ Before you proceed to perform a sale, make sure:
 
 1.1 Click **New Session** to activate your POS session.
 
-> **Note:** You can log in from different user accounts, but you can open only one session per browser.
+> **Note:** You can log in to the same session from different user accounts, but you can open only one session per browser.
 
 ---
 ## 2. Choose Your Store
@@ -44,7 +44,7 @@ Before you proceed to perform a sale, make sure:
 
 *Figure 3. The Open Register option displayed in the selected store*
 
-3.2 Once inside the store, click the Money icon in the Opening Control window.
+3.2 Once inside the store, click the **Money** icon in the **Opening Control** window.
 
 3.3 Enter the number of notes and coins you have. **Example:** Enter **10** under **$200** for ten 200-dollar notes and **10** under **$1** for ten 1-dollar coins.
 
@@ -64,20 +64,16 @@ Before you proceed to perform a sale, make sure:
 
 > **Note:** *Dine-In* is selected by default. Tap **Dine-In** to switch to *Takeaway* if the customer prefers.
 
-4.2 Select a product category to view its items.
-
-**Example:** Select **Foods** to view all food items.
+4.2 Select a product category to view the items associated with it. **Example:** Select **Foods** to view all food items.
 
 ![Order](./assets/images/screenshots/Figure%205.jpeg)
 *Figure 5. The order screen displaying product categories and products*
 
-4.3 Scroll through the order screen to select the item you want.
+4.3 Scroll through the order screen to select the item ordered by the customer.
 
 > **Note:** If you do not see the item on the screen, click **Search Products** at the top.
 
-4.4 Select the item the customer wants to order.
-
-**Example:** Bacon Burger.  
+4.4 Click on the item to select it.**Example:** Bacon Burger.  
 If sides or add-ons are available, a pop-up appears.
 
 ![Addon](./assets/images/screenshots/Figure%206.jpeg)
@@ -85,7 +81,7 @@ If sides or add-ons are available, a pop-up appears.
 
 4.5 Select the sides or add-ons. **Example:** Fries.
 
-4.6 Click **Add**.  
+4.6 Click **Add**. The item is added to the cart. 
 
 ![Cart](./assets/images/screenshots/Figure7.jpeg)
 *Figure 7. The Bacon Burger with Fries appears in the cart
