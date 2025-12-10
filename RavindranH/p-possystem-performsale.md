@@ -73,7 +73,7 @@ Before you proceed to perform a sale, make sure:
 
 > **Note:** If you do not see the item on the screen, click **Search Products** at the top.
 
-4.4 Click on the item to select it.**Example:** Bacon Burger.  
+4.4 Click on the item to select it. **Example:** Bacon Burger.  
 If sides or add-ons are available, a pop-up appears.
 
 ![Addon](./assets/images/screenshots/Figure%206.jpeg)
