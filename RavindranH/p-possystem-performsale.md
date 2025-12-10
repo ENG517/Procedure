@@ -1,7 +1,7 @@
 # Performing a Sale in Odoo POS System
 This article teaches you how to perform a sale and process payments in the Odoo POS system.
 
-##Prerequisites
+## Prerequisites
 
 Before you proceed to perform a sale, make sure:
 
@@ -70,6 +70,7 @@ Before you proceed to perform a sale, make sure:
 
 ![Order](./assets/images/screenshots/Figure%205.jpeg)
 *Figure 5. The order screen displaying product categories and products*
+
 4.3 Scroll through the order screen to select the item you want.
 
 > **Note:** If you do not see the item on the screen, click **Search Products** at the top.
@@ -111,13 +112,12 @@ Optional Steps:
 > **Tip:** You can update or delete existing customer details if needed.
 
 ![Customer](./assets/images/screenshots/Figure8.jpeg)
+
 *Figure 8. The pop-up where customer information can be added*
 
 5.3 Enter the customer details.
 
-5.4 Click **Save**.  
-The customer’s name appears in the cart.  
-**Example:** Brandon Freeman.
+5.4 Click **Save**. The customer’s name appears in the cart. **Example:** Brandon Freeman.
 ---
 ## 6. Complete the Payment
 
@@ -140,8 +140,7 @@ If the total is **$21** and the customer pays **$10** in cash and **$11** by car
 - Enter **10** under **Cash** — the remaining balance appears.
 - Select **Card** and enter **11**.
 
-6.4 Click **Validate**.  
-The system confirms the payment and displays the invoice.
+6.4 Click **Validate**. The system confirms the payment and displays the invoice.
 
 ![Successful](./assets/images/screenshots/Figure10.jpeg)
 *Figure 10.Payment successful alert after completing the payment*
@@ -158,7 +157,7 @@ The system confirms the payment and displays the invoice.
 ---
 ## Additional Resources
 
-Refer to [POS tutorials](https://www.odoo.com/slides/point-of-sale-28)for more information on:
+Refer to [POS tutorials](https://www.odoo.com/slides/point-of-sale-28) for more information on:
 
 - Product creation  
 - Invoicing  
