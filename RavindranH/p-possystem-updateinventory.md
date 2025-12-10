@@ -1,6 +1,6 @@
 # Managing Inventory in Odoo POS System
 
-This article explains how to add a product to the store inventory and manage its counts. 
+This article teaches you how to add a product to the store inventory and manage its counts. 
 
 Managing the inventory involves updating it as per the changes in your physical stock. This article focuses on adding a product to the inventory and adjusting its counts to reflect the physical stock quantities in the store. 
 
