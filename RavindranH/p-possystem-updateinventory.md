@@ -14,14 +14,17 @@ Before updating inventory, ensure the following:
 ## Important Inventory Requirements
 
 - Every item in your physical stock must be available in the store inventory.
+
   **Warning:** If a product is not added to the inventory, it cannot be sold at the POS system even when its physically available.  
   **Example:** If you have Bacon Burger in stock but did not add it to the inventory, the item will not appear on the order screen.
 
 - Enter accurate product details such as price, tax, category, and quantity while adding it to the inventory. 
+
   **Warning:** Incorrect prices or tax settings may cause customer overcharging or accounting errors.  
   **Example:** Setting a $12 sandwich to $8 or applying 0% tax instead of 7% creates incorrect sales reports.
 
-- Select the *Point of Sale* checkbox for each product added to the inventory to make it available for sale.  
+- Select the *Point of Sale* checkbox for each product added to the inventory to make it available for sale. 
+ 
   **Warning:** If this box is not selected, the product will remain invisible on the order screen even if its added to the inventory.
 
 ---
@@ -50,7 +53,7 @@ Before updating inventory, ensure the following:
 
 3.1 Click **New**.
 
-3.2 Under **Product**, select the item you want to register in the inventory.  
+3.2 Under **Product**, select the item you want to add to the inventory.  
 **Note:** If no products appear, create them in the POS system first.
 Refer to [Products Creation](https://www.odoo.com/documentation/19.0/applications/websites/ecommerce/products.html) for detailed information on how to create products in the Odoo POS system. 
 
