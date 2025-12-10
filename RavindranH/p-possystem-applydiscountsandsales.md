@@ -1,6 +1,6 @@
 # Applying Discount on Products in Odoo POS System
 
-This guide teaches you how to apply discounts and offers on products in the Odoo POS system.
+This article teaches you how to apply discounts and offers on products in the Odoo POS system.
 
 ## Prerequisites
 Before you proceed to apply discounts on a product, make sure:
@@ -44,7 +44,7 @@ Before you proceed to apply discounts on a product, make sure:
 4.3 Scroll through the screen to find the item you want.  
 **Note:** If you cannot find an item, click **Search Products** at the top.  
 4.4 Select the product the customer wants.  
-**Example:** Tap **Bacon Burger**.  
+**Example:** Bacon Burger
 4.5 Click **Add**. The item appears in the cart.
 
 ---
