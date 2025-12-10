@@ -118,6 +118,7 @@ Optional Steps:
 5.3 Enter the customer details.
 
 5.4 Click **Save**. The customer’s name appears in the cart. **Example:** Brandon Freeman.
+
 ---
 ## 6. Complete the Payment
 
@@ -137,7 +138,7 @@ Optional Steps:
 **Example:**  
 If the total is **$21** and the customer pays **$10** in cash and **$11** by card:
 
-- Enter **10** under **Cash** — the remaining balance appears.
+- Enter **10** under **Cash** - the remaining balance appears.
 - Select **Card** and enter **11**.
 
 6.4 Click **Validate**. The system confirms the payment and displays the invoice.
