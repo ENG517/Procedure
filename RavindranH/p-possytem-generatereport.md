@@ -31,13 +31,13 @@ Before you generate a report, make sure:
 
 2.3 Review the list of available reports:
 
-- **Orders** – Shows details of every order created during the session.  
+- **Orders** – Shows details of every order created during an active POS session.  
 - **Sales Details** – Shows item-wise sales information for the selected date.  
-- **Session Report** – Summarizes all actions performed in an active POS session.  
-- **Preparation Time** – Shows the time taken to prepare each order placed during the active POS session.
+- **Session Report** – Summarizes all actions performed during an active POS session.  
+- **Preparation Time** – Shows the time taken to prepare each order placed during an active POS session.
 
 2.4 Select the report you want to generate.  
-**Example:** Select **Orders** if you want information about orders created during the session.
+**Example:** Select **Orders** if you want information about orders created during a session.
 
 ---
 
@@ -51,7 +51,7 @@ Before you generate a report, make sure:
 
 3.1.2 Click **Print**.
 
-> **Note:** These reports do not require additional input. Odoo automatically uses data from the active session.
+> **Note:** These reports do not require additional input. Odoo automatically uses data from the active session to generate them.
 
 ---
 
