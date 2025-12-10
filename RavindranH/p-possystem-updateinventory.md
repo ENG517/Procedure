@@ -1,8 +1,10 @@
 # Managing Inventory in Odoo POS System
 
-This article explains how to update the store inventory in the Odoo POS system. 
-Managing the inventory involves updating it as per the changes in your physical stock. 
-In this article, you will see the term "inventory adjustment" at several places. It simply means adding a product to the inventory, or deleting it, or updating its count so that the physical quantity of the product aligns with the inventory values. 
+This article explains how to add a product to the store inventory and manage its counts. 
+
+Managing the inventory involves updating it as per the changes in your physical stock. This article focuses on adding a product to the inventory and adjusting its counts to reflect the physical stock quantities in the store. 
+
+Throughout this article, you will see the term "inventory adjustment" at several places. It simply means adding a product to the inventory, or deleting it, or updating its count so that the physical quantity of the product aligns with the values entered in the inventory. 
 
 
 ## Prerequisites
@@ -24,7 +26,7 @@ Before updating inventory, ensure the following:
   **Example:** Setting a $12 sandwich to $8 or applying 0% tax instead of 7% creates incorrect sales reports.
 
 - Select the *Point of Sale* checkbox for each product added to the inventory to make it available for sale. 
- 
+
   **Warning:** If this box is not selected, the product will remain invisible on the order screen even if its added to the inventory.
 
 ---
