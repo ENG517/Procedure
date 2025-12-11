@@ -2,6 +2,8 @@
 
 <!-- Don't forget to include your staging work, such as a short goal statement. -->
 
+The goal of this procedure is to help sellers confidently and strategically negotiate offers on eBay by providing clear steps for evaluating buyer proposals, responding with effective counteroffers, and maintaining professional communication. By following this guidance, sellers will be able to protect their desired profit margin, strengthen buyer relationships, and increase the likelihood of successful, mutually beneficial sales.
+
 ![Ebay negotiation messages](./assets/images/screenshots/eBay-messaging.png)
 
 ## To Prepare Before Receiving Offers
