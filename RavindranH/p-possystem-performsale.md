@@ -140,7 +140,7 @@ If the total is **$21** and the customer pays **$10** in cash and **$11** by car
 6.4 Click **Validate**. The system confirms the payment and displays the invoice.
 
 ![Successful](./assets/images/screenshots/Figure10.jpeg)
-*Figure 10.Payment successful alert after completing the payment*
+*Figure 10. Payment successful alert after completing the payment*
 
 ---
 ## 7. Print or Send the Receipt
