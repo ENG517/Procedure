@@ -23,7 +23,7 @@ Before you proceed to apply discounts on a product, make sure:
 > **Note:** Discounts can only be applied if this setting is enabled.
 
 ![Loyalty Program](./assets/images/screenshots/Figure15.jpeg)
-*Figure 15. The Loyalty Program setting selected to apply discounts* 
+*Figure 1. The Loyalty Program setting selected to apply discounts* 
 
 
 ---
@@ -72,7 +72,7 @@ Before you proceed to apply discounts on a product, make sure:
 > **Note:** If the **Discount** button does not appear in the keypad, ensure the Loyalty Program setting is turned on.
 
 **Figure 16.** The Discount button in the keypad used to apply discounts on products in the cart.  
-*Figure 16. The Discount button in the keypad which is used to apply discount on products in cart.*
+*Figure 2. The Discount button in the keypad which is used to apply discount on products in cart.*
 ![Discount Button](./assets/images/screenshots/Figure%2016.jpeg)
 
 6.3 Enter the discount amount using the keypad.  
