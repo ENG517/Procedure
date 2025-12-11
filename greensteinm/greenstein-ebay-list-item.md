@@ -2,11 +2,14 @@
 
 <!-- Staging should include some introductary material that stages the overall goal. -->
 
-## To Prepare Before Listing
+This procedure guides new sellers through the major phases of preparing, creating, and publishing an eBay listing. The goal is to help users complete the technical tasks of listing an item while making informed decisions about pricing, format, item quality, and listing visibility.
+
+## Phase 1: Prerequesites
 <!-- Perhaps just "Prerequisites" -->
 
 <!-- **1. Create an eBay account**  -->
-- Registered user with an eBay account. If you already have an eBay account, proceed to the next step. If you don't already have an account, follow the steps below.
+<!-- > Registered user with an eBay account. -->
+- If you already have an eBay account, proceed to Phase 2. If you don't already have an account, follow the steps below.
 
   1. Go to [ebay.com](https://www.ebay.com).
   <!-- Here's a nice design pattern for steps with images. Consider how to apply throughout your procedures. -->
@@ -50,27 +53,55 @@ Before you start listing your item, use the above information to decide whether 
 [Enter your procedure, based on a running example.]
 
 -->
-**2.** Once you have created your account, **research your item.**
-   - Search current eBay listings for:
-     - average listed and sold prices,
-     - how other sellers title and describe the item, and
-     - which item categories they use.
-       - Use the search filters to sort by sold items to see "completed" (sold) listings. ![Ebay search filters](./assets/images/screenshots/ebay-filters.png)
-   - Decide whether to list your item for a **fixed price** (Buy It Now) or put it up for **auction**. 
-   - ***It's best to start selling with a few lower-value items to build positive feedback before listing high-ticket items.***
+## Phase 2: Research and Preparation
 
-**3. Gather item specifications and details.**
-   - Item specifications can include brand, model, size, color, condition, serial number, and important features. 
-     - For clothing and shoes, include measurements, tags, and fabric type.
-     - For electronic devices, test their functionality and reset if needed before listing.
+Before creating your listing, you must understand your item’s value and how it fits into existing listings.
 
-**4. Take high quality photos.**
-   - Use natural lighting and a clean background
-   - Capture multiple angles of the item (front, back, sides, close-ups of flaws). 
-     - If the listing includes multiple items (i.e., a set of salt and pepper shakers), photograph the items together *and* separately.
-   - Include original packaging if available.
-   - eBay allows up to 24 free photos per listing.
-![Ebay image recommendations 1](./assets/images/screenshots/ebay-images-1.png)
+### 2. Research your item
+
+#### 2.1 Search current and completed listings
+
+1. Enter your item (e.g., *Nike Air Max 270 women’s 8*) in the eBay search bar.  
+2. Review active listings to understand:  
+   - Average listed prices  
+   - Title patterns and keywords  
+   - Item categories  
+3. Use the search filters to view only **sold** listings—this shows actual market value.
+
+   ![Ebay search filters](./assets/images/screenshots/ebay-filters.png)
+
+**Tip:** Start by selling a few lower-value items to build feedback before listing high-ticket items.
+
+#### 2.2 Decide how you will list the item
+
+Using your research, choose between:
+
+- **Buy It Now (Fixed Price):**  
+  Ideal when you know your item’s value or want predictable pricing.
+
+- **Auction:**  
+  Good for rare or highly desirable items where bidding competition can increase price.
+
+### 3. Gather item specifications
+
+Collect all relevant details before listing. Concrete details improve search visibility and buyer trust.
+
+- Brand, model, size, color, condition, features  
+- Clothing: include measurements, tags, fabric  
+- Electronics: test functionality and reset devices as needed  
+
+---
+
+### 4. Take high-quality photos
+
+1. Use natural light and a clean background.  
+2. Capture multiple angles (front, back, sides, close-ups).  
+3. Photograph any flaws clearly.  
+4. If listing a set, photograph items together *and* individually.  
+5. Include original packaging when possible.  
+6. eBay allows up to 24 free photos.
+
+![Ebay image recommendations 1](./assets/images/screenshots/ebay-images-1.png)  
 ![Ebay image recommendations 2](./assets/images/screenshots/ebay-images-2.png)
 
 ## Creating the Listing
