@@ -111,71 +111,96 @@ Collect all relevant details before listing. Concrete details improve search vis
   - Many of your substeps below should use numbered/ordered list items.
   - Clearly and consistently mark notes, tips, warnings, etc.
 -->
-**1. Log into eBay.**
-   - Click ***sell*** in the top right corner. ![Sell link on ebay.com](./assets/images/screenshots/ebay-sell-button.png)
+## Phase 3: Creating the Listing
 
-**2. Choose a selling format.**
-   - Enter your item name in the search bar. eBay may suggest categories and listing templates.
-   - Confirm the best category (e.g., Electronics > Cell Phones > Smartphones).
+### 1. Log into eBay**
 
-**3. Write the listing title.**
-   - Be descriptive but concise. Include brand, model, and size. If there is room, feel free to include some of the item's defining features.
-   - Example: *Apple iPhone 13 Pro Max – 256GB – Graphite (Unlocked)*
+- Click **Sell** in the top right corner.
 
-**4. Select item specifics.**
-   - Fill in eBay’s fields (brand, size, color, material, style, UPC, etc.).
-   - Accurate details help buyers find your item in search. ![Item specification fields](./assets/images/screenshots/ebay-item-specs.png)
+  ![Sell link on ebay.com](./assets/images/screenshots/ebay-sell-button.png)
 
-**5. Write the item description.**
-   - Include condition (new, gently used, refurbished, etc.).
-   - Highlight key features and benefits.
-   - Disclose flaws honestly to avoid returns.
-   - Optional: Use bullet points for readability.
+### 2. Choose a selling format
 
-**6. Upload photos.**
-   - Ensure they are clear, high-quality, and distinctly show any imperfections.
-   - Make sure the first photo acts as a cover, and clearly shows the full object.
+1. Enter your item name—eBay will suggest possible categories.  
+2. Confirm the correct category (e.g., *Electronics → Cell Phones → Smartphones*).
 
-**7. Set the price.**
-   - **Auction format:** Choose starting bid, duration (1–10 days), and optional reserve price.
-   - **Buy It Now:** Set a fixed price based on research.
-     - Consider offering “Best Offer” so buyers can negotiate.
+### 3. Write the listing title
 
-**8. Set shipping options.**
-   - Choose shipping service (USPS, UPS, FedEx, etc.).
-   - Decide if you’ll offer free shipping or buyer-pays.
-   - Use eBay’s shipping calculator to estimate costs.
-   - Pack and weigh your item before listing for accuracy.
+- Use concise, descriptive keywords.  
+- Include brand, model, size/color, and defining features.  
+- **Example:** *Apple iPhone 13 Pro Max – 256GB – Graphite (Unlocked)*
 
-**9. Choose payment method.**
-   - eBay uses *Managed Payments*, so funds go directly to your linked bank account.
+### 4. Select item specifics
 
-**10. Review fees.**
-   - eBay takes a small percentage of the item's sale value and a processing fee.
-   - If you exceed your free monthly listings, there may be additional fees.
+Fill out all item-specific fields (brand, size, UPC, material, etc.).  
+Accurate specifics improve search discoverability.
 
-**11. Click *List item* to publish your listing.**
+![Item specification fields](./assets/images/screenshots/ebay-item-specs.png)
+
+### 5. Write the item description
+
+- State the item’s condition clearly.  
+- Highlight key features.  
+- Disclose any flaws honestly.  
+- Use bullet points or short paragraphs for readability.
+
+### 6. Upload your photos
+
+- Ensure clarity, consistent lighting, and visibility of imperfections.  
+- Make the first photo a clear, centered hero image.
+
+### 7. Set the price
+
+- **Auction format:** Choose starting bid, duration (1–10 days), reserve price if applicable.  
+- **Buy It Now:** Use research-based pricing.  
+  - **Tip:** Enable “Best Offer” if you’re open to negotiation.
+
+### 8. Configure shipping
+
+- Select a shipping service (USPS, UPS, FedEx).  
+- Choose free shipping or buyer-paid shipping.  
+- Use eBay’s calculator to estimate costs.  
+- Weigh and measure your packaged item for accuracy.
+
+### 9. Choose payment method
+
+- eBay’s Managed Payments deposits funds directly into your bank account.
+
+### 10. Review fees
+
+- eBay charges a final value fee and small processing fee.  
+- Additional fees may apply beyond free monthly listings.
+
+### 11. Publish your listing
+
+Click **List Item**.
+
 ![List item button](./assets/images/screenshots/ebay-list-button.png)
 
-### Your listing is now live on eBay.
+---
 
-## To Manage After Listing
+## Phase 4: Managing Your Listing
 
-**1. Monitor your listing.**
-   - Answer buyer questions promptly.
-   - Adjust pricing if needed (you can revise listings).
+### 1. Monitor activity
 
-**2. Once sold:**
-   - Package the item securely with padding.
-   - Ship within the handling time you specified.
-   - Upload tracking info to eBay.
+- Respond to buyer questions quickly.  
+- Adjust pricing or details if needed.
 
-**3. Communicate with the buyer** and send a short note once the item has been shipped.
+### 2. When the item sells
 
-**4. Leave feedback.**
-   - Buyers and sellers leave ratings and comments for each other.
-   - Positive feedback builds your credibility as a seller.
+1. Package the item securely.  
+2. Ship within your stated handling time.  
+3. Upload tracking information.
 
-**5. Handle returns (if necessary).**
-   - If you offer returns, follow eBay’s return process.
-   - If the item is not as described, you may need to accept a return regardless.
+### 3. Communicate with the buyer
+
+- Send a brief confirmation message when the item ships.
+
+### 4. Leave feedback
+
+- Positive feedback builds seller credibility and improves future sales.
+
+### 5. Handle returns (if necessary)
+
+- Follow eBay’s return workflows.  
+- If the item was inaccurately described, you may be required to accept a return.
