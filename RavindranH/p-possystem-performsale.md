@@ -84,7 +84,7 @@ If sides or add-ons are available, a pop-up appears.
 4.6 Click **Add**. The item is added to the cart. 
 
 ![Cart](./assets/images/screenshots/Figure7.jpeg)
-*Figure 7. The Bacon Burger with Fries appears in the cart
+*Figure 7. The Bacon Burger with Fries appears in the cart*
 
 Optional Steps:
 
