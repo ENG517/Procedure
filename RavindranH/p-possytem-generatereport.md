@@ -27,8 +27,8 @@ Before you generate a report, make sure:
 2.2 Click **Reporting** on the POS dashboard.
 
 ![Reports](./assets/images/screenshots/Figure11.jpeg)
-*Figure 11. Reporting screen displaying the available reports.*
-
+*Figure 1. Reporting screen displaying the available reports.*
+ 
 2.3 Review the list of available reports:
 
 - **Orders** – Shows details of every order created during an active POS session.  
@@ -62,7 +62,7 @@ Before you generate a report, make sure:
 > **Note:** The system automatically selects today’s date by default.
 
 ![Calendar](./assets/images/screenshots/Figure%2012%20final.jpeg)
-*Figure 12. Calendar screen showing the dates to select for report generation.*
+*Figure 2. Calendar screen showing the dates to select for report generation.*
 
 3.2.2 Click **Apply**.  
 A summary of transactions for the selected date appears.
