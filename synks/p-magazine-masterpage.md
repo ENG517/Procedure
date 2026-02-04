@@ -6,8 +6,12 @@
 ## Introduction
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <!-- You've provdied some helpful conceptual information to help folks understand the basics of what they will create. Yet, be sure to include and begin with the overall learning goal of the procedure. -->
 Parent pages (sometimes referred to as "master pages") in InDesign help you maintain consistency in your magazine layout by providing guides for the the placement of images and text. A parent page is essentially a template which you can re-use for each page in the magazine, allowing you to create images and columns of text that appear in consistent locations. If you want to use a different layout for different articles in the magazine, you can create a new parent page that corresponds to each new section.
+=======
+Parent pages (sometimes referred to as "master pages") in InDesign help you maintain consistency in your magazine layout by providing guides for the placement of images and text. A parent page is essentially a template which you can re-use for each page in the magazine, allowing you to create images and columns of text that appear in consistent locations. If you want to use a different layout for different articles in the magazine, you can create a new parent page that corresponds to each new section.
+>>>>>>> Stashed changes
 =======
 Parent pages (sometimes referred to as "master pages") in InDesign help you maintain consistency in your magazine layout by providing guides for the placement of images and text. A parent page is essentially a template which you can re-use for each page in the magazine, allowing you to create images and columns of text that appear in consistent locations. If you want to use a different layout for different articles in the magazine, you can create a new parent page that corresponds to each new section.
 >>>>>>> Stashed changes
