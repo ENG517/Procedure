@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating-parent-pages">
+  <title>Creating Parent Pages</title>
+
+  <shortdesc>
+    Learn how to create style templates for your InDesign project using parent pages.
+  </shortdesc>
+
+  <taskbody>
+
+    <prereq>
+      <p>Before creating a parent page, complete the following:</p>
+      <ul>
+        <li>Assemble the text, images, and other content needed for your project.</li>
+        <li>Create a new InDesign document.</li>
+        <li>Configure the document settings for your desired page size and number of pages.</li>
+      </ul>
+    </prereq>
+
+    <section>
+      <title>Create a New Parent Page</title>
+      <steps>
+        <step>
+          <cmd>Open the <uicontrol>Pages</uicontrol> panel from the menu bar: <menucascade>
+              <uicontrol>Window</uicontrol>
+              <uicontrol>Pages</uicontrol>
+            </menucascade>.</cmd>
+        </step>
+
+        <step>
+          <cmd>In the upper-right corner of the panel, click the panel menu icon with 4 horizontal lines.</cmd>
+        </step>
+
+        <step>
+          <cmd>Select <uicontrol>New Parent…</uicontrol> from the menu.</cmd>
+        </step>
+
+        <step>
+          <cmd>In the <uicontrol>New Parent</uicontrol> dialog box, enter a prefix letter. Use <b>A</b> for the first parent page, <b>B</b> for the second, and so on.</cmd>
+        </step>
+
+        <step>
+          <cmd>Enter a name for the parent page.</cmd>
+        </step>
+
+        <step>
+          <cmd>After verifying the page size and orientation, click <uicontrol>OK</uicontrol>.</cmd>
+        </step>
+      </steps>
+
+      <note>
+        <p>When the parent page is created successfully, it appears in the <uicontrol>Pages</uicontrol> panel with the specified prefix and name.</p>
+      </note>
+    </section>
+
+    <section>
+      <title>Add Column Guides</title>
+
+      <steps>
+        <step>
+          <cmd>In the <uicontrol>Pages</uicontrol> panel, double-click the parent page thumbnail to open it in your workspace.</cmd>
+        </step>
+
+        <step>
+          <cmd>Open the <uicontrol>Margins and Columns</uicontrol> dialog box: <menucascade>
+              <uicontrol>Layout</uicontrol>
+              <uicontrol>Margins and Columns</uicontrol>
+            </menucascade>.</cmd>
+        </step>
+
+        <step>
+          <cmd>Set the desired margins and number of columns.</cmd>
+        </step>
+
+        <step>
+          <cmd>Set the spacing between columns (the gutter width).</cmd>
+        </step>
+         <note> Margins should be at least 0.5 inches on all sides.</note>
+        <step>
+          <cmd>Select <uicontrol>Preview</uicontrol> to view the column guides as you adjust the settings.</cmd>
+        </step>
+
+        <step>
+          <cmd>After verifying the layout, click <uicontrol>OK</uicontrol>.</cmd>
+        </step>
+      </steps>
+      <tip "type"=note>
+        <p>Use a gutter width of approximately:
+        <ul>
+          <li>0.25 inches for 2–3 columns</li>
+          <li>0.20 inches for 4 columns</li>
+        </ul>
+        For additional columns, continue decreasing the gutter width.</p>
+      </tip>
+
+      <result>
+        <p>Purple column guides appear on the parent page. Use these guides to place text frames, image frames, and background elements.</p>
+        <p>For more information, see <xref href="adding-text-frames.dita"/> and <xref href="adding-image-frames.dita"/>.</p>
+      </result>
+    </section>
+
+    <section>
+      <title>Apply the Parent Page</title>
+
+      <steps>
+        <step>
+          <cmd>In the <uicontrol>Pages</uicontrol> panel, select the parent page thumbnail.</cmd>
+        </step>
+
+        <step>
+          <cmd>Drag the parent page thumbnail onto a document page thumbnail.</cmd>
+        </step>
+
+        <step>
+          <cmd>Release the mouse button when a black rectangle appears around the document page thumbnail.</cmd>
+        </step>
+
+        <step>
+          <cmd>Repeat steps 2 and 3 to apply the parent page to the remaining pages in the section.</cmd>
+        </step>
+      </steps>
+    </section>
+
+    <section>
+      <title>Next Steps</title>
+      <p>You can now place text and images consistently throughout the document. To apply different layouts to specific sections, create additional parent pages and apply them to the appropriate pages.</p>
+    </section>
+
+  </taskbody>
+</task>
